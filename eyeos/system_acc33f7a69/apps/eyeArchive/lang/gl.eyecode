@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['Archive Manager'] = 'Xestor de arquivos';
+$language['Compress to...'] = 'Comprimir a...';
+$language['Compress'] = 'Comprimir';
+$language['Compressed successfully'] = 'Compresión satisfactoria';
+$language['Compression failed'] = 'Compresión fallida';
+$language['Extract to...'] = 'Extraer a...';
+$language['Extract'] = 'Extraer';
+$language['File extracted successfully.'] = 'Arquivo extraído satisfactoriamente';
+$language['File extraction failed'] = 'Extracción de arquivo fallida';
+$language['Filename'] = 'Nome de arquivo';
+$language['No file open'] = 'Ningún arquivo aberto';
+$language['The compress type is not supported'] = 'O tipo de conversión non é soportado';
+?>

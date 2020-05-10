@@ -1,0 +1,12 @@
+<?php
+global $language;
+$language['Ask for help'] = 'Minta Pertolongan';
+$language['Changes successfully applied.'] = 'Perubahan Berhasil';
+$language['eyeHelp preferences'] = 'Seting eyeHelp';
+$language['Preferences'] = 'Seting';
+$language['Submit'] = 'Kirim';
+$language['The field must not be left empty.'] = 'Kolom Tidak Boleh Kosong';
+$language['Topics'] = 'Topik';
+$language['User to contact to ask for help:'] = 'Kontak Akun Untuk Pertolongan';
+$language['You are not allowed to do this.'] = 'Anda Tidak diperbolehkan Melakukan Ini.';
+?>

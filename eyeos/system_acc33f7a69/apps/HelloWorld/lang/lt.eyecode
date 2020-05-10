@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Change Label Text'] = 'Pakeisti Žymės Tekstą';
+$language['Example eyeApp'] = 'eyeApp Pavyzdys';
+$language['Hello World!'] = 'Labas, Pasauli!';
+?>

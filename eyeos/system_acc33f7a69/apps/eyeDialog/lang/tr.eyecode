@@ -1,0 +1,8 @@
+<?php
+global $language;
+$language['Name'] = 'İsim';
+$language['Select a file to open'] = 'Açmak için bir dosya seçin';
+$language['Select a folder'] = 'Klasör seç';
+$language['Select'] = 'Seç';
+$language['Size'] = 'Boyut';
+?>

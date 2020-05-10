@@ -1,0 +1,8 @@
+<?php
+global $language;
+$language['Download "%s" as zip'] = 'نزِّل "%s" في صيغة zip';
+$language['Download!'] = 'نزِّل';
+$language['Links cannot be downloaded!'] = 'يتعذّّر تنزيل الروابط';
+$language['The server does not support zip files.'] = 'الخادوم لا يدعم ملفات zip!';
+$language['You can close this window now.'] = 'يمكن صرف هذه النافذة الآن';
+?>

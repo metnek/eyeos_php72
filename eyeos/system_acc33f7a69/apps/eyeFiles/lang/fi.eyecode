@@ -1,0 +1,14 @@
+<?php
+global $language;
+$language['Actions'] = 'Toiminnot';
+$language['Copy'] = 'Kopioi';
+$language['Delete'] = 'Poista';
+$language['Download as zip'] = 'Lataa zip muodossa';
+$language['Download'] = 'Lataa';
+$language['New file'] = 'Uusi tiedosto';
+$language['New folder'] = 'Uusi kansio';
+$language['Paste'] = 'Liitä';
+$language['Properties'] = 'Ominaisuudet';
+$language['Rename'] = 'Nimeä uudelleen';
+$language['Upload files'] = 'Lisää tiedostoja';
+?>

@@ -1,0 +1,8 @@
+<?php
+global $language;
+$language['Name'] = 'Pavadinimas';
+$language['Select a file to open'] = 'Pasirinkite rinkmeną atidarymui';
+$language['Select a folder'] = 'Pasirinkite aplanką';
+$language['Select'] = 'Pasirinkti';
+$language['Size'] = 'Dydis';
+?>

@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['Add Calendar'] = 'Adaugă calendar';
+$language['At least, one calendar is required!'] = 'Cel puşin, de un calendar este nevoie!';
+$language['Calendar added succesfully'] = 'Calendar adăutgat cu succes';
+$language['Calendar'] = 'Calendar';
+$language['Calendars'] = 'Calendare';
+$language['Configuration saved correctly'] = 'Configuraţie salvată cu succes';
+$language['Configure calendar'] = 'Configurare calendar';
+$language['Day'] = 'Zi';
+$language['Invalid checkbox value'] = 'Valoare invalida a checkbox-ului';
+$language['Next'] = 'Următorul';
+$language['Please specify the calendar name:'] = 'Specificaţi numele calendarului';
+$language['Previous'] = 'Înapoi';
+$language['Show'] = 'Arată';
+$language['Text for this event:'] = 'Text pentru acest eveniment';
+$language['Today'] = 'Astăzi';
+$language['Two calendars cannot share the same ID!'] = 'Două calendare nu pot împărţi aceeaşi identiate!';
+$language['Two calendars cannot share the same name!'] = 'Două calendare nu pot împarţi acelaşi nume!';
+$language['Week'] = 'Săptămână';
+$language['Window mode'] = 'Modul fereastră';
+$language['Work'] = 'Prelucrează';
+?>

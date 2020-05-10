@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Accept'] = 'Erstellen';
+$language['Cancel'] = 'Abbrechen';
+$language['Create folder'] = 'Neuer Ordner';
+$language['Error creating directory!'] = 'Fehler beim Erstellen des Ordners.';
+$language['Some special chars have been removed.'] = 'Besondere Zeichen wurden entfernt.';
+$language['Type the name of the new folder'] = 'Bitte geben Sie den Namen des neuen Ordners an:';
+?>

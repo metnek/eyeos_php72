@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Delete %s'] = '%s -г устгах';
+$language['Do you really want to empty the trash?'] = 'Та хогийн саваа үнэхээр хоосолмоор байна уу?';
+$language['Do you really want to remove "%s"?'] = 'Та "%s" - г үнэхээр устгах уу ?';
+$language['Empty trash'] = 'Хоослох';
+?>

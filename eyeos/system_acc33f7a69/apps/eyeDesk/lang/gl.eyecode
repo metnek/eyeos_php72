@@ -1,0 +1,17 @@
+<?php
+global $language;
+$language['Applications'] = 'Aplicacións';
+$language['Calendar'] = 'Calendario';
+$language['Copy'] = 'Copiar';
+$language['Download'] = 'Descargar';
+$language['Home'] = 'Inicio';
+$language['Paste'] = 'Pegar';
+$language['Preferences'] = 'Preferencias';
+$language['Properties'] = 'Propiedades';
+$language['Refresh'] = 'Refrescar';
+$language['Rename'] = 'Renomear';
+$language['RSS Feed Reader'] = 'Lector do suministro RSS';
+$language['Trash'] = 'Papeleira';
+$language['Upload files'] = 'Subir arquivos';
+$language['Welcome to %s, %s.'] = 'Benvido/a a %s, %s.';
+?>

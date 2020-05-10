@@ -1,0 +1,25 @@
+<?php
+global $language;
+$language['Add input to output'] = 'Přidat vstup na výstup';
+$language['Add new line to end'] = 'Vložit řádek na konec';
+$language['Ascii to Hexa'] = 'Ascii na Hexa';
+$language['Auto clear input'] = 'Automaticky smazat vstup';
+$language['Base64 Decode'] = 'Base64 Rozkódovat';
+$language['Base64 Encode'] = 'Base64 Zakódovat';
+$language['Clear'] = 'Vyčistit';
+$language['Concatenate Output'] = 'Zřetězit výstup';
+$language['Decimal to Roman'] = 'Desítková na Římska';
+$language['eyeOS hash'] = 'eyeOS hash';
+$language['Hexa to Ascii'] = 'Hexa na Ascii';
+$language['Html Entities'] = 'Html entity';
+$language['Input Text'] = 'Vstup';
+$language['Last execution time: %s'] = 'Čas poslední operace: %s';
+$language['md5 Hash'] = 'md5 Hash';
+$language['Options'] = 'Možnosti';
+$language['Output Text'] = 'Výstup';
+$language['Remove Html Entities'] = 'Odstranit Html entity';
+$language['Roman to Decimal'] = 'Římska na Desítková';
+$language['Start'] = 'Start';
+$language['URL Decode'] = 'Rozkódovat URL';
+$language['URL Encode'] = 'Zakódovat URL';
+?>

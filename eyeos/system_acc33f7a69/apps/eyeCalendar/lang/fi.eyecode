@@ -1,0 +1,19 @@
+<?php
+global $language;
+$language['Add Calendar'] = 'Lisää Kalenteri';
+$language['At least, one calendar is required!'] = 'Vähintään yksi kalenteri vaaditaan!';
+$language['Calendar added succesfully'] = 'Kalenteri lisätty onnistuneesti';
+$language['Calendars management'] = 'Kalenterien hallinta';
+$language['Calendars'] = 'Kalenterit';
+$language['Day'] = 'Päivä';
+$language['Invalid checkbox value'] = 'Viallinen valintalaatikon arvo';
+$language['Invalid Num %s'] = 'Virheellinen Num %s';
+$language['Next'] = 'Seuraava';
+$language['Please type a name for the calendar'] = 'Anna nimi kalenterille';
+$language['Previous'] = 'Edellinen';
+$language['Show'] = 'Näytä';
+$language['Today'] = 'Tämä päivä';
+$language['Week'] = 'Viikko';
+$language['Window mode'] = 'Ikkuna tila';
+$language['Work'] = 'Työ';
+?>

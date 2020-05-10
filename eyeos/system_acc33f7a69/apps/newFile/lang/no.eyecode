@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Accept'] = 'Godkjenn';
+$language['Cancel'] = 'Avbryt';
+$language['Create a file'] = 'Opprett fil';
+$language['Error creating file!'] = 'Feil ved filoppretting!';
+$language['Please type the name of the new file here:'] = 'Angi filnavn:';
+$language['Some special chars have been removed.'] = 'Noen spesialtegn er fjernet.';
+?>

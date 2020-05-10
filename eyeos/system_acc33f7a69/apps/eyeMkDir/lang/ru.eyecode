@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Accept'] = 'Принять';
+$language['Cancel'] = 'Отменить';
+$language['Create folder'] = 'Создать папку';
+$language['Error creating directory!'] = 'Не удалось создать папку!';
+$language['Some special chars have been removed.'] = 'Были удалены некоторые специальные символы';
+$language['Type the name of the new folder'] = 'Введите назание новой папки';
+?>

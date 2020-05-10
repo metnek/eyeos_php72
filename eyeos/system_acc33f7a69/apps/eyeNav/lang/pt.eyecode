@@ -1,0 +1,35 @@
+<?php
+global $language;
+$language['Accept'] = 'Aceitar';
+$language['Add bookmark'] = 'Adicionar Favorito';
+$language['Back'] = 'Para trás';
+$language['Bookmark does not exist!'] = 'Esse marcador não existe!';
+$language['Bookmark title'] = 'Título do marcador';
+$language['Bookmarks'] = 'Marcadores';
+$language['Cancel'] = 'Cancelar';
+$language['Delete bookmark'] = 'Apagar marcador';
+$language['Do you really want to delete this bookmark?'] = 'Tem a certeza que pretende apagar o marcador?';
+$language['Forums'] = 'Forums';
+$language['Forward'] = 'Para a frente';
+$language['Full Screen'] = 'Ecrã inteiro';
+$language['Images'] = 'Imagens';
+$language['Internet'] = 'Internet';
+$language['Knowledge'] = 'Conhecimento';
+$language['Link successfully deleted.'] = 'Ligação apagada com sucesso';
+$language['Link successfully saved.'] = 'Ligação guardada com sucesso';
+$language['Navigator'] = 'Navegador';
+$language['No'] = 'Não';
+$language['Open bookmarks'] = 'Abrir marcadores';
+$language['Open searches'] = 'Abrir pesquisas';
+$language['Refresh'] = 'Actualizar';
+$language['Search'] = 'Pesquisar';
+$language['Settings'] = 'Definições';
+$language['Startpage'] = 'Página inicial';
+$language['The selected file is not a valid eyeNav bookmarks file!'] = 'O ficheiro selecionado não é um ficheiro válido de marcadores do eyeNav!';
+$language['The selected file is not a valid eyeNav search file!'] = 'O ficheiro selecionado não é um ficheiro válido de pesquisa do eyeNav!';
+$language['There is already another bookmark with this title!'] = 'Já á um marcador com esse título';
+$language['Uncategorized'] = 'Sem categoria';
+$language['Website'] = 'Website';
+$language['Wiki'] = 'Wiki';
+$language['Yes'] = 'Sim';
+?>

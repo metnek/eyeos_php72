@@ -1,0 +1,36 @@
+<?php
+global $language;
+$language['[Unknown string]'] = '[neznano]';
+$language['Always remember my last configuration'] = 'Vedno si zapomni moje zadnje nastavitve';
+$language['Board size :'] = 'Velikost deske:';
+$language['Cancel'] = 'Prekliči';
+$language['Close'] = 'Zapri';
+$language['Configuration'] = 'Nastavitve';
+$language['Date'] = 'Datum';
+$language['Do you want to start a new game?'] = 'Želite začeti novo igro?';
+$language['Finished!'] = 'Končano!';
+$language['Fullscreen'] = 'Celi zaslon';
+$language['Highscores'] = 'Najboljši rezultati';
+$language['Level / board size (%s-%s):'] = 'Stopnja / velikost deske (%s-%s):';
+$language['Maximum value on edges:'] = 'Maksimalna vrednost na robovih:';
+$language['Maximum'] = 'Maksimum';
+$language['Maybe you should try a higher level...'] = 'Mogoče bi poskusili višjo stopnjo...';
+$language['Moves'] = 'Premakni';
+$language['Network problem'] = 'Napaka omrežja';
+$language['New game'] = 'Nova igra';
+$language['No'] = 'Ne';
+$language['Number of moves:'] = 'Število premikov:';
+$language['Rank'] = 'Rang';
+$language['Save'] = 'Shrani';
+$language['Tetravex Game'] = 'Tetravex';
+$language['These options won\'t be applied until you start a new game.'] = 'Te opcije bodo uporabljene v novi igri.';
+$language['Time'] = 'Čas';
+$language['Tip used! Ranking disabled...'] = 'Namig uporabljen! Stopnje onemogočene...';
+$language['Unable to connect to the host server.'] = 'Povezava na strežnik ni mogoča.';
+$language['Use colored numbers on tiles'] = 'Uporabite barvne številke na ploščicah.';
+$language['Use shared highscores on server (all users)'] = 'Uporabi skupne rezultate na strežniku (vsi uporabniki)';
+$language['User'] = 'Uporabnik';
+$language['Yes'] = 'Da';
+$language['Your rank:'] = 'Vaš rang:';
+$language['Your time:'] = 'Vaš čas:';
+?>

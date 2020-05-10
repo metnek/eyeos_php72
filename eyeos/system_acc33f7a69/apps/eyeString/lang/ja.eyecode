@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['Add input to output'] = '出力に入力も含める';
+$language['Add new line to end'] = '末尾に改行を付ける';
+$language['Ascii to Hexa'] = 'ASCIIから16進表現へ';
+$language['Auto clear input'] = '入力の自動クリア';
+$language['Base64 Decode'] = 'Base64デコード';
+$language['Base64 Encode'] = 'Base64エンコード';
+$language['Clear'] = 'クリア';
+$language['Concatenate Output'] = '出力の結合';
+$language['Decimal to Roman'] = '10進表現からローマ数字へ';
+$language['eyeOS hash'] = 'eyeOSハッシュ';
+$language['Hexa to Ascii'] = '16進表現からASCIIへ';
+$language['Html Entities'] = 'HTMLエンティティ';
+$language['Input Text'] = '入力テキスト';
+$language['Last execution time: %s'] = '実行時間: %s';
+$language['md5 Hash'] = 'MD5ハッシュ';
+$language['Output Text'] = '出力テキスト';
+$language['Remove Html Entities'] = 'HTMLエンティティの除去';
+$language['Roman to Decimal'] = 'ローマ数字から10進表現へ';
+$language['URL Decode'] = 'URLデコード';
+$language['URL Encode'] = 'URLエンコード';
+?>

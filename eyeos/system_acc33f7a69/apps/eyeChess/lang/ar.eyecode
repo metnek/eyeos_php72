@@ -1,0 +1,14 @@
+<?php
+global $language;
+$language['Bishop'] = 'فيل';
+$language['Chess Game'] = 'لعبة شطرنج';
+$language['Computer level:'] = 'مستوى الحاسوب:';
+$language['Knight'] = 'حصان';
+$language['Middling'] = 'تبديل';
+$language['Movements'] = 'النقلات';
+$language['Next pawn becomes:'] = 'ترقية الجندي التالي:';
+$language['Queen'] = 'وزير';
+$language['Rook'] = 'طابية';
+$language['Slow'] = 'بطئ';
+$language['Undo'] = 'تراجع';
+?>

@@ -1,0 +1,24 @@
+<?php
+global $language;
+$language['Attach'] = 'Załącz';
+$language['Date'] = 'Data';
+$language['Download'] = 'Pobierz';
+$language['Empty'] = 'Pusty';
+$language['File saved successfully.'] = 'Plik zapisany pomyślnie.';
+$language['From'] = 'Od';
+$language['Inbox'] = 'Skrzynka';
+$language['Internal Messaging'] = 'Wiadomości wewnętrzne';
+$language['Message restored in its original folder'] = 'Wiadomość przeniesiona do poprzedniego folderu.';
+$language['Read Message'] = 'Czytaj wiadomość';
+$language['Read'] = 'Czytaj';
+$language['Refresh'] = 'Odśwież';
+$language['Reply'] = 'Odpowiedz';
+$language['Restore'] = 'Przywróć';
+$language['Sent'] = 'Wysłano';
+$language['Subject'] = 'Temat';
+$language['To'] = 'Do';
+$language['Trash'] = 'Kosz';
+$language['Unread'] = 'Nieprzeczytane';
+$language['You must choose a message to delete'] = 'Musisz wybrać wiadomość do skasowania.';
+$language['You must choose a message to open'] = 'Musisz wybrać wiadomość do otwarcia.';
+?>

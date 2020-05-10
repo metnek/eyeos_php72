@@ -1,0 +1,21 @@
+<?php
+global $language;
+$language['All files'] = 'Alle filer';
+$language['Cancel'] = 'Avbryt';
+$language['Delete warning'] = 'Slettevarsel';
+$language['Do you want to save changes?'] = 'Vil du lagre endringene?';
+$language['Document saved successfully.'] = 'Dokumentet er lagret.';
+$language['Don\'t save'] = 'Ikke lagre';
+$language['Error - Document not saved. Please try again.'] = 'Feil! Dokumentet ble ikke lagret. Forsøk igjen.';
+$language['Error creating file.'] = 'Feil ved oppretting av fil.';
+$language['Error saving file.'] = 'Feil ved lagring av fil.';
+$language['eyeOS document file'] = 'eyeOS dokument fil';
+$language['File not found.'] = 'Finner ikke filen.';
+$language['MS Word document file'] = 'MS Word fil';
+$language['Open Document Text file'] = 'Open Document Text fil';
+$language['Save'] = 'Lagre';
+$language['Sorry, you do not have sufficient permissions!'] = 'Du har ikke rettigheter til dette!';
+$language['Sorry, you need to enable OpenOffice Support to view this document.'] = 'Du må aktivere støtte for OpenOffice for å vise dette dokumentet.';
+$language['The file does not exist.'] = 'Filen eksisterer ikke.';
+$language['Word Processor'] = 'Tekstbehandling';
+?>

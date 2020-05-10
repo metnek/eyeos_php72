@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Please wait...'] = 'Lütfen bekleyin..';
+$language['Welcome to %s'] = '%s\'e hoşgeldiniz';
+?>

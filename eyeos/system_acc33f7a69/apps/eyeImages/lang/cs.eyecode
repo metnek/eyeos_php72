@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Next'] = 'Další';
+$language['No image could be found.'] = 'Žádný obrázek nenalezen.';
+$language['Previous'] = 'Předchozí';
+$language['View Images'] = 'Náhled';
+?>

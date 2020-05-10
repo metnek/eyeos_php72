@@ -1,0 +1,13 @@
+<?php
+global $language;
+$language['Add file'] = 'Legg til fil';
+$language['Attach'] = 'Legg ved';
+$language['Close'] = 'Lukk';
+$language['Error sending message'] = 'Feil ved sending av melding';
+$language['Message sent'] = 'Meldingen er sendt';
+$language['New Message'] = 'Ny melding';
+$language['Send'] = 'Send';
+$language['Subject'] = 'Emne';
+$language['To groups'] = 'Til grupper';
+$language['To'] = 'Til';
+?>

@@ -1,0 +1,10 @@
+<?php
+global $language;
+$language['"%s" could not be restored!'] = '"%s" kunne ikke gjenopprettes!';
+$language['"%s" has been restored to your home folder!'] = '"%s" er gjenopprettet til din hjemmemappe!';
+$language['Accept'] = 'Godkjenn';
+$language['Cancel'] = 'Avbryt';
+$language['Do you really want to restore "%s"?'] = 'Ønsker du virkelig å gjenopprette "%s"?';
+$language['Restore %s'] = 'Gjenopprett %s';
+$language['You cannot restore "%s" to a real folder!'] = 'Du kan ikke gjenopprette "%s" til en virkelig mappe!';
+?>

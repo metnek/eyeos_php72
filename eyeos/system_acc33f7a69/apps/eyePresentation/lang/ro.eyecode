@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Back'] = 'Înapoi';
+$language['Next'] = 'Înainte';
+$language['Sorry, you do not have sufficient permissions.'] = 'Scuze, nu ai suficient acess';
+?>

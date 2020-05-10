@@ -1,0 +1,25 @@
+<?php
+global $language;
+$language['Add input to output'] = '添加输入到输入';
+$language['Add new line to end'] = '在最后添加新行';
+$language['Ascii to Hexa'] = 'Ascii转换到Hexa';
+$language['Auto clear input'] = '自动清除输入';
+$language['Base64 Decode'] = 'Base64解码';
+$language['Base64 Encode'] = 'Base64编码';
+$language['Clear'] = '清除';
+$language['Concatenate Output'] = '连结输出';
+$language['Decimal to Roman'] = '十进制数转换罗马数字';
+$language['eyeOS hash'] = 'eyeOS校验';
+$language['Hexa to Ascii'] = 'Hexa转换Ascii';
+$language['Html Entities'] = 'HTML实体';
+$language['Input Text'] = '输入文本';
+$language['Last execution time: %s'] = '最后执行时间:%s';
+$language['md5 Hash'] = 'md5校验';
+$language['Options'] = '选项';
+$language['Output Text'] = '输出文本';
+$language['Remove Html Entities'] = '移除HTML实体';
+$language['Roman to Decimal'] = '罗马数字转换十进制';
+$language['Start'] = '开始';
+$language['URL Decode'] = 'URL解码';
+$language['URL Encode'] = 'URL编码';
+?>

@@ -1,0 +1,34 @@
+<?php
+global $language;
+$language['(do) Read'] = 'Beri';
+$language['Accept'] = 'Potrdi';
+$language['Are you sure you want to empty all messages of this folder?'] = 'Ste prepričani da želite odstraniti vsa sporočila iz te mape?';
+$language['Attach'] = 'Priloži';
+$language['Cancel'] = 'Prekliči';
+$language['Confirm empty'] = 'Potrdi prazno';
+$language['Date'] = 'Datum';
+$language['Delete'] = 'Izbriši';
+$language['Download'] = 'Prenesi';
+$language['Emptied'] = 'Izpraznjeno';
+$language['Empty'] = 'Prazno';
+$language['Error opening message'] = 'Napaka pri odpiranju';
+$language['File saved successfully.'] = 'Datoteka uspešno shranjena.';
+$language['From'] = 'Od';
+$language['Full Screen'] = 'Celi zaslon';
+$language['Inbox'] = 'Prejeto';
+$language['Internal Messaging'] = 'Notranje sporočanje';
+$language['Message restored in its original folder'] = 'Sporočilo obnovljeno v prvotno mapo';
+$language['New'] = 'Novo';
+$language['Read Message'] = 'Beri sporočilo';
+$language['Read'] = 'Beri';
+$language['Refresh'] = 'Osveži';
+$language['Reply'] = 'Odgovori';
+$language['Restore'] = 'Obnovi';
+$language['Sent'] = 'Poslano';
+$language['Subject'] = 'Zadeva';
+$language['To'] = 'Za';
+$language['Trash'] = 'Koš';
+$language['Unread'] = 'Neprebrano';
+$language['You must choose a message to delete'] = 'Izbrati morate sporočilo za brisanje';
+$language['You must choose a message to open'] = 'Izbrati morate sporočilo za odpiranje';
+?>

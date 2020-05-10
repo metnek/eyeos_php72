@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['Adv.'] = 'Adv.';
+$language['C'] = 'C';
+$language['Calculator'] = 'Calculatrice';
+$language['CE'] = 'CE';
+$language['Del'] = 'Suppr.';
+$language['Delete'] = 'Supprimer';
+$language['Division by zero is invalid!'] = 'Division par zéro impossible !';
+$language['Exponentiation of zero by a negative number or zero is invalid!'] = 'Exponentielle de zéro par un nombre négatif ou égal à zéro impossible !';
+$language['Factorial of a negative number is invalid!'] = 'Factorielle d\'un nombre négatif impossible !';
+$language['Logarithm of a negative number or zero is invalid!'] = 'Logarithme d\'un nombre négatif ou égal à zéro impossible !';
+$language['Simple'] = 'Simple';
+$language['Square root of a negative number is invalid!'] = 'Racine carrée d\'un nombre négatif impossible !';
+?>

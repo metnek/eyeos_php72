@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['File saved successfully.'] = 'Filen sparades.';
+$language['Sorry, you do not have sufficient permissions.'] = 'Tyvärr har du inte tillräckliga rättigheter.';
+$language['Unable to create file'] = 'Kan inte skapa fil';
+?>

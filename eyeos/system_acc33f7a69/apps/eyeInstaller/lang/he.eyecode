@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Accept'] = 'קבל';
+$language['Do you really want to install this package into the system?'] = 'האם אתה בטוח שברצונך להתקין חבילה זו למערכת?';
+$language['Installing'] = 'מתקין';
+$language['Nothing to install!'] = 'אין מה להתקין!';
+$language['Only root can install packages'] = 'רק מנהל יכול להתקין חבילות';
+$language['Package installed successfully!'] = 'החבילה הותקנה בהצלחה';
+?>

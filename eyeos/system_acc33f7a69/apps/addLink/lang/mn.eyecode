@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Cancel'] = 'Цуцлах';
+$language['Create a link'] = 'Холбоос үүсгэх';
+$language['Create'] = 'Үүсгэх';
+$language['Please type the title of the link here:'] = 'Энд холбоосын гарчгийг оруул:';
+?>

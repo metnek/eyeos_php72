@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Change Label Text'] = 'Changer le texte du libellé';
+$language['Example eyeApp'] = 'Exemple d\'application oneye';
+$language['Hello World!'] = 'Salut tout le monde !';
+?>

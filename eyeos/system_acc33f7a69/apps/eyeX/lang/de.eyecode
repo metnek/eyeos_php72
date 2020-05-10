@@ -1,0 +1,8 @@
+<?php
+global $language;
+$language['Please wait...'] = 'Bitte warten...';
+$language['Unable to save position!'] = 'Position konnte nicht gespeichert werden!';
+$language['Welcome to %s'] = 'Willkommen bei %s';
+$language['You need to activate Cookies in order to get oneye working. Please visit %s for more information.'] = 'Bitte aktivieren Sie Cookies in Ihrem Browser. Mehr Informationen: %s';
+$language['You need to activate JavaScript in order to get oneye working. Please visit %s for more information.'] = 'Bitte aktivieren Sie JavaScript in Ihrem Browser. Mehr Informationen: %s';
+?>

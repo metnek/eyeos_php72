@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Document saved successfully.'] = 'Documentos gardados correctamente.';
+$language['Sorry, you do not have sufficient permissions!'] = '¡Sintoo, pero non tes suficientes permisos!';
+$language['Word Processor'] = 'Procesador Word';
+?>

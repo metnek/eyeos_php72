@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Back'] = 'Zpět';
+$language['Next'] = 'Další';
+$language['Presentations'] = 'Prezentace';
+$language['Sorry, you do not have sufficient permissions.'] = 'Promiň, ale nemáš dostatečná oprávnění.';
+$language['You are already on the first slide, you cannot go back anymore!'] = 'Už jsi na začátku, nemůžeš jít dozadu!';
+$language['You need to select a file to open!'] = 'Vyber soubor který chceš otevřít!';
+?>

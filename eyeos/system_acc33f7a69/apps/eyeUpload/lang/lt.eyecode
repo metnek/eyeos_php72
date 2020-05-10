@@ -1,0 +1,13 @@
+<?php
+global $language;
+$language['Add files to transfer, then press Upload now!'] = 'Pridėkite rinkmenas persiuntimui, tada spauskite Išsiųsti dabar!';
+$language['Add files'] = 'Pridėti rinkmenas';
+$language['Advanced'] = 'Daugiau';
+$language['Error uploading file!'] = 'Klaida išsiunčiant rinkmeną!';
+$language['File uploaded successfully.'] = 'Rinkmena išsiųsta sėkmingai.';
+$language['Remove'] = 'Panaikinti';
+$language['Simple'] = 'Paprastas';
+$language['Transfering: '] = 'Persiunčiama:';
+$language['Upload files'] = 'Išsiųsti rinkmenas';
+$language['Upload now!'] = 'Išsiųsti dabar!';
+?>

@@ -1,0 +1,22 @@
+<?php
+global $language;
+$language['All files'] = 'كل الملفات';
+$language['Archive files'] = 'ملفات الأرشيفات';
+$language['Archive Manager'] = 'مدير الأرشفة';
+$language['BZip files'] = 'ملفات Bzip';
+$language['Compress to...'] = 'اضغط إلى...';
+$language['Compress'] = 'اضغط';
+$language['Compressed successfully'] = 'تم الضغط بنجاح';
+$language['Compression failed'] = 'فشل الضغط';
+$language['Extract to...'] = 'استخرج إلى...';
+$language['Extract'] = 'استخرج';
+$language['File extracted successfully.'] = 'تم الاستخراج بنجاح';
+$language['File extraction failed'] = 'فشل الاستخراج';
+$language['Filename'] = 'اسم الملف';
+$language['GZip files'] = 'ملفات gzip';
+$language['No file open'] = 'لا ملفات مفتوحة';
+$language['Open a folder or file'] = 'افتح ملفا أو دليلا';
+$language['Open'] = 'افتح';
+$language['Tar files'] = 'ملفات tar';
+$language['The compress type is not supported'] = 'نوع الضغط غير مدعوم';
+?>

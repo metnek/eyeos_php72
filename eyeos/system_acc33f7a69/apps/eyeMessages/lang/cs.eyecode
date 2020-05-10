@@ -1,0 +1,28 @@
+<?php
+global $language;
+$language['Are you sure you want to empty all messages of this folder?'] = 'Jsi si jistý, že chceš vymazat všechny zprávy z této složky?';
+$language['Attach'] = 'Přiložit';
+$language['Confirm empty'] = 'Potvrdit smazání';
+$language['Date'] = 'Datum';
+$language['Download'] = 'Stáhnout';
+$language['Emptied'] = 'Vyprázdněno';
+$language['Empty'] = 'Vyprázdnit';
+$language['Error opening message'] = 'Chyba při otvírání zprávy';
+$language['File saved successfully.'] = 'Soubor byl úspěšně uložen.';
+$language['From'] = 'Od';
+$language['Inbox'] = 'Přijaté';
+$language['Internal Messaging'] = 'Interní Zprávy';
+$language['Message restored in its original folder'] = 'Zpráva obnovena do původní složky';
+$language['Read Message'] = 'Přečíst zprávu';
+$language['Read'] = 'Číst';
+$language['Refresh'] = 'Obnovit';
+$language['Reply'] = 'Odpovědět';
+$language['Restore'] = 'Obnovit';
+$language['Sent'] = 'Odeslané';
+$language['Subject'] = 'Předmět';
+$language['To'] = 'Pro';
+$language['Trash'] = 'Koš';
+$language['Unread'] = 'Nepřečtené';
+$language['You must choose a message to delete'] = 'Musíš vybrat zprávu pro smazání';
+$language['You must choose a message to open'] = 'Musíš vybrat zprávu pro otevření';
+?>

@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['Archive Manager'] = 'Archive Manager';
+$language['Compress to...'] = 'Zabalit do...';
+$language['Compress'] = 'Zabalit';
+$language['Compressed successfully'] = 'Komprese byla úspěšně dokončena';
+$language['Compression failed'] = 'Chyba při kompresi';
+$language['Extract to...'] = 'Rozbalit do...';
+$language['Extract'] = 'Rozbalit';
+$language['File extracted successfully.'] = 'Soubor byl úspěšně rozbalen.';
+$language['File extraction failed'] = 'Chyba při rozbalování';
+$language['Filename'] = 'Název souboru';
+$language['No file open'] = 'Není otevřený žádný soubor';
+$language['The compress type is not supported'] = 'Typ komprese není podporován';
+?>

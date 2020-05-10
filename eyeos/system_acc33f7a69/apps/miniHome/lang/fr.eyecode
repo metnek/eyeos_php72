@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['miniHome is already running!'] = 'miniHome est déjà lancé!';
+$language['My Quota'] = 'Espace restant';
+?>

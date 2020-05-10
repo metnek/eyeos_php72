@@ -1,0 +1,22 @@
+<?php
+global $language;
+$language['( Default )'] = '( Defecte )';
+$language['Create account'] = 'Crea compta';
+$language['Enter'] = 'Entra';
+$language['Error creating new user!'] = 'Error en crear el nou usuari!';
+$language['Language (this session)'] = 'Idioma (aquesta sessió)';
+$language['Language'] = 'Idioma';
+$language['New User'] = 'Nou usuari';
+$language['Password fields do not match!'] = 'Els camps de contrasenya no coincideixen!';
+$language['Password is too short!'] = 'La contrasenya és massa curta!';
+$language['Password'] = 'Contrasenya';
+$language['Please fill out all fields!'] = 'Si us plau, omple tots els camps!';
+$language['Retype password'] = 'Reescriu la contrasenya';
+$language['That user already exists!'] = 'Aquest usuari ja existeix!';
+$language['The language does not exist!'] = 'L\'idioma no existeix!';
+$language['This system does not allow user registrations!'] = 'Aquest sistema no permet el registre d\'usuaris!';
+$language['Username is too short!'] = 'El nom d\'usuari és massa curt!';
+$language['Username should be alpha-numeric!'] = 'El nom d\'usuari ha de ser alfanumèric!';
+$language['Username'] = 'Usuari';
+$language['Your account has been disabled!'] = 'La teva compta ha estat deshabilitada!';
+?>

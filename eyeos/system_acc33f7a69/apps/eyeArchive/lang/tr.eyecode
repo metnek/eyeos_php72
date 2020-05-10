@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['Archive Manager'] = 'Sıkıştırma Yöneticisi';
+$language['Compress to...'] = '...\'e Sıkıştır';
+$language['Compress'] = 'Sıkıştır';
+$language['Compressed successfully'] = 'Sıkıştırma Başarılı';
+$language['Compression failed'] = 'Sıkıştırma Başarısız';
+$language['Extract to...'] = '...\'e Çıkart';
+$language['Extract'] = 'Çıkart';
+$language['File extracted successfully.'] = 'Dosya Başarıyla Çıkartıldı';
+$language['File extraction failed'] = 'Dosya Çıkartılırken Bir Hata Oldu';
+$language['Filename'] = 'Dosyaismi';
+$language['No file open'] = 'Dosya açılamadı';
+$language['The compress type is not supported'] = 'Sıkıştırma biçimi desteklenmiyor';
+?>

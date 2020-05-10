@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['Bishop'] = 'Läufer';
+$language['Chess Game'] = 'Schach';
+$language['Computer level:'] = 'Gegner-Stärke:';
+$language['Easy'] = 'Einfach';
+$language['Knight'] = 'König';
+$language['Middling'] = 'Mittel';
+$language['Movements'] = 'Bewegungen';
+$language['Next pawn becomes:'] = 'Bauern werden zu:';
+$language['Queen'] = 'Königin';
+$language['Rook'] = 'Turm';
+$language['Slow'] = 'Schwer';
+$language['Undo'] = 'Zurück';
+?>

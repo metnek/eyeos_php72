@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Accept'] = 'Aceitar';
+$language['Cancel'] = 'Cancelar';
+$language['Create folder'] = 'Criar pasta';
+$language['Error creating directory!'] = 'Erro criando pasta!';
+$language['Some special chars have been removed.'] = 'Alguns caracteres especiais foram removidos';
+$language['Type the name of the new folder'] = 'Digite o nome da nova pasta';
+?>

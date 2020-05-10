@@ -1,0 +1,10 @@
+<?php
+global $language;
+$language['"%s" could not be restored!'] = '"%s" ni bilo mogoče obnoviti!';
+$language['"%s" has been restored to your home folder!'] = 'Datoteka "%s" je bila obnovljena v vašo domačo mapo!';
+$language['Accept'] = 'Potrdi';
+$language['Cancel'] = 'Prekliči';
+$language['Do you really want to restore "%s"?'] = 'Ali želite obnoviti "%s"?';
+$language['Restore %s'] = 'Obnovi %s';
+$language['You cannot restore "%s" to a real folder!'] = '"%s" ni mogoče obnoviti v dejansko mapo!';
+?>

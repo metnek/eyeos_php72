@@ -1,0 +1,12 @@
+<?php
+global $language;
+$language['Add file'] = 'Állomány hozzáadása';
+$language['Attach'] = 'Csatolás';
+$language['Close'] = 'Bezár';
+$language['Error sending message'] = 'Nem sikerült elküldeni az üzenetet.';
+$language['Message sent'] = 'Üzenet elküldve';
+$language['New Message'] = 'Új üzenet';
+$language['Send'] = 'Küldés';
+$language['Subject'] = 'Tárgy';
+$language['To'] = 'Címzett';
+?>

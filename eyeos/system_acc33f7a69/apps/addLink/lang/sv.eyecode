@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Cancel'] = 'Avbryt';
+$language['Create a link'] = 'Skapa länk';
+$language['Create'] = 'Skapa';
+$language['Please type the title of the link here:'] = 'Skriv titeln för länken här:';
+?>

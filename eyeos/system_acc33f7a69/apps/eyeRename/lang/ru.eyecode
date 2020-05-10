@@ -1,0 +1,8 @@
+<?php
+global $language;
+$language['Cancel'] = 'Отменить';
+$language['Error moving folder!'] = 'Ошибка при перемещении директории!';
+$language['Rename %s'] = 'Переименовать %s';
+$language['Rename'] = 'Переименовать';
+$language['That file already exists!'] = 'Этот файл уже существует!';
+?>

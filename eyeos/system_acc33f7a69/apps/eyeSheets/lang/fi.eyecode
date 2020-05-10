@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Sorry, you do not have sufficient permissions.'] = 'Valitan, sinulla ei ole riittäviä oikeuksia.';
+$language['Spreadsheet saved successfully.'] = 'Taulukkolaskenta tallennettu onnistuneesti.';
+?>

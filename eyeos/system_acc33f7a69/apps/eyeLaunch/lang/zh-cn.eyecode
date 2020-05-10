@@ -1,0 +1,13 @@
+<?php
+global $language;
+$language['%s not found'] = '%s未找到';
+$language['Error, empty username or password'] = '错误,用户名或密码为空';
+$language['Error, invalid username or password'] = '错误,无效用户名或密码';
+$language['Invalid username'] = '无效的用户名';
+$language['Password'] = '密码';
+$language['Run as different user'] = '以不同用户运行';
+$language['Run...'] = '运行...';
+$language['Run'] = '运行';
+$language['Type the name of the app or command to run'] = '输入应用程序名或命令运行';
+$language['User'] = '用户';
+?>

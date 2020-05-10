@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['%s files imported!'] = '%s állomány lett importálva.';
+$language['Browse'] = 'Böngészés';
+$language['Import'] = 'Importálás';
+$language['You have to select a directory to import files'] = 'Ki kell választania a könyvtárat, amibe importálni szeretne.';
+?>

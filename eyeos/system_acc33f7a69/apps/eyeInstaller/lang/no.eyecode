@@ -1,0 +1,10 @@
+<?php
+global $language;
+$language['Accept'] = 'Godkjenn';
+$language['Cancel'] = 'Avbryt';
+$language['Do you really want to install this package into the system?'] = 'Ønsker du virkelig å installere denne pakken i systemet?';
+$language['Installing'] = 'Installerer';
+$language['Nothing to install!'] = 'Ikke noe å installere!';
+$language['Only root can install packages'] = 'Bare rotbrukeren kan installere programmer';
+$language['Package installed successfully!'] = 'Pakken er installert!';
+?>

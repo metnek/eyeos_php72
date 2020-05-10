@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Accept'] = 'Згадіцца';
+$language['Cancel'] = 'Адмена';
+$language['Delete %s'] = 'Выдаліць %s';
+$language['Do you really want to empty the trash?'] = 'Ачысціць сметнік?';
+$language['Do you really want to remove "%s"?'] = 'Выдаліць %s?';
+$language['Empty trash'] = 'Ачысціць сметнік';
+?>

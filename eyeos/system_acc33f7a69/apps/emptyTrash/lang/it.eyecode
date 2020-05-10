@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Delete %s'] = 'Cancella %s';
+$language['Do you really want to empty the trash?'] = 'Sei proprio sicuro di vole vuotare il cestino ?';
+$language['Do you really want to remove "%s"?'] = 'Sei proprio sicuro di eliminare "%s"?';
+$language['Empty trash'] = 'Cestino vuoto';
+?>

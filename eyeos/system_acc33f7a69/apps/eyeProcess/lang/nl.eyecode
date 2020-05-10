@@ -1,0 +1,13 @@
+<?php
+global $language;
+$language['Application killed successfully.'] = 'Applicatie succesvol beëindigd.';
+$language['Application'] = 'Applicatie';
+$language['Close Application'] = 'Sluit applicatie';
+$language['Kill process'] = 'Stop proces';
+$language['New process'] = 'Nieuw proces';
+$language['Pid'] = 'Pid';
+$language['Process killed successfully.'] = 'Proces gestopt';
+$language['Process Manager'] = 'Proces manager';
+$language['Process Name'] = 'Procesnaam';
+$language['Username'] = 'Gebruikersnaam';
+?>

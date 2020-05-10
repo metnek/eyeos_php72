@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Create a link'] = 'Направи линк';
+$language['Please type the title of the link here:'] = 'Ве молиме внесете го насловот на линкот тука:';
+?>

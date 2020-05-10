@@ -1,0 +1,8 @@
+<?php
+global $language;
+$language['"%s" could not be restored!'] = '"%s" non può essere ripristinato!';
+$language['"%s" has been restored to your home folder!'] = '"%s" è stato ripristinato nella cartella originaria!';
+$language['Do you really want to restore "%s"?'] = 'Vuoi veramente ripristinare "%s"?';
+$language['Restore %s'] = 'Ripristina %s';
+$language['You cannot restore "%s" to a real folder!'] = 'Non puoi ripristinare "%s" in una cartella del filesystem reale!';
+?>

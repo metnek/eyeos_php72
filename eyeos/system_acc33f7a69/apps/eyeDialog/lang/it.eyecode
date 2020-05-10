@@ -1,0 +1,18 @@
+<?php
+global $language;
+$language['Are you sure you want to replace this file?'] = 'Sei sicuro di voler sostituire questo file?';
+$language['Author'] = 'Autore';
+$language['Confirm file replacement'] = 'Conferma sostituzione di file';
+$language['Date'] = 'Data';
+$language['Error while trying to browse folder'] = 'Errore nella consultazione della cartella';
+$language['Folders'] = 'Cartelle';
+$language['Home'] = 'Home';
+$language['Name'] = 'Nome';
+$language['Save as...'] = 'Salva come ...';
+$language['Select a file to open'] = 'Scegli un file da aprire';
+$language['Select a folder'] = 'Seleziona cartella';
+$language['Select'] = 'Seleziona';
+$language['Size'] = 'Dimensione';
+$language['You must enter a name'] = 'Devi inserire un nome';
+$language['You must select a file'] = 'Devi scegliere un file';
+?>

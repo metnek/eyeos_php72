@@ -1,0 +1,33 @@
+<?php
+global $language;
+$language['share']['Another file'] = 'Іншы файл';
+$language['share']['April'] = 'Красавік';
+$language['share']['August'] = 'Жнівень';
+$language['share']['December'] = 'Снежань';
+$language['share']['Error %s'] = 'Памылка %s';
+$language['share']['extracted'] = 'Выняты';
+$language['share']['F'] = 'F';
+$language['share']['February'] = 'Люты';
+$language['share']['Fri'] = 'Пятн';
+$language['share']['January'] = 'Студзень';
+$language['share']['July'] = 'Ліпень';
+$language['share']['June'] = 'Червень';
+$language['share']['M'] = 'M';
+$language['share']['March'] = 'Сакавік';
+$language['share']['May'] = 'Травень';
+$language['share']['Mon'] = 'Пан';
+$language['share']['November'] = 'Лістапад';
+$language['share']['October'] = 'Кастрычнік';
+$language['share']['S'] = 'S';
+$language['share']['SA'] = 'SA';
+$language['share']['Sat'] = 'Суб';
+$language['share']['September'] = 'Верасень';
+$language['share']['Sun'] = 'Нядз';
+$language['share']['T'] = 'T';
+$language['share']['TH'] = 'TH';
+$language['share']['Thu'] = 'Чац';
+$language['share']['Tue'] = 'Аўт';
+$language['share']['Upload'] = 'загрузіць';
+$language['share']['W'] = 'W';
+$language['share']['Wed'] = 'Сер';
+?>

@@ -1,0 +1,19 @@
+<?php
+global $language;
+$language['Add Calendar'] = 'Pridať kalendár';
+$language['At least, one calendar is required!'] = 'Musí zostať minimálne jeden kalendár!';
+$language['Calendar added succesfully'] = 'Kalendár pridaný';
+$language['Calendars management'] = 'Správa kalendárov';
+$language['Calendars'] = 'Kalendáre';
+$language['Day'] = 'Deň';
+$language['Invalid checkbox value'] = 'Nesprávna hodnota z checkbox-u';
+$language['Invalid Num %s'] = 'Nesprávne číslo %s';
+$language['Next'] = 'Ďalší';
+$language['Please type a name for the calendar'] = 'Prosím, zadajte názov kalendára';
+$language['Previous'] = 'Predchádzajúci';
+$language['Show'] = 'Zobraziť';
+$language['Today'] = 'Dnes';
+$language['Week'] = 'Týždeň';
+$language['Window mode'] = 'Režim okna';
+$language['Work'] = 'Práca';
+?>

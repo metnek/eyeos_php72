@@ -1,0 +1,12 @@
+<?php
+global $language;
+$language['Ask for help'] = 'Be om hjelp';
+$language['Changes successfully applied.'] = 'Endringer er utført.';
+$language['eyeHelp preferences'] = 'Innstillinger for eyeHelp';
+$language['Preferences'] = 'Innstillinger';
+$language['Submit'] = 'Send inn';
+$language['The field must not be left empty.'] = 'Feltet kan ikke være tomt.';
+$language['Topics'] = 'Emner';
+$language['User to contact to ask for help:'] = 'Bruker som kan kontaktes for hjelp:';
+$language['You are not allowed to do this.'] = 'Du har ikke lov til å gjøre dette.';
+?>

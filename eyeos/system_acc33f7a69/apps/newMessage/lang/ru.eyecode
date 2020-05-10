@@ -1,0 +1,12 @@
+<?php
+global $language;
+$language['Add file'] = 'Добавить файл';
+$language['Attach'] = 'Прикрепить';
+$language['Close'] = 'Закрыть';
+$language['Error sending message'] = 'Ошибка отсылки сообщения';
+$language['Message sent'] = 'Сообщение послано';
+$language['New Message'] = 'Новое сообщение';
+$language['Send'] = 'Послать';
+$language['Subject'] = 'Тема';
+$language['To'] = 'Кому';
+?>

@@ -1,0 +1,32 @@
+<?php
+global $language;
+$language['Administration'] = 'Quản trị';
+$language['All'] = 'Tất cả';
+$language['Education'] = 'Giáo dục';
+$language['eyeSoft: Package list updated'] = 'eyeSoft: Đã cập nhật danh sách cài đặt';
+$language['Games'] = 'Trò chơi';
+$language['Install'] = 'Cài đặt';
+$language['Installed'] = 'Đã cài đặt';
+$language['Installing'] = 'Đang cài đặt';
+$language['Internet'] = 'Internet';
+$language['License: %s'] = 'Bản quyền: %s';
+$language['Multimedia'] = 'Đa phương tiện';
+$language['Name: %s'] = 'Tên: %s';
+$language['none'] = 'không có';
+$language['Office'] = 'Văn phòng';
+$language['Other Apps'] = 'Ứng dụng khác';
+$language['Packages Manager'] = 'Quản lí gói cài đặt';
+$language['Please choose an applictaion to be installed.'] = 'Chọn một ứng dụng để cài đặt.';
+$language['Please choose an applictaion to be uninstalled.'] = 'Chọn một ứng dụng để gỡ bỏ.';
+$language['Search'] = 'Tìm kiếm';
+$language['Suggestions: %s'] = 'Đề nghị: %s';
+$language['The application cannot be uninstalled.'] = 'Ứng dụng không thể gỡ bỏ.';
+$language['The application was successfully uninstalled.'] = 'Ứng dụng đã được gỡ bỏ thành công.';
+$language['Themes'] = 'Giao dịch';
+$language['Translations'] = 'Bản dịch';
+$language['Uninstall application'] = 'Gỡ bỏ ứng dụng';
+$language['Uninstall'] = 'Gỡ bỏ';
+$language['Update'] = 'Cập nhật';
+$language['Version'] = 'Phiên bản';
+$language['Version: %s'] = 'Phiên bản: %s';
+?>

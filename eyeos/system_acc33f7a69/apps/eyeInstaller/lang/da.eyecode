@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Accept'] = 'Acceptér';
+$language['Do you really want to install this package into the system?'] = 'Er du sikker på du vil installere denne pakke på systemet?';
+$language['Installing'] = 'Installerer';
+$language['Nothing to install!'] = 'Intet at installere!';
+$language['Only root can install packages'] = 'Kun root kan installere pakker';
+$language['Package installed successfully!'] = 'Pakken blev installeret korret!';
+?>

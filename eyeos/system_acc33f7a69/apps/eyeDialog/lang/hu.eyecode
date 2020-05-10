@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['Are you sure you want to replace this file?'] = 'Biztosan cseréli ezt az állományt?';
+$language['Author'] = 'Készítő';
+$language['Cancel'] = 'Mégsem';
+$language['Confirm file replacement'] = 'Állománycsere jóváhagyása';
+$language['Date'] = 'Dátum';
+$language['Error while trying to browse folder'] = 'Nem lehet böngészni a könyvtárat';
+$language['Folders'] = 'Könyvtár';
+$language['Home'] = 'Saját';
+$language['Name'] = 'Név';
+$language['No'] = 'Nem';
+$language['Open'] = 'Megnyitás';
+$language['Save as...'] = 'Mentés másként...';
+$language['Save'] = 'Mentés';
+$language['Select a file to open'] = 'Válassza ki az állományt!';
+$language['Select a folder'] = 'Válassza ki a könyvtárat!';
+$language['Select'] = 'Kiválaszt';
+$language['Size'] = 'Méret';
+$language['Yes'] = 'Igen';
+$language['You must enter a name'] = 'Írjon be egy nevet!';
+$language['You must select a file'] = 'Válasszon egy állományt!';
+?>

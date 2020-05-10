@@ -1,0 +1,14 @@
+<?php
+global $language;
+$language['Actions'] = 'Veiksmai';
+$language['Copy'] = 'Kopijuoti';
+$language['Delete'] = 'Šalinti';
+$language['Download as zip'] = 'Atsiųsti kaip .zip rinkmeną';
+$language['Download'] = 'Atsiųsti';
+$language['New file'] = 'Nauja rinkmena';
+$language['New folder'] = 'Naujas aplankas';
+$language['Paste'] = 'Įdėti';
+$language['Properties'] = 'Savybės';
+$language['Rename'] = 'Pervardyti';
+$language['Upload files'] = 'Išsiųsti rinkmenas';
+?>

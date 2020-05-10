@@ -1,0 +1,10 @@
+<?php
+global $language;
+$language['Kill process'] = 'Končaj proces';
+$language['New process'] = 'Nov proces';
+$language['Pid'] = 'PID';
+$language['Process killed successfully.'] = 'Proces uspešno končan.';
+$language['Process Manager'] = 'Upravitelj procesov';
+$language['Process Name'] = 'Ime procesa';
+$language['Username'] = 'Uporabniško ime';
+?>

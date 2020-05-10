@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['Archive Manager'] = '압축 관리자';
+$language['Compress to...'] = '압축을 할 폴더';
+$language['Compress'] = '압축하기';
+$language['Compressed successfully'] = '파일을 압축하였습니다.';
+$language['Compression failed'] = '압축에 실패하였습니다.';
+$language['Extract to...'] = '압축을 풀 폴더';
+$language['Extract'] = '압축 풀기';
+$language['File extracted successfully.'] = '압축을 해제하였습니다.';
+$language['File extraction failed'] = '압축해제 실패';
+$language['Filename'] = '파일명';
+$language['No file open'] = '내용이 없습니다.';
+$language['The compress type is not supported'] = '이 압축 파일은 지원하지 않는 형식입니다.';
+?>

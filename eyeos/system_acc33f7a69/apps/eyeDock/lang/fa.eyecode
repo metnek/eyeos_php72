@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['Accessories'] = 'لوازم';
+$language['Calculator'] = 'ماشین حساب';
+$language['Calendar'] = 'تقویم';
+$language['Chess Game'] = 'بازی شطرنج';
+$language['Contact Manager'] = 'مدیریت مخاطبین';
+$language['File Manager'] = 'مدیریت فایل';
+$language['FTP Client'] = 'FTP سرویس گیرنده';
+$language['Games'] = 'بازی ها';
+$language['Internal Messaging'] = 'پیام داخلی';
+$language['Navigator'] = 'هدایت گر';
+$language['Network'] = 'شبکه';
+$language['Office'] = 'آفیس';
+$language['Process Manager'] = 'مدیریت فرآیند';
+$language['Public Board'] = 'تخته عمومی';
+$language['RSS Feed Reader'] = 'خواننده RSS Feed';
+$language['Spreadsheet'] = 'صفحه گسترده';
+$language['System'] = 'سیستم';
+$language['Tetravex Game'] = 'بازی تتراوکس';
+$language['Text Editor'] = 'ویرایشگر متن';
+$language['Word Processor'] = 'واژه پرداز';
+?>

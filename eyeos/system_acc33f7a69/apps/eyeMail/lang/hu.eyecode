@@ -1,0 +1,10 @@
+<?php
+global $language;
+$language['Account Name:'] = 'Postafiók neve:';
+$language['Account Type:'] = 'Postafiók típusa:';
+$language['Accounts'] = 'Postafiókok';
+$language['Activity Monitor'] = 'Forgalomkijelző';
+$language['Advanced'] = 'További beállítások';
+$language['All files'] = 'Minden állomány';
+$language['Are you sure?'] = 'Biztos benne?';
+?>

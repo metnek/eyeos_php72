@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Applications'] = 'التطبيقات';
+$language['Full Screen'] = 'في الشاشة كاملة';
+$language['Install Apps'] = 'تنصيب تطبيقات';
+$language['Manage Dock'] = 'إدارة سطح المكتب';
+?>

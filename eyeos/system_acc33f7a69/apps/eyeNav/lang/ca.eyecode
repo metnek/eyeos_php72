@@ -1,0 +1,35 @@
+<?php
+global $language;
+$language['Accept'] = 'Accepta';
+$language['Add bookmark'] = 'Afegeix una adreça d\'interès';
+$language['Back'] = 'Enrere';
+$language['Bookmark does not exist!'] = 'L\'adreça d\'interès no existeix!';
+$language['Bookmark title'] = 'Títol de l\'adreça d\'interès';
+$language['Bookmarks'] = 'Adreces d\'interès';
+$language['Cancel'] = 'Cancel·la';
+$language['Delete bookmark'] = 'Elimina l\'adreça d\'interès';
+$language['Do you really want to delete this bookmark?'] = 'Realment vols eliminar aquesta adreça d\'interès?';
+$language['Forums'] = 'Fòrums';
+$language['Forward'] = 'Següent';
+$language['Full Screen'] = 'Pantalla completa';
+$language['Images'] = 'Imatges';
+$language['Internet'] = 'Internet';
+$language['Knowledge'] = 'Coneixement';
+$language['Link successfully deleted.'] = 'Enllaç eliminat correctament.';
+$language['Link successfully saved.'] = 'Enllaç guardat correctament.';
+$language['Navigator'] = 'Navegador';
+$language['No'] = 'No';
+$language['Open bookmarks'] = 'Obra les adreces d\'interès';
+$language['Open searches'] = 'Obra les cerques';
+$language['Refresh'] = 'Actualitza';
+$language['Search'] = 'Cerca';
+$language['Settings'] = 'Configuració';
+$language['Startpage'] = 'Pàgina d\'inici';
+$language['The selected file is not a valid eyeNav bookmarks file!'] = 'L\'arxiu sel·leccionat no és un arxiu d\'adreces d\'interès d\'eyeNav vàlid!';
+$language['The selected file is not a valid eyeNav search file!'] = 'L\'arxiu sel·leccionat no és un arxiu de cercadors d\'eyeNav vàlid!';
+$language['There is already another bookmark with this title!'] = 'Ja hi ha una altra adreça d\'interès amb aquest títol!';
+$language['Uncategorized'] = 'Sense categoria';
+$language['Website'] = 'Web';
+$language['Wiki'] = 'Wiki';
+$language['Yes'] = 'Sí';
+?>

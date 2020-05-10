@@ -1,0 +1,4 @@
+<?php
+global $language;
+$language['What URL do you want to open in an Iframe?'] = '¿Qué dirección quieres abrir en un Iframe?';
+?>

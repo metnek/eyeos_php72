@@ -1,0 +1,29 @@
+<?php
+global $language;
+$language['share']['April'] = 'Abril';
+$language['share']['August'] = 'Agosto';
+$language['share']['December'] = 'Decembro';
+$language['share']['F'] = 'F';
+$language['share']['February'] = 'Febreiro';
+$language['share']['Fri'] = 'Venr';
+$language['share']['January'] = 'Xaneiro';
+$language['share']['July'] = 'Xullo';
+$language['share']['June'] = 'Xuño';
+$language['share']['M'] = 'M';
+$language['share']['March'] = 'Marzo';
+$language['share']['May'] = 'Maio';
+$language['share']['Mon'] = 'Luns';
+$language['share']['November'] = 'Novembro';
+$language['share']['October'] = 'Outubro';
+$language['share']['S'] = 'S';
+$language['share']['SA'] = 'Sa';
+$language['share']['Sat'] = 'Sáb';
+$language['share']['September'] = 'Setembro';
+$language['share']['Sun'] = 'Dom';
+$language['share']['T'] = 'X';
+$language['share']['TH'] = 'Xo';
+$language['share']['Thu'] = 'Xov';
+$language['share']['Tue'] = 'Ven';
+$language['share']['W'] = 'M';
+$language['share']['Wed'] = 'Mér';
+?>

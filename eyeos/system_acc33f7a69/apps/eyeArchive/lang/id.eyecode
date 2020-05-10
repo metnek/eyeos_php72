@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['Archive Manager'] = 'Manager Archive';
+$language['Compress to...'] = 'Kompres ke...';
+$language['Compress'] = 'Kompres';
+$language['Compressed successfully'] = 'Kompresi Berhasil';
+$language['Compression failed'] = 'Kompresi gagal';
+$language['Extract to...'] = 'Ekstrak ke...';
+$language['Extract'] = 'Ekstrak';
+$language['File extracted successfully.'] = 'File Berhasil diekstrak';
+$language['File extraction failed'] = 'Gagal Meng-ekstrak File';
+$language['Filename'] = 'Nama File';
+$language['No file open'] = 'Tidak Ada File yang dibuka';
+$language['The compress type is not supported'] = 'Tipe Kompresi Tidak didukung';
+?>

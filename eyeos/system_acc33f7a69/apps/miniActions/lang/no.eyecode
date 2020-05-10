@@ -1,0 +1,10 @@
+<?php
+global $language;
+$language['Create a new document'] = 'Opprett nytt dokument';
+$language['Create a new spreadsheet'] = 'Opprett nytt regneark';
+$language['Do you want this widget to open automatically on the next session?'] = 'Skal dette elementet åpnes automatisk i neste økt?';
+$language['No'] = 'Nei';
+$language['Send an internal message'] = 'Send en intern melding';
+$language['Upload your files'] = 'Last opp filer';
+$language['Yes'] = 'Ja';
+?>

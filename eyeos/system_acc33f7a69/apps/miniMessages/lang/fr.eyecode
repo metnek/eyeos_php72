@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Internal Messaging'] = 'Messagerie interne';
+$language['miniMessages is already running!'] = 'miniMessages est déjà lancé!';
+?>

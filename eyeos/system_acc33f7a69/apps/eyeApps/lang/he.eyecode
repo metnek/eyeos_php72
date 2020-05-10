@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Applications'] = 'יישומים';
+$language['Install Apps'] = 'התקן יישום';
+$language['Manage Dock'] = 'רציף ניהול';
+?>

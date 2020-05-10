@@ -1,0 +1,22 @@
+<?php
+global $language;
+$language['( Default )'] = '( Predeterminado )';
+$language['Create account'] = 'Crear cuenta';
+$language['Enter'] = 'Entrar';
+$language['Error creating new user!'] = '¡Error creando un nuevo usuario!';
+$language['Language (this session)'] = 'Idioma (para esta sesión)';
+$language['Language'] = 'Idioma';
+$language['New User'] = 'Nuevo usuario';
+$language['Password fields do not match!'] = 'Las contraseñas no coinciden';
+$language['Password is too short!'] = 'La contraseña es demasiado corta';
+$language['Password'] = 'Contraseña';
+$language['Please fill out all fields!'] = 'Por favor rellena todos los campos';
+$language['Retype password'] = 'Repite la contraseña';
+$language['That user already exists!'] = 'El usuario ya existe';
+$language['The language does not exist!'] = 'El idioma no existe';
+$language['This system does not allow user registrations!'] = 'El sistema no permite registrar usuarios';
+$language['Username is too short!'] = 'Nombre de usuario demasiado corto';
+$language['Username should be alpha-numeric!'] = 'El usuario debe ser alfa-numérico';
+$language['Username'] = 'Usuario';
+$language['Your account has been disabled!'] = 'Tu cuenta ha sido deshabilitada';
+?>

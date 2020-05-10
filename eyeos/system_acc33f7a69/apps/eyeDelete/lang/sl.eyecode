@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['"%s" has been removed successfully.'] = 'Brisanje "%s" uspešno.';
+$language['"%s" moved to trash successfully.'] = 'Premik "%s" v koš uspešno.';
+$language['Error deleting file!'] = 'Napaka izbrisa datoteke!';
+?>

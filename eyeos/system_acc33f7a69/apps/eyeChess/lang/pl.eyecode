@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Chess Game'] = 'Szachy';
+$language['Computer level:'] = 'Poziom komputera:';
+$language['Knight'] = 'Rycerz';
+$language['Middling'] = 'Niezły';
+$language['Slow'] = 'Powolny';
+$language['Undo'] = 'Cofnij';
+?>

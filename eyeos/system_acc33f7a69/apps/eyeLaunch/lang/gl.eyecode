@@ -1,0 +1,13 @@
+<?php
+global $language;
+$language['%s not found'] = '%s non atopado';
+$language['Error, empty username or password'] = 'Erro, o nome de usuario ou a contrasinal están baleiros';
+$language['Error, invalid username or password'] = 'Erro, nome de usuario ou contrasinal non válidos';
+$language['Invalid username'] = 'Nome de usuario non válido';
+$language['Password'] = 'Contrasinal';
+$language['Run as different user'] = 'Executar coma outro usuario';
+$language['Run...'] = 'Executar...';
+$language['Run'] = 'Executar';
+$language['Type the name of the app or command to run'] = 'Teclee o nome da aplicación ou a orde a executar';
+$language['User'] = 'Usuario';
+?>

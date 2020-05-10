@@ -1,0 +1,38 @@
+<?php
+global $language;
+$language['[Unknown string]'] = '[Chaîne inconnue]';
+$language['Always remember my last configuration'] = 'Retenir ma dernière configuration';
+$language['Board size :'] = 'Taille du plateau:';
+$language['Cancel'] = 'Annuler';
+$language['Close'] = 'Quitter';
+$language['Configuration'] = 'Configuration';
+$language['Date'] = 'Date';
+$language['Do you want to start a new game?'] = 'Voulez-vous faire une nouvelle partie?';
+$language['Finished!'] = 'Partie terminée';
+$language['Fullscreen'] = 'Plein écran';
+$language['Highscores'] = 'Records';
+$language['Level / board size (%s-%s):'] = 'Niveau / taille du plateau (%s-%s)';
+$language['Maximum value on edges:'] = 'Valeur maximum sur les bords:';
+$language['Maximum'] = 'Maximum';
+$language['Maybe you should try a higher level...'] = 'Vous devriez peut-être passer au niveau supérieur...';
+$language['Moves'] = 'Déplacements';
+$language['Network problem'] = 'Problème de réseau';
+$language['New game'] = 'Nouv. partie';
+$language['No'] = 'Non';
+$language['Number of moves:'] = 'Nombre de déplacements:';
+$language['Rank'] = 'Classement';
+$language['Save'] = 'Sauvegarder';
+$language['Tetravex Game'] = 'Jeu Tetravex';
+$language['These features can only be used when running from an oneye server.'] = 'Ces fonctionnalités ne sont disponibles que depuis un serveur oneye.';
+$language['These options won\'t be applied until you start a new game.'] = 'Ces options seront appliquées lors de la prochaine partie.';
+$language['Time'] = 'Durée';
+$language['Tip used! Ranking disabled...'] = 'Astuce utilisée! Classement désactivé...';
+$language['Unable to connect to the host server.'] = 'Impossible de se connecter au serveur hôte.';
+$language['Use colored numbers on tiles'] = 'Utiliser des nombres colorés sur les tuiles';
+$language['Use shared highscores on server (all users)'] = 'Meilleurs scores partagés sur le serveur (tous les utilisateurs)';
+$language['User'] = 'Utilisateur';
+$language['Would you like to disable oneye related features?'] = 'Souhaitez-vous désactiver les fonctionnalités liées à oneye?';
+$language['Yes'] = 'Oui';
+$language['Your rank:'] = 'Votre classement:';
+$language['Your time:'] = 'Votre temps:';
+?>

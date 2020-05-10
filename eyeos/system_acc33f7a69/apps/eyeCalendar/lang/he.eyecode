@@ -1,0 +1,28 @@
+<?php
+global $language;
+$language['A calendar with the same name already exists!'] = 'קיים כבר לוח שנה עם השם הזה';
+$language['Add Calendar'] = 'הוסף לוח שנה';
+$language['At least, one calendar is required!'] = 'חובה להגדיר לפחות לוח שנה אחד';
+$language['Calendar added succesfully'] = 'לוח השנה נוסף בהצלחה';
+$language['Calendar is already running!'] = 'לוח השנה כבר מופעל!';
+$language['Calendar'] = 'לוח שנה';
+$language['Calendars management'] = 'ניהול לוחות שנה';
+$language['Calendars'] = 'לוחות שנה';
+$language['Configuration saved correctly'] = 'ההגדרות נשמרו בהצלחה';
+$language['Configure calendar'] = 'הגדר לוח שנה';
+$language['Day'] = 'יום';
+$language['Invalid checkbox value'] = 'ערך תיבת סימון לא תקין';
+$language['Invalid Num %s'] = 'מספר לא תקין';
+$language['Next'] = 'הבא';
+$language['Please specify the calendar name:'] = 'אנא ציין את שם לוח השנה';
+$language['Please type a name for the calendar'] = 'אנא הקלד שם עבור לוח השנה';
+$language['Previous'] = 'הקודם';
+$language['Show'] = 'הצג';
+$language['Text for this event:'] = 'טקסט עבור ארוע זה';
+$language['Today'] = 'היום';
+$language['Two calendars cannot share the same ID!'] = '2 לוחות שונים לא יכולים לחלוק זיהוי אחד';
+$language['Two calendars cannot share the same name!'] = 'לא ניתן להגדיר שם זהה ל 2 לוחות שנה';
+$language['Week'] = 'שבוע';
+$language['Window mode'] = 'מצב חלון';
+$language['Work'] = 'עבודה';
+?>

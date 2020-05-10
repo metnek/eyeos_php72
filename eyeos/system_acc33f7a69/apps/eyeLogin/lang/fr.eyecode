@@ -1,0 +1,27 @@
+<?php
+global $language;
+$language['( Default )'] = '(Par défaut)';
+$language['Change password'] = 'Changer le mot de passe';
+$language['Create account'] = 'Créer un nouveau compte';
+$language['Enter'] = 'Valider';
+$language['Error creating new user!'] = 'Erreur pendant la création du nouvel utilisateur!';
+$language['Language (this session)'] = 'Langue (pour cette session)';
+$language['Language'] = 'Langue';
+$language['New Password:'] = 'Nouveau Mot de passe:';
+$language['New User'] = 'Nouvel utilisateur';
+$language['Password fields do not match!'] = 'Les deux mots de passe ne sont pas identiques!';
+$language['Password is too short!'] = 'Le mot de passe est trop court!';
+$language['Password'] = 'Mot de passe';
+$language['Please fill out all fields!'] = 'Veuillez compléter tous les champs!';
+$language['Retype password'] = 'Taper à nouveau votre mot de passe';
+$language['Retype password:'] = 'Taper à nouveau votre mot de passe:';
+$language['Set new password'] = 'Définir le nouveau mot de passe';
+$language['That user already exists!'] = 'Cet utilisateur existe déjà!';
+$language['The language does not exist!'] = 'Cette langue n\'existe pas!';
+$language['This system does not allow user registrations!'] = 'Vous n\'avez pas l\'autorisation de créer votre compte.';
+$language['Username is too short!'] = 'Nom d\'utilisateur trop court!';
+$language['Username should be alpha-numeric!'] = 'Votre nom d\'utilisateur ne doit contenir que des chiffres et de lettres!';
+$language['Username'] = 'Nom d\'utilisateur';
+$language['You need to specify a new password for this account now...'] = 'Vous devez spécifier un nouveau mot de passe pour ce compte maintenant...';
+$language['Your account has been disabled!'] = 'Votre compte a été désactivé!';
+?>

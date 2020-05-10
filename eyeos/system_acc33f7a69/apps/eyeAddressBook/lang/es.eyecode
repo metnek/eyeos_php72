@@ -1,0 +1,10 @@
+<?php
+global $language;
+$language['Accept'] = 'Aceptar';
+$language['Add Contact'] = 'Añadir contacto';
+$language['Add new group'] = 'Añadir grupo';
+$language['Add'] = 'Añadir';
+$language['AddressBook'] = 'Libreta de direcciones';
+$language['All files'] = 'Todos los archivos';
+$language['All Groups'] = 'Todos los grupos';
+?>

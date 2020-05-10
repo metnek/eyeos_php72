@@ -1,0 +1,28 @@
+<?php
+global $language;
+$language['A calendar with the same name already exists!'] = 'Ийм нэртэй хуанли үүссэн байна!';
+$language['Add Calendar'] = 'Хуанли үүсгэх';
+$language['At least, one calendar is required!'] = 'Наад зах нь нэг хуанли шаардлагатай!';
+$language['Calendar added succesfully'] = 'Хуанли амжилттай нэмэгдлээ';
+$language['Calendar is already running!'] = 'Хуанли ажиллаж байна!';
+$language['Calendar'] = 'Хуанли';
+$language['Calendars management'] = 'Хуанлийн удирдлага';
+$language['Calendars'] = 'Хуанлинууд';
+$language['Configuration saved correctly'] = 'Тохиргоо зөв хадаглагдлаа';
+$language['Configure calendar'] = 'Хуанли тохируулах';
+$language['Day'] = 'Өдөр';
+$language['Invalid checkbox value'] = 'Тохирохгүй дүн';
+$language['Invalid Num %s'] = 'Тохирохгүй дугаар %s';
+$language['Next'] = 'Дараах';
+$language['Please specify the calendar name:'] = 'Хуанлийг нэрээр төрөлжүүл:';
+$language['Please type a name for the calendar'] = 'Хуанлийн нэрийг оруул';
+$language['Previous'] = 'Өмнөх';
+$language['Show'] = 'Үзэх';
+$language['Text for this event:'] = 'Үйл явдалын тайлбар:';
+$language['Today'] = 'Өнөөдөр';
+$language['Two calendars cannot share the same ID!'] = 'Хоёр хуанлид нэг ижил id гаар нийтлэж болохгүй.';
+$language['Two calendars cannot share the same name!'] = 'Хоёр хуанлид нэг ижил нэрээр нийтлэж болохгүй.';
+$language['Week'] = '7 хоног';
+$language['Window mode'] = 'Цонхон хэлбэр';
+$language['Work'] = 'Ажил';
+?>

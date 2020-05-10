@@ -1,0 +1,11 @@
+<?php
+global $language;
+$language['Back'] = 'Előző';
+$language['Full Screen'] = 'Teljes képernyő';
+$language['Next'] = 'Következő';
+$language['Open'] = 'Megnyitás';
+$language['Presentations'] = 'Diavetítő';
+$language['Sorry, you do not have sufficient permissions.'] = 'Nincs engedélye a művelethez.';
+$language['You are already on the first slide, you cannot go back anymore!'] = 'Ez az első oldala a dokumentumnak!';
+$language['You need to select a file to open!'] = 'Válasszon ki egy dokumentumot!';
+?>

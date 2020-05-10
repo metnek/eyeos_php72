@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Change Label Text'] = 'Canvia el text de l\'etiqueta';
+$language['Example eyeApp'] = 'Exemple d\'eyeApp';
+$language['Hello World!'] = 'Hola, món!';
+?>

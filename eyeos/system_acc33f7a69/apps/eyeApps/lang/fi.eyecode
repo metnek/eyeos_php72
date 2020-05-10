@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Install Apps'] = 'Asenna sovelluksia';
+$language['Manage Dock'] = 'Muokkaa yläpalkkia';
+?>

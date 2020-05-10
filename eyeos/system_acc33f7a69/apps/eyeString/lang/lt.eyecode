@@ -1,0 +1,25 @@
+<?php
+global $language;
+$language['Add input to output'] = 'Įveskite norėdami išvesties';
+$language['Add new line to end'] = 'Pridėkite naują eilutę norėdami baigti';
+$language['Ascii to Hexa'] = 'ASCII į Šešioliktainius';
+$language['Auto clear input'] = 'Automatiškai valyti įvestį';
+$language['Base64 Decode'] = 'Iškoduoti Base64';
+$language['Base64 Encode'] = 'Užkoduoti Base64';
+$language['Clear'] = 'Išvalyti';
+$language['Concatenate Output'] = 'Sujungti Išvestį';
+$language['Decimal to Roman'] = 'Dešimtainiai į Romėniškus';
+$language['eyeOS hash'] = 'eyeOS maiša';
+$language['Hexa to Ascii'] = 'Šešioliktainiai į ASCII';
+$language['Html Entities'] = 'HTML Objektai';
+$language['Input Text'] = 'Įvesties Tekstas';
+$language['Last execution time: %s'] = 'Paskutinio veiksmo vykdymo trukmė: %s';
+$language['md5 Hash'] = 'md5 Maiša';
+$language['Options'] = 'Parinktys';
+$language['Output Text'] = 'Išvesties Tekstas';
+$language['Remove Html Entities'] = 'Pašalinti HTML Objektus';
+$language['Roman to Decimal'] = 'Romėniški į Šešioliktainius';
+$language['Start'] = 'Pradžia';
+$language['URL Decode'] = 'Iškoduoti URL ';
+$language['URL Encode'] = 'Užkoduoti URL';
+?>

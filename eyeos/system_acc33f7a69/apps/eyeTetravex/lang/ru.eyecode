@@ -1,0 +1,36 @@
+<?php
+global $language;
+$language['[Unknown string]'] = '[Неизвестная строка]';
+$language['Always remember my last configuration'] = 'Всегда помнить мою последнюю конфигурацию';
+$language['Board size :'] = 'Размер доски:';
+$language['Cancel'] = 'Отменить';
+$language['Close'] = 'Закрыть';
+$language['Configuration'] = 'Конфигурация';
+$language['Date'] = 'Дата';
+$language['Do you want to start a new game?'] = 'Хотите начать новую игру?';
+$language['Finished!'] = 'Закончено!';
+$language['Fullscreen'] = 'Полный экран';
+$language['Highscores'] = 'Список сильнейших';
+$language['Level / board size (%s-%s):'] = 'Уровень / размер доски (%s-%s)';
+$language['Maximum value on edges:'] = 'Максимальное значение по краям:';
+$language['Maximum'] = 'Максимум';
+$language['Maybe you should try a higher level...'] = 'Может быть Вы хотите попробовать высший уровень...';
+$language['Moves'] = 'Ходы';
+$language['Network problem'] = 'Проблемы с сетью';
+$language['New game'] = 'Новая игра';
+$language['No'] = 'Нет';
+$language['Number of moves:'] = 'Число ходов:';
+$language['Rank'] = 'Ранг';
+$language['Save'] = 'Сохранить';
+$language['Tetravex Game'] = 'Тетравекс';
+$language['These options won\'t be applied until you start a new game.'] = 'Эти опции не будут применены пока Вы не начнёте новую игру.';
+$language['Time'] = 'Время';
+$language['Tip used! Ranking disabled...'] = 'Использована подсказка! Ранжирование отменено...';
+$language['Unable to connect to the host server.'] = 'Невозможно соединиться с сервером.';
+$language['Use colored numbers on tiles'] = 'Использовать цветные цифры на плитках';
+$language['Use shared highscores on server (all users)'] = 'Использовать сохранённые результаты на сервере (все пользователи)';
+$language['User'] = 'Пользователь';
+$language['Yes'] = 'Да';
+$language['Your rank:'] = 'Ваш ранг:';
+$language['Your time:'] = 'Ваше время:';
+?>

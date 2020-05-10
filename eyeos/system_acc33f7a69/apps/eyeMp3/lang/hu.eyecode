@@ -1,0 +1,4 @@
+<?php
+global $language;
+$language['This is not a bug. Unfortunately it is a problem with your Flash player!'] = 'Ez nem egy hiba. Sajnos a gond a flash-lejátszóval van!';
+?>

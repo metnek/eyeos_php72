@@ -1,0 +1,10 @@
+<?php
+global $language;
+$language['Kill process'] = 'Finalitza el procés';
+$language['New process'] = 'Nou procés';
+$language['Pid'] = 'IDP';
+$language['Process killed successfully.'] = 'Procés finalitzat satisfactòriament.';
+$language['Process Manager'] = 'Gestor de processos';
+$language['Process Name'] = 'Nom del process';
+$language['Username'] = 'Nom d\'usuari';
+?>

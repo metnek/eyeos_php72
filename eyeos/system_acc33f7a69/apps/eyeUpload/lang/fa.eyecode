@@ -1,0 +1,11 @@
+<?php
+global $language;
+$language['Add files to transfer, then press Upload now!'] = 'افزودن فایل ها برای انتقال سپس دکمه آپلود! را فشار دهید!';
+$language['Add files'] = 'افزودن فایلها';
+$language['Advanced'] = 'پیشرفته';
+$language['Remove'] = 'حذف';
+$language['Simple'] = 'نمونه';
+$language['Transfering: '] = 'در حال انتقال:';
+$language['Upload files'] = 'آپلود فایلها';
+$language['Upload now!'] = 'آپلود!';
+?>

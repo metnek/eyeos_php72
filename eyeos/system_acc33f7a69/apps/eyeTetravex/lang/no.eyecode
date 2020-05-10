@@ -1,0 +1,36 @@
+<?php
+global $language;
+$language['[Unknown string]'] = '[Ukjent streng]';
+$language['Always remember my last configuration'] = 'Husk alltid mine siste innstillinger';
+$language['Board size :'] = 'Brettstørrelse:';
+$language['Cancel'] = 'Avbryt';
+$language['Close'] = 'Lukk';
+$language['Configuration'] = 'Innstillinger';
+$language['Date'] = 'Dato';
+$language['Do you want to start a new game?'] = 'Vil du starte et nytt spill?';
+$language['Finished!'] = 'Fullført!';
+$language['Fullscreen'] = 'Fullskjerm';
+$language['Highscores'] = 'Rekorder';
+$language['Level / board size (%s-%s):'] = 'Nivå / brettstørrelse (%s-%s):';
+$language['Maximum value on edges:'] = 'Maksverdi på kantene:';
+$language['Maximum'] = 'Maksimalt';
+$language['Maybe you should try a higher level...'] = 'Kanskje du skulle prøve et høyere nivå....';
+$language['Moves'] = 'Trekk';
+$language['Network problem'] = 'Nettverksproblem';
+$language['New game'] = 'Nytt spill';
+$language['No'] = 'Nei';
+$language['Number of moves:'] = 'Antall trekk:';
+$language['Rank'] = 'Grad';
+$language['Save'] = 'Lagre';
+$language['Tetravex Game'] = 'Tetravex';
+$language['These options won\'t be applied until you start a new game.'] = 'Du må starte spillet på nytt for at endringene skal vises.';
+$language['Time'] = 'Tid';
+$language['Tip used! Ranking disabled...'] = 'Du har brukt et tips! Gradering er deaktivert...';
+$language['Unable to connect to the host server.'] = 'Kan ikke koble til server.';
+$language['Use colored numbers on tiles'] = 'Bruk fargede tall';
+$language['Use shared highscores on server (all users)'] = 'Bruk delt rekordoversikt (alle brukere)';
+$language['User'] = 'Bruker';
+$language['Yes'] = 'Ja';
+$language['Your rank:'] = 'Din grad:';
+$language['Your time:'] = 'Din tid:';
+?>

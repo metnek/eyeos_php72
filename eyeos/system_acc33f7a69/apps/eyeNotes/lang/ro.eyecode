@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['File saved successfully.'] = 'Fişierul a fost salvat cu suces';
+$language['Sorry, you do not have sufficient permissions.'] = 'Scuze, nu ai suficient acces';
+$language['Unable to create file'] = 'Nu se poate creea fişierul';
+?>

@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Change Label Text'] = 'Thay đổi nhãn chữ';
+$language['Example eyeApp'] = 'Ví dụ eyeApp';
+$language['Hello World!'] = 'Chào thế giới!';
+?>

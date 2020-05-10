@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Clear'] = 'Töröl';
+$language['Public Board'] = 'Nyilvános üzenőfal';
+$language['Send'] = 'Küld';
+?>

@@ -1,0 +1,13 @@
+<?php
+global $language;
+$language['Bishop'] = 'Тэмээ';
+$language['Chess Game'] = 'Шатар';
+$language['Computer level:'] = 'Компьютерийн төвшин:';
+$language['Knight'] = 'Морь';
+$language['Middling'] = 'Дундаж';
+$language['Next pawn becomes:'] = 'Хүү хувирах:';
+$language['Queen'] = 'Бэрс';
+$language['Rook'] = 'Тэрэг';
+$language['Slow'] = 'Удаан';
+$language['Undo'] = 'Буцаах';
+?>

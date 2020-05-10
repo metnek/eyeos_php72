@@ -1,0 +1,36 @@
+<?php
+global $language;
+$language['[Unknown string]'] = '[ismeretlen sor]';
+$language['Always remember my last configuration'] = 'Emlékezzen a legutóbbi beállításra';
+$language['Board size :'] = 'Tábla mérete:';
+$language['Cancel'] = 'Mégsem';
+$language['Close'] = 'Bezárás';
+$language['Configuration'] = 'Beállítások';
+$language['Date'] = 'Dátum';
+$language['Do you want to start a new game?'] = 'Belekezd egy másik játszmába?';
+$language['Finished!'] = 'Hurrá!';
+$language['Fullscreen'] = 'Nagykép';
+$language['Highscores'] = 'Helyezés';
+$language['Level / board size (%s-%s):'] = 'Szint / tábla mérete (%s-%s):';
+$language['Maximum value on edges:'] = 'Legnagyobb szám a széleken:';
+$language['Maximum'] = 'Legnagyobb szám';
+$language['Maybe you should try a higher level...'] = 'Talán nehezebbet kellene próbálnia...';
+$language['Moves'] = 'Lépés';
+$language['Network problem'] = 'Hálózati probléma';
+$language['New game'] = 'Új játék';
+$language['No'] = 'Nem';
+$language['Number of moves:'] = 'Lépések száma:';
+$language['Rank'] = 'Helyezés';
+$language['Save'] = 'Mentés';
+$language['Tetravex Game'] = 'Tetravex';
+$language['These options won\'t be applied until you start a new game.'] = 'A beállítások nem lépnek érvénybe, míg új játék nem indul.';
+$language['Time'] = 'Idő';
+$language['Tip used! Ranking disabled...'] = 'Segítséget kért! A rangsorba így már nem kerülhet be...';
+$language['Unable to connect to the host server.'] = 'Nem lehet csatlakozni a kiszolgálóhoz!';
+$language['Use colored numbers on tiles'] = 'Színes számok';
+$language['Use shared highscores on server (all users)'] = 'Összes felhasználó helyezéseinek mutatása';
+$language['User'] = 'Felhasználó';
+$language['Yes'] = 'Igen';
+$language['Your rank:'] = 'Helyezés:';
+$language['Your time:'] = 'Idő:';
+?>

@@ -1,0 +1,30 @@
+<?php
+global $language;
+$language['Address Book'] = 'Librera de direcciones';
+$language['Applications'] = 'Aplicaciones';
+$language['Calendar'] = 'Calendario';
+$language['Copy'] = 'Copiar';
+$language['Delete'] = 'Borrar';
+$language['Download as zip'] = 'Descargar como zip';
+$language['Download'] = 'Descargar';
+$language['Edit'] = 'Editar';
+$language['Empty trash'] = 'Vaciar papelera';
+$language['Explore'] = 'Explorar';
+$language['Home'] = 'Inicio';
+$language['Launch'] = 'Ejecutar';
+$language['New file'] = 'Nuevo archivo';
+$language['New folder'] = 'Nueva carpeta';
+$language['New launcher'] = 'Nuevo enlace';
+$language['Open trash'] = 'Abrir papelera';
+$language['Open with'] = 'Abrir con';
+$language['Paste'] = 'Pegar';
+$language['Preferences'] = 'Preferencias';
+$language['Properties'] = 'Propiedades';
+$language['Refresh'] = 'Recargar';
+$language['Rename'] = 'Renombrar';
+$language['RSS Feed Reader'] = 'Lector Feeds RSS';
+$language['Share with'] = 'Compartir con';
+$language['Trash'] = 'Papelera';
+$language['Upload files'] = 'Subir archivos';
+$language['Welcome to %s, %s.'] = 'Bienvenido a %s, %s.';
+?>

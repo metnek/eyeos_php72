@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['File not found!'] = '¡Arquivo non atopado!';
+$language['Sorry, you do not have sufficient permissions.'] = 'Sintoo, non tes suficientes permisos.';
+$language['Spreadsheet saved successfully.'] = 'Folla de cálculo gardada correctamente.';
+$language['Spreadsheet'] = 'Folla de cálculo';
+?>

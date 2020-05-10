@@ -1,0 +1,14 @@
+<?php
+global $language;
+$language['Actions'] = 'Händelser';
+$language['Copy'] = 'Kopiera';
+$language['Delete'] = 'Radera';
+$language['Download as zip'] = 'Ladda ner som zippad';
+$language['Download'] = 'Ladda ner';
+$language['New file'] = 'Ny fil';
+$language['New folder'] = 'Ny mapp';
+$language['Paste'] = 'Klistra in';
+$language['Properties'] = 'Egenskaper';
+$language['Rename'] = 'Döp om';
+$language['Upload files'] = 'Ladda upp filer';
+?>

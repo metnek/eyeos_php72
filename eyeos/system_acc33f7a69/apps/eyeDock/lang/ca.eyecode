@@ -1,0 +1,24 @@
+<?php
+global $language;
+$language['Accessories'] = 'Accessoris';
+$language['Calculator'] = 'Calculadora';
+$language['Calendar'] = 'Calendari';
+$language['Chess Game'] = 'Escacs';
+$language['Contact Manager'] = 'Gestió de contactes';
+$language['File Manager'] = 'Gestió d\'arxius';
+$language['FTP Client'] = 'Client FTP';
+$language['Games'] = 'Jocs';
+$language['Internal Messaging'] = 'Missatgeria interna';
+$language['Mail Client'] = 'Client de correu';
+$language['Navigator'] = 'Navegador';
+$language['Network'] = 'Xarxa';
+$language['Office'] = 'Oficina';
+$language['Process Manager'] = 'Gestió processos';
+$language['Public Board'] = 'Taulell públic';
+$language['RSS Feed Reader'] = 'Lector RSS';
+$language['Spreadsheet'] = 'Full de càlcul';
+$language['System'] = 'Sistema';
+$language['Tetravex Game'] = 'Joc Tetravex';
+$language['Text Editor'] = 'Editor de text';
+$language['Word Processor'] = 'Proces. textos';
+?>

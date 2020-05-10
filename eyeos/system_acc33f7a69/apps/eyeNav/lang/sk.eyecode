@@ -1,0 +1,25 @@
+<?php
+global $language;
+$language['Add bookmark'] = 'Pridať záložku';
+$language['Back'] = 'Späť';
+$language['Bookmark title'] = 'Názov záložky';
+$language['Bookmarks'] = 'Záložky';
+$language['Delete bookmark'] = 'Vymazať záložku';
+$language['Do you really want to delete this bookmark?'] = 'Naozaj vymazať túto záložku?';
+$language['Forums'] = 'Fóra';
+$language['Forward'] = 'Vpred';
+$language['Images'] = 'Obrázky';
+$language['Internet'] = 'Internet';
+$language['Knowledge'] = 'Vzdelanie';
+$language['Link successfully deleted.'] = 'Odkaz vymazaný.';
+$language['Link successfully saved.'] = 'Odkaz uložený.';
+$language['Open bookmarks'] = 'Otvoriť záložku';
+$language['Open searches'] = 'Otvoriť vyhľadávania';
+$language['Search'] = 'Vyhľadať';
+$language['Settings'] = 'Nastavenia';
+$language['Startpage'] = 'Štartovacia stránka';
+$language['There is already another bookmark with this title!'] = 'Už existuje iná záložka s rovnakým názvom!';
+$language['Uncategorized'] = 'Nezaradené';
+$language['Website'] = 'Web';
+$language['Wiki'] = 'Wiki';
+?>

@@ -1,0 +1,14 @@
+<?php
+global $language;
+$language['Actions'] = 'Akcie';
+$language['Copy'] = 'Kopírovať';
+$language['Delete'] = 'Vymazať';
+$language['Download as zip'] = 'Stiahnuť ako zip';
+$language['Download'] = 'Stiahnuť';
+$language['New file'] = 'Nový súbor';
+$language['New folder'] = 'Nový priečinok';
+$language['Paste'] = 'Prilepiť';
+$language['Properties'] = 'Vlastnosti';
+$language['Rename'] = 'Premenovať';
+$language['Upload files'] = 'Natiahnuť súbory';
+?>

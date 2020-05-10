@@ -1,0 +1,13 @@
+<?php
+global $language;
+$language['"%s" already exists. Please enter a new name or replace the existing one.'] = '"%s" finnes fra før. Angi et nytt navn eller erstatt eksisterende.';
+$language['Cancel'] = 'Avbryt';
+$language['Error moving folder!'] = 'Feil ved flytting av mappe!';
+$language['Links cannot be moved!'] = 'Lenker kan ikke flyttes!';
+$language['Move %s'] = 'Flytt %s';
+$language['Please type the new name here:'] = 'Angi nytt navn:';
+$language['Rename %s'] = 'Gi nytt navn til %s';
+$language['Rename'] = 'Gi nytt navn';
+$language['Replace'] = 'Erstatt';
+$language['That file already exists!'] = 'Filen eksisterer fra før!';
+?>

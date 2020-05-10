@@ -1,0 +1,8 @@
+<?php
+global $language;
+$language['Create a new document'] = 'Sukurti naują dokumentą';
+$language['Create a new spreadsheet'] = 'Sukurti naują skaičiuoklės dokumentą';
+$language['Do you want this widget to open automatically on the next session?'] = 'Ar norite, kad šis valdiklis atsivertų automatiškai kitos sesijos metu?';
+$language['Send an internal message'] = 'Siųsti vidinę žinutę';
+$language['Upload your files'] = 'Išsiųsti Jūsų rinkmenas';
+?>

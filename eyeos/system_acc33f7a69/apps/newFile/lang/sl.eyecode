@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Accept'] = 'Potrdi';
+$language['Cancel'] = 'Prekliči';
+$language['Create a file'] = 'Ustvari datoteko';
+$language['Error creating file!'] = 'Napaka pri ustvarjanju datoteke!';
+$language['Please type the name of the new file here:'] = 'Prosim vnesite ime nove datoteke:';
+$language['Some special chars have been removed.'] = 'Določeni znaki so bili odstranjeni.';
+?>

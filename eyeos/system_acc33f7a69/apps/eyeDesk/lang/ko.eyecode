@@ -1,0 +1,28 @@
+<?php
+global $language;
+$language['Applications'] = '프로그램';
+$language['Calendar'] = '일정표';
+$language['Copy'] = '복사';
+$language['Delete'] = '삭제';
+$language['Download as zip'] = 'zip으로 다운로드';
+$language['Download'] = '다운로드';
+$language['Edit'] = '편집';
+$language['Empty trash'] = '휴지통 비우기';
+$language['Explore'] = '탐색';
+$language['Home'] = '홈';
+$language['Launch'] = '실행';
+$language['New file'] = '새 파일';
+$language['New folder'] = '새 폴더';
+$language['New launcher'] = '새 바로가기';
+$language['Open trash'] = '휴지통 열기';
+$language['Open with'] = '연결프로그램';
+$language['Paste'] = '붙여넣기';
+$language['Preferences'] = '속성';
+$language['Properties'] = '상세정보';
+$language['Refresh'] = '새로고침';
+$language['Rename'] = '이름 바꾸기';
+$language['RSS Feed Reader'] = 'RSS 구독기';
+$language['Trash'] = '휴지통';
+$language['Upload files'] = '파일 업로드';
+$language['Welcome to %s, %s.'] = '%s에 오신 것을 환영합니다, %s님.';
+?>

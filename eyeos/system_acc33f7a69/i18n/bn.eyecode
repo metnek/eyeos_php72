@@ -1,0 +1,33 @@
+<?php
+global $language;
+$language['share']['Another file'] = 'আরেকটি ফাইল';
+$language['share']['April'] = 'এপ্রিল';
+$language['share']['August'] = 'আগস্ট';
+$language['share']['December'] = 'ডিসেম্বর';
+$language['share']['Error %s'] = 'সমস্যা %সমূহ';
+$language['share']['extracted'] = 'এক্সট্রাকটেড';
+$language['share']['F'] = 'F';
+$language['share']['February'] = 'ফেব্রুয়ারী';
+$language['share']['Fri'] = 'শুক্র';
+$language['share']['January'] = 'জানুয়ারী';
+$language['share']['July'] = 'জুলাই';
+$language['share']['June'] = 'জুন';
+$language['share']['M'] = 'M';
+$language['share']['March'] = 'মার্চ';
+$language['share']['May'] = 'মে';
+$language['share']['Mon'] = 'সোমবার';
+$language['share']['November'] = 'নভেম্বর';
+$language['share']['October'] = 'অক্টোবার';
+$language['share']['S'] = 'S';
+$language['share']['SA'] = 'SA';
+$language['share']['Sat'] = 'শনি';
+$language['share']['September'] = 'সেপ্টেম্বর';
+$language['share']['Sun'] = 'রবি';
+$language['share']['T'] = 'T';
+$language['share']['TH'] = 'TH';
+$language['share']['Thu'] = 'বৃহস্পতি';
+$language['share']['Tue'] = 'মঙ্গল';
+$language['share']['Upload'] = 'আপলোড';
+$language['share']['W'] = 'W';
+$language['share']['Wed'] = 'বুধ';
+?>

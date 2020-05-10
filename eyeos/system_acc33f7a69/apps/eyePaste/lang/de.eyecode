@@ -1,0 +1,10 @@
+<?php
+global $language;
+$language['"%s" already exists. Please enter a new name or replace the existing one.'] = '"%s" existiert bereits. Bitte geben Sie einen neuen Namen ein oder ersetzen Sie bestehende Daten.';
+$language['"%s" cannot be copied from trash.'] = '"%s" kann nicht vom Papierkorb kopiert werden.';
+$language['"%s" cannot be copied to trash.'] = '"%s" kann nicht in den Papierkorb kopiert werden.';
+$language['Cancel'] = 'Abbrechen';
+$language['Links cannot be pasted!'] = 'Links können nicht kopiert werden.';
+$language['Rename'] = 'Unbenenen';
+$language['Replace'] = 'Ersetzen';
+?>

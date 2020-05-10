@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['%s files imported!'] = '%s souborů importováno!';
+$language['Browse'] = 'Procházet';
+$language['Import'] = 'Importovat';
+$language['You have to select a directory to import files'] = 'Musíš označit složku pro import souborů';
+?>

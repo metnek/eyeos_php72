@@ -1,0 +1,29 @@
+<?php
+global $language;
+$language['Add bookmark'] = 'Aggiungi segnalibro';
+$language['Back'] = 'Indietro';
+$language['Bookmark does not exist!'] = 'Il Segnalibro non esiste!';
+$language['Bookmark title'] = 'Titolo segnalibro';
+$language['Bookmarks'] = 'Segnalibri';
+$language['Delete bookmark'] = 'Cancella segnalibro';
+$language['Do you really want to delete this bookmark?'] = 'Vuoi davvero cancellare questo segnalibro?';
+$language['Forums'] = 'Forum';
+$language['Forward'] = 'Inoltra';
+$language['Images'] = 'Immagini';
+$language['Internet'] = 'Internet';
+$language['Knowledge'] = 'Conoscenza';
+$language['Link successfully deleted.'] = 'Collegamento cancellato con successo.';
+$language['Link successfully saved.'] = 'Collegamento salvato con successo.';
+$language['Navigator'] = 'Navigatore';
+$language['Open bookmarks'] = 'Apri segnalibri';
+$language['Open searches'] = 'Apri ricerche';
+$language['Search'] = 'Cerca';
+$language['Settings'] = 'Impostazioni';
+$language['Startpage'] = 'Pagina di inizio';
+$language['The selected file is not a valid eyeNav bookmarks file!'] = 'Il File selezionato non è un segnalibro valido per eyeNav!';
+$language['The selected file is not a valid eyeNav search file!'] = 'Il File selezionato non è un file di ricerca valido per eyeNav!';
+$language['There is already another bookmark with this title!'] = 'Esiste già un segnalibro con questo titolo!';
+$language['Uncategorized'] = 'Senza Categoria';
+$language['Website'] = 'Sito web';
+$language['Wiki'] = 'Wiki';
+?>

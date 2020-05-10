@@ -1,0 +1,18 @@
+<?php
+global $language;
+$language['All files'] = 'Todos os Arquivos';
+$language['Cancel'] = 'Cancelar';
+$language['Delete warning'] = 'Eliminar advertência';
+$language['Do you want to save changes?'] = 'Voce quer salvar as modificações?';
+$language['Don\'t save'] = 'Não salvar';
+$language['File saved successfully.'] = 'Arquivo salvo com sucesso.';
+$language['Full Screen'] = 'Tela Inteira';
+$language['New'] = 'Novo';
+$language['Open'] = 'Abrir';
+$language['Save As'] = 'Salvar Como';
+$language['Save'] = 'Salvar';
+$language['Sorry, you do not have sufficient permissions.'] = 'Desculpe, você não permissão suficiente.';
+$language['Text Editor'] = 'Editor de Texto';
+$language['Text files'] = 'Arquivos Texto';
+$language['Unable to create file'] = 'Não foi possível criar o arquivo';
+?>

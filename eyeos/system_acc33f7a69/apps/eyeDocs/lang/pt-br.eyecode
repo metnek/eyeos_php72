@@ -1,0 +1,21 @@
+<?php
+global $language;
+$language['All files'] = 'Todos os arquivos';
+$language['Cancel'] = 'Cancelar';
+$language['Delete warning'] = 'Apagar a advertência';
+$language['Do you want to save changes?'] = 'Voce deseja salvar as modificações?';
+$language['Document saved successfully.'] = 'Documento salvo com sucesso.';
+$language['Don\'t save'] = 'Não salvar';
+$language['Error - Document not saved. Please try again.'] = 'Erro - Documento não salvo. Favor tentar novamente.';
+$language['Error creating file.'] = 'Erro criando arquivo.';
+$language['Error saving file.'] = 'Erro salvando arquivo.';
+$language['eyeOS document file'] = 'Arquivo de documento eyeOS';
+$language['File not found.'] = 'Arquivo não encontrado.';
+$language['MS Word document file'] = 'Arquivo de documento MS Word';
+$language['Open Document Text file'] = 'Abrir Arquivo de Documento Texto';
+$language['Save'] = 'Salvar';
+$language['Sorry, you do not have sufficient permissions!'] = 'Desculpe, você não tem permissão suficiente!';
+$language['Sorry, you need to enable OpenOffice Support to view this document.'] = 'Desculpe, voce precisa habilitar Suporte ao OpenOffice para ver este documento.';
+$language['The file does not exist.'] = 'Este arquivo não existe.';
+$language['Word Processor'] = 'Processador Word';
+?>

@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Change Label Text'] = 'Mudar o texto';
+$language['Example eyeApp'] = 'Exemplo de uma eyeApp';
+$language['Hello World!'] = 'Olá mundo!';
+?>

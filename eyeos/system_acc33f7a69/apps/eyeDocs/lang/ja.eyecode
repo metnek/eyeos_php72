@@ -1,0 +1,4 @@
+<?php
+global $language;
+$language['Document saved successfully.'] = '文書を保存しました。';
+?>

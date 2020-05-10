@@ -1,0 +1,4 @@
+<?php
+global $language;
+$language['Links cannot be copied!'] = '¡As ligazóns non se poden copiar!';
+?>

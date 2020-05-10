@@ -1,0 +1,22 @@
+<?php
+global $language;
+$language['( Default )'] = '( mindenkori )';
+$language['Create account'] = 'Hozzáférés létrehozása';
+$language['Enter'] = 'Belépés';
+$language['Error creating new user!'] = 'Hiba történt a felhasználó létrehozásakor';
+$language['Language (this session)'] = 'Nyelv (egyszeri használatra)';
+$language['Language'] = 'Nyelv';
+$language['New User'] = 'Új felhasználó';
+$language['Password fields do not match!'] = 'A jelszavak nem egyeznek meg.';
+$language['Password is too short!'] = 'A jelszó túl rövid!';
+$language['Password'] = 'Jelszó:';
+$language['Please fill out all fields!'] = 'Kérem, töltse ki az összes mezőt!';
+$language['Retype password'] = 'Jelszó újból:';
+$language['That user already exists!'] = 'Már van ilyen felhasználónk!';
+$language['The language does not exist!'] = 'Nincs ilyen nyelv telepítve.';
+$language['This system does not allow user registrations!'] = 'A rendszer nem fogad regisztrációkat. Sajnáljuk.';
+$language['Username is too short!'] = 'A felhasználói név túl rövid!';
+$language['Username should be alpha-numeric!'] = 'A felhasználói névben csak az angol ABC betűi vagy szám szerepelhet.';
+$language['Username'] = 'Felhasználói név:';
+$language['Your account has been disabled!'] = 'Ezt a felhasználót kitiltották!';
+?>

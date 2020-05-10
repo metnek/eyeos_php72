@@ -1,0 +1,9 @@
+var strings = new Array();
+strings['April'] = 'April';
+strings['August'] = 'Ogos';
+strings['Copy / paste this code to other spreadsheet applications (e.g. Excel)'] = 'Salin dan tampalkan kod ini ke applikasi lembaran kerja yang lain (misal Excel)';
+strings['December'] = 'Disember';
+strings['Del. Column'] = 'Hapus Column';
+strings['Del. Row'] = 'Hapus Row';
+strings['October'] = 'Oktober';
+strings['Save'] = 'Simpan';

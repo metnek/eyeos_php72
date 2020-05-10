@@ -1,0 +1,28 @@
+<?php
+global $language;
+$language['Are you sure you want to empty all messages of this folder?'] = '¿Seguro que quieres vaciar esta carpeta?';
+$language['Attach'] = 'Adjuntar';
+$language['Confirm empty'] = 'Confirmar vaciado';
+$language['Date'] = 'Fecha';
+$language['Download'] = 'Descargar';
+$language['Emptied'] = 'Vaciado';
+$language['Empty'] = 'Vacío';
+$language['Error opening message'] = 'Error abriendo el mensaje';
+$language['File saved successfully.'] = 'Archivo guardado con éxito';
+$language['From'] = 'De';
+$language['Inbox'] = 'Entrada';
+$language['Internal Messaging'] = 'Mensajería interna';
+$language['Message restored in its original folder'] = 'Mensaje restaurado en su carpeta original';
+$language['Read Message'] = 'Leer mensaje';
+$language['Read'] = 'Leer';
+$language['Refresh'] = 'Actualizar';
+$language['Reply'] = 'Contestar';
+$language['Restore'] = 'Restaurar';
+$language['Sent'] = 'Enviado';
+$language['Subject'] = 'Asunto';
+$language['To'] = 'Para';
+$language['Trash'] = 'Papelera';
+$language['Unread'] = 'No leídos';
+$language['You must choose a message to delete'] = 'Debes elegir un mensaje para suprimirlo';
+$language['You must choose a message to open'] = 'Debes elegir un mensaje para abrirlo';
+?>

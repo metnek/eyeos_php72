@@ -1,0 +1,24 @@
+<?php
+global $language;
+$language['Attach'] = 'Prisegti';
+$language['Date'] = 'Data';
+$language['Download'] = 'Atsiųsti';
+$language['Empty'] = 'Tuščia';
+$language['File saved successfully.'] = 'Rinkmena įrašyta sėkmingai.';
+$language['From'] = 'Nuo';
+$language['Inbox'] = 'Gautos';
+$language['Internal Messaging'] = 'Vidinis Žinučių Siuntimas';
+$language['Message restored in its original folder'] = 'Žinutė atkurta pradiniame aplanke';
+$language['Read Message'] = 'Skaityti Žinutę';
+$language['Read'] = 'Perskaitytos';
+$language['Refresh'] = 'Naujinti';
+$language['Reply'] = 'Atsakyti';
+$language['Restore'] = 'Atkurti';
+$language['Sent'] = 'Išsiųstos';
+$language['Subject'] = 'Tema';
+$language['To'] = 'Kam';
+$language['Trash'] = 'Šiukšlinė';
+$language['Unread'] = 'Neskaitytos';
+$language['You must choose a message to delete'] = 'Turite pasirinkti žinutę šalinimui';
+$language['You must choose a message to open'] = 'Turite pasirinkti žinutę atvėrimui';
+?>

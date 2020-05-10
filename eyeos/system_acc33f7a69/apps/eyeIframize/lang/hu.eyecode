@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Cancel'] = 'Mégsem';
+$language['Open'] = 'Megnyitás';
+$language['What URL do you want to open in an Iframe?'] = 'Mely URL-t szeretné megnyitni Iframe-ben?';
+?>

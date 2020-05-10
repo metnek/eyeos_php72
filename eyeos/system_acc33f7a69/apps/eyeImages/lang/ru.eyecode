@@ -1,0 +1,16 @@
+<?php
+global $language;
+$language['All files'] = 'Все файлы';
+$language['BMP files'] = 'BMP файлы';
+$language['Full Screen'] = 'Во весь экран';
+$language['GIF files'] = 'GIF файлы';
+$language['Image formats'] = 'Форматы изображения';
+$language['JPEG files'] = 'JPEG файлы';
+$language['JPG files'] = 'JPG файлы';
+$language['Next'] = 'Вперёд';
+$language['No image could be found.'] = 'Изображения не найдены.';
+$language['PNG files'] = 'PNG файлы';
+$language['Previous'] = 'Назад';
+$language['TIFF files'] = 'TIFF файлы';
+$language['View Images'] = 'Просмотр изображений';
+?>

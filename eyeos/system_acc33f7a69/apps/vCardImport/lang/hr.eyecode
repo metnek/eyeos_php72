@@ -1,0 +1,11 @@
+<?php
+global $language;
+$language['Directory not found'] = 'Direktorij nije pronađen';
+$language['Error exporting file!'] = 'Došlo je do greške pri izvozu dokumenta!';
+$language['File Imported!'] = 'Dokument uvezen!';
+$language['Format unsupported!'] = 'Format nepodržan!';
+$language['No contacts were found in the file!'] = 'Niti jedan kontakt nije pronađen u ovoj datoteci!';
+$language['The contact already exists!'] = 'Ovaj kontakt već postoji!';
+$language['The file was not found!'] = 'Datoteka nije pronađena!';
+$language['vCardImport cannot initialize, contact with your administrator'] = 'Uvoz vCarda ne može započeti, kontaktirajte administratora';
+?>

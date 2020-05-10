@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['File Imported!'] = 'นำเข้าไฟล์สำเร็จ';
+$language['Format unsupported!'] = 'รูปแบบไม่รองรับ';
+?>

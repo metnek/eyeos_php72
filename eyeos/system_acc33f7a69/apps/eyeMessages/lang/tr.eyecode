@@ -1,0 +1,24 @@
+<?php
+global $language;
+$language['Attach'] = 'Postaya ekle';
+$language['Date'] = 'Tarih';
+$language['Download'] = 'İndir';
+$language['Empty'] = 'Boş';
+$language['File saved successfully.'] = 'Dosya başarıyla kaydedildi.';
+$language['From'] = 'Gönderen';
+$language['Inbox'] = 'Posta Kutusu';
+$language['Internal Messaging'] = 'Sistem İçi Mesajlaşma';
+$language['Message restored in its original folder'] = 'Mesaj orjinal klasörüne geri taşındı';
+$language['Read Message'] = 'Mesaj Oku';
+$language['Read'] = 'Oku';
+$language['Refresh'] = 'Yenile';
+$language['Reply'] = 'Cevapla';
+$language['Restore'] = 'Geri Yükle';
+$language['Sent'] = 'Gönderildi';
+$language['Subject'] = 'Başlık';
+$language['To'] = 'Kime';
+$language['Trash'] = 'Çöp';
+$language['Unread'] = 'Okunmamış';
+$language['You must choose a message to delete'] = 'Silmek için mesajı seçmelisiniz';
+$language['You must choose a message to open'] = 'Açmak için mesajı seçmelisiniz';
+?>

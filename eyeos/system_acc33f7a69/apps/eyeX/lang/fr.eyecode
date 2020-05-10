@@ -1,0 +1,8 @@
+<?php
+global $language;
+$language['Please wait...'] = 'Merci de patienter...';
+$language['Unable to save position!'] = 'Impossible de sauvegarder l\'organisation du bureau!';
+$language['Welcome to %s'] = 'Bienvenue sur %s';
+$language['You need to activate Cookies in order to get oneye working. Please visit %s for more information.'] = 'Votre navigateur doit accepter les cookies pour pouvoir utiliser oneye. Veuillez consulter %s pour plus d\'information.';
+$language['You need to activate JavaScript in order to get oneye working. Please visit %s for more information.'] = 'Javascript doit être activé dans votre navigateur pour pouvoir utiliser oneye. Veuillez consulter %s pour plus d\'information.';
+?>

@@ -1,0 +1,16 @@
+<?php
+global $language;
+$language['All files'] = 'Alle bestanden';
+$language['BMP files'] = 'BMP bestanden';
+$language['Full Screen'] = 'Volledig scherm';
+$language['GIF files'] = 'GIF bestanden';
+$language['Image formats'] = 'Image formats';
+$language['JPEG files'] = 'JPEG bestanden';
+$language['JPG files'] = 'JPG bestanden';
+$language['Next'] = 'Volgende';
+$language['No image could be found.'] = 'Kan geen afbeelding vinden.';
+$language['PNG files'] = 'PNG bestanden';
+$language['Previous'] = 'Vorige';
+$language['TIFF files'] = 'TIFF bestanden';
+$language['View Images'] = 'Toon Beelden';
+?>

@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Links cannot be copied!'] = 'As ligações não podem ser copiadas!';
+$language['You can paste "%s" into another folder now.'] = 'Pode colar agora "%s" noutra pasta';
+?>

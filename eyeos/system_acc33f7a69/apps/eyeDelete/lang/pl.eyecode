@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['"%s" has been removed successfully.'] = '"%s" został pomyślnie usunięty.';
+$language['"%s" moved to trash successfully.'] = '"%s" został pomyślnie przeniesiony do kosza.';
+$language['Error deleting file!'] = 'Błąd podczas usuwania pliku.';
+?>

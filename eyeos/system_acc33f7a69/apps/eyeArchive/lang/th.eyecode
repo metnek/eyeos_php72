@@ -1,0 +1,13 @@
+<?php
+global $language;
+$language['Compress to...'] = 'บีบอัดเป็น...';
+$language['Compress'] = 'บีบอัด';
+$language['Compressed successfully'] = 'การบีบอัดสำเสร็จ';
+$language['Extract to...'] = 'แตกออกไปที...';
+$language['Extract'] = 'แตกออก';
+$language['File extracted successfully.'] = 'การแตกไฟล์สำเร็จ';
+$language['File extraction failed'] = 'การแตกไฟล์ล้มเหลว';
+$language['Filename'] = 'ชื่อไฟล์';
+$language['No file open'] = 'ไม่มีไฟล์เปิด';
+$language['The compress type is not supported'] = 'ชนิดของการบีบอัดไม่รองรับ';
+?>

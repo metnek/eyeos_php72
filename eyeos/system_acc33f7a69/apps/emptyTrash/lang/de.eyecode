@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Accept'] = 'Fortfahren';
+$language['Cancel'] = 'Abbrechen';
+$language['Delete %s'] = '%s löschen';
+$language['Do you really want to empty the trash?'] = 'Möchten Sie den Papierkorb wirklich leeren?';
+$language['Do you really want to remove "%s"?'] = 'Möchten Sie "%s" wirklich löschen?';
+$language['Empty trash'] = 'Papierkorb leeren';
+?>

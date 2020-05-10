@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Projects'] = 'Proyectos';
+$language['Supporters'] = 'Colaboradores';
+$language['Thanks to...'] = 'Gracias a...';
+?>

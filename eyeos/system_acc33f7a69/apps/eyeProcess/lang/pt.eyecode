@@ -1,0 +1,13 @@
+<?php
+global $language;
+$language['Application killed successfully.'] = 'Aplicação terminada com sucesso.';
+$language['Application'] = 'Aplicações';
+$language['Close Application'] = 'Fechar aplicação';
+$language['Kill process'] = 'Terminar processo';
+$language['New process'] = 'Novo processo';
+$language['Pid'] = 'Pid';
+$language['Process killed successfully.'] = 'Processo terminado com sucesso';
+$language['Process Manager'] = 'Gestor de Processos';
+$language['Process Name'] = 'Nome do processo';
+$language['Username'] = 'Utilizador';
+?>

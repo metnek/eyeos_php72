@@ -1,0 +1,33 @@
+<?php
+global $language;
+$language['%s download is corrupted! unable to install'] = 'Pobieranie %s nie udało się! Nie można zainstalować';
+$language['%s installed succesfully!'] = 'Instalacja %s zakończona pomyślnie!';
+$language['Accept'] = 'Akceptuj';
+$language['Administration'] = 'Administracja';
+$language['App Name'] = 'Nazwa aplikacji';
+$language['Author: %s'] = 'Autor: %s';
+$language['Categories'] = 'Kategorie';
+$language['Category: %s'] = 'Kategoria: %s';
+$language['Dependencies: %s'] = 'Zależności: %s';
+$language['Description: %s'] = 'Opis: %s';
+$language['Do you really want to uninstall this application?'] = 'Czy aby na pewno chcesz odinstalować tę aplikację?';
+$language['Downloading and Installing %s ... please wait'] = 'Pobieranie i instalowanie %s ... Proszę czekać';
+$language['Education'] = 'Edukacja';
+$language['eyeSoft: Package list updated'] = 'Lista paczek zaktualizowana.';
+$language['Install'] = 'Instaluj';
+$language['Installed'] = 'Zainstalowano';
+$language['Installing'] = 'Instalowanie';
+$language['License: %s'] = 'Licencja: %s';
+$language['Name: %s'] = 'Nazwa: %s';
+$language['Only root can install eyeApps'] = 'Tylko administrator może instalować aplikacje.';
+$language['Please choose an applictaion to be installed.'] = 'Wybierz aplikację do zainstalowania.';
+$language['Please choose an applictaion to be uninstalled.'] = 'Wybierz aplikację do odinstalowania.';
+$language['Search'] = 'Szukaj';
+$language['Suggestions: %s'] = 'Sugestie: %s';
+$language['The application was successfully uninstalled.'] = 'Aplikacja została odinstalowana pomyślnie.';
+$language['Uninstall application'] = 'Odinstaluj aplikację';
+$language['Uninstall'] = 'Odinstaluj';
+$language['Update'] = 'Aktualizacja';
+$language['Version'] = 'Wersja';
+$language['Version: %s'] = 'Wersja: %s';
+?>

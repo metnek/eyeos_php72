@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['%s has had a problem and could not be executed'] = '%s fikk et problem og kunne ikke kjøres';
+$language['%s has had an unknow problem and could not be executed'] = '%s har et ukjent problem og kunne ikke kjøres';
+$language['%s not found'] = 'Fant ikke %s';
+$language['Error, empty username or password'] = 'Feil: blankt brukernavn eller passord';
+$language['Error, invalid username or password'] = 'Feil: ugyldig brukernavn eller passord';
+$language['Invalid username'] = 'Utgyldig brukenavn';
+$language['Password'] = 'Passord';
+$language['Run as different user'] = 'Kjør som en annen bruker';
+$language['Run...'] = 'Kjør...';
+$language['Run'] = 'Kjør';
+$language['Type the name of the app or command to run'] = 'Angi programnavn';
+$language['User'] = 'Bruker';
+?>

@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['Are you sure you want to replace this file?'] = 'Você tem certeza de que deseja sobreescrever este arquivo?';
+$language['Author'] = 'Autor';
+$language['Cancel'] = 'Cancelar';
+$language['Confirm file replacement'] = 'Confirme sobreescrever arquivo';
+$language['Date'] = 'Data';
+$language['Error while trying to browse folder'] = 'Erro tentando navegar na pasta';
+$language['Folders'] = 'Pastas';
+$language['Home'] = 'Pasta pessoal';
+$language['Name'] = 'Nome';
+$language['No'] = 'Não';
+$language['Open'] = 'Abrir';
+$language['Save as...'] = 'Salvar como...';
+$language['Save'] = 'Salvar';
+$language['Select a file to open'] = 'Selecione um arquivo para abrir';
+$language['Select a folder'] = 'Selecione uma pasta';
+$language['Select'] = 'Selecionar';
+$language['Size'] = 'Tamanho';
+$language['Yes'] = 'Sim';
+$language['You must enter a name'] = 'Você deve colocar um nome';
+$language['You must select a file'] = 'Você deve selecionar um arquivo';
+?>

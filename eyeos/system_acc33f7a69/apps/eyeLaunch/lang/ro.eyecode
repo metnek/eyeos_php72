@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['%s not found'] = '%s nu a fost găsit';
+$language['Run...'] = 'Rulează';
+$language['Type the name of the app or command to run'] = 'Scrie numele aplicaţiei sau comandă pentru a rula';
+?>

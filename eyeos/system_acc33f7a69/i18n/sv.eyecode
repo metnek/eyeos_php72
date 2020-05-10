@@ -1,0 +1,33 @@
+<?php
+global $language;
+$language['share']['Another file'] = 'En annan fil';
+$language['share']['April'] = 'april';
+$language['share']['August'] = 'augusti';
+$language['share']['December'] = 'december';
+$language['share']['Error %s'] = 'Fel %';
+$language['share']['extracted'] = 'Uppackat';
+$language['share']['F'] = 'F';
+$language['share']['February'] = 'februari';
+$language['share']['Fri'] = 'fre';
+$language['share']['January'] = 'januari';
+$language['share']['July'] = 'juli';
+$language['share']['June'] = 'juni';
+$language['share']['M'] = 'M';
+$language['share']['March'] = 'mars';
+$language['share']['May'] = 'maj';
+$language['share']['Mon'] = 'Mån';
+$language['share']['November'] = 'november';
+$language['share']['October'] = 'oktober';
+$language['share']['S'] = 'S';
+$language['share']['SA'] = 'L';
+$language['share']['Sat'] = 'Lör';
+$language['share']['September'] = 'september';
+$language['share']['Sun'] = 'Sön';
+$language['share']['T'] = 'Ti';
+$language['share']['TH'] = 'To';
+$language['share']['Thu'] = 'Tors';
+$language['share']['Tue'] = 'Tis';
+$language['share']['Upload'] = 'Ladda Upp';
+$language['share']['W'] = 'O';
+$language['share']['Wed'] = 'Ons';
+?>

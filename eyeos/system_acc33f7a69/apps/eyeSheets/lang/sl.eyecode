@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['File not found!'] = 'Datoteke ni mogoče najti!';
+$language['Sorry, you do not have sufficient permissions.'] = 'Oprostite, nimate ustreznih pravic.';
+$language['Spreadsheet saved successfully.'] = 'Preglednica uspešno shranjena.';
+$language['Spreadsheet'] = 'Preglednica';
+?>

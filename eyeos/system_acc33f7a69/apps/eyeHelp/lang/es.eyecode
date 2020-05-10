@@ -1,0 +1,12 @@
+<?php
+global $language;
+$language['Ask for help'] = 'Pedir ayuda';
+$language['Changes successfully applied.'] = 'Cambios aplicados con éxito';
+$language['eyeHelp preferences'] = 'Preferencias';
+$language['Preferences'] = 'Preferencias';
+$language['Submit'] = 'Enviar';
+$language['The field must not be left empty.'] = 'El campo no puede ser dejado vacío.';
+$language['Topics'] = 'Temas';
+$language['User to contact to ask for help:'] = 'Usuario a contactar al pedir ayuda:';
+$language['You are not allowed to do this.'] = 'No puedes hacer esto.';
+?>

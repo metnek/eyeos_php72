@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Applications'] = 'Programmer';
+$language['Full Screen'] = 'Fullskjerm';
+$language['Install Apps'] = 'Installer programmer';
+$language['Manage Dock'] = 'Endre verktøylinja';
+?>

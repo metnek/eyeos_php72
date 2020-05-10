@@ -1,0 +1,16 @@
+<?php
+global $language;
+$language['All files'] = 'Vse datoteke';
+$language['BMP files'] = 'BMP datoteke';
+$language['Full Screen'] = 'Celi zaslon';
+$language['GIF files'] = 'GIF slike';
+$language['Image formats'] = 'Format slik';
+$language['JPEG files'] = 'JPEG datoteke';
+$language['JPG files'] = 'JPG datoteke';
+$language['Next'] = 'Naslednji';
+$language['No image could be found.'] = 'Slik ni mogoče najti.';
+$language['PNG files'] = 'PNG datoteke';
+$language['Previous'] = 'Prejšnji';
+$language['TIFF files'] = 'TIFF datoteke';
+$language['View Images'] = 'Poglej slike';
+?>

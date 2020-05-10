@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Applications'] = 'Aplikacje';
+$language['Install Apps'] = 'Zainstaluj aplikacje';
+$language['Manage Dock'] = 'Zarządzaj panelem aplikacji';
+?>

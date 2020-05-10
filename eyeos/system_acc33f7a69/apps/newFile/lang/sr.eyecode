@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Create a file'] = 'Креирај фајл';
+$language['Error creating file!'] = 'Грешка при креирању фајла!';
+$language['Please type the name of the new file here:'] = 'Молимо унесите назив новог фајла овде:';
+?>

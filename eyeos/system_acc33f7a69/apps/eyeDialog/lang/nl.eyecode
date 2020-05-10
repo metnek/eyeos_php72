@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['Are you sure you want to replace this file?'] = 'Weet u zeker dat u dit bestand wilt vervangen?';
+$language['Author'] = 'Auteur';
+$language['Cancel'] = 'Annuleren';
+$language['Confirm file replacement'] = 'Bevestig bestand vervangen';
+$language['Date'] = 'Datum';
+$language['Error while trying to browse folder'] = 'Fout terwijl we een map verkennen';
+$language['Folders'] = 'Mappen';
+$language['Home'] = 'Home';
+$language['Name'] = 'Naam';
+$language['No'] = 'Nee';
+$language['Open'] = 'Open';
+$language['Save as...'] = 'Opslaan als...';
+$language['Save'] = 'Opslaan';
+$language['Select a file to open'] = 'Selecteer een bestand om te openen';
+$language['Select a folder'] = 'Selecteer een map';
+$language['Select'] = 'Selecteer';
+$language['Size'] = 'Grootte';
+$language['Yes'] = 'Ja';
+$language['You must enter a name'] = 'Je moet een naam ingeven';
+$language['You must select a file'] = 'Je moet een bestand selecteren';
+?>

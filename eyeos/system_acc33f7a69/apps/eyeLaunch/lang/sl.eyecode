@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['%s has had a problem and could not be executed'] = 'Napaka pri zagonu %s. Ni bilo mogoče zagnati.';
+$language['%s has had an unknow problem and could not be executed'] = 'Neznana napaka pri zagonu %s. Ni bilo mogoče zagnati.';
+$language['%s not found'] = 'Ne najdem %s';
+$language['Error, empty username or password'] = 'Napaka, prazno uporabniško ime ali geslo';
+$language['Error, invalid username or password'] = 'Napaka, napačni uporabnik ali geslo';
+$language['Invalid username'] = 'Napačni uporabnik';
+$language['Password'] = 'Geslo';
+$language['Run as different user'] = 'Zaženi kot drug uporabnik';
+$language['Run...'] = 'Zaženi...';
+$language['Run'] = 'Zaženi';
+$language['Type the name of the app or command to run'] = 'Vnesite ime aplikacije ali ukaza za zagon';
+$language['User'] = 'Uporabnik';
+?>

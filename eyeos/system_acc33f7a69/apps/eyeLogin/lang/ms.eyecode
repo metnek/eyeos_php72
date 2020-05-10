@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Create account'] = 'Buat Akaun';
+$language['Enter'] = 'Masuk';
+$language['Language'] = 'Bahasa';
+$language['New User'] = 'Pengguna Baru';
+$language['Password'] = 'Kata Rahsia';
+$language['Username'] = 'Nama';
+?>

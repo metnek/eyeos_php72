@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Cancel'] = 'Prekliči';
+$language['Create a link'] = 'Ustvari povezavo';
+$language['Create'] = 'Ustvari';
+$language['Please type the title of the link here:'] = 'Prosim vstavite naslov povezave tukaj:';
+?>

@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['Archive Manager'] = 'Managerul de arhive';
+$language['Compress to...'] = 'Comprimă în...';
+$language['Compress'] = 'Comprimă';
+$language['Compressed successfully'] = 'Comprimare reuşită';
+$language['Compression failed'] = 'Comprimare eşuată';
+$language['Extract to...'] = 'Extrage în...';
+$language['Extract'] = 'Extrage';
+$language['File extracted successfully.'] = 'Fişierele au fost extrase cu succes.';
+$language['File extraction failed'] = 'Fişierele nu au fost extrae cu succes';
+$language['Filename'] = 'Numele fişierului';
+$language['No file open'] = 'Fişierul nu poate fi deschis';
+$language['The compress type is not supported'] = 'Tipul fişierului comprimat nu este suportat';
+?>

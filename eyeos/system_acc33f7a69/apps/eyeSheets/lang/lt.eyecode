@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['File not found!'] = 'Rinkmena nerasta!';
+$language['Sorry, you do not have sufficient permissions.'] = 'Atsiprašome, Jūs neturite reikiamų prieigos teisių.';
+$language['Spreadsheet saved successfully.'] = 'Skaičiuoklė įrašyta sėkmingai.';
+$language['Spreadsheet'] = 'Skaičiuoklė';
+?>

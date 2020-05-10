@@ -1,0 +1,11 @@
+<?php
+global $language;
+$language['Add files to transfer, then press Upload now!'] = 'Lägg till filer för överföring och tryck på Ladda upp nu!';
+$language['Add files'] = 'Lägg till filer';
+$language['Advanced'] = 'Avancerat';
+$language['Remove'] = 'Ta bort';
+$language['Simple'] = 'Enkel';
+$language['Transfering: '] = 'Överför:';
+$language['Upload files'] = 'Ladda upp filer';
+$language['Upload now!'] = 'Ladda upp nu!';
+?>

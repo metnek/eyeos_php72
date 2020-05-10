@@ -1,0 +1,4 @@
+<?php
+global $language;
+$language['Create a new document'] = 'Креирај нови документ';
+?>

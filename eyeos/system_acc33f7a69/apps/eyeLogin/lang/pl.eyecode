@@ -1,0 +1,8 @@
+<?php
+global $language;
+$language['Create account'] = 'Stwórz konto';
+$language['Language'] = 'Język';
+$language['New User'] = 'Nowy Użytkownik';
+$language['Password'] = 'Hasło';
+$language['Username'] = 'Użytkownik';
+?>

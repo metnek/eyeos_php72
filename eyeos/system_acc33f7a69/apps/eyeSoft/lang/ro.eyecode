@@ -1,0 +1,31 @@
+<?php
+global $language;
+$language['%s download is corrupted! unable to install'] = '%s descărcarea este coruptă! Instalare oprită.';
+$language['%s installed succesfully!'] = '%s instalat cu succes!';
+$language['Accept'] = 'Acceptă';
+$language['App Name'] = 'Numele aplicaţiei';
+$language['Author: %s'] = 'Autor: %s';
+$language['Categories'] = 'Categorii';
+$language['Category: %s'] = 'Categorie: %s';
+$language['Dependencies: %s'] = 'Dependinţe: %s';
+$language['Description: %s'] = 'Descriere: %s';
+$language['Do you really want to uninstall this application?'] = 'Vrei să dezinstalezi această aplicaţie?';
+$language['Downloading and Installing %s ... please wait'] = 'Descarc şi instalez %s... te rog aşteaptă';
+$language['eyeSoft: Package list updated'] = 'eyeSoft: Lista pachetelor actualizate';
+$language['Install'] = 'Instalează';
+$language['Installed'] = 'Instalat';
+$language['Installing'] = 'Instalez';
+$language['License: %s'] = 'Licenţa: %s';
+$language['Name: %s'] = 'Nume: %s';
+$language['Only root can install eyeApps'] = 'Doar userul root poate instala aplicaţii.';
+$language['Please choose an applictaion to be installed.'] = 'Te rog alege aplicaţia, pe care vrei să o instalezi.';
+$language['Please choose an applictaion to be uninstalled.'] = 'Te rog alege aplicaţia, pe care vrei să o dezinstalezi';
+$language['Search'] = 'Căutare';
+$language['Suggestions: %s'] = 'Sugestii: %s';
+$language['The application was successfully uninstalled.'] = 'Aplicaţia a fost dezinstalată cu succes';
+$language['Uninstall application'] = 'Dezinstalează aplicaţie';
+$language['Uninstall'] = 'Dezinstalează';
+$language['Update'] = 'Actualizează';
+$language['Version'] = 'Versiune';
+$language['Version: %s'] = 'Versiune: %s';
+?>

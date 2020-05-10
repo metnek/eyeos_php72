@@ -1,0 +1,8 @@
+<?php
+global $language;
+$language['"%s" could not be restored!'] = '"%s" Geri taşınamadı';
+$language['"%s" has been restored to your home folder!'] = '"%s" Sizin başlangıç klasörünüze taşındı!';
+$language['Do you really want to restore "%s"?'] = '"%s" \'i Gerçekten geri yüklemek istiyor musunuz?';
+$language['Restore %s'] = 'Geri Yükle "%s"';
+$language['You cannot restore "%s" to a real folder!'] = '"%s"\'i gerçek bir klasöre taşıyamazsınız!';
+?>

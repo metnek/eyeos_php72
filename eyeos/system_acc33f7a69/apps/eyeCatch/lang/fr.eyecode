@@ -1,0 +1,16 @@
+<?php
+global $language;
+$language['Author'] = 'Auteur';
+$language['Choose Map'] = 'Choisir Carte';
+$language['eyeCatch Map'] = 'Carte eyeCatch';
+$language['Full Screen'] = 'Plein écran';
+$language['Just Play'] = 'Jouer';
+$language['Play Map'] = 'Jouer une Carte';
+$language['Please choose a map and click "Play Map". You need to move the player by dragging it. You should try to not fall into holes, while enemies try to catch you. Try to survive as long as possible!'] = 'Veuillez choisir une carte et cliquer sur "Jouer une Carte". Vous devez déplacer le joueur en le faisant glisser. Évitez de tomber dans les trous quand l\'ennemi cherche à vous attraper. Essayez de survivre le plus longtemps possible.';
+$language['Please select a map first.'] = 'Veuillez d\'abord sélectionner une carte';
+$language['Restart Game'] = 'Recommencer une partie';
+$language['To be able to play this map was my first milestone while developing eyeCatch.'] = 'Être capable de jouer avec cette carte a été mon premier objectif pendant que je développais eyeCatch.';
+$language['X is not the spot!!'] = 'X n\'est pas un emplacement!';
+$language['You felt into a hole after %s seconds.'] = 'Vous êtes tombé dans un trou après %s secondes.';
+$language['You got catched after %s seconds.'] = 'Vous avez été attrapé après %s secondes.';
+?>

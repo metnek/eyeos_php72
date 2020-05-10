@@ -1,0 +1,22 @@
+<?php
+global $language;
+$language['( Default )'] = '( По умолчанию )';
+$language['Create account'] = 'Создать учётную запись';
+$language['Enter'] = 'Войти';
+$language['Error creating new user!'] = 'Не удалось создать нового пользователя!';
+$language['Language (this session)'] = 'Язык (этот сеанс)';
+$language['Language'] = 'Язык';
+$language['New User'] = 'Новый пользователь';
+$language['Password fields do not match!'] = 'Пароли не совпадают!';
+$language['Password is too short!'] = 'Пароль слишком короткий!';
+$language['Password'] = 'Пароль';
+$language['Please fill out all fields!'] = 'Пожалуйста заполните все поля!';
+$language['Retype password'] = 'Повторите пароль';
+$language['That user already exists!'] = 'Такой пользователь уже существует!';
+$language['The language does not exist!'] = 'Язык не существует!';
+$language['This system does not allow user registrations!'] = 'В этой системе нет разрешения на регистрацию пользователя!';
+$language['Username is too short!'] = 'Имя пользователя слишком короткое!';
+$language['Username should be alpha-numeric!'] = 'Имя пользователя должно быть буквено-цифровым!';
+$language['Username'] = 'Имя пользователя';
+$language['Your account has been disabled!'] = 'Ваша учётная запись отключена!';
+?>

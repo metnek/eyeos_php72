@@ -1,0 +1,18 @@
+<?php
+global $language;
+$language['All files'] = 'Alle bestanden';
+$language['Cancel'] = 'Annuleren';
+$language['Delete warning'] = 'Verwijder waarschuwing';
+$language['Do you want to save changes?'] = 'Veranderingen opslaan?';
+$language['Don\'t save'] = 'Niet bewaren';
+$language['File saved successfully.'] = 'Bestand opgeslagen.';
+$language['Full Screen'] = 'Volledig scherm';
+$language['New'] = 'Nieuw';
+$language['Open'] = 'Open';
+$language['Save As'] = 'Opslaan als...';
+$language['Save'] = 'Opslaan';
+$language['Sorry, you do not have sufficient permissions.'] = 'Je hebt niet de juiste rechten.';
+$language['Text Editor'] = 'Tekst verwerker';
+$language['Text files'] = 'Tekst bestand';
+$language['Unable to create file'] = 'Kan bestand niet maken';
+?>

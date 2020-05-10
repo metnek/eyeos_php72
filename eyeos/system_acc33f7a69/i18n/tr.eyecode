@@ -1,0 +1,33 @@
+<?php
+global $language;
+$language['share']['Another file'] = 'Başka dosya';
+$language['share']['April'] = 'Nisan';
+$language['share']['August'] = 'Ağustos';
+$language['share']['December'] = 'Aralık';
+$language['share']['Error %s'] = 'Hata %s';
+$language['share']['extracted'] = 'açıldı';
+$language['share']['F'] = 'C';
+$language['share']['February'] = 'Şubat';
+$language['share']['Fri'] = 'Cum';
+$language['share']['January'] = 'Ocak';
+$language['share']['July'] = 'Temmuz';
+$language['share']['June'] = 'Haziran';
+$language['share']['M'] = 'P';
+$language['share']['March'] = 'Mart';
+$language['share']['May'] = 'Mayıs';
+$language['share']['Mon'] = 'Pzt';
+$language['share']['November'] = 'Kasım';
+$language['share']['October'] = 'Ekim';
+$language['share']['S'] = 'P';
+$language['share']['SA'] = 'CT';
+$language['share']['Sat'] = 'Cmt';
+$language['share']['September'] = 'Eylül';
+$language['share']['Sun'] = 'Paz';
+$language['share']['T'] = 'S';
+$language['share']['TH'] = 'PŞ';
+$language['share']['Thu'] = 'Prş';
+$language['share']['Tue'] = 'Sal';
+$language['share']['Upload'] = 'Yükle';
+$language['share']['W'] = 'Ç';
+$language['share']['Wed'] = 'Çrş';
+?>

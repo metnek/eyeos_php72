@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Directory not found'] = 'Kansiota ei löytynyt';
+$language['File Imported!'] = 'Tiedosto Tuotu!';
+$language['Format unsupported!'] = 'Ei-tuettu formaatti!';
+?>

@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['File saved successfully.'] = 'ファイルを保存しました。';
+$language['Sorry, you do not have sufficient permissions.'] = 'あなたには必要な権限がありません。';
+$language['Unable to create file'] = 'ファイルを作成できません';
+?>

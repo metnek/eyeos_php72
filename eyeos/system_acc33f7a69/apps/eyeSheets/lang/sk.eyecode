@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Sorry, you do not have sufficient permissions.'] = 'Prepáčte, ale na túto operáciu nemáte dostatočné práva.';
+$language['Spreadsheet saved successfully.'] = 'Tabuľka uložená.';
+?>

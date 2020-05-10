@@ -1,0 +1,10 @@
+<?php
+global $language;
+$language['"%s" already exists. Please enter a new name or replace the existing one.'] = '"%s" уже существует. Введите новое имя и переместите уже существующий файл.';
+$language['"%s" cannot be copied from trash.'] = '"%s" не может быть скопирован из корзины.';
+$language['"%s" cannot be copied to trash.'] = '"%s" не может быть скопирован в корзину.';
+$language['Cancel'] = 'Отмена';
+$language['Links cannot be pasted!'] = 'Ярлык не может быть скопирован!';
+$language['Rename'] = 'Переименовать';
+$language['Replace'] = 'Переместить';
+?>

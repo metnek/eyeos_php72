@@ -1,0 +1,14 @@
+<?php
+global $language;
+$language['Directory not found'] = 'Klasör bulunamadı';
+$language['Do you really want to import this vCard?'] = 'Bu vCard\'ı onaylamak istediğinizden emin misiniz?';
+$language['Error exporting file!'] = 'Dosya dışa aktarmada hata!';
+$language['File Imported!'] = 'Dosya içe aktarıldı!';
+$language['Format unsupported!'] = 'Desteklenmeyen format!';
+$language['Import %s'] = 'İçe Aktar %s';
+$language['Import'] = 'İçe Aktar';
+$language['No contacts were found in the file!'] = 'Dosyada kişi bilgisi bulunamadı!';
+$language['The contact already exists!'] = 'Kişi zaten mevcut';
+$language['The file was not found!'] = 'Dosya bulunamadı!';
+$language['vCardImport cannot initialize, contact with your administrator'] = 'vCardImport başlatılamadı, yöneticinize danışınız.';
+?>

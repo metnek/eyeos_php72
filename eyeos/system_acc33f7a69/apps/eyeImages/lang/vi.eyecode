@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Next'] = 'Hình kế';
+$language['Previous'] = 'Hình trước';
+$language['View Images'] = 'Xem hình ảnh';
+?>

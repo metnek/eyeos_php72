@@ -1,0 +1,8 @@
+<?php
+global $language;
+$language['Download "%s" as zip'] = '"%s" letöltése ZIP-ként';
+$language['Download!'] = 'Letöltés!';
+$language['Links cannot be downloaded!'] = 'A linkeket nem lehet letölteni!';
+$language['The server does not support zip files.'] = 'A kiszolgáló nem támogatja a ZIP-állományokat.';
+$language['You can close this window now.'] = 'Ez az ablak már bezárható.';
+?>

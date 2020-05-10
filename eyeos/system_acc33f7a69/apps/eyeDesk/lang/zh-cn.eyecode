@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['Applications'] = '应用';
+$language['Calendar'] = '日历';
+$language['New file'] = '新建文件';
+$language['New folder'] = '新建文件夹';
+$language['Open trash'] = '打开回收站';
+$language['Open with'] = '打开方式';
+$language['Paste'] = '粘贴';
+$language['Preferences'] = '首选项';
+$language['Rename'] = '重命名';
+$language['Trash'] = '回收站';
+$language['Upload files'] = '上传文件';
+$language['Welcome to %s, %s.'] = '欢迎到';
+?>

@@ -1,0 +1,20 @@
+<?php
+global $language;
+$language['"%s" has been uploaded successfully.'] = 'Nalaganje "%s" je bilo uspešno.';
+$language['Add files to transfer, then press Upload now!'] = 'Dodajte datoteke za prenos, nato izberite Naloži zdaj!';
+$language['Add files'] = 'Dodaj datoteke';
+$language['Advanced'] = 'Napredno';
+$language['Error occured during upload process!'] = 'Napaka med nalaganjem!';
+$language['Error uploading file!'] = 'Napaka pri nalaganju datoteke!';
+$language['File uploaded successfully.'] = 'Datoteka uspešno naložena.';
+$language['Please enter the HTTP address to a file:'] = 'Prosim vnesite url naslov datoteke:';
+$language['Remove'] = 'Odstrani';
+$language['Simple'] = 'Enostavno';
+$language['The file has been uploaded successfully.'] = 'Datoteka uspešno naložena.';
+$language['Transfering: '] = 'Nalaganje:';
+$language['Upload files'] = 'Naloži datoteke';
+$language['Upload now!'] = 'Naloži zdaj!';
+$language['Web'] = 'Splet';
+$language['You do not have enough free space!'] = 'Ni dovolj prostora!';
+$language['You do not have sufficient permissions!'] = 'Nimate ustreznih pravic!';
+?>

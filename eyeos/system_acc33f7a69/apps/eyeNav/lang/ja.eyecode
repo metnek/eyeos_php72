@@ -1,0 +1,22 @@
+<?php
+global $language;
+$language['Add bookmark'] = 'ブックマーク追加';
+$language['Bookmark title'] = 'ブックマークタイトル';
+$language['Bookmarks'] = 'ブックマーク';
+$language['Delete bookmark'] = 'ブックマーク削除';
+$language['Do you really want to delete this bookmark?'] = '本当にこのブックマークを削除しますか？';
+$language['Forums'] = 'フォーラム';
+$language['Images'] = '画像';
+$language['Internet'] = 'インターネット';
+$language['Knowledge'] = '知識';
+$language['Link successfully deleted.'] = 'リンクを削除しました。';
+$language['Link successfully saved.'] = 'リンクを保存しました。';
+$language['Open bookmarks'] = 'ブックマークを開く';
+$language['Open searches'] = '検索エンジンを開く';
+$language['Search'] = '検索';
+$language['Settings'] = '設定';
+$language['Startpage'] = 'スタートページ';
+$language['There is already another bookmark with this title!'] = '既に同じタイトルのブックマークがあります！';
+$language['Website'] = 'Webサイト';
+$language['Wiki'] = 'Wiki';
+?>

@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Kill process'] = 'Hủy tiến trình';
+$language['New process'] = 'Tiến trình mới';
+$language['Process killed successfully.'] = 'Tiến trình đã bị hủy thành công.';
+$language['Process Manager'] = 'Quản lí tiến trình';
+$language['Process Name'] = 'Tên tiến trình';
+$language['Username'] = 'Người dùng';
+?>

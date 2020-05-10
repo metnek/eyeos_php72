@@ -1,0 +1,29 @@
+<?php
+global $language;
+$language['share']['April'] = 'Travanj';
+$language['share']['August'] = 'Kolovoz';
+$language['share']['December'] = 'Prosinac';
+$language['share']['F'] = 'F';
+$language['share']['February'] = 'Veljača';
+$language['share']['Fri'] = 'Pet';
+$language['share']['January'] = 'Siječanj';
+$language['share']['July'] = 'Srpanj';
+$language['share']['June'] = 'Lipanj';
+$language['share']['M'] = 'M';
+$language['share']['March'] = 'Ožujak';
+$language['share']['May'] = 'Svibanj';
+$language['share']['Mon'] = 'Pon';
+$language['share']['November'] = 'Studeni';
+$language['share']['October'] = 'Listopad';
+$language['share']['S'] = 'S';
+$language['share']['SA'] = 'SA';
+$language['share']['Sat'] = 'Sub';
+$language['share']['September'] = 'Rujan';
+$language['share']['Sun'] = 'Ned';
+$language['share']['T'] = 'T';
+$language['share']['TH'] = 'TH';
+$language['share']['Thu'] = 'Čet';
+$language['share']['Tue'] = 'Uto';
+$language['share']['W'] = 'W';
+$language['share']['Wed'] = 'Sri';
+?>

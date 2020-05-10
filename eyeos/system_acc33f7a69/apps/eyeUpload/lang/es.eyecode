@@ -1,0 +1,20 @@
+<?php
+global $language;
+$language['"%s" has been uploaded successfully.'] = '"%s" ha sido subido con éxito.';
+$language['Add files to transfer, then press Upload now!'] = 'Añade los archivos que quieras, y luego pulsa ¡Subir ya!';
+$language['Add files'] = 'Añadir archivos';
+$language['Advanced'] = 'Avanzado';
+$language['Error occured during upload process!'] = 'Error durante el proceso de subida.';
+$language['Error uploading file!'] = '¡Error subiendo el archivo!';
+$language['File uploaded successfully.'] = 'Archivo subido con éxito.';
+$language['Please enter the HTTP address to a file:'] = 'Por favor introduce la dirección HTTP hacia un archivo:';
+$language['Remove'] = 'Borrar';
+$language['Simple'] = 'Simple';
+$language['The file has been uploaded successfully.'] = 'El archivo ha sido subido con éxito.';
+$language['Transfering: '] = 'Transfiriendo:';
+$language['Upload files'] = 'Subir archivos';
+$language['Upload now!'] = '¡Subir ya!';
+$language['Web'] = 'Web';
+$language['You do not have enough free space!'] = 'No tienes suficiente espacio en tu carpeta personal.';
+$language['You do not have sufficient permissions!'] = '¡No tienes permisos suficientes!';
+?>

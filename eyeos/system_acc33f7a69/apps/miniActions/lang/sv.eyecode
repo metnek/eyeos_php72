@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Do you want this widget to open automatically on the next session?'] = 'Vill du att den här manicken öppnas automatiskt vid nästa session?';
+$language['Send an internal message'] = 'Skicka ett internt meddelande';
+$language['Upload your files'] = 'Ladda upp dina filer';
+?>

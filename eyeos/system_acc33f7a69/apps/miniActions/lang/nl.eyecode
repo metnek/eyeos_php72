@@ -1,0 +1,10 @@
+<?php
+global $language;
+$language['Create a new document'] = 'Nieuw document aanmaken';
+$language['Create a new spreadsheet'] = 'Nieuw rekenblad aanmaken';
+$language['Do you want this widget to open automatically on the next session?'] = 'Wil je dat deze widget de volgende sessie vanzelf opent ?';
+$language['No'] = 'Nee';
+$language['Send an internal message'] = 'Verstuur intern bericht';
+$language['Upload your files'] = 'Upload je bestanden';
+$language['Yes'] = 'Ja';
+?>

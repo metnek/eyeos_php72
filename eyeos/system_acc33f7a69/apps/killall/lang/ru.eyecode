@@ -1,0 +1,4 @@
+<?php
+global $language;
+$language['No process has been killed!'] = 'Нет процессов, которые можно было бы завершить';
+?>

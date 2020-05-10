@@ -1,0 +1,10 @@
+<?php
+global $language;
+$language['Create a new document'] = 'Crea un nou document';
+$language['Create a new spreadsheet'] = 'Crea un nou full de càlcul';
+$language['Do you want this widget to open automatically on the next session?'] = 'Vols que aquest widget s\'obri automàticament en la següent sessió?';
+$language['No'] = 'No';
+$language['Send an internal message'] = 'Envia un missatge intern';
+$language['Upload your files'] = 'Carrega els teus arxius';
+$language['Yes'] = 'Sí';
+?>

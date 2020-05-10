@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Next'] = 'Nästa';
+$language['Previous'] = 'Föregående';
+?>

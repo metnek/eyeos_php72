@@ -1,0 +1,10 @@
+<?php
+global $language;
+$language['"%s" could not be restored!'] = '"%s" kon niet worden hersteld!';
+$language['"%s" has been restored to your home folder!'] = '"%s" is hersteld en opgeslagen in de Home map!';
+$language['Accept'] = 'Ok';
+$language['Cancel'] = 'Annuleren';
+$language['Do you really want to restore "%s"?'] = 'Weet je zeker dat je "%s" wilt herstellen?';
+$language['Restore %s'] = 'Herstel "%s"';
+$language['You cannot restore "%s" to a real folder!'] = 'Kan "%s" niet herstellen naar een bestaande map!';
+?>

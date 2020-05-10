@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Applications'] = 'Aplikasi';
+$language['Install Apps'] = 'Pasang Aplikasi';
+$language['Manage Dock'] = 'Atur Dok';
+?>

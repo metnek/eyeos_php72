@@ -1,0 +1,10 @@
+<?php
+global $language;
+$language['Directory not found'] = '路径未找到';
+$language['Error exporting file!'] = '导出文件出错。';
+$language['File Imported!'] = '文件已导入！';
+$language['Format unsupported!'] = '不支持该文件格式!';
+$language['No contacts were found in the file!'] = '对不起，未在此文件中找到联系人!';
+$language['The file was not found!'] = '文件未找到';
+$language['vCardImport cannot initialize, contact with your administrator'] = '无法初始化vCard导入工具，请联系管理员';
+?>

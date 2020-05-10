@@ -1,0 +1,28 @@
+<?php
+global $language;
+$language['Add bookmark'] = 'Lisää kirjanmerkki';
+$language['Back'] = 'Takaisin';
+$language['Bookmark does not exist!'] = 'Kirjanmerkkiä ei ole olemassa!';
+$language['Bookmark title'] = 'Kirjanmerkin otsikko';
+$language['Bookmarks'] = 'Kirjanmerkit';
+$language['Delete bookmark'] = 'Poista kirjanmerkki';
+$language['Do you really want to delete this bookmark?'] = 'Haluatko varmasti poistaa tämän kirjanmerkin?';
+$language['Forums'] = 'Foorumit';
+$language['Forward'] = 'Eteenpäin';
+$language['Images'] = 'Kuvat';
+$language['Internet'] = 'Internet';
+$language['Knowledge'] = 'Tieto';
+$language['Link successfully deleted.'] = 'Linkki poistettu onnistuneesti.';
+$language['Link successfully saved.'] = 'Linkki tallennettu onnistuneesti.';
+$language['Open bookmarks'] = 'Avaa kirjanmerkit';
+$language['Open searches'] = 'Avaa hakukoneet';
+$language['Search'] = 'Haku';
+$language['Settings'] = 'Asetukset';
+$language['Startpage'] = 'Aloitussivu';
+$language['The selected file is not a valid eyeNav bookmarks file!'] = 'Valittu tiedosto ei ole oikea eyeNavin kirjanmerkki tiedosto!';
+$language['The selected file is not a valid eyeNav search file!'] = 'Valittu tiedosto ei ole oikea eyeNavin hakukone tiedosto!';
+$language['There is already another bookmark with this title!'] = 'Tällä nimellä on jo olemassa toinen kirjanmerkki!';
+$language['Uncategorized'] = 'Ei kategoriaa';
+$language['Website'] = 'Verkkosivusto';
+$language['Wiki'] = 'Wiki';
+?>

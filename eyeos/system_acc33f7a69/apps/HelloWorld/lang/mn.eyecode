@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Change Label Text'] = 'Гарчиг солих';
+$language['Example eyeApp'] = 'Жишээ eyeПрог';
+$language['Hello World!'] = 'Сайн уу дэлхий!';
+?>

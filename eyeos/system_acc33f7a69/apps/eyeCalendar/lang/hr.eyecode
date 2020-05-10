@@ -1,0 +1,28 @@
+<?php
+global $language;
+$language['A calendar with the same name already exists!'] = 'Kalendar s istim imenom već postoji!';
+$language['Add Calendar'] = 'Dodaj kalendar';
+$language['At least, one calendar is required!'] = 'Potreban je najmanje jedan kalendar!';
+$language['Calendar added succesfully'] = 'Kalendar uspješno dodan';
+$language['Calendar is already running!'] = 'Kalendar je već pokrenut!';
+$language['Calendar'] = 'Kalendar';
+$language['Calendars management'] = 'Upravljanje kalendarima';
+$language['Calendars'] = 'Kalendari';
+$language['Configuration saved correctly'] = 'Postavke su ispravno snimljene';
+$language['Configure calendar'] = 'Uredi postavke kalendara';
+$language['Day'] = 'Dan';
+$language['Invalid checkbox value'] = 'Neispravna vrijednost kvadratića';
+$language['Invalid Num %s'] = 'Neispravan broj %s';
+$language['Next'] = 'Sljedeći';
+$language['Please specify the calendar name:'] = 'Molimo unesite ime kalendara:';
+$language['Please type a name for the calendar'] = 'Molimo unesite ime kalendaru';
+$language['Previous'] = 'Prethodna';
+$language['Show'] = 'Prikaži';
+$language['Text for this event:'] = 'Tekst za ovaj događaj:';
+$language['Today'] = 'Danas';
+$language['Two calendars cannot share the same ID!'] = 'Dca kalendara ne mogu dijeliti isti ID!';
+$language['Two calendars cannot share the same name!'] = 'Dva kalendara ne mogu dijeliti isto ime!';
+$language['Week'] = 'Tjedan';
+$language['Window mode'] = 'Prozor';
+$language['Work'] = 'Rad';
+?>

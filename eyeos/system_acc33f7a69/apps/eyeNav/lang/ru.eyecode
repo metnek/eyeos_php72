@@ -1,0 +1,35 @@
+<?php
+global $language;
+$language['Accept'] = 'Принять';
+$language['Add bookmark'] = 'Добавить закладку';
+$language['Back'] = 'Назад';
+$language['Bookmark does not exist!'] = 'Закладка не существует!';
+$language['Bookmark title'] = 'Название закладки';
+$language['Bookmarks'] = 'Закладки';
+$language['Cancel'] = 'Отменить';
+$language['Delete bookmark'] = 'Удалить закладку';
+$language['Do you really want to delete this bookmark?'] = 'Удалить эту закладку?';
+$language['Forums'] = 'Форумы';
+$language['Forward'] = 'Вперёд';
+$language['Full Screen'] = 'Во весь экран';
+$language['Images'] = 'Изображения';
+$language['Internet'] = 'Интернет';
+$language['Knowledge'] = 'Знания';
+$language['Link successfully deleted.'] = 'Ссылка успешно удалена';
+$language['Link successfully saved.'] = 'Ссылка успешно сохранена';
+$language['Navigator'] = 'Веб-браузер';
+$language['No'] = 'Нет';
+$language['Open bookmarks'] = 'Загрузить закладки';
+$language['Open searches'] = 'Загрузить поисковые системы';
+$language['Refresh'] = 'Обновить';
+$language['Search'] = 'Поиск';
+$language['Settings'] = 'Настройки';
+$language['Startpage'] = 'Домой';
+$language['The selected file is not a valid eyeNav bookmarks file!'] = 'В выбранном файле отсутствуют закладки eyeNav';
+$language['The selected file is not a valid eyeNav search file!'] = 'В выбранном файле отсутствуют поисковые системы eyeNav';
+$language['There is already another bookmark with this title!'] = 'Закладка с таким названием уже существует';
+$language['Uncategorized'] = 'Без категории';
+$language['Website'] = 'Веб-сайт';
+$language['Wiki'] = 'Вики';
+$language['Yes'] = 'Да';
+?>

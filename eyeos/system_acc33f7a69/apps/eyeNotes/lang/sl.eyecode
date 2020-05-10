@@ -1,0 +1,18 @@
+<?php
+global $language;
+$language['All files'] = 'Vse datoteke';
+$language['Cancel'] = 'Prekliči';
+$language['Delete warning'] = 'Izbriši opozorilo';
+$language['Do you want to save changes?'] = 'Želite shraniti spremembe?';
+$language['Don\'t save'] = 'Ne shrani';
+$language['File saved successfully.'] = 'Datoteke uspešno shranjene.';
+$language['Full Screen'] = 'Celi zaslon';
+$language['New'] = 'Novo';
+$language['Open'] = 'Odpri';
+$language['Save As'] = 'Shrani kot';
+$language['Save'] = 'Shrani';
+$language['Sorry, you do not have sufficient permissions.'] = 'Oprostite, nimate ustreznih pravic.';
+$language['Text Editor'] = 'Urejevalnik besedil';
+$language['Text files'] = 'Besedilne datoteke';
+$language['Unable to create file'] = 'Datoteke ni mogoče ustvariti';
+?>

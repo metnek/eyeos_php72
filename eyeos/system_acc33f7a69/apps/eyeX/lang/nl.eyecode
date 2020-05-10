@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Please wait...'] = 'Een ogenblik geduld...';
+$language['Unable to save position!'] = 'Niet mogelijk om deze positie te bewaren!';
+$language['Welcome to %s'] = 'Welkom bij %s';
+?>

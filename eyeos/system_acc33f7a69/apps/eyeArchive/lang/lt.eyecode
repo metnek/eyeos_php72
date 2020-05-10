@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['Archive Manager'] = 'Archyvo Nuostatos.';
+$language['Compress to...'] = 'Glaudinti į...';
+$language['Compress'] = 'Glaudinti';
+$language['Compressed successfully'] = 'Suglaudinta sėkmingai';
+$language['Compression failed'] = 'Suglaudinti nepavyko';
+$language['Extract to...'] = 'Išskleisti į...';
+$language['Extract'] = 'Išskleisti';
+$language['File extracted successfully.'] = 'Rinkmena išskleista sėkmingai.';
+$language['File extraction failed'] = 'Rinkmenos išskleisti nepavyko';
+$language['Filename'] = 'Rinkmenos pavadinimas';
+$language['No file open'] = 'Nėra atidaromų rinkmenų';
+$language['The compress type is not supported'] = 'Toks glaudinimo tipas nepalaikomas';
+?>

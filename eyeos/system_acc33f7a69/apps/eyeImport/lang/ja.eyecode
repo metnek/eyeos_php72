@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['%s files imported!'] = '%s個のファイルをインポートしました！';
+$language['Browse'] = 'ブラウズ';
+$language['Import'] = 'インポート';
+$language['You have to select a directory to import files'] = 'ファイルをインポートするためにディレクトリを選択して下さい。';
+?>

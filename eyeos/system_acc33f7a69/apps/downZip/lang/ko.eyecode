@@ -1,0 +1,4 @@
+<?php
+global $language;
+$language['Links cannot be downloaded!'] = '바로가기는 다운로드 할 수 없습니다.';
+?>

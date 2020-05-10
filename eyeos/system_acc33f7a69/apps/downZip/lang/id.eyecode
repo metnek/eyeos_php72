@@ -1,0 +1,8 @@
+<?php
+global $language;
+$language['Download "%s" as zip'] = 'Unduh "%s" sebagai .zip';
+$language['Download!'] = 'Unduh!';
+$language['Links cannot be downloaded!'] = 'Link Tidak Dapat didownload!';
+$language['The server does not support zip files.'] = 'Server tidak mendukung file zip';
+$language['You can close this window now.'] = 'Kamu dapat menutup window sekarang';
+?>

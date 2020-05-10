@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Cancel'] = 'Mégsem';
+$language['Create a link'] = 'Indító létrehozása';
+$language['Create'] = 'Létrehozás';
+$language['Please type the title of the link here:'] = 'Írja be az új indító címét!';
+?>

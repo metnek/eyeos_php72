@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['Adv.'] = 'Av.';
+$language['C'] = 'C';
+$language['Calculator'] = 'Kalkulator';
+$language['CE'] = 'CE';
+$language['Del'] = 'Sle';
+$language['Delete'] = 'Slett';
+$language['Division by zero is invalid!'] = 'Kan ikke dele med null!';
+$language['Exponentiation of zero by a negative number or zero is invalid!'] = 'Kan ikke beregne exp med null eller et negativt tall!';
+$language['Factorial of a negative number is invalid!'] = 'Kan ikke beregne fakt av et negativt tall!';
+$language['Logarithm of a negative number or zero is invalid!'] = 'Kan ikke beregne log av null eller et negativt tall!';
+$language['Simple'] = 'Enkel';
+$language['Square root of a negative number is invalid!'] = 'Kan ikke bergne kvadratrot av et negativt tall!';
+?>

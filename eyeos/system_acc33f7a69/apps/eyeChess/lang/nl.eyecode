@@ -1,0 +1,12 @@
+<?php
+global $language;
+$language['Bishop'] = 'Bisschop';
+$language['Chess Game'] = 'Schaakspel';
+$language['Computer level:'] = 'Computer Niveau';
+$language['Knight'] = 'Ridder';
+$language['Movements'] = 'Zetten';
+$language['Next pawn becomes:'] = 'Volgende figuur wordt:';
+$language['Queen'] = 'Koningin';
+$language['Slow'] = 'Langzaam';
+$language['Undo'] = 'Ongedaan maken';
+?>

@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['%s files imported!'] = '%s archivos importados';
+$language['Browse'] = 'Buscar';
+$language['Import'] = 'Importar';
+$language['You have to select a directory to import files'] = 'Debes seleccionar un directorio para importar archivos';
+?>

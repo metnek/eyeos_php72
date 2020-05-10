@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['"%s" has been removed successfully.'] = '"%s" is succesvol verwijderd.';
+$language['"%s" moved to trash successfully.'] = '"%s" is succesvol in de prullenmand geplaatst.';
+$language['Error deleting file!'] = 'Fout bij verwijderen van bestand';
+?>

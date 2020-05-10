@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['Add bookmark'] = 'Dodaj zakładkę';
+$language['Back'] = 'Wróć';
+$language['Bookmark title'] = 'Tytuł zakładki';
+$language['Bookmarks'] = 'Zakładki';
+$language['Delete bookmark'] = 'Usuń zakładkę';
+$language['Do you really want to delete this bookmark?'] = 'Czy aby na pewno chcesz usunąć tę zakładkę?';
+$language['Forums'] = 'Fora dyskusyjne';
+$language['Images'] = 'Obrazy';
+$language['Internet'] = 'Internet';
+$language['Knowledge'] = 'Wiedza';
+$language['Link successfully deleted.'] = 'Link usunięty pomyślnie.';
+$language['Link successfully saved.'] = 'Link zapisany pomyślnie.';
+$language['Open bookmarks'] = 'Otwórz zakładki';
+$language['Open searches'] = 'Otwórz wyszukiwanie';
+$language['Search'] = 'Szukaj';
+$language['Settings'] = 'Ustawienia';
+$language['Startpage'] = 'Strona startowa';
+$language['There is already another bookmark with this title!'] = 'Istnieje już zakładka o takim tytule!';
+$language['Website'] = 'Strona domowa';
+$language['Wiki'] = 'Wiki';
+?>

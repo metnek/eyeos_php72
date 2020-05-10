@@ -1,0 +1,8 @@
+<?php
+global $language;
+$language['Create a new document'] = '新建字处理文档';
+$language['Create a new spreadsheet'] = '新建电子表格文档';
+$language['Do you want this widget to open automatically on the next session?'] = '您希望该工具在下次会话中自动打开吗?';
+$language['Send an internal message'] = '发送内部消息';
+$language['Upload your files'] = '上传文件';
+?>

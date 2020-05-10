@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Cancel'] = 'Abbrechen';
+$language['Create a link'] = 'Neuer Link';
+$language['Create'] = 'Erstellen';
+$language['Please type the title of the link here:'] = 'Bitte geben Sie den Namen des Links hier an:';
+?>

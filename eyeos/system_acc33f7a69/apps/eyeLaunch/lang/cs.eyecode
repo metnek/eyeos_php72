@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['%s has had a problem and could not be executed'] = '%s má problém a nemůže být spuštěn';
+$language['%s has had an unknow problem and could not be executed'] = '%s má neznámý problém a nemůže být spuštěn';
+$language['%s not found'] = '%s nenalezen';
+$language['Error, empty username or password'] = 'Chyba, prázdné uživatelské jméno nebo heslo';
+$language['Error, invalid username or password'] = 'Chyba, špatné uživatelské jméno nebo heslo';
+$language['Invalid username'] = 'Špatné uživatelské jméno';
+$language['Password'] = 'Heslo';
+$language['Run as different user'] = 'Spustit jako jiný uživatel';
+$language['Run...'] = 'Spustit...';
+$language['Run'] = 'Spustit';
+$language['Type the name of the app or command to run'] = 'Zadej název programu nebo příkaz:';
+$language['User'] = 'Uživatel';
+?>

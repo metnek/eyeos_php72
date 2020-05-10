@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Applications'] = 'Program';
+$language['Full Screen'] = 'Fullskärm';
+$language['Install Apps'] = 'Installera program';
+$language['Manage Dock'] = 'Hantera dock';
+?>

@@ -1,0 +1,16 @@
+<?php
+global $language;
+$language['All files'] = 'Tots elsarxius';
+$language['BMP files'] = 'Arxius BMP';
+$language['Full Screen'] = 'Pantalla completa';
+$language['GIF files'] = 'Arxius GIF';
+$language['Image formats'] = 'Formats d\'imatge';
+$language['JPEG files'] = 'Arxius JPEG';
+$language['JPG files'] = 'Arxius JPG';
+$language['Next'] = 'Següent';
+$language['No image could be found.'] = 'No s\'han pogut trobar imatges.';
+$language['PNG files'] = 'Arxius PNG';
+$language['Previous'] = 'Anterior';
+$language['TIFF files'] = 'Arxius TIFF';
+$language['View Images'] = 'Visualitza imatges';
+?>

@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['Are you sure you want to replace this file?'] = 'Er du sikker på at du vil erstatte filen?';
+$language['Author'] = 'Forfatter';
+$language['Cancel'] = 'Avbryt';
+$language['Confirm file replacement'] = 'Bekreft filerstatning';
+$language['Date'] = 'Dato';
+$language['Error while trying to browse folder'] = 'Feil ved lesing av mappe';
+$language['Folders'] = 'Mapper';
+$language['Home'] = 'Hjem';
+$language['Name'] = 'Navn';
+$language['No'] = 'Nei';
+$language['Open'] = 'Åpne';
+$language['Save as...'] = 'Lagre som...';
+$language['Save'] = 'Lagre';
+$language['Select a file to open'] = 'Velg en fil å åpne';
+$language['Select a folder'] = 'Velg mappe';
+$language['Select'] = 'Velg';
+$language['Size'] = 'Størrelse';
+$language['Yes'] = 'Ja';
+$language['You must enter a name'] = 'Du må oppgi navn';
+$language['You must select a file'] = 'Du må velge en fil';
+?>

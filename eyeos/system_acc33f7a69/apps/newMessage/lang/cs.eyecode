@@ -1,0 +1,12 @@
+<?php
+global $language;
+$language['Add file'] = 'Přidat soubor';
+$language['Attach'] = 'Příloha';
+$language['Close'] = 'Zavřít';
+$language['Error sending message'] = 'Chyba při odesílání zprávy';
+$language['Message sent'] = 'Zpráva odeslána';
+$language['New Message'] = 'Nová zpráva';
+$language['Send'] = 'Odeslat';
+$language['Subject'] = 'Předmět';
+$language['To'] = 'Komu';
+?>

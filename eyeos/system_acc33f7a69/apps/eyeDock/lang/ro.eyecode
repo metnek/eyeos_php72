@@ -1,0 +1,16 @@
+<?php
+global $language;
+$language['Calculator'] = 'Calculator';
+$language['Calendar'] = 'Calendar';
+$language['Chess Game'] = 'Sah';
+$language['File Manager'] = 'Manager FIşiere';
+$language['FTP Client'] = 'Client FTP';
+$language['Games'] = 'Jocuri';
+$language['Internal Messaging'] = 'Messenger Local';
+$language['Navigator'] = 'Navigator';
+$language['Network'] = 'Reţea';
+$language['Office'] = 'Birou';
+$language['Process Manager'] = 'Manager de procese';
+$language['Public Board'] = 'Panou Public';
+$language['Word Processor'] = 'Editor Text';
+?>

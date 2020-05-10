@@ -1,0 +1,8 @@
+<?php
+global $language;
+$language['Accept'] = 'ยอมรับ';
+$language['Do you really want to install this package into the system?'] = 'คุณต้องการที่จะติดตั้งแพ็กเกจนี้เข้าสู่ระบบ ?';
+$language['Installing'] = 'กำลังติดตั้ง';
+$language['Nothing to install!'] = 'ไม่มีอะไรจะติดตั้ง';
+$language['Package installed successfully!'] = 'ติดตั้งแพ็กเกจเรียบร้อย';
+?>

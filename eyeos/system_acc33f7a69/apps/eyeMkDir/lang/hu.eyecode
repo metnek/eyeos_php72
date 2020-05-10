@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Accept'] = 'Elfogad';
+$language['Cancel'] = 'Mégsem';
+$language['Create folder'] = 'Könyvtár létrehozása';
+$language['Error creating directory!'] = 'Nem sikerült létrehozni a könyvtárat.';
+$language['Some special chars have been removed.'] = 'A különleges karakterek el lettek távolítva.';
+$language['Type the name of the new folder'] = 'Írja be a könyvtár nevét:';
+?>

@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Accept'] = 'Valider';
+$language['Cancel'] = 'Annuler';
+$language['Create folder'] = 'Créer un répertoire';
+$language['Error creating directory!'] = 'Erreur lors de la création du répertoire!';
+$language['Some special chars have been removed.'] = 'Certains caractères spéciaux ont été supprimés.';
+$language['Type the name of the new folder'] = 'Entrer le nom du nouveau répertoire';
+?>

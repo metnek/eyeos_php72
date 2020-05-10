@@ -1,0 +1,12 @@
+<?php
+global $language;
+$language['Add file'] = 'Adjunta';
+$language['Attach'] = 'Adjunt';
+$language['Close'] = 'Tanca';
+$language['Error sending message'] = 'Error enviant missatge';
+$language['Message sent'] = 'Missatge enviat';
+$language['New Message'] = 'Nou missatge';
+$language['Send'] = 'Envia';
+$language['Subject'] = 'Assumpte';
+$language['To'] = 'A';
+?>

@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Choose the groups to share with'] = 'Выберите группу для общего доступа';
+$language['Share "%s" with...'] = 'Общий доступ для "%s" с...';
+$language['Share'] = 'Общий доступ';
+?>

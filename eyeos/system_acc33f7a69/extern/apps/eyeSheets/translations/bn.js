@@ -1,0 +1,14 @@
+var strings = new Array();
+strings['April'] = 'এপ্রিল';
+strings['August'] = 'আগস্ট';
+strings['Copy / paste this code to other spreadsheet applications (e.g. Excel)'] = 'অন্য কোন স্প্রেদসিট প্রোগ্রামে কপি অথবা পেস্ট করুন';
+strings['December'] = 'ডিশেম্বার';
+strings['Del. Column'] = 'কলাম মুছে দিন';
+strings['Del. Row'] = 'রো মুছে দিন';
+strings['February'] = 'ফেব্রুয়ারি';
+strings['Formula'] = 'ফরমুলা';
+strings['Friday'] = 'শুক্রবার';
+strings['Ins. Column'] = 'কলাম ঢোকান';
+strings['Ins. Row'] = 'রো ঢোকান';
+strings['January'] = 'জানুয়ারি';
+strings['July'] = 'জুলাই';

@@ -1,0 +1,32 @@
+<?php
+global $language;
+$language['share']['Another file'] = 'En anden fil';
+$language['share']['April'] = 'April';
+$language['share']['August'] = 'August';
+$language['share']['December'] = 'December';
+$language['share']['Error %s'] = 'Fejl';
+$language['share']['extracted'] = 'udpakket';
+$language['share']['F'] = 'F';
+$language['share']['February'] = 'Februar';
+$language['share']['Fri'] = 'Fri';
+$language['share']['January'] = 'Januar';
+$language['share']['July'] = 'Juli';
+$language['share']['June'] = 'Juni';
+$language['share']['M'] = 'M';
+$language['share']['March'] = 'Marts';
+$language['share']['May'] = 'Maj';
+$language['share']['Mon'] = 'Man';
+$language['share']['November'] = 'November';
+$language['share']['October'] = 'Oktober';
+$language['share']['S'] = 'L';
+$language['share']['SA'] = 'LØ';
+$language['share']['Sat'] = 'Lør';
+$language['share']['September'] = 'September';
+$language['share']['Sun'] = 'Søn';
+$language['share']['T'] = 'T';
+$language['share']['TH'] = 'TO';
+$language['share']['Thu'] = 'Tor';
+$language['share']['Tue'] = 'Tir';
+$language['share']['W'] = 'O';
+$language['share']['Wed'] = 'Ons';
+?>

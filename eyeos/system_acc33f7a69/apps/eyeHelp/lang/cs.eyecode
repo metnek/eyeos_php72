@@ -1,0 +1,12 @@
+<?php
+global $language;
+$language['Ask for help'] = 'Požádat o pomoc';
+$language['Changes successfully applied.'] = 'Změny uloženy.';
+$language['eyeHelp preferences'] = 'Vlastnosti programu Pomoc';
+$language['Preferences'] = 'Vlastnosti';
+$language['Submit'] = 'Odeslat';
+$language['The field must not be left empty.'] = 'Pole nesmí být prázdné.';
+$language['Topics'] = 'Témata';
+$language['User to contact to ask for help:'] = 'Požádat uživatele o pomoc:';
+$language['You are not allowed to do this.'] = 'Tohle ti není dovoleno.';
+?>

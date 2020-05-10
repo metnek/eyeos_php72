@@ -1,0 +1,36 @@
+<?php
+global $language;
+$language['[Unknown string]'] = '[Unknown string]';
+$language['Always remember my last configuration'] = 'Onthoudt altijd mijn laatste instellingen';
+$language['Board size :'] = 'Veld grootte:';
+$language['Cancel'] = 'Annuleren';
+$language['Close'] = 'Sluit';
+$language['Configuration'] = 'Instellingen';
+$language['Date'] = 'Datum';
+$language['Do you want to start a new game?'] = 'Wil je een nieuw spel starten?';
+$language['Finished!'] = 'Klaar!';
+$language['Fullscreen'] = 'Volledig scherm';
+$language['Highscores'] = 'Highscores';
+$language['Level / board size (%s-%s):'] = 'Niveau / Veld grootte (%s-%s)';
+$language['Maximum value on edges:'] = 'Maximale randwaarde:';
+$language['Maximum'] = 'Maximum';
+$language['Maybe you should try a higher level...'] = 'Mischien moet je een hoger niveau proberen...';
+$language['Moves'] = 'Zetten';
+$language['Network problem'] = 'Netwerk probleem';
+$language['New game'] = 'Nieuw spel';
+$language['No'] = 'Nee';
+$language['Number of moves:'] = 'Aantal zetten:';
+$language['Rank'] = 'Niveau';
+$language['Save'] = 'Opslaan';
+$language['Tetravex Game'] = 'Tetravex Spel';
+$language['These options won\'t be applied until you start a new game.'] = 'Deze opties worden pas toegepast als er een nieuw spel wordt gestart.';
+$language['Time'] = 'Tijd';
+$language['Tip used! Ranking disabled...'] = 'Tip gebruikt! Geen niveau-aanduiding.';
+$language['Unable to connect to the host server.'] = 'Kan geen verbinding maken met de Host-server.';
+$language['Use colored numbers on tiles'] = 'Gebruik gekleurde nummers op de tegels';
+$language['Use shared highscores on server (all users)'] = 'Gedeelde highscores op server (alle gebruikers)';
+$language['User'] = 'Gebruiker';
+$language['Yes'] = 'Yes';
+$language['Your rank:'] = 'Jouw niveau:';
+$language['Your time:'] = 'Jouw tijd:';
+?>

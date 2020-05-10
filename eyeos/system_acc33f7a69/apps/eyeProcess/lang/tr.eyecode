@@ -1,0 +1,10 @@
+<?php
+global $language;
+$language['Kill process'] = 'Görevi sonlandır';
+$language['New process'] = 'Yeni görev';
+$language['Pid'] = 'Pid (Uygulama ID)';
+$language['Process killed successfully.'] = 'Görev başarıyla sonlandırıldı.';
+$language['Process Manager'] = 'Görev Yöneticisi';
+$language['Process Name'] = 'Görev Adı';
+$language['Username'] = 'Kullanıcı Adı';
+?>

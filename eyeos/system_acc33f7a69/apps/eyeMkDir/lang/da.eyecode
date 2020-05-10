@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Create folder'] = 'Opret mappe';
+$language['Error creating directory!'] = 'Fejl ved oprettelse af mappe!';
+$language['Some special chars have been removed.'] = 'Nogle specialtegn blev fjernet.';
+$language['Type the name of the new folder'] = 'Indtast navnet på den nye mappe';
+?>

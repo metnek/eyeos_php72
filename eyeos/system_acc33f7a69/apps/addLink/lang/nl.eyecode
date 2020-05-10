@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Cancel'] = 'Annuleren';
+$language['Create a link'] = 'Creëer een link';
+$language['Create'] = 'Creëer';
+$language['Please type the title of the link here:'] = 'Typ hier de titel van de link:';
+?>

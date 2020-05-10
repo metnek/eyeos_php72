@@ -1,0 +1,34 @@
+<?php
+global $language;
+$language['(do) Read'] = 'Llegeix';
+$language['Accept'] = 'Accepta';
+$language['Are you sure you want to empty all messages of this folder?'] = 'Estàs segur que vols esborrar tots els missatges d\'aquesta carpeta?';
+$language['Attach'] = 'Adjunt';
+$language['Cancel'] = 'Cancel·la';
+$language['Confirm empty'] = 'Confirma que vols buidar';
+$language['Date'] = 'Data';
+$language['Delete'] = 'Elimina';
+$language['Download'] = 'Descarrega';
+$language['Emptied'] = 'Buidat';
+$language['Empty'] = 'Buida';
+$language['Error opening message'] = 'Error en obrir el missatge';
+$language['File saved successfully.'] = 'L\'arxiu s\'ha guardat correctament.';
+$language['From'] = 'De';
+$language['Full Screen'] = 'Pantalla completa';
+$language['Inbox'] = 'Safata d\'entrada';
+$language['Internal Messaging'] = 'Missatgeria interna';
+$language['Message restored in its original folder'] = 'Missatge restaurat a la seva carpeta original';
+$language['New'] = 'Nou';
+$language['Read Message'] = 'Llegeix el missatge';
+$language['Read'] = 'Llegeix';
+$language['Refresh'] = 'Actualitza';
+$language['Reply'] = 'Contesta';
+$language['Restore'] = 'Restaura';
+$language['Sent'] = 'Enviat';
+$language['Subject'] = 'Assumpte';
+$language['To'] = 'A';
+$language['Trash'] = 'Escombraries';
+$language['Unread'] = 'Sense llegir';
+$language['You must choose a message to delete'] = 'Has de triar un missatge per eliminar-lo';
+$language['You must choose a message to open'] = 'Has de triar un missatge per obrir-lo';
+?>

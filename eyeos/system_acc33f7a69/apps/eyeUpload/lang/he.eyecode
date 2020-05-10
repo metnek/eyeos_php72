@@ -1,0 +1,13 @@
+<?php
+global $language;
+$language['Add files to transfer, then press Upload now!'] = 'הוסף קבצים להעברה ולאחר מכן לחץ על "העלה עכשיו"';
+$language['Add files'] = 'הוסף קבצים';
+$language['Advanced'] = 'מתקדם';
+$language['Error uploading file!'] = 'שגיאה בשידור הקובץ';
+$language['File uploaded successfully.'] = 'הקובץ עלה בהצלחה';
+$language['Remove'] = 'הסר';
+$language['Simple'] = 'פשוט';
+$language['Transfering: '] = 'מעביר';
+$language['Upload files'] = 'העלה קבצים';
+$language['Upload now!'] = 'העלה עכשיו!';
+?>

@@ -1,0 +1,38 @@
+<?php
+global $language;
+$language['[Unknown string]'] = '[Unbekannter Text]';
+$language['Always remember my last configuration'] = 'Einstellungen dauerhaft speichern';
+$language['Board size :'] = 'Level:';
+$language['Cancel'] = 'Abbrechen';
+$language['Close'] = 'Schließen';
+$language['Configuration'] = 'Optionen';
+$language['Date'] = 'Datum';
+$language['Do you want to start a new game?'] = 'Möchten Sie ein neues Spiel starten?';
+$language['Finished!'] = 'Gewonnen!';
+$language['Fullscreen'] = 'Vollbild';
+$language['Highscores'] = 'Bestenliste';
+$language['Level / board size (%s-%s):'] = 'Level (%s bis %s)';
+$language['Maximum value on edges:'] = 'Maximaler Zahlenwert';
+$language['Maximum'] = 'Maximum';
+$language['Maybe you should try a higher level...'] = 'Vielleicht möchten Sie ein höheres Level spielen?';
+$language['Moves'] = 'Züge';
+$language['Network problem'] = 'Netzwerk-Problem';
+$language['New game'] = 'Neues Spiel';
+$language['No'] = 'Nein';
+$language['Number of moves:'] = 'Anzahl an Zügen:';
+$language['Rank'] = 'Platz';
+$language['Save'] = 'Speichern';
+$language['Tetravex Game'] = 'Tetravex';
+$language['These features can only be used when running from an oneye server.'] = 'Diese Funktion kann nur in Verbindung mit einem oneye-Server verwendet werden.';
+$language['These options won\'t be applied until you start a new game.'] = 'Diese Optionen werden für das nächste Spiel übernommen.';
+$language['Time'] = 'Zeit';
+$language['Tip used! Ranking disabled...'] = 'Tipp verwendet! Bestenliste deaktiviert...';
+$language['Unable to connect to the host server.'] = 'Das eyeOS-System kann nicht erreicht werden.';
+$language['Use colored numbers on tiles'] = 'Farbige Zahlen';
+$language['Use shared highscores on server (all users)'] = 'Bestenliste für alle Benutzer';
+$language['User'] = 'Benutzer';
+$language['Would you like to disable oneye related features?'] = 'Möchten Sie oneye-spezifische Funktionen deaktivieren?';
+$language['Yes'] = 'Ja';
+$language['Your rank:'] = 'Ihr Platz:';
+$language['Your time:'] = 'Ihre Zeit:';
+?>

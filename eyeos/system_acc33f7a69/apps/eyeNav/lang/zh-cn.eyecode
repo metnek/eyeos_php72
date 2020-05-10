@@ -1,0 +1,29 @@
+<?php
+global $language;
+$language['Add bookmark'] = '添加书签';
+$language['Back'] = '后退';
+$language['Bookmark does not exist!'] = '书签不存在！';
+$language['Bookmark title'] = '书签标题';
+$language['Bookmarks'] = '书签';
+$language['Delete bookmark'] = '删除书签';
+$language['Do you really want to delete this bookmark?'] = '您确定要删除该书签么?';
+$language['Forums'] = '论坛';
+$language['Forward'] = '前进';
+$language['Images'] = '图片';
+$language['Internet'] = 'Internet';
+$language['Knowledge'] = '知识库';
+$language['Link successfully deleted.'] = '链接删除成功.';
+$language['Link successfully saved.'] = '链接成功保存.';
+$language['Navigator'] = '浏览器';
+$language['Open bookmarks'] = '打开书签';
+$language['Open searches'] = '打开搜索';
+$language['Search'] = '搜索';
+$language['Settings'] = '设置';
+$language['Startpage'] = '起始页';
+$language['The selected file is not a valid eyeNav bookmarks file!'] = '选中的文件并非有效的eyeNav书签文件！';
+$language['The selected file is not a valid eyeNav search file!'] = '选中的文件并非eyeNav搜索文件！';
+$language['There is already another bookmark with this title!'] = '同标题的书签已存在!';
+$language['Uncategorized'] = '无法识别的';
+$language['Website'] = '站点';
+$language['Wiki'] = 'Wiki';
+?>

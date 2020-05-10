@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['%s files imported!'] = '%s файлов импортировано';
+$language['Browse'] = 'Обзор';
+$language['Import'] = 'Импорт';
+$language['You have to select a directory to import files'] = 'Укажите каталог для импорта файлов';
+?>

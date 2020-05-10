@@ -1,0 +1,32 @@
+<?php
+global $language;
+$language['[Unknown string]'] = '[Neznámý řetězec]';
+$language['Always remember my last configuration'] = 'Pamatovat poslední konfiguraci';
+$language['Board size :'] = 'Rozměry plochy :';
+$language['Close'] = 'Zavřít';
+$language['Configuration'] = 'Konfigurace';
+$language['Date'] = 'Datum';
+$language['Do you want to start a new game?'] = 'Chceš začít novou hru?';
+$language['Finished!'] = 'Dokončeno!';
+$language['Fullscreen'] = 'Celá obrazovka';
+$language['Highscores'] = 'Nejvyšší skóre';
+$language['Level / board size (%s-%s):'] = 'Úroveň / rozměry plochy (%s-%s):';
+$language['Maximum value on edges:'] = 'Maximální hodnota na krajích:';
+$language['Maximum'] = 'Maximální';
+$language['Maybe you should try a higher level...'] = 'Možná bys měl zkusit vyšší obtížnost...';
+$language['Moves'] = 'Tahy';
+$language['Network problem'] = 'Problém s připojením';
+$language['New game'] = 'Nová hra';
+$language['Number of moves:'] = 'Počet tahů:';
+$language['Rank'] = 'Hodnocení';
+$language['Tetravex Game'] = 'Tetravex';
+$language['These options won\'t be applied until you start a new game.'] = 'Změny se projeví po restartu hry.';
+$language['Time'] = 'Čas';
+$language['Tip used! Ranking disabled...'] = 'Použita nápověda! Hodnocení zakázáno...';
+$language['Unable to connect to the host server.'] = 'Chyba připojení k serveru.';
+$language['Use colored numbers on tiles'] = 'Použij barevná čísla na políčkách';
+$language['Use shared highscores on server (all users)'] = 'Použij společné nejvyšší skóre na serveru (pro všechny uživatele)';
+$language['User'] = 'Uživatel';
+$language['Your rank:'] = 'Tvoje hodnocení:';
+$language['Your time:'] = 'Tvůj čas:';
+?>

@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['Attach'] = 'Priložiť';
+$language['Date'] = 'Dátum';
+$language['Download'] = 'Stiahnuť';
+$language['Empty'] = 'Prázdny';
+$language['File saved successfully.'] = 'Súbor uložený.';
+$language['From'] = 'Od';
+$language['Inbox'] = 'Prijaté';
+$language['Message restored in its original folder'] = 'Správa obnovená do pôvodného priečinka';
+$language['Read Message'] = 'Čítať správu';
+$language['Read'] = 'Prečítané';
+$language['Refresh'] = 'Obnoviť';
+$language['Reply'] = 'Odpovedať';
+$language['Restore'] = 'Obnoviť';
+$language['Sent'] = 'Odoslané';
+$language['Subject'] = 'Predmet';
+$language['To'] = 'Pre';
+$language['Trash'] = 'Kôš';
+$language['Unread'] = 'Nečítané';
+$language['You must choose a message to delete'] = 'Musíte vybrať správu pre vymazanie';
+$language['You must choose a message to open'] = 'Musíte vybrať správu pre otvorenie';
+?>

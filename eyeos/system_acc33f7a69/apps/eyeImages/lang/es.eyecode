@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Next'] = 'Siguiente';
+$language['Previous'] = 'Anterior';
+$language['View Images'] = 'Ver imágenes';
+?>

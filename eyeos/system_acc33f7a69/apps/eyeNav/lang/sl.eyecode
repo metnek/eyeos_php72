@@ -1,0 +1,35 @@
+<?php
+global $language;
+$language['Accept'] = 'Potrdi';
+$language['Add bookmark'] = 'Dodaj zaznamek';
+$language['Back'] = 'Nazaj';
+$language['Bookmark does not exist!'] = 'Zaznamek ne obstaja!';
+$language['Bookmark title'] = 'Naslov zaznamka';
+$language['Bookmarks'] = 'Zaznamki';
+$language['Cancel'] = 'Prekliči';
+$language['Delete bookmark'] = 'Izbriši zaznamek';
+$language['Do you really want to delete this bookmark?'] = 'Ste prepričani da želite izbrisati zaznamek?';
+$language['Forums'] = 'Forumi';
+$language['Forward'] = 'Posreduj';
+$language['Full Screen'] = 'Celi zaslon';
+$language['Images'] = 'Slike';
+$language['Internet'] = 'Internet';
+$language['Knowledge'] = 'Znanje';
+$language['Link successfully deleted.'] = 'Povezava uspešno izbrisana.';
+$language['Link successfully saved.'] = 'Povezava uspešno shranjena.';
+$language['Navigator'] = 'Navigator';
+$language['No'] = 'No';
+$language['Open bookmarks'] = 'Odpri zaznamke';
+$language['Open searches'] = 'Odpri iskanje';
+$language['Refresh'] = 'Osveži';
+$language['Search'] = 'Išči';
+$language['Settings'] = 'Nastavitve';
+$language['Startpage'] = 'Začetna stran';
+$language['The selected file is not a valid eyeNav bookmarks file!'] = 'Izbrana datoteka ni ustrezna eyeNav datoteka zaznamkov!';
+$language['The selected file is not a valid eyeNav search file!'] = 'Izbrana datoteka ni ustrezna eyeNav datoteka iskanja!';
+$language['There is already another bookmark with this title!'] = 'Zaznamek s tem imenom že obstaja!';
+$language['Uncategorized'] = 'Nekategorizirano';
+$language['Website'] = 'Spletna stran';
+$language['Wiki'] = 'Wiki';
+$language['Yes'] = 'Da';
+?>

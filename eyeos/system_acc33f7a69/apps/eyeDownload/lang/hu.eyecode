@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Download!'] = 'Letöltés!';
+$language['Links cannot be downloaded!'] = 'A linkeket nem lehet letölteni!';
+$language['You can close this window now.'] = 'Az ablak bezárható';
+?>

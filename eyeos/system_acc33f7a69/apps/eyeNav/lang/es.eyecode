@@ -1,0 +1,29 @@
+<?php
+global $language;
+$language['Add bookmark'] = 'Añadir favorito';
+$language['Back'] = 'Atrás';
+$language['Bookmark does not exist!'] = '¡No existe el marcador!';
+$language['Bookmark title'] = 'Título';
+$language['Bookmarks'] = 'Favoritos';
+$language['Delete bookmark'] = 'Eliminar favorito';
+$language['Do you really want to delete this bookmark?'] = '¿Seguro que quieres eliminar este favorito?';
+$language['Forums'] = 'Foros';
+$language['Forward'] = 'Adelante';
+$language['Images'] = 'Imágenes';
+$language['Internet'] = 'Internet';
+$language['Knowledge'] = 'Conocimiento';
+$language['Link successfully deleted.'] = 'Enlace eliminado con éxito.';
+$language['Link successfully saved.'] = 'Enlace guardado con éxito.';
+$language['Navigator'] = 'Navegador';
+$language['Open bookmarks'] = 'Abrir marcadores';
+$language['Open searches'] = 'Abrir búsquedas';
+$language['Search'] = 'Buscar';
+$language['Settings'] = 'Preferencias';
+$language['Startpage'] = 'Pag. inicio';
+$language['The selected file is not a valid eyeNav bookmarks file!'] = '¡El archivo especificado no es un archivo de marcadores de eyeNav válido!';
+$language['The selected file is not a valid eyeNav search file!'] = '¡El archivo especificado no es un archivo de búsquedas de eyeNav válido!';
+$language['There is already another bookmark with this title!'] = '¡Existe otro favorito con este título!';
+$language['Uncategorized'] = 'Sin categoría';
+$language['Website'] = 'Sitio Web';
+$language['Wiki'] = 'Wiki';
+?>

@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Command to be executed:'] = 'Příkaz který bude vykonán:';
+$language['Edit %s'] = 'Upravit %s';
+$language['Update'] = 'Uložit';
+?>

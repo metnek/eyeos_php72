@@ -1,0 +1,14 @@
+<?php
+global $language;
+$language['Actions'] = 'رفتارها';
+$language['Copy'] = 'کپی';
+$language['Delete'] = 'حذف';
+$language['Download as zip'] = 'دانلود به صورت زیپ';
+$language['Download'] = 'دانلود';
+$language['New file'] = 'فایل جدید';
+$language['New folder'] = 'پوشه جدید';
+$language['Paste'] = 'چسباندن';
+$language['Properties'] = 'مشخصات';
+$language['Rename'] = 'تغییر نام';
+$language['Upload files'] = 'آپلود فایلها';
+?>

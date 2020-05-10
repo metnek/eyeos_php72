@@ -1,0 +1,33 @@
+<?php
+global $language;
+$language['share']['Another file'] = 'Druga datoteka';
+$language['share']['April'] = 'April';
+$language['share']['August'] = 'Avgust';
+$language['share']['December'] = 'December';
+$language['share']['Error %s'] = 'Napaka %s';
+$language['share']['extracted'] = 'razpakirano';
+$language['share']['F'] = 'P';
+$language['share']['February'] = 'Februar';
+$language['share']['Fri'] = 'Pet';
+$language['share']['January'] = 'Januar';
+$language['share']['July'] = 'Julij';
+$language['share']['June'] = 'Junij';
+$language['share']['M'] = 'P';
+$language['share']['March'] = 'Marec';
+$language['share']['May'] = 'Maj';
+$language['share']['Mon'] = 'Ponedeljek';
+$language['share']['November'] = 'November';
+$language['share']['October'] = 'Oktober';
+$language['share']['S'] = 'N';
+$language['share']['SA'] = 'S';
+$language['share']['Sat'] = 'So';
+$language['share']['September'] = 'September';
+$language['share']['Sun'] = 'Ned';
+$language['share']['T'] = 'T';
+$language['share']['TH'] = 'Č';
+$language['share']['Thu'] = 'Če';
+$language['share']['Tue'] = 'To';
+$language['share']['Upload'] = 'Naloži';
+$language['share']['W'] = 'S';
+$language['share']['Wed'] = 'Sr';
+?>

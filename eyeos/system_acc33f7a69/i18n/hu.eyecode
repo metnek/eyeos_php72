@@ -1,0 +1,33 @@
+<?php
+global $language;
+$language['share']['Another file'] = 'Másik állomány';
+$language['share']['April'] = 'Április';
+$language['share']['August'] = 'Augusztus';
+$language['share']['December'] = 'December';
+$language['share']['Error %s'] = 'Hiba: %s';
+$language['share']['extracted'] = 'kicsomagolt';
+$language['share']['F'] = 'P';
+$language['share']['February'] = 'Február';
+$language['share']['Fri'] = 'P';
+$language['share']['January'] = 'Január';
+$language['share']['July'] = 'Július';
+$language['share']['June'] = 'Június';
+$language['share']['M'] = 'H';
+$language['share']['March'] = 'Március';
+$language['share']['May'] = 'Május';
+$language['share']['Mon'] = 'H';
+$language['share']['November'] = 'November';
+$language['share']['October'] = 'Október';
+$language['share']['S'] = 'V';
+$language['share']['SA'] = 'Szo';
+$language['share']['Sat'] = 'Szo';
+$language['share']['September'] = 'Szeptember';
+$language['share']['Sun'] = 'V';
+$language['share']['T'] = 'K';
+$language['share']['TH'] = 'Cs';
+$language['share']['Thu'] = 'Cs';
+$language['share']['Tue'] = 'K';
+$language['share']['Upload'] = 'Feltöltés';
+$language['share']['W'] = 'Sz';
+$language['share']['Wed'] = 'Sz';
+?>

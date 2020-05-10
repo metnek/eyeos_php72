@@ -1,0 +1,16 @@
+<?php
+global $language;
+$language['All files'] = 'Minden állomány';
+$language['BMP files'] = 'BMP-állomány';
+$language['Full Screen'] = 'Teljes képernyő';
+$language['GIF files'] = 'GIF-állomány';
+$language['Image formats'] = 'Képformátumok';
+$language['JPEG files'] = 'JPEG-állomány';
+$language['JPG files'] = 'JPG-állomány';
+$language['Next'] = 'Következő';
+$language['No image could be found.'] = 'Nincsenek képek.';
+$language['PNG files'] = 'PNG-állomány';
+$language['Previous'] = 'Előző';
+$language['TIFF files'] = 'TIFF-állomány';
+$language['View Images'] = 'Képnézegető';
+?>

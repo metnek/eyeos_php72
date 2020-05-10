@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['File not found!'] = 'Az állomány nem található.';
+$language['Sorry, you do not have sufficient permissions.'] = 'Nincs engedélye a művelethez.';
+$language['Spreadsheet saved successfully.'] = 'Munkafüzet elmentve.';
+$language['Spreadsheet'] = 'Munkafüzet';
+?>

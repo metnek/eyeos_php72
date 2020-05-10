@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['"%s" has been removed successfully.'] = '"%s" başarıyla silinmiştir.';
+$language['"%s" moved to trash successfully.'] = '"%s" başarıyla çöpe taşınmıştır.';
+$language['Error deleting file!'] = 'Hata dosya silinemedi!';
+?>

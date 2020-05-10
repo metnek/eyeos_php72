@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['File not found!'] = 'Файл не найден!';
+$language['Sorry, you do not have sufficient permissions.'] = 'Недостаточно прав доступа';
+$language['Spreadsheet saved successfully.'] = 'Таблица успешно сохранена';
+$language['Spreadsheet'] = 'Электронные таблицы';
+?>

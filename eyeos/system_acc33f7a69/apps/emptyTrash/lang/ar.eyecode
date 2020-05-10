@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Accept'] = 'موافق';
+$language['Cancel'] = 'ألغِ';
+$language['Delete %s'] = 'احذف %s';
+$language['Do you really want to empty the trash?'] = 'أتريد حقا إفراغ النفاية؟';
+$language['Do you really want to remove "%s"?'] = 'أتريد حقا حذف "%s"؟';
+$language['Empty trash'] = 'أفرغ النفاية';
+?>

@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['Are you sure you want to replace this file?'] = 'أتريد حقا استبدال هذا الملف؟';
+$language['Author'] = 'المؤلف';
+$language['Cancel'] = 'تراجع';
+$language['Confirm file replacement'] = 'توكيد استبدال ملف';
+$language['Date'] = 'التاريخ';
+$language['Error while trying to browse folder'] = 'عطل أثناء استعراض الدليل';
+$language['Folders'] = 'أدلة';
+$language['Home'] = 'الرئيسي';
+$language['Name'] = 'الاسم';
+$language['No'] = 'لا';
+$language['Open'] = 'افتح';
+$language['Save as...'] = 'احفظ باسم...';
+$language['Save'] = 'احفظ';
+$language['Select a file to open'] = 'اختر ملفا لفتحه';
+$language['Select a folder'] = 'اختر دليلا';
+$language['Select'] = 'اختر';
+$language['Size'] = 'الحجم';
+$language['Yes'] = 'نعم';
+$language['You must enter a name'] = 'ينبغي إدخال اسم';
+$language['You must select a file'] = 'ينبغي اختيار ملف';
+?>

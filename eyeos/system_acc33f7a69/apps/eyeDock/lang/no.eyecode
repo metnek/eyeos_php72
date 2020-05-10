@@ -1,0 +1,24 @@
+<?php
+global $language;
+$language['Accessories'] = 'Tilbehør';
+$language['Calculator'] = 'Kalkulator';
+$language['Calendar'] = 'Kalender';
+$language['Chess Game'] = 'Sjakk';
+$language['Contact Manager'] = 'Kontaktpersoner';
+$language['File Manager'] = 'Filbehandler';
+$language['FTP Client'] = 'FTP-klient';
+$language['Games'] = 'Spill';
+$language['Internal Messaging'] = 'Interne meldinger';
+$language['Mail Client'] = 'E-postklient';
+$language['Navigator'] = 'Nettleser';
+$language['Network'] = 'Nettverk';
+$language['Office'] = 'Kontor';
+$language['Process Manager'] = 'Prosessbehandler';
+$language['Public Board'] = 'Oppslagstavle';
+$language['RSS Feed Reader'] = 'RSS-leser';
+$language['Spreadsheet'] = 'Regneark';
+$language['System'] = 'System';
+$language['Tetravex Game'] = 'Tetravex';
+$language['Text Editor'] = 'Tekstredigering';
+$language['Word Processor'] = 'Tekstbehandling';
+?>

@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Links cannot be copied!'] = 'Zástupce nelze kopírovat!';
+$language['You can paste "%s" into another folder now.'] = 'Nyní můžeš vložit "%s" do jiné složky.';
+?>

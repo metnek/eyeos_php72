@@ -1,0 +1,28 @@
+<?php
+global $language;
+$language['Are you sure you want to empty all messages of this folder?'] = '你确信清空该文件夹中所有的内容？';
+$language['Attach'] = '附件';
+$language['Confirm empty'] = '确认清空';
+$language['Date'] = '日期';
+$language['Download'] = '下载';
+$language['Emptied'] = '已清空';
+$language['Empty'] = '清空';
+$language['Error opening message'] = '打开消息错误';
+$language['File saved successfully.'] = '文件保存成功';
+$language['From'] = '来自';
+$language['Inbox'] = '收件箱';
+$language['Internal Messaging'] = '内部消息';
+$language['Message restored in its original folder'] = '消息储存至原文件夹';
+$language['Read Message'] = '阅读消息';
+$language['Read'] = '阅读';
+$language['Refresh'] = '刷新';
+$language['Reply'] = '回复';
+$language['Restore'] = '还原';
+$language['Sent'] = '已发送';
+$language['Subject'] = '主题';
+$language['To'] = '至';
+$language['Trash'] = '垃圾箱';
+$language['Unread'] = '未读消息';
+$language['You must choose a message to delete'] = '您必须选择一个要删除的消息';
+$language['You must choose a message to open'] = '您必须选择一个要打开的消息';
+?>

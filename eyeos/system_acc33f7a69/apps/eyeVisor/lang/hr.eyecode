@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Edit'] = 'Uredi';
+$language['You do not have sufficient permissions!'] = 'Nemate potrebno odobrenje!';
+?>

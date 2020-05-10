@@ -1,0 +1,10 @@
+<?php
+global $language;
+$language['Kill process'] = 'Folyamat leállítása';
+$language['New process'] = 'Új folyamat';
+$language['Pid'] = 'PID';
+$language['Process killed successfully.'] = 'A folymat leállt.';
+$language['Process Manager'] = 'Folyamatkezelő';
+$language['Process Name'] = 'Folyamatnév';
+$language['Username'] = 'Tulajdonos';
+?>

@@ -1,0 +1,20 @@
+<?php
+global $language;
+$language['"%s" has been uploaded successfully.'] = '"%s" bylo nahráno.';
+$language['Add files to transfer, then press Upload now!'] = 'Přidej soubory k přenosu a klikni na Nahrát nyní!';
+$language['Add files'] = 'Přidat soubory';
+$language['Advanced'] = 'Pokročilý';
+$language['Error occured during upload process!'] = 'Chyba se vyskytla v průběhu nahrávání!';
+$language['Error uploading file!'] = 'Chyba při nahrávání souboru!';
+$language['File uploaded successfully.'] = 'Soubor nahrán.';
+$language['Please enter the HTTP address to a file:'] = 'Prosím zadej HTTP adresu k souboru:';
+$language['Remove'] = 'Odstranit';
+$language['Simple'] = 'Jednoduchý';
+$language['The file has been uploaded successfully.'] = 'Soubor byl nahrán.';
+$language['Transfering: '] = 'Přenáším:';
+$language['Upload files'] = 'Nahrát soubory';
+$language['Upload now!'] = 'Nahrát nyní!';
+$language['Web'] = 'Web';
+$language['You do not have enough free space!'] = 'Nemáš dost volného místa!';
+$language['You do not have sufficient permissions!'] = 'Nemáš dostatečná oprávnění!';
+?>

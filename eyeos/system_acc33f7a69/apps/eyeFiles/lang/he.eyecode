@@ -1,0 +1,14 @@
+<?php
+global $language;
+$language['Actions'] = 'פעולות';
+$language['Copy'] = 'העתק';
+$language['Delete'] = 'מחק';
+$language['Download as zip'] = 'הורד כקובץ זיפ';
+$language['Download'] = 'הורד';
+$language['New file'] = 'קובץ חדש';
+$language['New folder'] = 'תיקייה חדשה';
+$language['Paste'] = 'הדבק';
+$language['Properties'] = 'מאפיינים';
+$language['Rename'] = 'שנה שם';
+$language['Upload files'] = 'העלאת קבצים';
+?>

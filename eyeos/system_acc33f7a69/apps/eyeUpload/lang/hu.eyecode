@@ -1,0 +1,20 @@
+<?php
+global $language;
+$language['"%s" has been uploaded successfully.'] = 'A(z) "%s" frissült.';
+$language['Add files to transfer, then press Upload now!'] = 'A részletes módban több fájlt is feltölthet egyszerre.';
+$language['Add files'] = 'Hozzáadás';
+$language['Advanced'] = 'Részletes';
+$language['Error occured during upload process!'] = 'Hiba történt a feltöltéskor.';
+$language['Error uploading file!'] = 'Nem sikerült feltölteni az állományt.';
+$language['File uploaded successfully.'] = 'Az állomány fel lett töltve.';
+$language['Please enter the HTTP address to a file:'] = 'Írjon be egy HTTP-címet az állományhoz!';
+$language['Remove'] = 'Eltávolítás';
+$language['Simple'] = 'Egyszerű';
+$language['The file has been uploaded successfully.'] = 'Az állomány fel lett töltve.';
+$language['Transfering: '] = 'Áttöltés:';
+$language['Upload files'] = 'Állományok feltöltése';
+$language['Upload now!'] = 'Feltöltés!';
+$language['Web'] = 'Web';
+$language['You do not have enough free space!'] = 'Nincs elegendő helye!';
+$language['You do not have sufficient permissions!'] = 'Nincs engedélye a művelethez.';
+?>

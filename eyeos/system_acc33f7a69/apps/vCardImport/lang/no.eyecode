@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['Cancel'] = 'Avbryt';
+$language['Directory not found'] = 'Fant ikke mappen';
+$language['Do you really want to import this vCard?'] = 'Ønsker du virkelig å importere dette vCardet?';
+$language['Error exporting file!'] = 'Feil ved fileksport!';
+$language['File Imported!'] = 'Filen er importert!';
+$language['Format unsupported!'] = 'Formatet støttes ikke!';
+$language['Import %s'] = 'Importer %s';
+$language['Import'] = 'Importer';
+$language['No contacts were found in the file!'] = 'Fant ingen kontaktpersoner i filen!';
+$language['The contact already exists!'] = 'Kontakpersonen finnes fra før!';
+$language['The file was not found!'] = 'Finner ikke filen!';
+$language['vCardImport cannot initialize, contact with your administrator'] = 'Feil under oppstart av vCardimport. Kontakt administrator!';
+?>

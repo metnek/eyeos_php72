@@ -1,0 +1,16 @@
+<?php
+global $language;
+$language['Calculator'] = '電卓';
+$language['Calendar'] = 'カレンダー';
+$language['Chess Game'] = 'チェスゲーム';
+$language['File Manager'] = 'ファイルマネージャ';
+$language['FTP Client'] = 'FTPクライアント';
+$language['Games'] = 'ゲーム';
+$language['Internal Messaging'] = '内部メッセージング';
+$language['Navigator'] = 'ナビゲータ';
+$language['Network'] = 'ネットワーク';
+$language['Office'] = 'オフィス';
+$language['Process Manager'] = 'プロセスマネージャ';
+$language['Public Board'] = '掲示板';
+$language['Word Processor'] = 'ワードプロセッサ';
+?>

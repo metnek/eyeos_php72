@@ -1,0 +1,4 @@
+<?php
+global $language;
+$language['This is not a bug. Unfortunately it is a problem with your Flash player!'] = 'Això no és un error de l\'eyeOS, sinó un problema amb el teu reproductor de Flash!';
+?>

@@ -1,0 +1,28 @@
+<?php
+global $language;
+$language['"%s" has been uploaded successfully.'] = '"%s" er lastet opp!';
+$language['%s MB'] = '%s  MB';
+$language['<b>Some files are too big!</b><br>Some of the selected files are too big and may be rejected by the server at the end of the transfer.<br>Do you want to remove them now?'] = '<b>Noen av filene er for store!</b><br>Noen av valgte filene er for store, og kan bli avvist av serveren.<br>Vil du fjerne dem nå?';
+$language['Add files to transfer, then press Upload now!'] = 'Legg til filer, trykk så på "Last opp nå!"';
+$language['Add files'] = 'Legg til filer';
+$language['Advanced'] = 'Avansert';
+$language['Error occured during upload process!'] = 'Feil ved opplasting!';
+$language['Error uploading file!'] = 'Feil ved opplasting!';
+$language['File uploaded successfully.'] = 'Filen er lastet opp.';
+$language['Filename'] = 'Filnavn';
+$language['Max filesize allowed'] = 'Maks tillatte filstørrelse';
+$language['No'] = 'Nei';
+$language['Ok'] = 'Ok';
+$language['Please enter the HTTP address to a file:'] = 'Angi filens HTTP adresse:';
+$language['Remove'] = 'Fjern';
+$language['Simple'] = 'Enkel';
+$language['Size (KB)'] = 'Størrelse (KB)';
+$language['The file has been uploaded successfully.'] = 'Filen er lastet opp.';
+$language['Transfering: '] = 'Laster opp:';
+$language['Upload files'] = 'Last opp filer';
+$language['Upload now!'] = 'Last opp nå!';
+$language['Web'] = 'Web';
+$language['Yes'] = 'Ja';
+$language['You do not have enough free space!'] = 'Du har ikke nok ledig plass!';
+$language['You do not have sufficient permissions!'] = 'Du har ikke tilstrekkelige tillatelser!';
+?>

@@ -1,0 +1,34 @@
+<?php
+global $language;
+$language['(do) Read'] = 'Ler';
+$language['Accept'] = 'Aceitar';
+$language['Are you sure you want to empty all messages of this folder?'] = 'Tem a certeza que deseja remover todas as mensagens desta pasta?';
+$language['Attach'] = 'Anexar';
+$language['Cancel'] = 'Cancelar';
+$language['Confirm empty'] = 'Confirmar eliminar';
+$language['Date'] = 'Data';
+$language['Delete'] = 'Apagar';
+$language['Download'] = 'Download';
+$language['Emptied'] = 'Vazia';
+$language['Empty'] = 'Esvaziar';
+$language['Error opening message'] = 'Erro ao abrir a mensagem';
+$language['File saved successfully.'] = 'Ficheiro gravado com sucesso';
+$language['From'] = 'De';
+$language['Full Screen'] = 'Ecrã inteiro';
+$language['Inbox'] = 'Caixa de entrada';
+$language['Internal Messaging'] = 'Mensageiro Interno';
+$language['Message restored in its original folder'] = 'Mensagem restaurada para a sua pasta original';
+$language['New'] = 'Novo';
+$language['Read Message'] = 'Ler mensagem';
+$language['Read'] = 'Lido';
+$language['Refresh'] = 'Actualizar';
+$language['Reply'] = 'Responder';
+$language['Restore'] = 'Restaurar';
+$language['Sent'] = 'Enviado';
+$language['Subject'] = 'Assunto';
+$language['To'] = 'Para';
+$language['Trash'] = 'Reciclagem';
+$language['Unread'] = 'Não lidas';
+$language['You must choose a message to delete'] = 'Tem que escolher uma mensgaem a apagar';
+$language['You must choose a message to open'] = 'Tem que escolher uma mensgaem a abrir';
+?>

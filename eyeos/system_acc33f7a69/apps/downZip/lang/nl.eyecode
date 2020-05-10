@@ -1,0 +1,8 @@
+<?php
+global $language;
+$language['Download "%s" as zip'] = 'Download "%s" als ingepakt bestand';
+$language['Download!'] = 'Download!';
+$language['Links cannot be downloaded!'] = 'Deze links kunnen niet worden gedownload!';
+$language['The server does not support zip files.'] = 'De server accepteert geen ingepakte bestanden.';
+$language['You can close this window now.'] = 'Je kunt dit scherm nu sluiten.';
+?>

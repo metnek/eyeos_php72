@@ -1,0 +1,12 @@
+<?php
+global $language;
+$language['Actions'] = 'Acţiuni';
+$language['Copy'] = 'Copie';
+$language['Delete'] = 'Şterge';
+$language['Download as zip'] = 'Descarcă în zip';
+$language['Download'] = 'Descarcă';
+$language['Paste'] = 'Lipeşte';
+$language['Properties'] = 'Proprietăţi';
+$language['Rename'] = 'Redenumeşte';
+$language['Upload files'] = 'Încarcă fişiere';
+?>

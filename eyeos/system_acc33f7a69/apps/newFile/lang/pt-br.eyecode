@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Accept'] = 'Aceitar';
+$language['Cancel'] = 'Cancelar';
+$language['Create a file'] = 'Criar arquivo';
+$language['Error creating file!'] = 'Erro ao criar arquivo!';
+$language['Please type the name of the new file here:'] = 'Escreva o nome do arquivo aqui:';
+$language['Some special chars have been removed.'] = 'Alguns caracteres especiais foram removidos';
+?>

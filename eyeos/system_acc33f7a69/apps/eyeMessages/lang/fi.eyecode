@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['Attach'] = 'Liite';
+$language['Date'] = 'Päivämäärä';
+$language['Download'] = 'Lataa';
+$language['Empty'] = 'Tyhjennä';
+$language['File saved successfully.'] = 'Tiedosto tallennettu onnistuneesti.';
+$language['From'] = 'Lähettäjä';
+$language['Inbox'] = 'Saapuneet';
+$language['Message restored in its original folder'] = 'Viesti palautettu sen alkuperäiseen kansioon';
+$language['Read Message'] = 'Lue Viesti';
+$language['Read'] = 'Lue';
+$language['Refresh'] = 'Päivitä';
+$language['Reply'] = 'Vastaa';
+$language['Restore'] = 'Palauta';
+$language['Sent'] = 'Lähetetyt';
+$language['Subject'] = 'Aihe';
+$language['To'] = 'Vastaanottaja';
+$language['Trash'] = 'Roskakori';
+$language['Unread'] = 'Lukemattomat';
+$language['You must choose a message to delete'] = 'Sinun täytyy valita poistettava viesti';
+$language['You must choose a message to open'] = 'Sinun täytyy valita avattava viesti';
+?>

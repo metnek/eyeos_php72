@@ -1,0 +1,34 @@
+<?php
+global $language;
+$language['(do) Read'] = 'Les';
+$language['Accept'] = 'Godkjenn';
+$language['Are you sure you want to empty all messages of this folder?'] = 'Ønsker du virkelig å slette alle meldinger i denne mappen?';
+$language['Attach'] = 'Legg ved';
+$language['Cancel'] = 'Avbryt';
+$language['Confirm empty'] = 'Bekreft sletting';
+$language['Date'] = 'Dato';
+$language['Delete'] = 'Slett';
+$language['Download'] = 'Last ned';
+$language['Emptied'] = 'Slettet';
+$language['Empty'] = 'Tøm';
+$language['Error opening message'] = 'Feil ved åpning av melding';
+$language['File saved successfully.'] = 'Filen er lagret.';
+$language['From'] = 'Fra';
+$language['Full Screen'] = 'Fullskjerm';
+$language['Inbox'] = 'Innboks';
+$language['Internal Messaging'] = 'Interne meldinger';
+$language['Message restored in its original folder'] = 'Meldingen er gjenopprettet til originalmappe';
+$language['New'] = 'Ny';
+$language['Read Message'] = 'Les melding';
+$language['Read'] = 'Les';
+$language['Refresh'] = 'Oppdater';
+$language['Reply'] = 'Svar';
+$language['Restore'] = 'Gjeopprett';
+$language['Sent'] = 'Sendte';
+$language['Subject'] = 'Emne';
+$language['To'] = 'Til';
+$language['Trash'] = 'Papirkurv';
+$language['Unread'] = 'Ikke lest';
+$language['You must choose a message to delete'] = 'Du må velge en melding å slette';
+$language['You must choose a message to open'] = 'Du må velge en melding å åpne';
+?>

@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Sorry, you do not have sufficient permissions.'] = 'متاسفانه شما مجوز قانونی ندارید.';
+$language['Spreadsheet saved successfully.'] = 'صفحه گسترده با موفقیت ذخیره شد.';
+?>

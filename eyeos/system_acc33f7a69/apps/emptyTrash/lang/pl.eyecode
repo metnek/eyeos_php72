@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Delete %s'] = 'Usuń %s';
+$language['Do you really want to empty the trash?'] = 'Czy naprawdę chcesz opróżnić ten kosz?';
+$language['Do you really want to remove "%s"?'] = 'Czy naprawdę chcesz usunąć "%s"?';
+$language['Empty trash'] = 'Opróżnij kosz';
+?>

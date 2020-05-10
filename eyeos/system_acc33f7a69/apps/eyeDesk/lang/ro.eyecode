@@ -1,0 +1,11 @@
+<?php
+global $language;
+$language['Copy'] = 'Copie';
+$language['Download'] = 'Descarcă';
+$language['Paste'] = 'Lipire';
+$language['Preferences'] = 'Preferinţe';
+$language['Properties'] = 'Proprietăţi';
+$language['Refresh'] = 'Reîmprospătare';
+$language['Upload files'] = 'Încarcă fişiere';
+$language['Welcome to %s, %s.'] = 'Bine ai venit în %s, %s.';
+?>

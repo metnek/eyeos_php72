@@ -1,0 +1,34 @@
+<?php
+global $language;
+$language['Actions'] = 'Акције';
+$language['Author'] = 'Аутор';
+$language['Back'] = 'Назад';
+$language['Copy'] = 'Копирај';
+$language['Delete'] = 'Обриши';
+$language['Details'] = 'Детаљи';
+$language['Download as zip'] = 'Преузми као zip';
+$language['Download'] = 'Преузми';
+$language['Edit'] = 'Измени';
+$language['Empty trash'] = 'Испразни корпу';
+$language['Filename'] = 'Назив фајла';
+$language['Filesize (B)'] = 'Величина фајла (B)';
+$language['Filetime'] = 'Време фајла';
+$language['Filter:'] = 'Филтер:';
+$language['Groups'] = 'Групе';
+$language['Help'] = 'Помоћ';
+$language['Home'] = 'Кућа';
+$language['Icons'] = 'Иконе';
+$language['New file'] = 'Нови фајл';
+$language['New folder'] = 'Нови фолдер';
+$language['Open with'] = 'Отвори преко';
+$language['Properties'] = 'Атрибути';
+$language['Rename'] = 'Преименуј';
+$language['Show all'] = 'Прикажи све';
+$language['Show files'] = 'Прикажи фајлове';
+$language['Show folders'] = 'Прикажи фолдере';
+$language['Show links'] = 'Прикажи линкове';
+$language['Show only'] = 'Прикажи само';
+$language['Trash'] = 'Корпа';
+$language['Tree'] = 'Дрво';
+$language['Users'] = 'Корисници';
+?>

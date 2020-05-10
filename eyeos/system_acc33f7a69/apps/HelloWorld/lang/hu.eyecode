@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Change Label Text'] = 'Címke megváltoztatása';
+$language['Example eyeApp'] = 'Próbaprogram';
+$language['Hello World!'] = 'Helló Világ!';
+?>

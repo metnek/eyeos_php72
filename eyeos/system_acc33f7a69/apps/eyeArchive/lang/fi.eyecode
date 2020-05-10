@@ -1,0 +1,14 @@
+<?php
+global $language;
+$language['Compress to...'] = 'Pakkaa kohteeseen...';
+$language['Compress'] = 'Pakkaus';
+$language['Compressed successfully'] = 'Pakkaaminen onnistui';
+$language['Compression failed'] = 'Pakkaaminen epäonnistui';
+$language['Extract to...'] = 'Pura kohteeseen...';
+$language['Extract'] = 'Pura';
+$language['File extracted successfully.'] = 'Tiedosto purettu onnistuneesti.';
+$language['File extraction failed'] = 'Tiedoston purkaminen epäonnistui';
+$language['Filename'] = 'Tiedosto';
+$language['No file open'] = 'Ei tiedostoa avattu';
+$language['The compress type is not supported'] = 'Pakkaus tyyppi ei ole tuettu';
+?>

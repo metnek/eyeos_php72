@@ -1,0 +1,13 @@
+<?php
+global $language;
+$language['%s not found'] = '%s nerastas';
+$language['Error, empty username or password'] = 'Klaida, neįvestas vartotojo vardas arba slaptažodis';
+$language['Error, invalid username or password'] = 'Klaida, neteisingas vartotojo vardas arba slaptažodis';
+$language['Invalid username'] = 'Neteisingas vartotojo vardas';
+$language['Password'] = 'Slaptažodis';
+$language['Run as different user'] = 'Vykdyti kito vartotojo vardu';
+$language['Run...'] = 'Vykdyti...';
+$language['Run'] = 'Vykdyti';
+$language['Type the name of the app or command to run'] = 'Įveskite programos arba komandos, kurią norite vykdyti, pavadinimą';
+$language['User'] = 'Vartotojas';
+?>

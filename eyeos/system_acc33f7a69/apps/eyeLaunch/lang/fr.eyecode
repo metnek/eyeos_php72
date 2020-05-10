@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['%s has had a problem and could not be executed'] = '%s a rencontré un problème et ne peut pas être exécuté';
+$language['%s has had an unknow problem and could not be executed'] = '%s a rencontré une erreur inattendue et ne peut pas être exécuté';
+$language['%s not found'] = '%s non trouvé';
+$language['Error, empty username or password'] = 'Erreur, nom d\'utilisateur ou mot de passe manquant';
+$language['Error, invalid username or password'] = 'Erreur, nom d\'utilisateur ou mot de passe invalide';
+$language['Invalid username'] = 'Nom d\'utilisateur invalide';
+$language['Password'] = 'Mot de passe';
+$language['Run as different user'] = 'Démarrer en tant qu\'autre utilisateur';
+$language['Run...'] = 'Démarrage en cours...';
+$language['Run'] = 'Démarrer';
+$language['Type the name of the app or command to run'] = 'Entrez le nom de l\'application ou de la commande à exécuter';
+$language['User'] = 'Utilisateur';
+?>

@@ -1,0 +1,32 @@
+<?php
+global $language;
+$language['[Unknown string]'] = '[Stringa sconosciuta]';
+$language['Always remember my last configuration'] = 'Ricorda sempre la mia ultima configurazione';
+$language['Board size :'] = 'Dimensioni dell\'area di gioco';
+$language['Close'] = 'Chiudi';
+$language['Configuration'] = 'Configurazione';
+$language['Date'] = 'Data';
+$language['Do you want to start a new game?'] = 'Vuoi iniziare una nuova partita?';
+$language['Finished!'] = 'Finito!';
+$language['Fullscreen'] = 'Schermo intero';
+$language['Highscores'] = 'Punteggi migliori';
+$language['Level / board size (%s-%s):'] = 'Livello / dimensioni area di gioco (%s-%s):';
+$language['Maximum value on edges:'] = 'Valore massimo sugli spigoli:';
+$language['Maximum'] = 'Massimo';
+$language['Maybe you should try a higher level...'] = 'Forse dovresti giocare ad un livello superiore...';
+$language['Moves'] = 'Mosse';
+$language['Network problem'] = 'Problema di rete';
+$language['New game'] = 'Nuovo gioco';
+$language['Number of moves:'] = 'Numero di mosse:';
+$language['Rank'] = 'Posizione';
+$language['Tetravex Game'] = 'Gioco Tetravex';
+$language['These options won\'t be applied until you start a new game.'] = 'Queste opzioni non saranno applicate finchè non inizi una nuova partita.';
+$language['Time'] = 'Tempo';
+$language['Tip used! Ranking disabled...'] = 'E\' stato utilizzato un trucco! Punteggio disabilitato...';
+$language['Unable to connect to the host server.'] = 'Impossibile stabilire una connessione con il server';
+$language['Use colored numbers on tiles'] = 'Utilizza numeri colorati sulle mattonelle';
+$language['Use shared highscores on server (all users)'] = 'Utilizza punteggi condivisi sul server (fra tutti gli utenti)';
+$language['User'] = 'Utente';
+$language['Your rank:'] = 'La tua posizione:';
+$language['Your time:'] = 'Il tuo tempo:';
+?>

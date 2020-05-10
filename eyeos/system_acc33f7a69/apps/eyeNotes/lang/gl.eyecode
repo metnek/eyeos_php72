@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['File saved successfully.'] = 'Arquivo gardado correctamente.';
+$language['Sorry, you do not have sufficient permissions.'] = 'Sintoo, non tes suficientes permisos.';
+$language['Text Editor'] = 'Editor de texto';
+$language['Unable to create file'] = 'Non se pode crear o arquivo';
+?>

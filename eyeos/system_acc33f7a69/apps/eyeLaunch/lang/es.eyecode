@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['%s has had a problem and could not be executed'] = '%a tiene un problema y no puede ser ejecutado.';
+$language['%s has had an unknow problem and could not be executed'] = '%s tuvo un problema desconocido y no puede ser ejecutado';
+$language['%s not found'] = '%s no encontrado';
+$language['Error, empty username or password'] = 'Error: nombre de usuario o contraseña vacíos';
+$language['Error, invalid username or password'] = 'Error: nombre de usuario o contraseña no válidos';
+$language['Invalid username'] = 'Nombre de usuario no válido';
+$language['Password'] = 'Contraseña';
+$language['Run as different user'] = 'Otro usuario';
+$language['Run...'] = 'Ejecutar...';
+$language['Run'] = 'Ejecutar';
+$language['Type the name of the app or command to run'] = 'Introduce el comando a ejecutar';
+$language['User'] = 'Usuario';
+?>

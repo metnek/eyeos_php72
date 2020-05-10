@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['Accessories'] = 'Apuohjelmat';
+$language['Calculator'] = 'Laskin';
+$language['Calendar'] = 'Kalenteri';
+$language['Chess Game'] = 'Shakki Peli';
+$language['Contact Manager'] = 'Yhteystietojen hallinta';
+$language['File Manager'] = 'Tiedostohallinta';
+$language['FTP Client'] = 'FTP ohjelma';
+$language['Games'] = 'Pelit';
+$language['Internal Messaging'] = 'Sisäinen Viestintä';
+$language['Navigator'] = 'Internet selain';
+$language['Network'] = 'Verkko';
+$language['Office'] = 'Toimisto';
+$language['Process Manager'] = 'Prosessien hallinta';
+$language['Public Board'] = 'Julkinen Taulu';
+$language['RSS Feed Reader'] = 'RSS Syöte Lukija';
+$language['Spreadsheet'] = 'Taulukkolaskenta';
+$language['System'] = 'Järjestelmä';
+$language['Tetravex Game'] = 'Tetravex Peli';
+$language['Text Editor'] = 'Teksti Editori';
+$language['Word Processor'] = 'Tekstinkäsittely';
+?>

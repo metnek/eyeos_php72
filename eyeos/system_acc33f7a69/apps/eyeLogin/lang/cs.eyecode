@@ -1,0 +1,22 @@
+<?php
+global $language;
+$language['( Default )'] = '( Výchozí )';
+$language['Create account'] = 'Vytvořit účet';
+$language['Enter'] = 'Vstup';
+$language['Error creating new user!'] = 'Chyba při vytváření nového uživatele!';
+$language['Language (this session)'] = 'Jazyk (pro toto sezení)';
+$language['Language'] = 'Jazyk';
+$language['New User'] = 'Nový uživatel';
+$language['Password fields do not match!'] = 'Hesla nesouhlasí!';
+$language['Password is too short!'] = 'Heslo je příliš krátké!';
+$language['Password'] = 'Heslo';
+$language['Please fill out all fields!'] = 'Prosím vyplň všechna pole!';
+$language['Retype password'] = 'Potvrzení hesla';
+$language['That user already exists!'] = 'Ten uživatel již existuje!';
+$language['The language does not exist!'] = 'Jazyk neexistuje!';
+$language['This system does not allow user registrations!'] = 'Systém nepovoluje registrace uživatelů!';
+$language['Username is too short!'] = 'Uživatelské jméno je příliš krátké!';
+$language['Username should be alpha-numeric!'] = 'Uživatelské jméno musí být alfa-numerické';
+$language['Username'] = 'Uživatelské jméno';
+$language['Your account has been disabled!'] = 'Tvůj účet byl zablokován!';
+?>

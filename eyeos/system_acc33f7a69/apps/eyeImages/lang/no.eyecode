@@ -1,0 +1,16 @@
+<?php
+global $language;
+$language['All files'] = 'Alle filer';
+$language['BMP files'] = 'BMP filer';
+$language['Full Screen'] = 'Fullskjerm';
+$language['GIF files'] = 'GIF filer';
+$language['Image formats'] = 'Bildeformater';
+$language['JPEG files'] = 'JPEG filer';
+$language['JPG files'] = 'JPG filer';
+$language['Next'] = 'Neste';
+$language['No image could be found.'] = 'Fant ingen bildefiler.';
+$language['PNG files'] = 'PNG filer';
+$language['Previous'] = 'Forrige';
+$language['TIFF files'] = 'TIFF filer';
+$language['View Images'] = 'Vis bilder';
+?>

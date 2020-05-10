@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Please wait...'] = 'Por favor aguarde...';
+$language['Unable to save position!'] = 'Não foi possível salvar a posição!';
+$language['Welcome to %s'] = 'Bem Vindo(a) a(o) %s';
+?>

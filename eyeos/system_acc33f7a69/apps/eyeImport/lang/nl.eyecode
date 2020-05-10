@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['%s files imported!'] = '%s bestanden geimporteeerd';
+$language['Browse'] = 'Blader';
+$language['Import'] = 'Import';
+$language['You have to select a directory to import files'] = 'Selecteer een map om bestanden te importeren';
+?>

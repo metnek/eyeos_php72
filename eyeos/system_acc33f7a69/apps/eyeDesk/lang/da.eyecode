@@ -1,0 +1,27 @@
+<?php
+global $language;
+$language['Applications'] = 'Programmer';
+$language['Calendar'] = 'Kalender';
+$language['Copy'] = 'Kopiér';
+$language['Delete'] = 'Slet';
+$language['Download as zip'] = 'Download som zip';
+$language['Download'] = 'Download';
+$language['Edit'] = 'Redigér';
+$language['Empty trash'] = 'Tøm papirkurv';
+$language['Home'] = 'Hjem';
+$language['Launch'] = 'Start';
+$language['New file'] = 'Ny fil';
+$language['New folder'] = 'Ny mappe';
+$language['New launcher'] = 'Ny starter';
+$language['Open trash'] = 'Åbn papirkurv';
+$language['Open with'] = 'Åbn med';
+$language['Paste'] = 'Indsæt';
+$language['Preferences'] = 'Indstillinger';
+$language['Properties'] = 'Egenskaber';
+$language['Refresh'] = 'Opdatér';
+$language['Rename'] = 'Omdøb';
+$language['RSS Feed Reader'] = 'RSS Læser';
+$language['Trash'] = 'Papirkurv';
+$language['Upload files'] = 'Upload filer';
+$language['Welcome to %s, %s.'] = 'Velkommen til %s, %s.';
+?>

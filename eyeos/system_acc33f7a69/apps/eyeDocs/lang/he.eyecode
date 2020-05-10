@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Document saved successfully.'] = 'המסמך נשמר בהצלחה';
+$language['Sorry, you do not have sufficient permissions!'] = 'אין הרשאות!';
+$language['Word Processor'] = 'מעבד תמלילים';
+?>

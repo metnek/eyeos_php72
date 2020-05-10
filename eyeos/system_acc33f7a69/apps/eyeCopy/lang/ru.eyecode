@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Links cannot be copied!'] = 'Ярлыки нельзя копировать';
+$language['You can paste "%s" into another folder now.'] = 'Вы можете вставить "%s" в другую папку.';
+?>

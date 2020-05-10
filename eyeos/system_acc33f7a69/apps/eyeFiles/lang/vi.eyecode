@@ -1,0 +1,14 @@
+<?php
+global $language;
+$language['Actions'] = 'Thao tác';
+$language['Copy'] = 'Chép';
+$language['Delete'] = 'Xóa';
+$language['Download as zip'] = 'Tải về dạng nén';
+$language['Download'] = 'Tải về';
+$language['New file'] = 'Tập tin mới';
+$language['New folder'] = 'Thư mục mới';
+$language['Paste'] = 'Dán';
+$language['Properties'] = 'Thuộc tính';
+$language['Rename'] = 'Đổi tên';
+$language['Upload files'] = 'Tập tin tải lên';
+?>

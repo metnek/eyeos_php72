@@ -1,0 +1,10 @@
+<?php
+global $language;
+$language['Accept'] = 'Elfogad';
+$language['Cancel'] = 'Mégsem';
+$language['Do you really want to install this package into the system?'] = 'Telepíti ezt a csomagot?';
+$language['Installing'] = 'Telepítés…';
+$language['Nothing to install!'] = 'Nincs mit telepíteni.';
+$language['Only root can install packages'] = 'Csak a root felhasználó telepíthet csomagokat!';
+$language['Package installed successfully!'] = 'A csomag feltelepült.';
+?>

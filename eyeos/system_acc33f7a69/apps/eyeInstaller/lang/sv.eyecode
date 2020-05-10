@@ -1,0 +1,8 @@
+<?php
+global $language;
+$language['Accept'] = 'Acceptera';
+$language['Do you really want to install this package into the system?'] = 'Vill du verkligen installera det här paketet i systemet';
+$language['Installing'] = 'Installerar';
+$language['Nothing to install!'] = 'Inget att installera';
+$language['Package installed successfully!'] = 'Paket installerades!';
+?>

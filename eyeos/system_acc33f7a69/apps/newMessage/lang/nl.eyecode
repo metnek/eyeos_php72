@@ -1,0 +1,13 @@
+<?php
+global $language;
+$language['Add file'] = 'Bestand toevoegen';
+$language['Attach'] = 'Bijlage';
+$language['Close'] = 'Sluit';
+$language['Error sending message'] = 'Fout bij verzenden';
+$language['Message sent'] = 'Bericht verzonden';
+$language['New Message'] = 'Nieuw bericht';
+$language['Send'] = 'Verzend';
+$language['Subject'] = 'Onderwerp';
+$language['To groups'] = 'Aan groepen';
+$language['To'] = 'Aan';
+?>

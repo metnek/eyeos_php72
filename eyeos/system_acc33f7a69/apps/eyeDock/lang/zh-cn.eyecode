@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['Accessories'] = '附件';
+$language['Calculator'] = '计算器';
+$language['Calendar'] = '日历';
+$language['Chess Game'] = '国际象棋';
+$language['Contact Manager'] = '联系人管理';
+$language['File Manager'] = '文件管理';
+$language['FTP Client'] = 'FTP客户端';
+$language['Games'] = '游戏';
+$language['Internal Messaging'] = '内部消息';
+$language['Navigator'] = '浏览器';
+$language['Network'] = '网络';
+$language['Office'] = '办公';
+$language['Process Manager'] = '进程管理';
+$language['Public Board'] = '公共板';
+$language['RSS Feed Reader'] = 'RSS阅读器';
+$language['Spreadsheet'] = '空白表格';
+$language['System'] = '系统';
+$language['Tetravex Game'] = 'Tetravex游戏';
+$language['Text Editor'] = '文本编辑器';
+$language['Word Processor'] = '文字处理';
+?>

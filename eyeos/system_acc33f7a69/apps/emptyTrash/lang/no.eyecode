@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Accept'] = 'Godkjenn';
+$language['Cancel'] = 'Avbryt';
+$language['Delete %s'] = 'Slett %s';
+$language['Do you really want to empty the trash?'] = 'Er du sikker på at du vil tømme papirkurven?';
+$language['Do you really want to remove "%s"?'] = 'Ønsker du virkelig å fjerne "%s"?';
+$language['Empty trash'] = 'Tøm papirkurven';
+?>

@@ -1,0 +1,29 @@
+<?php
+global $language;
+$language['Add bookmark'] = 'Sık kullanılanlara ekle';
+$language['Back'] = 'Geri';
+$language['Bookmark does not exist!'] = 'Sık kullanılanlarda bulunmuyor!';
+$language['Bookmark title'] = 'Sık kullanılan başlığı';
+$language['Bookmarks'] = 'Sık Kullanılanlar';
+$language['Delete bookmark'] = 'Sık kullanılanlardan kaldır';
+$language['Do you really want to delete this bookmark?'] = 'Bunu sık kullanılanlardan kaldırmak istiyor musunuz?';
+$language['Forums'] = 'Forumlar';
+$language['Forward'] = 'İleri';
+$language['Images'] = 'Resimler';
+$language['Internet'] = 'İnternet';
+$language['Knowledge'] = 'Bilgi';
+$language['Link successfully deleted.'] = 'Bağlantı başarıyla silindi';
+$language['Link successfully saved.'] = 'Bağlantı başarıyla kaydedildi';
+$language['Navigator'] = 'İnternet Tarayıcı';
+$language['Open bookmarks'] = 'Sık kullanılanları aç';
+$language['Open searches'] = 'Aramayı Aç';
+$language['Search'] = 'Ara';
+$language['Settings'] = 'Ayarlar';
+$language['Startpage'] = 'Başlangıç Sayfası';
+$language['The selected file is not a valid eyeNav bookmarks file!'] = 'Seçilen dosya eyeNav sık kullanılanlar dosyası değil!';
+$language['The selected file is not a valid eyeNav search file!'] = 'Seçilen dosya eyeNav arama dosyası değil!';
+$language['There is already another bookmark with this title!'] = 'Aynı adda başka bir sık kullanılan girdisi bulunuyor!';
+$language['Uncategorized'] = 'Kategorisiz';
+$language['Website'] = 'İnternet Sitesi';
+$language['Wiki'] = 'Wiki (Kullanıcı ansiklopedisi)';
+?>

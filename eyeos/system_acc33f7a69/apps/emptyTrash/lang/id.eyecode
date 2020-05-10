@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Accept'] = 'Ijinkan';
+$language['Cancel'] = 'Batal';
+$language['Delete %s'] = 'Hapus %s';
+$language['Do you really want to empty the trash?'] = 'Tempat Sampah ingin dikosongkan ?';
+$language['Do you really want to remove "%s"?'] = 'Buang "%s" ?';
+$language['Empty trash'] = 'Kosongkan Tempat Sampah';
+?>

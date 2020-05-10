@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Applications'] = '应用程序';
+$language['Install Apps'] = '安装插件';
+$language['Manage Dock'] = '管理 Dock';
+?>

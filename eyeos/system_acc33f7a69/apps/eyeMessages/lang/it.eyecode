@@ -1,0 +1,28 @@
+<?php
+global $language;
+$language['Are you sure you want to empty all messages of this folder?'] = 'Sei sicuro di voler eliminare tutti i messaggi di questa cartella?';
+$language['Attach'] = 'Allega';
+$language['Confirm empty'] = 'Conferma eliminazione';
+$language['Date'] = 'Data';
+$language['Download'] = 'Scarica';
+$language['Emptied'] = 'Svuotato';
+$language['Empty'] = 'Vuoto';
+$language['Error opening message'] = 'Errore durante l\'apertura del messaggio';
+$language['File saved successfully.'] = 'File salvato con successo.';
+$language['From'] = 'Da';
+$language['Inbox'] = 'Posta in arrivo';
+$language['Internal Messaging'] = 'Messaggi Interni';
+$language['Message restored in its original folder'] = 'Messaggio ripristinato nella cartella d\'origine';
+$language['Read Message'] = 'Leggi messaggio';
+$language['Read'] = 'Letto';
+$language['Refresh'] = 'Aggiorna';
+$language['Reply'] = 'Rispondi';
+$language['Restore'] = 'Ripristina';
+$language['Sent'] = 'Inviato';
+$language['Subject'] = 'Soggetto';
+$language['To'] = 'A';
+$language['Trash'] = 'Cestino';
+$language['Unread'] = 'Non letto';
+$language['You must choose a message to delete'] = 'Devi scegliere un messaggio da cancellare';
+$language['You must choose a message to open'] = 'Devi scegliere un messaggio da aprire';
+?>

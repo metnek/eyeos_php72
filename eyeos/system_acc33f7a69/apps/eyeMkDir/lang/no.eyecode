@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Accept'] = 'Godkjenn';
+$language['Cancel'] = 'Avbryt';
+$language['Create folder'] = 'Opprett mappe';
+$language['Error creating directory!'] = 'Feil ved oppretting av mappe!';
+$language['Some special chars have been removed.'] = 'Noen spesielle tegn er fjernet';
+$language['Type the name of the new folder'] = 'Angi et navn for den nye mappen';
+?>

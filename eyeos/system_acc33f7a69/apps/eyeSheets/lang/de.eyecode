@@ -1,0 +1,8 @@
+<?php
+global $language;
+$language['File not found!'] = 'Die Datei konnte nicht gefunden werden.';
+$language['Sorry, eyeSheets does not support Webkit browsers.'] = 'Sie verwenden einen Webkit-Browser. eyeSheets unterstützt leider keine Webkit-Browser.';
+$language['Sorry, you do not have sufficient permissions.'] = 'Sie haben nicht ausreichend Berechtigungen.';
+$language['Spreadsheet saved successfully.'] = 'Tabelle erfolgreich gespeichert.';
+$language['Spreadsheet'] = 'Tabellenkalkulation';
+?>

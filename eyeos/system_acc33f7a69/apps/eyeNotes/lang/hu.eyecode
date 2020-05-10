@@ -1,0 +1,18 @@
+<?php
+global $language;
+$language['All files'] = 'Minden állomány';
+$language['Cancel'] = 'Mégsem';
+$language['Delete warning'] = 'Figyelmeztetés!';
+$language['Do you want to save changes?'] = 'Menti a beállításokat?';
+$language['Don\'t save'] = 'Ne mentse';
+$language['File saved successfully.'] = 'Állomány elmentve.';
+$language['Full Screen'] = 'Teljes képernyő';
+$language['New'] = 'Új';
+$language['Open'] = 'Megnyitás';
+$language['Save As'] = 'Mentés másként';
+$language['Save'] = 'Mentés';
+$language['Sorry, you do not have sufficient permissions.'] = 'Nincs engedélye a művelethez.';
+$language['Text Editor'] = 'Jegyzetfüzet';
+$language['Text files'] = 'Szövegfájl';
+$language['Unable to create file'] = 'Nem lehet létrehozni az állományt.';
+?>

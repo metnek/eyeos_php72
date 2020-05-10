@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['Add Calendar'] = 'カレンダーを追加';
+$language['At least, one calendar is required!'] = '少なくとも1つのカレンダーが必要です！';
+$language['Calendars'] = 'カレンダー';
+$language['Day'] = '日';
+$language['Invalid checkbox value'] = '不正なチェックボックスの値';
+$language['Next'] = '次';
+$language['Previous'] = '前';
+$language['Show'] = '表示';
+$language['Today'] = '今日';
+$language['Week'] = '週';
+$language['Window mode'] = 'ウィンドウモード';
+$language['Work'] = '営業日';
+?>

@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Name'] = 'Namn';
+$language['Select a folder'] = 'Välj mapp';
+$language['Select'] = 'Välj';
+$language['Size'] = 'Storlek';
+?>

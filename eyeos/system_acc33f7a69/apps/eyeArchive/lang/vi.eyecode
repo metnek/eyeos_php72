@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['Archive Manager'] = 'Quản lí tập tin nén';
+$language['Compress to...'] = 'Nén thành...';
+$language['Compress'] = 'Nén';
+$language['Compressed successfully'] = 'Đã nén tập tin thành công.';
+$language['Compression failed'] = 'Nén tập tin thất bại.';
+$language['Extract to...'] = 'Giái nén thành...';
+$language['Extract'] = 'Giải nén';
+$language['File extracted successfully.'] = 'Đã giải nén tập tin thành công.';
+$language['File extraction failed'] = 'Giải nén tập tin thất bại.';
+$language['Filename'] = 'Tên tập tin';
+$language['No file open'] = 'Chưa chọn tập tin để mở';
+$language['The compress type is not supported'] = 'Kiểu nén không được hỗ trợ';
+?>

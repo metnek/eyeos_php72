@@ -1,0 +1,13 @@
+<?php
+global $language;
+$language['"%s" already exists. Please enter a new name or replace the existing one.'] = '"%s" existiert bereits. Bitte geben Sie einen neuen Namen an oder wählen Sie "Ersetzen".';
+$language['Cancel'] = 'Abbrechen';
+$language['Error moving folder!'] = 'Fehler beim Verschieben des Ordners!';
+$language['Links cannot be moved!'] = 'Links können nicht verschoben werden!';
+$language['Move %s'] = '%s verschieben';
+$language['Please type the new name here:'] = 'Bitte geben Sie den neuen Namen an:';
+$language['Rename %s'] = '%s umbenennen';
+$language['Rename'] = 'Umbenennen';
+$language['Replace'] = 'Ersetzen';
+$language['That file already exists!'] = 'Die Datei existiert bereits!';
+?>

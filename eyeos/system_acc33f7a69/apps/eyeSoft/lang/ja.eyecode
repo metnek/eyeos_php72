@@ -1,0 +1,31 @@
+<?php
+global $language;
+$language['%s download is corrupted! unable to install'] = '%s のダウンロードは壊れています！イントールできません';
+$language['%s installed succesfully!'] = '%s をインストールしました！';
+$language['Accept'] = '承諾';
+$language['App Name'] = 'アプリ名';
+$language['Author: %s'] = '作成者: %s';
+$language['Categories'] = 'カテゴリ';
+$language['Category: %s'] = 'カテゴリ: %s';
+$language['Dependencies: %s'] = '依存: %s';
+$language['Description: %s'] = '説明: %s';
+$language['Do you really want to uninstall this application?'] = '本当にこのアプリケーションをアンインストールしますか？';
+$language['Downloading and Installing %s ... please wait'] = '%s をダウンロードしてインストールしています... お待ち下さい';
+$language['eyeSoft: Package list updated'] = 'eyeSoft: パッケージリストを更新しました';
+$language['Install'] = 'インストール';
+$language['Installed'] = 'インストール済み';
+$language['Installing'] = 'インストール中';
+$language['License: %s'] = 'ライセンス: %s';
+$language['Name: %s'] = '名前: %s';
+$language['Only root can install eyeApps'] = 'root以外はeyeAppをインストールできません';
+$language['Please choose an applictaion to be installed.'] = 'インストールするアプリケーションを選択して下さい。';
+$language['Please choose an applictaion to be uninstalled.'] = 'アンインストールするアプリケーションを選択して下さい。';
+$language['Search'] = '検索';
+$language['Suggestions: %s'] = '提案: %s';
+$language['The application was successfully uninstalled.'] = 'アプリケーションをアンインストールしました。';
+$language['Uninstall application'] = 'アプリケーションをアンインストール';
+$language['Uninstall'] = 'アンインストール';
+$language['Update'] = '更新';
+$language['Version'] = 'バージョン';
+$language['Version: %s'] = 'バージョン: %s';
+?>

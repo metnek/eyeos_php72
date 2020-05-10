@@ -1,0 +1,10 @@
+<?php
+global $language;
+$language['Accept'] = 'Kabul et';
+$language['Cancel'] = 'İptal';
+$language['Do you really want to install this package into the system?'] = 'Bu paketi sisteme yükelemek istediğinizden emin misiniz?';
+$language['Installing'] = 'Yükleniyor';
+$language['Nothing to install!'] = 'Yüklenecek bir şey yok!';
+$language['Only root can install packages'] = 'Sadece yönetici paketleri yükleyebilir';
+$language['Package installed successfully!'] = 'Paket başarıyla yüklendi!';
+?>

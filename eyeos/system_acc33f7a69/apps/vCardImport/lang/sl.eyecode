@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['Cancel'] = 'Prekliči';
+$language['Directory not found'] = 'Direktorija ni mogoče najti!';
+$language['Do you really want to import this vCard?'] = 'Ali želite uvoziti ta vCard?';
+$language['Error exporting file!'] = 'Napaka pri izvozu datoteke!';
+$language['File Imported!'] = 'Datoteka uvožena!';
+$language['Format unsupported!'] = 'Vrsta formata ni podprta!';
+$language['Import %s'] = 'Uvozi %s';
+$language['Import'] = 'Uvozi';
+$language['No contacts were found in the file!'] = 'Noben stik ni bil najden v datoteki!';
+$language['The contact already exists!'] = 'Ta stik že obstaja!';
+$language['The file was not found!'] = 'Datoteke ni mogoče najti!';
+$language['vCardImport cannot initialize, contact with your administrator'] = 'Uvoz vCard se ne more izvesti, kontaktirajte administratorja';
+?>

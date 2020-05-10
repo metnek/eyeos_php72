@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Accept'] = 'Acceptă';
+$language['Do you really want to install this package into the system?'] = 'Vrei să instalezi acest pachet în sistem?';
+$language['Installing'] = 'Instalez';
+$language['Nothing to install!'] = 'Nimic de instalat!';
+$language['Only root can install packages'] = 'Doar userul root poate instala pachete';
+$language['Package installed successfully!'] = 'Pachet instalat cu succes!';
+?>

@@ -1,0 +1,28 @@
+<?php
+global $language;
+$language['Applications'] = 'Aplikace';
+$language['Calendar'] = 'Kalendář';
+$language['Copy'] = 'Kopírovat';
+$language['Delete'] = 'Smazat';
+$language['Download as zip'] = 'Stáhnout jako zip';
+$language['Download'] = 'Stáhnout';
+$language['Edit'] = 'Upravit';
+$language['Empty trash'] = 'Vysypat koš';
+$language['Explore'] = 'Prozkoumat';
+$language['Home'] = 'Domů';
+$language['Launch'] = 'Spustit';
+$language['New file'] = 'Nový soubor';
+$language['New folder'] = 'Nová složka';
+$language['New launcher'] = 'Nový zástupce';
+$language['Open trash'] = 'Otevřít koš';
+$language['Open with'] = 'Otevřít s';
+$language['Paste'] = 'Vložit';
+$language['Preferences'] = 'Nastavení';
+$language['Properties'] = 'Vlastnosti';
+$language['Refresh'] = 'Obnovit';
+$language['Rename'] = 'Přejmenovat';
+$language['RSS Feed Reader'] = 'RSS Čtečka';
+$language['Trash'] = 'Koš';
+$language['Upload files'] = 'Nahrát soubory';
+$language['Welcome to %s, %s.'] = 'Vítej na %s, %s.';
+?>

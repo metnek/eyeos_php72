@@ -1,0 +1,21 @@
+<?php
+global $language;
+$language['Create account'] = 'Buat Akun';
+$language['Enter'] = 'Masuk';
+$language['Error creating new user!'] = 'Tidak Dapat Membuat Akun Baru!';
+$language['Language (this session)'] = 'Bahasa (Sesi Ini)';
+$language['Language'] = 'Bahasa';
+$language['New User'] = 'Akun Baru';
+$language['Password fields do not match!'] = 'Kata Sandi Tidak Sama';
+$language['Password is too short!'] = 'Kata Sandi Terlalu Pendek';
+$language['Password'] = 'Kata Sandi';
+$language['Please fill out all fields!'] = 'Harap Isi Semua Kolom!';
+$language['Retype password'] = 'Ketik Kata Sandi';
+$language['That user already exists!'] = 'Akun Sudah Ada';
+$language['The language does not exist!'] = 'Bahasa Tidak Ada';
+$language['This system does not allow user registrations!'] = 'Tidak diijinkan Melakukan Pendaftaran';
+$language['Username is too short!'] = 'Nama Pengguna Terlalu Pendek!';
+$language['Username should be alpha-numeric!'] = 'Nama Pengguna Harus Berupa Huruf dan Angka';
+$language['Username'] = 'Nama Pengguna';
+$language['Your account has been disabled!'] = 'Akun Anda tidak aktif!';
+?>

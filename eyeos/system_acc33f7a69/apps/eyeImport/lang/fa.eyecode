@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['%s files imported!'] = '%s فایل وارد شد!';
+$language['Browse'] = 'جستجو';
+$language['Import'] = 'وارد کردن';
+$language['You have to select a directory to import files'] = 'شما باید یک مسیر برای ورود فایلها انتخاب کنید';
+?>

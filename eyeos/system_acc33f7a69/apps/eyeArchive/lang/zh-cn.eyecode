@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['Archive Manager'] = '归档管理器';
+$language['Compress to...'] = '压缩文件到...';
+$language['Compress'] = '压缩文件';
+$language['Compressed successfully'] = '压缩文件成功';
+$language['Compression failed'] = '压缩文件失败';
+$language['Extract to...'] = '解压文件到...';
+$language['Extract'] = '解压文件';
+$language['File extracted successfully.'] = '解压文件成功';
+$language['File extraction failed'] = '解压文件失败';
+$language['Filename'] = '文件名';
+$language['No file open'] = '未打开文件';
+$language['The compress type is not supported'] = '不支持该类型的压缩文件';
+?>

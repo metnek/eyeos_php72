@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['File saved successfully.'] = 'Tiedosto tallennettu onnistuneesti.';
+$language['Sorry, you do not have sufficient permissions.'] = 'Valitan, sinulla ei ole riittäviä oikeuksia.';
+$language['Unable to create file'] = 'Tiedoston luominen ei onnistu';
+?>

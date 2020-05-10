@@ -1,0 +1,8 @@
+<?php
+global $language;
+$language['Name'] = 'Tên';
+$language['Select a file to open'] = 'Chọn một tập tin để mở';
+$language['Select a folder'] = 'Chọn một thư mục';
+$language['Select'] = 'Chọn';
+$language['Size'] = 'Dung lượng';
+?>

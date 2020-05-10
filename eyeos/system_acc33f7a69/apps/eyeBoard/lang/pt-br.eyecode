@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Clear'] = 'Limpar';
+$language['Public Board'] = 'Chat Público';
+$language['Send'] = 'Enviar';
+?>

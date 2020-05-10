@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['File not found!'] = 'Fant ikke filen!';
+$language['Sorry, you do not have sufficient permissions.'] = 'Du har ikke tilstrekkelige tillatelser.';
+$language['Spreadsheet saved successfully.'] = 'Regnearket er lagret.';
+$language['Spreadsheet'] = 'Regneark';
+?>

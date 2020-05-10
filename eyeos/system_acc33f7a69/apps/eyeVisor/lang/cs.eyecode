@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Edit'] = 'Upravit';
+$language['You do not have sufficient permissions!'] = 'Nemáš dostatečná oprávnění!';
+?>

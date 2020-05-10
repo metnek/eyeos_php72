@@ -1,0 +1,4 @@
+<?php
+global $language;
+$language['Sorry, you do not have sufficient permissions.'] = 'เสียใจด้วยคุณได้รับสิทธิ์ไม่พอในการเข้าถึงนี้';
+?>

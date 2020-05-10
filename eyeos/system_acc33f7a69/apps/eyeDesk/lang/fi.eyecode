@@ -1,0 +1,17 @@
+<?php
+global $language;
+$language['Applications'] = 'Sovellukset';
+$language['Calendar'] = 'Kalenteri';
+$language['Copy'] = 'Kopioi';
+$language['Download'] = 'Lataa';
+$language['Home'] = 'Koti';
+$language['Paste'] = 'Liitä';
+$language['Preferences'] = 'Asetukset';
+$language['Properties'] = 'Ominaisuudet';
+$language['Refresh'] = 'Päivitä';
+$language['Rename'] = 'Nimeä uudelleen';
+$language['RSS Feed Reader'] = 'RSS Syöte Lukija';
+$language['Trash'] = 'Roskakori';
+$language['Upload files'] = 'Lisää tiedostoja';
+$language['Welcome to %s, %s.'] = 'Tervetuloa %s järjestelmään, %s.';
+?>

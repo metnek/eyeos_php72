@@ -1,0 +1,18 @@
+<?php
+global $language;
+$language['Are you sure you want to replace this file?'] = '정말로 이 파일을 덮어쓰시겠습니까?';
+$language['Author'] = '작성자';
+$language['Confirm file replacement'] = '파일 덮어쓰기 확인';
+$language['Date'] = '날짜';
+$language['Error while trying to browse folder'] = '폴더를 여는 중에 오류가 발생했습니다.';
+$language['Folders'] = '폴더';
+$language['Home'] = '홈';
+$language['Name'] = '이름';
+$language['Save as...'] = '다른 이름으로 저장';
+$language['Select a file to open'] = '열고자 하는 파일을 선택하세요';
+$language['Select a folder'] = '폴더를 선택하세요';
+$language['Select'] = '선택';
+$language['Size'] = '크기';
+$language['You must enter a name'] = '이름을 입력해야 합니다.';
+$language['You must select a file'] = '파일을 선택해야 합니다.';
+?>

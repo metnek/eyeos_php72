@@ -1,0 +1,25 @@
+<?php
+global $language;
+$language['[Default user]'] = '[Người dùng mặc định]';
+$language['Administration'] = 'Quản trị';
+$language['Administrator'] = 'Quản trị viên';
+$language['Author'] = 'Tác giả';
+$language['Delete group'] = 'Xóa nhóm';
+$language['Export'] = 'Xuất';
+$language['Groupname'] = 'Tên nhóm';
+$language['Import'] = 'Nhập';
+$language['none'] = 'không có';
+$language['Password (again) *'] = 'Mật khẩu (gõ lại) *';
+$language['Password *'] = 'Mật khẩu *';
+$language['Password'] = 'Mật khẩu';
+$language['Rename'] = 'Đổi tên';
+$language['Select a file...'] = 'Chọn một tập tin...';
+$language['Select user:'] = 'Chọn người dùng:';
+$language['Select'] = 'Chọn';
+$language['Set as default'] = 'Chọn làm mặc định';
+$language['System preferences'] = 'Thiết lập hệ thống';
+$language['System'] = 'Hệ thống';
+$language['Test'] = 'Kiểm tra';
+$language['Uninstall'] = 'Gỡ bỏ';
+$language['User'] = 'Người dùng';
+?>

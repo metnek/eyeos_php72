@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['Cancel'] = 'Visszavonás';
+$language['Directory not found'] = 'A könyvtár nem található.';
+$language['Do you really want to import this vCard?'] = 'Tényleg importálni szeretné ezt a vCard-ot?';
+$language['Error exporting file!'] = 'Nem lehet exportálni az állományt!';
+$language['File Imported!'] = 'A vCard importálása megtörtént.';
+$language['Format unsupported!'] = 'Ismeretlen formátum';
+$language['Import %s'] = '"%s" importálása';
+$language['Import'] = 'Importálás';
+$language['No contacts were found in the file!'] = 'Nem lehet címjegyzéket készíteni az állományból!';
+$language['The contact already exists!'] = 'Már van ilyen kapcsolat.';
+$language['The file was not found!'] = 'Az állomány nem található.';
+$language['vCardImport cannot initialize, contact with your administrator'] = 'A vCardImport nem elindítható. Lépjen kapcsolatba a rendszer üzemeltetőjével!';
+?>

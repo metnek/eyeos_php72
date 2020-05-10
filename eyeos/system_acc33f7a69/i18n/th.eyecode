@@ -1,0 +1,22 @@
+<?php
+global $language;
+$language['share']['April'] = 'เมษายน';
+$language['share']['August'] = 'สิงหาคม';
+$language['share']['December'] = 'ธันวาีึคม';
+$language['share']['F'] = 'ศ.';
+$language['share']['February'] = 'กุมภาพันธ์';
+$language['share']['January'] = 'มกราคม';
+$language['share']['July'] = 'กรกฎาคม';
+$language['share']['June'] = 'มิถุนายน';
+$language['share']['M'] = 'จ.';
+$language['share']['March'] = 'มีนาคม';
+$language['share']['May'] = 'พฤษภาคม';
+$language['share']['November'] = 'พฤษจิกายน';
+$language['share']['October'] = 'ตุลาคม';
+$language['share']['S'] = 'อา.';
+$language['share']['SA'] = 'ส.';
+$language['share']['September'] = 'กันยายน';
+$language['share']['T'] = 'อ.';
+$language['share']['TH'] = 'พฤ.';
+$language['share']['W'] = 'พ.';
+?>

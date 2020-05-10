@@ -1,0 +1,4 @@
+<?php
+global $language;
+$language['Some special chars have been removed.'] = 'برخی از کارکترهای ویژه باید حذف شود.';
+?>

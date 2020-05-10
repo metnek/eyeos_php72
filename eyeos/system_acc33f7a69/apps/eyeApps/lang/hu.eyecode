@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Applications'] = 'Programok';
+$language['Full Screen'] = 'Teljes képernyő';
+$language['Install Apps'] = 'Program telepítése';
+$language['Manage Dock'] = 'Panel szerkesztése';
+?>

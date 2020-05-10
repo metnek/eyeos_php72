@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['%s files imported!'] = '%s tập tin đã được nhập!';
+$language['Browse'] = 'Duyệt';
+$language['Import'] = 'Nhập';
+$language['You have to select a directory to import files'] = 'Bạn phải chọn một thư mục để nhập tập tin';
+?>

@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['File not found!'] = 'Bestand niet gevonden!';
+$language['Sorry, you do not have sufficient permissions.'] = 'Je hebt niet de juiste rechten.';
+$language['Spreadsheet saved successfully.'] = 'Rekenblad opgeslagen.';
+$language['Spreadsheet'] = 'Rekenblad';
+?>

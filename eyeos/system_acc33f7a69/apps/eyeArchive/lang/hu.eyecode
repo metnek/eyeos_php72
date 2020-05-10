@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['All files'] = 'Minden állomány';
+$language['Archive files'] = 'Archív állományok';
+$language['Archive Manager'] = 'Tömörítő';
+$language['BZip files'] = 'BZip-állományok';
+$language['Compress to...'] = 'Tömörítés ebbe:';
+$language['Compress'] = 'Tömörítés';
+$language['Compressed successfully'] = 'A tömörítés véget ért.';
+$language['Compression failed'] = 'A tömörítés nem sikerült!';
+$language['Extract to...'] = 'Kicsomagolás ide:';
+$language['Extract'] = 'Kicsomagolás';
+$language['File extracted successfully.'] = 'A kicsomagolás véget ért.';
+$language['File extraction failed'] = 'A kicsomagolás nem sikerült!';
+$language['Filename'] = 'Állománynév';
+$language['GZip files'] = 'GZip-állományok';
+$language['No file open'] = 'Nincs mit megnyitni!';
+$language['Open a folder or file'] = 'Könyvtár, vagy állomány megnyitása';
+$language['Open'] = 'Megnyitás';
+$language['Tar files'] = 'Tar-állományok';
+$language['The compress type is not supported'] = 'A dokumentumot nem lehetett tömöríteni.';
+$language['Zip files'] = 'Zip-állományok';
+?>

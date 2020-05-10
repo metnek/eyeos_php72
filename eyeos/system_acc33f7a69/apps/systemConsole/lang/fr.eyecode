@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Clean'] = 'Vider';
+$language['System console log'] = 'Journal de bord du terminal système';
+?>

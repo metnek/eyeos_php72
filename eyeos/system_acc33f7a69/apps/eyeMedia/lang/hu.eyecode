@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['Add File'] = 'Állomány hozzáadása';
+$language['Add Folder'] = 'Könyvtár hozzáadása';
+$language['Clear List'] = 'Listatörlés';
+$language['Error opening: %s'] = 'Hiba a megnyitásakor: %s';
+$language['Filename'] = 'Állománynév';
+$language['Full Screen'] = 'Teljes képernyő';
+$language['Media Player'] = 'Médialejátszó';
+$language['Next'] = 'Következő';
+$language['No file selected.'] = 'Nincs állomány kiválasztva';
+$language['No folder selected.'] = 'Nincs könyvtár kiválasztva';
+$language['Nothing Playing.'] = 'Nincs mit lejátszani.';
+$language['Paused.'] = 'Szüneteltetve.';
+$language['Play'] = 'Lejátszás';
+$language['Playing: %s'] = 'Most lejátszott: %s';
+$language['Previous'] = 'Előző';
+$language['Remove File'] = 'Állomány eltávolítása';
+$language['Repeat'] = 'Ismétlés';
+$language['Shuffle'] = 'Véletlenszerű';
+$language['Stop'] = 'Leállítás';
+$language['Successfully opened: %s'] = 'Sikeresen meg lett nyitva: %s';
+?>

@@ -1,0 +1,10 @@
+<?php
+global $language;
+$language['"%s" could not be restored!'] = '"%s" konnte nicht wiederhergestellt werden.';
+$language['"%s" has been restored to your home folder!'] = '"%s" wurde in "Eigene Daten" wiederhergestellt.';
+$language['Accept'] = 'Wiederherstellen';
+$language['Cancel'] = 'Abbrechen';
+$language['Do you really want to restore "%s"?'] = 'Möchten Sie "%s" wirklich wiederherstellen?';
+$language['Restore %s'] = '%s wiederherstellen';
+$language['You cannot restore "%s" to a real folder!'] = 'Sie können "%s" nicht in einen System-Ordner wiederherstellen.';
+?>

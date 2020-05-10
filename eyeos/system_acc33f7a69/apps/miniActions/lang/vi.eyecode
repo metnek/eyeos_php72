@@ -1,0 +1,8 @@
+<?php
+global $language;
+$language['Create a new document'] = 'Soạn tài liệu mới';
+$language['Create a new spreadsheet'] = 'Soạn bảng tính mới';
+$language['Do you want this widget to open automatically on the next session?'] = 'Bạn có muốn mở thanh công cụ này tự động cho phiên đăng nhập sau không?';
+$language['Send an internal message'] = 'Gửi tin nội bộ';
+$language['Upload your files'] = 'Tải lên tập tin';
+?>

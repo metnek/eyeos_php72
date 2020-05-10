@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Install Apps'] = 'Inštalovať programy';
+$language['Manage Dock'] = 'Spravovať hl. menu';
+?>

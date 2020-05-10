@@ -1,0 +1,4 @@
+<?php
+global $language;
+$language['This is not a bug. Unfortunately it is a problem with your Flash player!'] = 'Isto não é um bug. Infelizmente isto é um problema com o seu Flash player!';
+?>

@@ -1,0 +1,8 @@
+<?php
+global $language;
+$language['"%s" could not be restored!'] = '"%s" nemůže být obnoven!';
+$language['"%s" has been restored to your home folder!'] = '"%s" byl obnoven do domovské složky!';
+$language['Do you really want to restore "%s"?'] = 'Chceš opravdu obnovit "%s"?';
+$language['Restore %s'] = 'Obnovit %s';
+$language['You cannot restore "%s" to a real folder!'] = 'Nemůžeš obnovit "%s" do skutečné složky!';
+?>

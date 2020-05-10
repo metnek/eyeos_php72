@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['File saved successfully.'] = 'Rinkmena įrašyta sėkmingai.';
+$language['Sorry, you do not have sufficient permissions.'] = 'Atsiprašome, Jūs neturite reikiamų prieigos teisių.';
+$language['Text Editor'] = 'Tekstų Rengyklė';
+$language['Unable to create file'] = 'Neįmanoma sukurti rinkmenos';
+?>

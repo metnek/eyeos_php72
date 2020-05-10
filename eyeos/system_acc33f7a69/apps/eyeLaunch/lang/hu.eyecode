@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['%s has had a problem and could not be executed'] = 'A(z) "%s" problémába ütközött, nem indítható';
+$language['%s has had an unknow problem and could not be executed'] = 'A(z) "%s" ismeretlen hibába ütközött és nem indítható';
+$language['%s not found'] = 'A(z) %s nem futtatható.';
+$language['Error, empty username or password'] = 'A felhasználói név és a jelszó mező nem maradhat üresen!';
+$language['Error, invalid username or password'] = 'A felhasználói név vagy a jelszó érvénytelen.';
+$language['Invalid username'] = 'Nincs ilyen nevű felhasználó!';
+$language['Password'] = 'Jelszó:';
+$language['Run as different user'] = 'Futtatás másként';
+$language['Run...'] = 'Futtatás';
+$language['Run'] = 'Indítás';
+$language['Type the name of the app or command to run'] = 'Írja be a futtatni kívánt programot!';
+$language['User'] = 'Felhasználói név:';
+?>

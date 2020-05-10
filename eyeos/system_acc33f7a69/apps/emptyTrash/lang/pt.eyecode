@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Accept'] = 'Aceitar';
+$language['Cancel'] = 'Cancelar';
+$language['Delete %s'] = 'Apagar %s';
+$language['Do you really want to empty the trash?'] = 'Deseja mesmo esvaziar a reciclagem?';
+$language['Do you really want to remove "%s"?'] = 'Deseja mesmo remover "%s"?';
+$language['Empty trash'] = 'Esvaziar reciclagem';
+?>

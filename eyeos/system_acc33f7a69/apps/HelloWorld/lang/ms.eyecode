@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Change Label Text'] = 'Ubah Label Teks';
+$language['Example eyeApp'] = 'Misal eyeApp';
+$language['Hello World!'] = 'Hello Dunia!';
+?>

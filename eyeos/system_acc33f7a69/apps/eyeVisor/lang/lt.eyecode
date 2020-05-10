@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Edit'] = 'Redaguoti';
+$language['You do not have sufficient permissions!'] = 'Jūs neturite reikiamų prieigos teisių!';
+?>

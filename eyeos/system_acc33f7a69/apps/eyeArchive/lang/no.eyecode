@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['All files'] = 'Alle filer';
+$language['Archive files'] = 'Arkivfiler';
+$language['Archive Manager'] = 'Arkivbehandler';
+$language['BZip files'] = 'BZip filer';
+$language['Compress to...'] = 'Komprimer til...';
+$language['Compress'] = 'Komprimer';
+$language['Compressed successfully'] = 'Komprimering ferdig';
+$language['Compression failed'] = 'Feil under komprimering';
+$language['Extract to...'] = 'Pakk ut arkiv til...';
+$language['Extract'] = 'Pakk ut arkiv';
+$language['File extracted successfully.'] = 'Arkivet er pakket ut';
+$language['File extraction failed'] = 'Feil ved utpakking';
+$language['Filename'] = 'Filnavn';
+$language['GZip files'] = 'GZip filer';
+$language['No file open'] = 'Ingen fil er åpnet';
+$language['Open a folder or file'] = 'Åpne en mappe eller fil';
+$language['Open'] = 'Åpne';
+$language['Tar files'] = 'Tar filer';
+$language['The compress type is not supported'] = 'Komprimeringsmetoden støttes ikke';
+$language['Zip files'] = 'ZIP filer';
+?>

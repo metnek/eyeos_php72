@@ -1,0 +1,14 @@
+<?php
+global $language;
+$language['Directory not found'] = 'Adresář nenalezen';
+$language['Do you really want to import this vCard?'] = 'Chceš opravdu importovat tento vCard?';
+$language['Error exporting file!'] = 'Chyba při exportování souboru!';
+$language['File Imported!'] = 'Soubor importován!';
+$language['Format unsupported!'] = 'Nepodporovaný formát';
+$language['Import %s'] = 'Importovat %s';
+$language['Import'] = 'Importovat';
+$language['No contacts were found in the file!'] = 'Žádné kontakty v souboru!';
+$language['The contact already exists!'] = 'Kontakt již existuje!';
+$language['The file was not found!'] = 'Soubor nenalezen!';
+$language['vCardImport cannot initialize, contact with your administrator'] = 'vCardImport nemůže být inicializován, kontaktujte administrátora';
+?>

@@ -1,0 +1,21 @@
+<?php
+global $language;
+$language['All files'] = 'Все файлы';
+$language['Cancel'] = 'Отменить';
+$language['Delete warning'] = 'Удалить предупреждение';
+$language['Do you want to save changes?'] = 'Вы хотите сохранить изменения?';
+$language['Document saved successfully.'] = 'Документ успешно сохранён';
+$language['Don\'t save'] = 'Не сохранять';
+$language['Error - Document not saved. Please try again.'] = 'Ошибка - Документ не сохранен. Попробуйте позже.';
+$language['Error creating file.'] = 'Ошибка при создании файла.';
+$language['Error saving file.'] = 'Ошибка при сохранении файла.';
+$language['eyeOS document file'] = 'eyeOS документ';
+$language['File not found.'] = 'Файл не найден.';
+$language['MS Word document file'] = 'MS Word документ';
+$language['Open Document Text file'] = 'Текстовый документ ODF';
+$language['Save'] = 'Сохранить';
+$language['Sorry, you do not have sufficient permissions!'] = 'Недостаточно прав';
+$language['Sorry, you need to enable OpenOffice Support to view this document.'] = 'Вам нужно включить поддержку OpenOffice для просмотра данного документа.';
+$language['The file does not exist.'] = 'Файл не существует.';
+$language['Word Processor'] = 'Текстовый процессор';
+?>

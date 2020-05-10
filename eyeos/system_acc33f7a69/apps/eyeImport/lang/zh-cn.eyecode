@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['%s files imported!'] = '文件%s已导入';
+$language['Browse'] = '浏览';
+$language['Import'] = '导入';
+$language['You have to select a directory to import files'] = '您必须选择一个目录以导入';
+?>

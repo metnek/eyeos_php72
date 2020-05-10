@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['File not found!'] = 'No hem trobat l\'arxiu!';
+$language['Sorry, you do not have sufficient permissions.'] = 'Ho sentim, no tens suficients permisos.';
+$language['Spreadsheet saved successfully.'] = 'Full de càlcul guardat correctament.';
+$language['Spreadsheet'] = 'Full de càlcul';
+?>

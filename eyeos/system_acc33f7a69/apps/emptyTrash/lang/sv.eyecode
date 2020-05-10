@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Accept'] = 'Acceptera';
+$language['Cancel'] = 'Avbryt';
+$language['Delete %s'] = 'Ta bort %';
+$language['Do you really want to empty the trash?'] = 'Vill du verkligen tömma papperskorgen?';
+$language['Do you really want to remove "%s"?'] = 'Vill du verkligen ta bort "%"?';
+$language['Empty trash'] = 'Töm Papperskorgen';
+?>

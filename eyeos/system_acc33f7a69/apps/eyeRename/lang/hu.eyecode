@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Cancel'] = 'Mégsem';
+$language['Rename %s'] = 'A(z) "%s" átnevezése';
+?>

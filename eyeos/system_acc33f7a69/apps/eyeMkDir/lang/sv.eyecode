@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Some special chars have been removed.'] = 'Några speciella tecken togs bort';
+$language['Type the name of the new folder'] = 'Skriv in namnet på den nya mappen';
+?>

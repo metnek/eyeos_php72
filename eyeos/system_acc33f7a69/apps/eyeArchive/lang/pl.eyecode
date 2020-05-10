@@ -1,0 +1,14 @@
+<?php
+global $language;
+$language['Archive Manager'] = 'Menadżer Archiwum';
+$language['Compress to...'] = 'Skompresuj do...';
+$language['Compress'] = 'Kompresja';
+$language['Compressed successfully'] = 'Skompresowano pomyślnie';
+$language['Compression failed'] = 'Kompresja nie powiodła się';
+$language['Extract to...'] = 'Wypakuj do...';
+$language['Extract'] = 'Wypakuj';
+$language['File extracted successfully.'] = 'Wypakowano pomyślnie';
+$language['File extraction failed'] = 'Wypakowywanie nie powiodło się';
+$language['Filename'] = 'Nazwa pliku';
+$language['The compress type is not supported'] = 'Ten typ kompresji nie jest obsługiwany.';
+?>

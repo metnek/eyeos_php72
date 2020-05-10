@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Accept'] = '接受';
+$language['Do you really want to install this package into the system?'] = '您确定将此插件安装到eyeOS系统吗?';
+$language['Installing'] = '正在安装';
+$language['Nothing to install!'] = '无安装!';
+$language['Only root can install packages'] = '只有超级用户才能安装应用软件。';
+$language['Package installed successfully!'] = '插件安装成功!';
+?>

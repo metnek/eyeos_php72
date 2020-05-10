@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['Archive Manager'] = 'מנהל הארכיון';
+$language['Compress to...'] = 'דחוס אל...';
+$language['Compress'] = 'דחוס';
+$language['Compressed successfully'] = 'נדחס בהצלחה';
+$language['Compression failed'] = 'הדחיסה נכשלה';
+$language['Extract to...'] = 'הרחב ארכיון אל...';
+$language['Extract'] = 'הרחב ארכיון';
+$language['File extracted successfully.'] = 'הקבצים הורחבו בהצלחה';
+$language['File extraction failed'] = 'הרחבת קבצים נכשלה';
+$language['Filename'] = 'שם הקובץ';
+$language['No file open'] = 'אין קובץ לפתיחה';
+$language['The compress type is not supported'] = 'סוג הדחיסה לא נתמך';
+?>

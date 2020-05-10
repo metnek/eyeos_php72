@@ -1,0 +1,4 @@
+<?php
+global $language;
+$language['Error deleting file!'] = 'Klaida šalinant rinkmeną!';
+?>

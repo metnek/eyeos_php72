@@ -1,0 +1,11 @@
+<?php
+global $language;
+$language['Add files to transfer, then press Upload now!'] = 'Vyberte súbory pre prenos, potom kliknite na Natiahnuť!';
+$language['Add files'] = 'Pridať súbory';
+$language['Advanced'] = 'Rozšírené';
+$language['Remove'] = 'Odstrániť';
+$language['Simple'] = 'Jednoduché';
+$language['Transfering: '] = 'Prenášam:';
+$language['Upload files'] = 'Natiahnuť súbory';
+$language['Upload now!'] = 'Natiahnuť';
+?>

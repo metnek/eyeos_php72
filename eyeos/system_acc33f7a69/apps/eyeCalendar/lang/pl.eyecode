@@ -1,0 +1,28 @@
+<?php
+global $language;
+$language['A calendar with the same name already exists!'] = 'Kalendarz o tej samej nazwie już istnieje!';
+$language['Add Calendar'] = 'Dodaj kalendarz';
+$language['At least, one calendar is required!'] = 'Wymagany jest przynajmniej jeden kalendarz!';
+$language['Calendar added succesfully'] = 'Kalendarz dodany pomyślnie!';
+$language['Calendar is already running!'] = 'Kalendarz jest już otwarty!';
+$language['Calendar'] = 'Kalendarz';
+$language['Calendars management'] = 'Zarządzanie kalendarzami';
+$language['Calendars'] = 'Kalendarze';
+$language['Configuration saved correctly'] = 'Konfiguracja została pomyślnie zapisana';
+$language['Configure calendar'] = 'Konfiguruj kalendarz';
+$language['Day'] = 'Dzień';
+$language['Invalid checkbox value'] = 'Nieprawidłowa wartość okienka zaznaczania(checkbox\'a)';
+$language['Invalid Num %s'] = 'Nieprawidłowa wartość %s';
+$language['Next'] = 'Dalej';
+$language['Please specify the calendar name:'] = 'Proszę podać nazwę kalendarza:';
+$language['Please type a name for the calendar'] = 'Proszę wpisać nazwę kalendarza';
+$language['Previous'] = 'Wstecz';
+$language['Show'] = 'Pokaż';
+$language['Text for this event:'] = 'Tekst dla wydarzenia:';
+$language['Today'] = 'Dziś';
+$language['Two calendars cannot share the same ID!'] = 'Dwa kalendarze nie mogą mieć tego samego ID!';
+$language['Two calendars cannot share the same name!'] = 'Dwa kalendarze nie mogą mieć tej samej nazwy!';
+$language['Week'] = 'Tydzień';
+$language['Window mode'] = 'Okno';
+$language['Work'] = 'Praca';
+?>

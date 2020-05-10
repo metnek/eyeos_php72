@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['File not found!'] = 'Dosya bulunamadı!';
+$language['Sorry, you do not have sufficient permissions.'] = 'Üzgünüm, yeterli yetkiniz bulunmuyor.';
+$language['Spreadsheet saved successfully.'] = 'Hesap tablosu başarıyla kaydedildi.';
+$language['Spreadsheet'] = 'Hesap tablosu';
+?>

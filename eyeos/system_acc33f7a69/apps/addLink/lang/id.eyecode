@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Cancel'] = 'Batal';
+$language['Create a link'] = 'Buat Link';
+$language['Create'] = 'Buat';
+$language['Please type the title of the link here:'] = 'Masukan Judul Link disini';
+?>

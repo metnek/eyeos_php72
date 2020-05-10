@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Download!'] = 'Herunterladen!';
+$language['Links cannot be downloaded!'] = 'Links können nicht heruntergeladen werden.';
+$language['You can close this window now.'] = 'Sie können das Fenster nun schließen.';
+?>

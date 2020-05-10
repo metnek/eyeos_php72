@@ -1,0 +1,4 @@
+<?php
+global $language;
+$language['Links cannot be downloaded!'] = 'I collegamenti non possono essere scaricati !';
+?>

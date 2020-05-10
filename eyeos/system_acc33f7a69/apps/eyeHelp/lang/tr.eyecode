@@ -1,0 +1,12 @@
+<?php
+global $language;
+$language['Ask for help'] = 'Yardım ara';
+$language['Changes successfully applied.'] = 'Değişiklikler uygulandı.';
+$language['eyeHelp preferences'] = 'eyeHelp tercihleri';
+$language['Preferences'] = 'Tercihler';
+$language['Submit'] = 'Kaydet';
+$language['The field must not be left empty.'] = 'Alan boş bırakılmamalıdır.';
+$language['Topics'] = 'Başlıklar';
+$language['User to contact to ask for help:'] = 'Yardım için iletişime geçilecek kullanıcı:';
+$language['You are not allowed to do this.'] = 'Bunu yapmaya yetkiniz yok.';
+?>

@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Links cannot be copied!'] = 'Linken kunnen niet gekopieerd worden.';
+$language['You can paste "%s" into another folder now.'] = 'Je kan nu "%s" in een andere map plakken.';
+?>

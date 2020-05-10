@@ -1,0 +1,36 @@
+<?php
+global $language;
+$language['[Unknown string]'] = '[desconhecido]';
+$language['Always remember my last configuration'] = 'Lembrar sempre a minha última configuração';
+$language['Board size :'] = 'Tamanho do quadro:';
+$language['Cancel'] = 'Cancelar';
+$language['Close'] = 'Fechar';
+$language['Configuration'] = 'Configuração';
+$language['Date'] = 'Data';
+$language['Do you want to start a new game?'] = 'Deseja iniciar outro jogo?';
+$language['Finished!'] = 'Terminou!';
+$language['Fullscreen'] = 'Ecrã inteiro';
+$language['Highscores'] = 'Pontuações';
+$language['Level / board size (%s-%s):'] = 'Nível/tamanho quadro (%s-%s)';
+$language['Maximum value on edges:'] = 'Máximo valor nos extremos:';
+$language['Maximum'] = 'Máximo';
+$language['Maybe you should try a higher level...'] = 'Talvez deva tentar um nível mais alto...';
+$language['Moves'] = 'Lances';
+$language['Network problem'] = 'Problema de rede';
+$language['New game'] = 'Novo jogo';
+$language['No'] = 'Não';
+$language['Number of moves:'] = 'Número de lances:';
+$language['Rank'] = 'Classificação';
+$language['Save'] = 'Gravar';
+$language['Tetravex Game'] = 'Jogo Tetravex';
+$language['These options won\'t be applied until you start a new game.'] = 'Estas opções só serão actualizadas quando iniciar um novo jogo.';
+$language['Time'] = 'Tempo';
+$language['Tip used! Ranking disabled...'] = 'Modo ajuda! Classificação suspensa...';
+$language['Unable to connect to the host server.'] = 'Não é possível ligar ao servidor.';
+$language['Use colored numbers on tiles'] = 'Use números coloridos.';
+$language['Use shared highscores on server (all users)'] = 'Usar pontuação partilhada no servidor (todos os utilizadores)';
+$language['User'] = 'Utilizador';
+$language['Yes'] = 'Sim';
+$language['Your rank:'] = 'A sua classificação:';
+$language['Your time:'] = 'O seu tempo:';
+?>

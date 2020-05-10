@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Back'] = 'Grįžti';
+$language['Next'] = 'Toliau';
+$language['Presentations'] = 'Pateiktys';
+$language['Sorry, you do not have sufficient permissions.'] = 'Atsiprašome, Jūs neturite reikiamų prieigos teisių.';
+$language['You are already on the first slide, you cannot go back anymore!'] = 'Jūs jau esate pirmoje skaidrėje, todėl toliau grįžti negalite!';
+$language['You need to select a file to open!'] = 'Turite pasirinkti rinkmeną, kurią norite atverti!';
+?>

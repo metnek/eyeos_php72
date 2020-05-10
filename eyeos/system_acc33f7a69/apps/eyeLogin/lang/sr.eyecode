@@ -1,0 +1,19 @@
+<?php
+global $language;
+$language['Create account'] = 'Креирај налог';
+$language['Error creating new user!'] = 'Грешка при креирању новог корисника!';
+$language['Language (this session)'] = 'Језик (ова сесија)';
+$language['Language'] = 'Језик';
+$language['New User'] = 'Нови Корисник';
+$language['Password fields do not match!'] = 'Поља за лозинку се нису сложила!';
+$language['Password is too short!'] = 'Лозинка је превише кратка!';
+$language['Password'] = 'Лозинка';
+$language['Please fill out all fields!'] = 'Молимо попуните сва поља!';
+$language['Retype password'] = 'Понови лозинку';
+$language['That user already exists!'] = 'Тај корисник већ постоји!';
+$language['The language does not exist!'] = 'Језик не постоји!';
+$language['This system does not allow user registrations!'] = 'Систем не дозвољава регистрацију корисника!';
+$language['Username is too short!'] = 'Корисничко име је превише кратко';
+$language['Username'] = 'Корисничко име';
+$language['Your account has been disabled!'] = 'Ваш налог је обрисан!';
+?>

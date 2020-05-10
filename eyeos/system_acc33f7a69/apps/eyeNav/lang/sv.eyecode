@@ -1,0 +1,28 @@
+<?php
+global $language;
+$language['Add bookmark'] = 'Lägg till bokmärke';
+$language['Back'] = 'Tillbaka';
+$language['Bookmark does not exist!'] = 'Bokmärket existerar inte!';
+$language['Bookmark title'] = 'Bokmärkets titel';
+$language['Bookmarks'] = 'Bokmärken';
+$language['Delete bookmark'] = 'Radera bokmärke';
+$language['Do you really want to delete this bookmark?'] = 'Vill du verkligen radera det här bokmärket?';
+$language['Forums'] = 'Forum';
+$language['Forward'] = 'Gå vidare';
+$language['Images'] = 'Bilder';
+$language['Internet'] = 'Internet';
+$language['Knowledge'] = 'Vetskap';
+$language['Link successfully deleted.'] = 'Länken raderades';
+$language['Link successfully saved.'] = 'Länken sparades';
+$language['Open bookmarks'] = 'Öppna bokmärken';
+$language['Open searches'] = 'Öppna sökningar';
+$language['Search'] = 'Sök';
+$language['Settings'] = 'Inställningar';
+$language['Startpage'] = 'Startsida';
+$language['The selected file is not a valid eyeNav bookmarks file!'] = 'Den valda filen är inte en giltig bokmärkesfil för eyeNav!';
+$language['The selected file is not a valid eyeNav search file!'] = 'Den valda filen är inte en giltig sökfil för eyeNav!';
+$language['There is already another bookmark with this title!'] = 'Det finns redan ett annat bokmärke med den titeln!';
+$language['Uncategorized'] = 'Okategoriserad';
+$language['Website'] = 'Webbsajt';
+$language['Wiki'] = 'Wiki';
+?>

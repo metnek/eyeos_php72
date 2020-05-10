@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Calendar'] = 'Calendrier';
+$language['miniCalendar is already running!'] = 'miniCalendar est déjà lancé!';
+?>

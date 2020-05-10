@@ -1,0 +1,13 @@
+<?php
+global $language;
+$language['Compress to...'] = '名前を付けて圧縮';
+$language['Compress'] = '圧縮';
+$language['Compressed successfully'] = '圧縮完了';
+$language['Extract to...'] = '場所を指定して解凍';
+$language['Extract'] = '解凍';
+$language['File extracted successfully.'] = '解凍完了';
+$language['File extraction failed'] = '解凍失敗';
+$language['Filename'] = 'ファイル名';
+$language['No file open'] = 'ファイルを開いていません';
+$language['The compress type is not supported'] = '圧縮形式がサポートされていません';
+?>

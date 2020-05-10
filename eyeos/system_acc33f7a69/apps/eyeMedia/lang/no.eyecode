@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['Add File'] = 'Legg til fil';
+$language['Add Folder'] = 'Legg til mappe';
+$language['Clear List'] = 'Tøm liste';
+$language['Error opening: %s'] = 'Feil ved åpning av: %s';
+$language['Filename'] = 'Filnavn';
+$language['Full Screen'] = 'Fullskjerm';
+$language['Media Player'] = 'Mediaspiller';
+$language['Next'] = 'Neste';
+$language['No file selected.'] = 'Ingen fil er valgt.';
+$language['No folder selected.'] = 'Ingen mappe er valgt.';
+$language['Nothing Playing.'] = 'Ingen avspilling.';
+$language['Paused.'] = 'Satt på pause.';
+$language['Play'] = 'Spill av';
+$language['Playing: %s'] = 'Spiller: %s';
+$language['Previous'] = 'Forrige';
+$language['Remove File'] = 'Fjern fil';
+$language['Repeat'] = 'Repetisjon';
+$language['Shuffle'] = 'Tilfeldig';
+$language['Stop'] = 'Stopp';
+$language['Successfully opened: %s'] = 'Åpnet: %s';
+?>

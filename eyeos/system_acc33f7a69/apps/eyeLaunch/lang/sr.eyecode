@@ -1,0 +1,12 @@
+<?php
+global $language;
+$language['Error, empty username or password'] = 'Грешка, корисничко име или лозинка је празно';
+$language['Error, invalid username or password'] = 'Грешка, погрешно корисничко име или лозинка';
+$language['Invalid username'] = 'Погрешно корисничко име';
+$language['Password'] = 'Лозинка';
+$language['Run as different user'] = 'Покрени као други корисник';
+$language['Run...'] = 'Покрени...';
+$language['Run'] = 'Покрени';
+$language['Type the name of the app or command to run'] = 'Унесите назив апликације или команду да је покренете';
+$language['User'] = 'Корисник';
+?>

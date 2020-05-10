@@ -1,0 +1,29 @@
+<?php
+global $language;
+$language['Add bookmark'] = 'Přidat záložku';
+$language['Back'] = 'Zpět';
+$language['Bookmark does not exist!'] = 'Záložka neexistuje!';
+$language['Bookmark title'] = 'Název záložky';
+$language['Bookmarks'] = 'Záložky';
+$language['Delete bookmark'] = 'Smazat záložku';
+$language['Do you really want to delete this bookmark?'] = 'Doopravdy chceš smazat tuto záložku?';
+$language['Forums'] = 'Fóra';
+$language['Forward'] = 'Vpřed';
+$language['Images'] = 'Obrázky';
+$language['Internet'] = 'Internet';
+$language['Knowledge'] = 'Vzdělání';
+$language['Link successfully deleted.'] = 'Odkaz byl úspěšně smazán.';
+$language['Link successfully saved.'] = 'Odkaz byl úspěšně uložen.';
+$language['Navigator'] = 'Prohlížeč';
+$language['Open bookmarks'] = 'Otevřít záložky';
+$language['Open searches'] = 'Otevřít vyhledávání';
+$language['Search'] = 'Hledat';
+$language['Settings'] = 'Nastavení';
+$language['Startpage'] = 'Domovská stránka';
+$language['The selected file is not a valid eyeNav bookmarks file!'] = 'Vybraný soubor není platný soubor se záložkami!';
+$language['The selected file is not a valid eyeNav search file!'] = 'Vybraný soubor není platný soubor s vyhledáváním!';
+$language['There is already another bookmark with this title!'] = 'Už existuje jiná záložka se stejným názvem!';
+$language['Uncategorized'] = 'Nezařazeno';
+$language['Website'] = 'Webová stránka';
+$language['Wiki'] = 'Wiki';
+?>

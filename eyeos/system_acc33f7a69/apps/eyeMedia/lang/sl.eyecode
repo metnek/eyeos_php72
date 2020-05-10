@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['Add File'] = 'Dodaj datoteko';
+$language['Add Folder'] = 'Dodaj mapo';
+$language['Clear List'] = 'Počisti seznam';
+$language['Error opening: %s'] = 'Napaka pri odpiranju: %s';
+$language['Filename'] = 'Ime datoteke';
+$language['Full Screen'] = 'Celi zaslon';
+$language['Media Player'] = 'Media Player';
+$language['Next'] = 'Naslednji';
+$language['No file selected.'] = 'Ni izbranih datotek.';
+$language['No folder selected.'] = 'Ni izbranih map.';
+$language['Nothing Playing.'] = 'Ne predvajam.';
+$language['Paused.'] = 'Pavzirano.';
+$language['Play'] = 'Predvajaj';
+$language['Playing: %s'] = 'Predvajam: %s';
+$language['Previous'] = 'Prejšnji';
+$language['Remove File'] = 'Odstrani datoteko';
+$language['Repeat'] = 'Ponavljanje';
+$language['Shuffle'] = 'Naključno';
+$language['Stop'] = 'Stop';
+$language['Successfully opened: %s'] = 'Uspešno odprto: %s';
+?>

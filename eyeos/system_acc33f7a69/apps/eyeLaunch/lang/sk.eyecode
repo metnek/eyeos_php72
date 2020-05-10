@@ -1,0 +1,13 @@
+<?php
+global $language;
+$language['%s not found'] = '%s nenájdený';
+$language['Error, empty username or password'] = 'Chyba, prázdne užívateľské meno, alebo heslo';
+$language['Error, invalid username or password'] = 'Chyba, nesprávne užívateľské meno, alebo heslo';
+$language['Invalid username'] = 'Nesprávne užívateľské meno';
+$language['Password'] = 'Heslo';
+$language['Run as different user'] = 'Spustiť ako iný užívateľ';
+$language['Run...'] = 'Spustiť...';
+$language['Run'] = 'Spustiť';
+$language['Type the name of the app or command to run'] = 'Zadajte názov programu, alebo príkaz:';
+$language['User'] = 'Užívateľ';
+?>

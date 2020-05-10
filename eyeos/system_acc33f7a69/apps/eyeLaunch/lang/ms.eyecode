@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Password'] = 'Kata Rahsia';
+$language['User'] = 'Nama';
+?>

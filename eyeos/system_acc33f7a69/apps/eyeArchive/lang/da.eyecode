@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['Archive Manager'] = 'Arkivmanager';
+$language['Compress to...'] = 'Komprimér til...';
+$language['Compress'] = 'Komprimér';
+$language['Compressed successfully'] = 'Komprimeret med succes';
+$language['Compression failed'] = 'Komprimeringen fejlede';
+$language['Extract to...'] = 'Pak ud til...';
+$language['Extract'] = 'Pak ud';
+$language['File extracted successfully.'] = 'Filen blev udpakket succes';
+$language['File extraction failed'] = 'Udpakning af fil fejlede';
+$language['Filename'] = 'Filnavn';
+$language['No file open'] = 'Ingen fil åben';
+$language['The compress type is not supported'] = 'Komprimeringstypen er ikke supporteret';
+?>

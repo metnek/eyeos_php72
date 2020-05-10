@@ -1,0 +1,10 @@
+<?php
+global $language;
+$language['Accept'] = 'Potrdi';
+$language['Cancel'] = 'Prekliči';
+$language['Do you really want to install this package into the system?'] = 'Ste prepričani da želite namestiti ta paket?';
+$language['Installing'] = 'Nameščanje';
+$language['Nothing to install!'] = 'Ničesar ni za namestitev.';
+$language['Only root can install packages'] = 'Le root lahko namešča pakete.';
+$language['Package installed successfully!'] = 'Paket uspešno nameščen!';
+?>

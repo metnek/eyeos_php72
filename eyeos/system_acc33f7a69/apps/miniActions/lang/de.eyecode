@@ -1,0 +1,11 @@
+<?php
+global $language;
+$language['Create a new document'] = 'Neues Dokument';
+$language['Create a new spreadsheet'] = 'Neue Tabelle';
+$language['Do you want this widget to open automatically on the next session?'] = 'Soll dieses Panel beim nächsten Start wieder automatisch geöffnet werden?';
+$language['miniActions is already running!'] = 'miniActions läuft bereits.';
+$language['No'] = 'Nein';
+$language['Send an internal message'] = 'Nachricht senden';
+$language['Upload your files'] = 'Dateien hochladen';
+$language['Yes'] = 'Ja';
+?>

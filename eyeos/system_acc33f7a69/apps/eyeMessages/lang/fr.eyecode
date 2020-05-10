@@ -1,0 +1,34 @@
+<?php
+global $language;
+$language['(do) Read'] = 'Lire';
+$language['Accept'] = 'Valider';
+$language['Are you sure you want to empty all messages of this folder?'] = 'Etes-vous certain de vouloir supprimer tous les courriers de ce dossier?';
+$language['Attach'] = 'Joindre';
+$language['Cancel'] = 'Annuler';
+$language['Confirm empty'] = 'Confirmer la suppression';
+$language['Date'] = 'Date';
+$language['Delete'] = 'Supprimer';
+$language['Download'] = 'Télécharger';
+$language['Emptied'] = 'Vidé';
+$language['Empty'] = 'Vider';
+$language['Error opening message'] = 'Erreur lors de l\'ouverture du courrier';
+$language['File saved successfully.'] = 'Fichier enregistré avec succès.';
+$language['From'] = 'Expéditeur';
+$language['Full Screen'] = 'Plein écran';
+$language['Inbox'] = 'Boîte de réception';
+$language['Internal Messaging'] = 'Courrier interne';
+$language['Message restored in its original folder'] = 'Courrier restauré dans son répertoire d\'origine';
+$language['New'] = 'Nouveau';
+$language['Read Message'] = 'Lire le courrier';
+$language['Read'] = 'Lu';
+$language['Refresh'] = 'Rafraîchir';
+$language['Reply'] = 'Répondre';
+$language['Restore'] = 'Restaurer';
+$language['Sent'] = 'Envoyé';
+$language['Subject'] = 'Sujet';
+$language['To'] = 'Destinataire';
+$language['Trash'] = 'Corbeille';
+$language['Unread'] = 'Non lu';
+$language['You must choose a message to delete'] = 'Vous devez choisir un courrier à supprimer';
+$language['You must choose a message to open'] = 'Vous devez choisir un courrier à ouvrir';
+?>

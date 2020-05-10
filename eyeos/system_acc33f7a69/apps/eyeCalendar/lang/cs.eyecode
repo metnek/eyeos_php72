@@ -1,0 +1,28 @@
+<?php
+global $language;
+$language['A calendar with the same name already exists!'] = 'Kalendář se stejným jménem již existuje!';
+$language['Add Calendar'] = 'Přidat kalendář.';
+$language['At least, one calendar is required!'] = 'Minimálně jeden kalendář musí zůstat!';
+$language['Calendar added succesfully'] = 'Kalendář úspěšně přidán.';
+$language['Calendar is already running!'] = 'Kalendář je už spuštěný!';
+$language['Calendar'] = 'Kalendář';
+$language['Calendars management'] = 'Správa kalendářů';
+$language['Calendars'] = 'Kalendáře';
+$language['Configuration saved correctly'] = 'Nastavení uloženo';
+$language['Configure calendar'] = 'Nastavení kalendáře';
+$language['Day'] = 'Den';
+$language['Invalid checkbox value'] = 'Nesprávná hodnota v checkbox-u';
+$language['Invalid Num %s'] = 'Nesprávné číslo %s';
+$language['Next'] = 'Další';
+$language['Please specify the calendar name:'] = 'Prosím, zadej jméno kalendáře:';
+$language['Please type a name for the calendar'] = 'Prosím, zadej jméno kalendáře';
+$language['Previous'] = 'Předchozí';
+$language['Show'] = 'Zobrazit';
+$language['Text for this event:'] = 'Text k této poznámce:';
+$language['Today'] = 'Dnes';
+$language['Two calendars cannot share the same ID!'] = 'Dva kalendáře nemohou mít stejné ID!';
+$language['Two calendars cannot share the same name!'] = 'Dva kalendáře nemohou mít stejná jména!';
+$language['Week'] = 'Týden';
+$language['Window mode'] = 'Režim okna';
+$language['Work'] = 'Pracovní';
+?>

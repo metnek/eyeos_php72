@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['Add File'] = 'Adicionar ficheiro';
+$language['Add Folder'] = 'Adicionar pasta';
+$language['Clear List'] = 'Limpar lista';
+$language['Error opening: %s'] = 'Erro ao abrir: %s';
+$language['Filename'] = 'Nome do ficheiro';
+$language['Full Screen'] = 'Ecrã inteiro';
+$language['Media Player'] = 'Reprodutor de media';
+$language['Next'] = 'Próximo';
+$language['No file selected.'] = 'Não foi selecionado nenhum ficheiro';
+$language['No folder selected.'] = 'Não foi selecionada nenhuma pasta';
+$language['Nothing Playing.'] = 'Não há nada a ser reproduzido.';
+$language['Paused.'] = 'Pausado';
+$language['Play'] = 'Reproduzir';
+$language['Playing: %s'] = 'A reproduzir: %s';
+$language['Previous'] = 'Anterior';
+$language['Remove File'] = 'Remover ficheiro';
+$language['Repeat'] = 'Repetir';
+$language['Shuffle'] = 'Aletório';
+$language['Stop'] = 'Parar';
+$language['Successfully opened: %s'] = 'Aberto com sucesso: %s';
+?>

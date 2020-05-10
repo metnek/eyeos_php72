@@ -1,0 +1,22 @@
+<?php
+global $language;
+$language['( Default )'] = '( Gjeldende )';
+$language['Create account'] = 'Opprett brukerkonto';
+$language['Enter'] = 'Logg inn';
+$language['Error creating new user!'] = 'Feil ved oppretting av bruker';
+$language['Language (this session)'] = 'Språk (denne økten)';
+$language['Language'] = 'Språk';
+$language['New User'] = 'Ny bruker';
+$language['Password fields do not match!'] = 'Passordene er ikke like!';
+$language['Password is too short!'] = 'Passordet er for kort!';
+$language['Password'] = 'Passord';
+$language['Please fill out all fields!'] = 'Du må fylle ut alle felt!';
+$language['Retype password'] = 'Gjenta passord';
+$language['That user already exists!'] = 'Brukeren finnes fra før!';
+$language['The language does not exist!'] = 'Språkpakken finnes ikke!';
+$language['This system does not allow user registrations!'] = 'Dette systemet tillater ikke brukerregistreringer!';
+$language['Username is too short!'] = 'Brukernavnet er for kort!';
+$language['Username should be alpha-numeric!'] = 'Brukernavn må være alfanumerisk!';
+$language['Username'] = 'Brukernavn';
+$language['Your account has been disabled!'] = 'Din konto er deaktivert!';
+?>

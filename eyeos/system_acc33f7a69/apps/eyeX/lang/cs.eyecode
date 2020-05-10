@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Please wait...'] = 'Prosím čekej...';
+$language['Welcome to %s'] = 'Vítej na %s';
+?>

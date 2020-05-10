@@ -1,0 +1,13 @@
+<?php
+global $language;
+$language['%s not found'] = '%s hittades inte';
+$language['Error, empty username or password'] = 'Tomt användarnamn eller lösenord';
+$language['Error, invalid username or password'] = 'Ogiltigt användarnamn eller lösenord';
+$language['Invalid username'] = 'Ogiltigt användarenamn';
+$language['Password'] = 'Lösenord';
+$language['Run as different user'] = 'Kör som annan användare';
+$language['Run...'] = 'Kör...';
+$language['Run'] = 'Kör';
+$language['Type the name of the app or command to run'] = 'Skriv in namnet på programet att köra';
+$language['User'] = 'Användare';
+?>

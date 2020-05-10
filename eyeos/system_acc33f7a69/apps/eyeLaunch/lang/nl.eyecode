@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['%s has had a problem and could not be executed'] = '%s had een probleem en kon niet worden opgestart';
+$language['%s has had an unknow problem and could not be executed'] = '%s had een onbekend probleem en kon niet worden opgestart';
+$language['%s not found'] = '%s niet gevonden';
+$language['Error, empty username or password'] = 'Fout, lege gebruikersnaam of wachtwoord';
+$language['Error, invalid username or password'] = 'Fout, onjuiste gebruiker of wachtwoord';
+$language['Invalid username'] = 'Onjuiste gebruikersnaam';
+$language['Password'] = 'Wachtwoord';
+$language['Run as different user'] = 'Start als andere gebruiker';
+$language['Run...'] = 'Start ...';
+$language['Run'] = 'Start';
+$language['Type the name of the app or command to run'] = 'Typ de naam van een app of opdracht om te starten';
+$language['User'] = 'Gebruiker';
+?>

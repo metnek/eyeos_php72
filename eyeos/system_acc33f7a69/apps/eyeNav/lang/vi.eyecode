@@ -1,0 +1,29 @@
+<?php
+global $language;
+$language['Add bookmark'] = 'Thêm dấu trang';
+$language['Back'] = 'Quay lại';
+$language['Bookmark does not exist!'] = 'Dấu trang không tồn tại!';
+$language['Bookmark title'] = 'Tên dấu trang';
+$language['Bookmarks'] = 'Dấu trang';
+$language['Delete bookmark'] = 'Xóa dấu trang';
+$language['Do you really want to delete this bookmark?'] = 'Bạn có thực sự muốn xóa dấu trang này?';
+$language['Forums'] = 'Diễn đàn';
+$language['Forward'] = 'Tiến tới';
+$language['Images'] = 'Hình ảnh';
+$language['Internet'] = 'Internet';
+$language['Knowledge'] = 'Kiến thức';
+$language['Link successfully deleted.'] = 'Đã xóa liên kết thành công.';
+$language['Link successfully saved.'] = 'Đã lưu liên kết thành công.';
+$language['Navigator'] = 'Trình duyệt';
+$language['Open bookmarks'] = 'Mở dấu trang';
+$language['Open searches'] = 'Mở kết quả tìm';
+$language['Search'] = 'Tìm kiếm';
+$language['Settings'] = 'Thiết lập';
+$language['Startpage'] = 'Trang khởi đầu';
+$language['The selected file is not a valid eyeNav bookmarks file!'] = 'Tập tin vừa chọn không phải là dấu trang hợp lệ cho eyeNav!';
+$language['The selected file is not a valid eyeNav search file!'] = 'Tập tin vừa chọn không phải là tìm kiếm hợp lệ cho eyeNav!';
+$language['There is already another bookmark with this title!'] = 'Đã có dấu trang khác sử dụng tên này!';
+$language['Uncategorized'] = 'Không phân loại';
+$language['Website'] = 'Trang Web';
+$language['Wiki'] = 'Wiki';
+?>

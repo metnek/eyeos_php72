@@ -1,0 +1,18 @@
+<?php
+global $language;
+$language['All files'] = 'Tots els arxius';
+$language['Cancel'] = 'Cancel·la';
+$language['Delete warning'] = 'Elimina advertència';
+$language['Do you want to save changes?'] = 'Vols guardar els canvis?';
+$language['Don\'t save'] = 'No guardis';
+$language['File saved successfully.'] = 'Arxiu guardat satisfactòriament.';
+$language['Full Screen'] = 'Pantalla completa';
+$language['New'] = 'Nou';
+$language['Open'] = 'Obra';
+$language['Save As'] = 'Guarda com';
+$language['Save'] = 'Guarda';
+$language['Sorry, you do not have sufficient permissions.'] = 'Ho sentim, no tens suficients permissos.';
+$language['Text Editor'] = 'Editor de text';
+$language['Text files'] = 'Arxius de text';
+$language['Unable to create file'] = 'Impossible crear l\'arxiu';
+?>

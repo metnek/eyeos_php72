@@ -1,0 +1,33 @@
+<?php
+global $language;
+$language['share']['Another file'] = 'ملف آخر';
+$language['share']['April'] = 'أبريل';
+$language['share']['August'] = 'أغسطس';
+$language['share']['December'] = 'ديسمبر';
+$language['share']['Error %s'] = 'عطل %s';
+$language['share']['extracted'] = 'تم استخراج';
+$language['share']['F'] = 'ج';
+$language['share']['February'] = 'فبراير';
+$language['share']['Fri'] = 'جمعة';
+$language['share']['January'] = 'يناير';
+$language['share']['July'] = 'يوليو';
+$language['share']['June'] = 'يونيو';
+$language['share']['M'] = 'ن';
+$language['share']['March'] = 'مارس';
+$language['share']['May'] = 'مايو';
+$language['share']['Mon'] = 'اثنين';
+$language['share']['November'] = 'نوفمبر';
+$language['share']['October'] = 'اكتوبر';
+$language['share']['S'] = 'ح';
+$language['share']['SA'] = 'س';
+$language['share']['Sat'] = 'سبت';
+$language['share']['September'] = 'سبتمبر';
+$language['share']['Sun'] = 'أحد';
+$language['share']['T'] = 'ث';
+$language['share']['TH'] = 'خ';
+$language['share']['Thu'] = 'خميس';
+$language['share']['Tue'] = 'ثلاثاء';
+$language['share']['Upload'] = 'ارفع';
+$language['share']['W'] = 'ع';
+$language['share']['Wed'] = 'أربعاء';
+?>

@@ -1,0 +1,30 @@
+<?php
+global $language;
+$language['share']['April'] = 'Tháng tư';
+$language['share']['August'] = 'Tháng tám';
+$language['share']['December'] = 'Tháng mười hai';
+$language['share']['extracted'] = 'đã giải nén';
+$language['share']['F'] = 'T6';
+$language['share']['February'] = 'Tháng hai';
+$language['share']['Fri'] = 'Sáu';
+$language['share']['January'] = 'Tháng một';
+$language['share']['July'] = 'Tháng bảy';
+$language['share']['June'] = 'Tháng sáu';
+$language['share']['M'] = 'T2';
+$language['share']['March'] = 'Tháng ba';
+$language['share']['May'] = 'Tháng năm';
+$language['share']['Mon'] = 'Hai';
+$language['share']['November'] = 'Tháng mười một';
+$language['share']['October'] = 'Tháng mười';
+$language['share']['S'] = 'CN';
+$language['share']['SA'] = 'T7';
+$language['share']['Sat'] = 'Bảy';
+$language['share']['September'] = 'Tháng chín';
+$language['share']['Sun'] = 'CN';
+$language['share']['T'] = 'T3';
+$language['share']['TH'] = 'T5';
+$language['share']['Thu'] = 'Năm';
+$language['share']['Tue'] = 'Ba';
+$language['share']['W'] = 'T4';
+$language['share']['Wed'] = 'Tư';
+?>

@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Edit'] = 'Düzenle';
+$language['You do not have sufficient permissions!'] = 'Yeterli izniniz bulunmuyor!';
+?>

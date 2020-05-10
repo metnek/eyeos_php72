@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Create a file'] = 'Crea un nuovo file';
+$language['Error creating file!'] = 'Errore durante la creazione del file!';
+$language['Please type the name of the new file here:'] = 'Digita qui il nome del nuovo file:';
+$language['Some special chars have been removed.'] = 'Alcuni caratteri speciali sono stati rimossi';
+?>

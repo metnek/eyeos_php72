@@ -1,0 +1,35 @@
+<?php
+global $language;
+$language['Accept'] = 'Ok';
+$language['Add bookmark'] = 'Voeg favoriet toe';
+$language['Back'] = 'Terug';
+$language['Bookmark does not exist!'] = 'Favoriet bestaat niet!';
+$language['Bookmark title'] = 'Favorietnaam';
+$language['Bookmarks'] = 'Favorieten';
+$language['Cancel'] = 'Annuleren';
+$language['Delete bookmark'] = 'Wis favoriet';
+$language['Do you really want to delete this bookmark?'] = 'Deze favoriet wissen ?';
+$language['Forums'] = 'Forums';
+$language['Forward'] = 'Doorsturen';
+$language['Full Screen'] = 'Volledig scherm';
+$language['Images'] = 'Afbeeldingen';
+$language['Internet'] = 'Internet';
+$language['Knowledge'] = 'Kennis';
+$language['Link successfully deleted.'] = 'Link verwijderd.';
+$language['Link successfully saved.'] = 'Link opgeslagen.';
+$language['Navigator'] = 'Navigator';
+$language['No'] = 'Nee';
+$language['Open bookmarks'] = 'Open favorieten';
+$language['Open searches'] = 'Open zoekopdrachten';
+$language['Refresh'] = 'Verversen';
+$language['Search'] = 'Zoek';
+$language['Settings'] = 'Instellingen';
+$language['Startpage'] = 'Startpagina';
+$language['The selected file is not a valid eyeNav bookmarks file!'] = 'Geselecteerd bestand is geen eyeNav favorietenbestand!';
+$language['The selected file is not a valid eyeNav search file!'] = 'Geselecteerd bestand is geen eyeNav zoekbestand !';
+$language['There is already another bookmark with this title!'] = 'Er is al een favoriet met die naam!';
+$language['Uncategorized'] = 'Niet ingedeeld';
+$language['Website'] = 'Website';
+$language['Wiki'] = 'Wiki';
+$language['Yes'] = 'Ja';
+?>

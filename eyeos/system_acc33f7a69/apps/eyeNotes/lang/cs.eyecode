@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['File saved successfully.'] = 'Soubor byl úspěšně uložen.';
+$language['Sorry, you do not have sufficient permissions.'] = 'Promiň, ale nemáš dostatečná oprávnění.';
+$language['Text Editor'] = 'Textový Editor';
+$language['Unable to create file'] = 'Není možné vytvořit soubor';
+?>

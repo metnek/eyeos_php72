@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Create account'] = 'Sukurti paskyrą';
+$language['Enter'] = 'Įeiti';
+$language['Language'] = 'Kalba';
+$language['New User'] = 'Naujas vartotojas';
+$language['Password'] = 'Slaptažodis';
+$language['Username'] = 'Vartotojo vardas';
+?>

@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Accept'] = 'Принять';
+$language['Cancel'] = 'Отменить';
+$language['Delete %s'] = 'Удалить %s';
+$language['Do you really want to empty the trash?'] = 'Удалить содержимое корзины?';
+$language['Do you really want to remove "%s"?'] = 'Удалить «%s»?';
+$language['Empty trash'] = 'Очистка корзины';
+?>

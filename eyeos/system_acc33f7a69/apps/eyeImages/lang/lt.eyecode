@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Next'] = 'Kitas';
+$language['Previous'] = 'Ankstesnis';
+$language['View Images'] = 'Žiūrėti nuortraukas';
+?>

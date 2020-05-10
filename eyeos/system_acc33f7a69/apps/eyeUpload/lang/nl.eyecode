@@ -1,0 +1,28 @@
+<?php
+global $language;
+$language['"%s" has been uploaded successfully.'] = '"%s" is succesvol geupload.';
+$language['%s MB'] = '%s MB';
+$language['<b>Some files are too big!</b><br>Some of the selected files are too big and may be rejected by the server at the end of the transfer.<br>Do you want to remove them now?'] = '<b>Sommige bestanden zijn te groot!</b><br>Sommige van de geselecteerde bestanden zijn te groot en kunnen worden geweigerd door de server.<br>Wil je ze nu verwijderen?';
+$language['Add files to transfer, then press Upload now!'] = 'Voeg bestanden toe, klik daarna op Upload!';
+$language['Add files'] = 'Voeg bestanden toe';
+$language['Advanced'] = 'uitgebreid';
+$language['Error occured during upload process!'] = 'Fout tijdens het uploaden van bestand!';
+$language['Error uploading file!'] = 'Fout bij uploaden van bestand!';
+$language['File uploaded successfully.'] = 'Bestand is succesvol geupload.';
+$language['Filename'] = 'Bestandsnaam';
+$language['Max filesize allowed'] = 'Maximaal toegestaande bestandsgrootte';
+$language['No'] = 'Nee';
+$language['Ok'] = 'Ok';
+$language['Please enter the HTTP address to a file:'] = 'Vul de URL in van het bestand:';
+$language['Remove'] = 'Verwijder';
+$language['Simple'] = 'Eenvoudig';
+$language['Size (KB)'] = 'Grootte (Kb)';
+$language['The file has been uploaded successfully.'] = 'Het bestand is succesvol geupload.';
+$language['Transfering: '] = 'Overzetten:';
+$language['Upload files'] = 'Upload bestanden';
+$language['Upload now!'] = 'Upload starten!';
+$language['Web'] = 'Web';
+$language['Yes'] = 'Ja';
+$language['You do not have enough free space!'] = 'Je hebt onvoldoende vrije opslagruimte!';
+$language['You do not have sufficient permissions!'] = 'Je hebt onvoldoende rechten!';
+?>

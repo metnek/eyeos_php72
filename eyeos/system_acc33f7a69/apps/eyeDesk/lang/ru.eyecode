@@ -1,0 +1,30 @@
+<?php
+global $language;
+$language['Address Book'] = 'Адресная книга';
+$language['Applications'] = 'Приложения';
+$language['Calendar'] = 'Календарь';
+$language['Copy'] = 'Копировать';
+$language['Delete'] = 'Удалить';
+$language['Download as zip'] = 'Загрузить как zip';
+$language['Download'] = 'Загрузить';
+$language['Edit'] = 'Редактировать';
+$language['Empty trash'] = 'Очистить корзину';
+$language['Explore'] = 'Проводник';
+$language['Home'] = 'Домашняя папка';
+$language['Launch'] = 'Запустить';
+$language['New file'] = 'Новый файл';
+$language['New folder'] = 'Новая папка';
+$language['New launcher'] = 'Создать ярлык';
+$language['Open trash'] = 'Открыть корзину';
+$language['Open with'] = 'Открыть с помощью';
+$language['Paste'] = 'Вставить';
+$language['Preferences'] = 'Настройки';
+$language['Properties'] = 'Свойства';
+$language['Refresh'] = 'Обновить';
+$language['Rename'] = 'Переименовать';
+$language['RSS Feed Reader'] = 'Чтение RSS';
+$language['Share with'] = 'Общий доступ для';
+$language['Trash'] = 'Корзина';
+$language['Upload files'] = 'Загрузить файлы';
+$language['Welcome to %s, %s.'] = 'Добро пожаловать в %s, %s.';
+?>

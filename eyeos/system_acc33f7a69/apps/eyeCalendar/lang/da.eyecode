@@ -1,0 +1,28 @@
+<?php
+global $language;
+$language['A calendar with the same name already exists!'] = 'En kalender med samme navn eksisterer allerede!';
+$language['Add Calendar'] = 'Tilføj Kalender';
+$language['At least, one calendar is required!'] = 'Der skal være mindst én kalender!';
+$language['Calendar added succesfully'] = 'Kalender blev tilføjet med succes';
+$language['Calendar is already running!'] = 'Kalender kører allerede';
+$language['Calendar'] = 'Kalender';
+$language['Calendars management'] = 'Administrer kalendere';
+$language['Calendars'] = 'Kalendere';
+$language['Configuration saved correctly'] = 'Konfiguration gemt korrekt';
+$language['Configure calendar'] = 'Konfigurér kalender';
+$language['Day'] = 'Dag';
+$language['Invalid checkbox value'] = 'Ugyldig afkrydsningsværdi';
+$language['Invalid Num %s'] = 'Ugyldigt nummer %s';
+$language['Next'] = 'Næste';
+$language['Please specify the calendar name:'] = 'Specificér venligst kalendernavn:';
+$language['Please type a name for the calendar'] = 'Indtast venligst et navn for kalenderen';
+$language['Previous'] = 'Forrige';
+$language['Show'] = 'Vis';
+$language['Text for this event:'] = 'Tekst for denne begivenhed:';
+$language['Today'] = 'I dag';
+$language['Two calendars cannot share the same ID!'] = 'To kalendere kan ikke dele det samme ID!';
+$language['Two calendars cannot share the same name!'] = 'To kalendere kan ikke dele det samme navn!';
+$language['Week'] = 'Uge';
+$language['Window mode'] = 'Vinduesvisning';
+$language['Work'] = 'Arbejde';
+?>

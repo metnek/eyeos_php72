@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Some special chars have been removed.'] = '一些特殊字符被清除';
+$language['Type the name of the new folder'] = '输入新文件夹名';
+?>

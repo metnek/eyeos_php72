@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Create folder'] = 'Stwórz folder';
+$language['Error creating directory!'] = 'Błąd podczas tworzenia folderu';
+$language['Some special chars have been removed.'] = 'Pewne znaki specjalne zostały usunięte.';
+$language['Type the name of the new folder'] = 'Wpisz nazwę nowego folderu';
+?>

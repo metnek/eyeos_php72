@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Change Label Text'] = 'Spremeni besedilo oznake';
+$language['Example eyeApp'] = 'Primer eyeApp-a';
+$language['Hello World!'] = 'Pozdravljen svet!';
+?>

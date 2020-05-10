@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['Add Your To Do Note'] = 'Neue Aufgabe';
+$language['Add'] = 'Hinzufügen';
+$language['Are you sure you want to delete this note?'] = 'Möchten Sie diese Aufgabe wirklich löschen?';
+$language['Delete warning'] = 'Löschen';
+$language['Delete'] = 'Löschen';
+$language['miniToDo is already running!'] = 'miniToDo läuft bereits.';
+$language['New note created successfully.'] = 'Aufgabe erfolgreich eingetragen.';
+$language['No'] = 'Nein';
+$language['Note field is empty.'] = 'Sie müssen eine Beschreibung angeben.';
+$language['Please choose a note title'] = 'Sie müssen eine Aufgabe auswählen.';
+$language['Please choose a note'] = 'Sie müssen eine Aufgabe auswählen.';
+$language['Priority field is empty.'] = 'Sie müssen eine Priorität angeben.';
+$language['Priority field is not a number.'] = 'Die Priorität ist keine Nummer.';
+$language['Priority'] = 'Priorität';
+$language['Title field is empty.'] = 'Sie müssen einen Betreff angeben.';
+$language['Title'] = 'Betreff';
+$language['To Do'] = 'Aufgaben';
+$language['Update Note'] = 'Übernehmen';
+$language['View'] = 'Details';
+$language['Yes'] = 'Ja';
+?>

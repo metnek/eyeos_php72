@@ -1,0 +1,28 @@
+<?php
+global $language;
+$language['Accept'] = 'Ijinkan';
+$language['Add Contact'] = 'Tambah Kontak';
+$language['Add new group'] = 'Tambah Grup Baru';
+$language['Add'] = 'Tambah';
+$language['AddressBook'] = 'BukuAlamat';
+$language['All files'] = 'Semua File';
+$language['All Groups'] = 'Semua Grup';
+$language['Are you sure you want to delete these contacts(%s)?'] = 'Ingin Hapus kontak ("%s") ?';
+$language['Cancel'] = 'Batal';
+$language['Cannot create contact'] = 'Tidak Dapat Membuat Kontak';
+$language['Cannot edit contact'] = 'Tidak Dapat Mengubah Kontak';
+$language['Company Fax'] = 'Fax Perusahaan';
+$language['Company'] = 'Perusahaan';
+$language['Contact edited succesfully'] = 'Kontak yang Berhasil diubah';
+$language['Contacts deleted succesfully'] = 'Kontak Berhasil dihapus';
+$language['Contacts'] = 'Kontak';
+$language['Database to store contacts: '] = 'Database untuk menyimpan kontak';
+$language['Delete Contacts'] = 'Hapus Kontak';
+$language['Delete'] = 'Hapus';
+$language['Details'] = 'Detil';
+$language['E-Mail'] = 'E-Mail';
+$language['E-mail'] = 'E-mail';
+$language['Edit'] = 'Ubah';
+$language['Error creating a group'] = 'Tidak Dapat Membuat Grup';
+$language['Error deleting contacts'] = 'Tidak Dapat Menghapus Kontak';
+?>

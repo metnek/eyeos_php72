@@ -1,0 +1,25 @@
+<?php
+global $language;
+$language['Add input to output'] = 'Legg inndata til utdata';
+$language['Add new line to end'] = 'Legg til new line på slutten';
+$language['Ascii to Hexa'] = 'Ascii til Hex';
+$language['Auto clear input'] = 'Tøm inndata automatisk';
+$language['Base64 Decode'] = 'Base64 dekoding';
+$language['Base64 Encode'] = 'Base64 koding';
+$language['Clear'] = 'Tøm';
+$language['Concatenate Output'] = 'Slå sammen utdata';
+$language['Decimal to Roman'] = 'Desimal til romertall';
+$language['eyeOS hash'] = 'eyeOS hash';
+$language['Hexa to Ascii'] = 'Hex til Ascii';
+$language['Html Entities'] = 'HTML elementer';
+$language['Input Text'] = 'Inndata';
+$language['Last execution time: %s'] = 'Siste kjøretid: %s';
+$language['md5 Hash'] = 'md5 hash';
+$language['Options'] = 'Valg';
+$language['Output Text'] = 'Utdata';
+$language['Remove Html Entities'] = 'Fjern HTML elementer';
+$language['Roman to Decimal'] = 'Romertall til desimal';
+$language['Start'] = 'Start';
+$language['URL Decode'] = 'URL dekoding';
+$language['URL Encode'] = 'URL koding';
+?>

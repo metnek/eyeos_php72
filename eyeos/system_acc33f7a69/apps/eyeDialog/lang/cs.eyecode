@@ -1,0 +1,18 @@
+<?php
+global $language;
+$language['Are you sure you want to replace this file?'] = 'Jsi si jistý, že chceš přepsat tento soubor?';
+$language['Author'] = 'Autor';
+$language['Confirm file replacement'] = 'Potvrď přepsání souboru';
+$language['Date'] = 'Datum';
+$language['Error while trying to browse folder'] = 'Chyba při prohlížení složky';
+$language['Folders'] = 'Složky';
+$language['Home'] = 'Domů';
+$language['Name'] = 'Název';
+$language['Save as...'] = 'Uložit jako...';
+$language['Select a file to open'] = 'Vyber soubor pro otevření';
+$language['Select a folder'] = 'Vyber složku';
+$language['Select'] = 'Vybrat';
+$language['Size'] = 'Velikost';
+$language['You must enter a name'] = 'Musíš zadat jméno';
+$language['You must select a file'] = 'Musíš vybrat soubor';
+?>

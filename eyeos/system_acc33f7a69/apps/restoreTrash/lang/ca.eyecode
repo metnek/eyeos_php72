@@ -1,0 +1,10 @@
+<?php
+global $language;
+$language['"%s" could not be restored!'] = 'No s\'ha pogut restaurar "%s"!';
+$language['"%s" has been restored to your home folder!'] = '"%s" ha estat restaurat a la teva carpeta d\'inici!';
+$language['Accept'] = 'Accepta';
+$language['Cancel'] = 'Cancel·la';
+$language['Do you really want to restore "%s"?'] = 'Estàs segur que vols restaurar "%s"?';
+$language['Restore %s'] = 'Restaura %s';
+$language['You cannot restore "%s" to a real folder!'] = 'No pots restaurar "%s" a una carpeta real!';
+?>

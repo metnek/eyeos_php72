@@ -1,0 +1,11 @@
+<?php
+global $language;
+$language['Back'] = 'Tilbake';
+$language['Full Screen'] = 'Fullskjerm';
+$language['Next'] = 'Neste';
+$language['Open'] = 'Åpne';
+$language['Presentations'] = 'Presentasjoner';
+$language['Sorry, you do not have sufficient permissions.'] = 'Du har ikke tilstrekkelige rettigheter.';
+$language['You are already on the first slide, you cannot go back anymore!'] = 'Du er på første lysbilde, og kan ikke gå lenger tilbake!';
+$language['You need to select a file to open!'] = 'Du må velge en fil!';
+?>

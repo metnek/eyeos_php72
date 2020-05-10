@@ -1,0 +1,8 @@
+<?php
+global $language;
+$language['"%s" could not be restored!'] = '"%s" nie został przywrócony!';
+$language['"%s" has been restored to your home folder!'] = '"%s" został przywrócony do folderu głównego!';
+$language['Do you really want to restore "%s"?'] = 'Jesteś pewien, że chcesz przywrócić "%s"?';
+$language['Restore %s'] = 'Przywróć %s';
+$language['You cannot restore "%s" to a real folder!'] = 'Nie można przywrócić "%s" do rzeczywistego folderu.';
+?>

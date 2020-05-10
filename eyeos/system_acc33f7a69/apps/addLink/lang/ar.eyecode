@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Cancel'] = 'ألغِ';
+$language['Create a link'] = 'أنشئ رابطا';
+$language['Create'] = 'أنشئ';
+$language['Please type the title of the link here:'] = 'أدخل عنوان الرابط هنا:';
+?>

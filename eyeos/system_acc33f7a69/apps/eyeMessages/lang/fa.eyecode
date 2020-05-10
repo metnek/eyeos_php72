@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['Attach'] = 'ضمیمه';
+$language['Date'] = 'تاریخ';
+$language['Download'] = 'دانلود';
+$language['Empty'] = 'خالی';
+$language['File saved successfully.'] = 'فایل با موفقیت ذخیره شد.';
+$language['From'] = 'از';
+$language['Inbox'] = 'صندوق نامه';
+$language['Message restored in its original folder'] = 'پیام به پوشه اصلی بازگشت';
+$language['Read Message'] = 'خواندن پیام';
+$language['Read'] = 'خواندن';
+$language['Refresh'] = 'تازه کردن';
+$language['Reply'] = 'پاسخ';
+$language['Restore'] = 'پس دادن';
+$language['Sent'] = 'فرستاد';
+$language['Subject'] = 'موضوع';
+$language['To'] = 'به';
+$language['Trash'] = 'سطل';
+$language['Unread'] = 'خوانده نشده';
+$language['You must choose a message to delete'] = 'شما باید پیامی را برای حذف انتخاب کنید';
+$language['You must choose a message to open'] = 'شما باید پیامی را برای باز کردن انتخاب کنید';
+?>

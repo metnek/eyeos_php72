@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['%s files imported!'] = '%s filer importerade!';
+$language['Browse'] = 'Bläddra';
+$language['Import'] = 'Importera';
+$language['You have to select a directory to import files'] = 'Du måste välja en katalog för att importa filer';
+?>

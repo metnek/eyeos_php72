@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Document saved successfully.'] = '文档保存成功';
+$language['Sorry, you do not have sufficient permissions!'] = '对不起,您没有足够的权限！';
+$language['Word Processor'] = '文字处理';
+?>

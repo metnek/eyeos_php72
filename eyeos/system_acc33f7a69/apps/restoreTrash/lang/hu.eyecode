@@ -1,0 +1,10 @@
+<?php
+global $language;
+$language['"%s" could not be restored!'] = 'A(z) "%s" nem visszaállítható!';
+$language['"%s" has been restored to your home folder!'] = 'A "%s" vissza lett állítva a saját könyvtárba!';
+$language['Accept'] = 'Igen';
+$language['Cancel'] = 'Mégsem';
+$language['Do you really want to restore "%s"?'] = 'Tényleg vissza szeretné állítani ezt? "%s"';
+$language['Restore %s'] = '"%s" visszaállítása';
+$language['You cannot restore "%s" to a real folder!'] = 'A(z) "%s" nem állítható a nyers könyvtárba.';
+?>

@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['File saved successfully.'] = 'فایل با موفقیت ذخیره شد.';
+$language['Sorry, you do not have sufficient permissions.'] = 'متاسفانه شما مجوز قانونی ندارید.';
+$language['Unable to create file'] = 'ناتوانی در ایجاد فایل';
+?>

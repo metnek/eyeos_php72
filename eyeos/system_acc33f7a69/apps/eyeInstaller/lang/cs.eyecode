@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Accept'] = 'Přijmout';
+$language['Do you really want to install this package into the system?'] = 'Doopravdy chceš nainstalovat tento balíček do systému?';
+$language['Installing'] = 'Instaluji';
+$language['Nothing to install!'] = 'Není co instalovat!';
+$language['Only root can install packages'] = 'Pouze root může instalovat balíčky';
+$language['Package installed successfully!'] = 'Instalace byla úspěšně dokončena!';
+?>

@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['"%s" already exists in group "%s".'] = '"%s" finnes allerede i gruppen "%s".';
+$language['Choose the groups to share with'] = 'Velg grupper å dele med';
+$language['File "%s" shared with group "%s".'] = 'Filen "%s" er delt med gruppen "%s".';
+$language['Folder "%s" shared with group "%s".'] = 'Mappen "%s" er delt med gruppen "%s".';
+$language['Share "%s" with...'] = 'Del "%s" med...';
+$language['Share'] = 'Del';
+?>

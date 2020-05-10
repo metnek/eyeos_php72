@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['File not found!'] = 'הקובץ לא נמצא!';
+$language['Sorry, you do not have sufficient permissions.'] = 'אין הרשאות מספקות';
+$language['Spreadsheet saved successfully.'] = 'גליון הנתונים נשמר בהצלחה';
+$language['Spreadsheet'] = 'גליון נתונים';
+?>

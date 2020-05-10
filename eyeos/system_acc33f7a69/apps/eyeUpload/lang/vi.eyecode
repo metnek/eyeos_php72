@@ -1,0 +1,13 @@
+<?php
+global $language;
+$language['Add files to transfer, then press Upload now!'] = 'Thêm tập tin, sau đó bấm nút Tải lên!';
+$language['Add files'] = 'Thêm tập tin';
+$language['Advanced'] = 'Nâng cao';
+$language['Error uploading file!'] = 'Lỗi tải lên tập tin!';
+$language['File uploaded successfully.'] = 'Đã tải lên tập tin thành công.';
+$language['Remove'] = 'Gỡ bỏ';
+$language['Simple'] = 'Đơn giản';
+$language['Transfering: '] = 'Truyền tải:';
+$language['Upload files'] = 'Tập tin tải lên';
+$language['Upload now!'] = 'Tải lên ngay!';
+?>

@@ -1,0 +1,33 @@
+<?php
+global $language;
+$language['share']['Another file'] = 'Өөр файл';
+$language['share']['April'] = '4-р сар';
+$language['share']['August'] = '8-р сар';
+$language['share']['December'] = '12-р сар';
+$language['share']['Error %s'] = 'Алдаа %s';
+$language['share']['extracted'] = 'задарсан';
+$language['share']['F'] = 'F';
+$language['share']['February'] = '2-р сар';
+$language['share']['Fri'] = 'Баасан';
+$language['share']['January'] = '1-р сар';
+$language['share']['July'] = '7-р сар';
+$language['share']['June'] = '6-р сар';
+$language['share']['M'] = 'M';
+$language['share']['March'] = '3-р сар';
+$language['share']['May'] = '5-р сар';
+$language['share']['Mon'] = 'Даваа';
+$language['share']['November'] = '11-р сар';
+$language['share']['October'] = '10-р сар';
+$language['share']['S'] = 'S';
+$language['share']['SA'] = 'SA';
+$language['share']['Sat'] = 'Бямба';
+$language['share']['September'] = '9-р сар';
+$language['share']['Sun'] = 'Ням';
+$language['share']['T'] = 'T';
+$language['share']['TH'] = 'TH';
+$language['share']['Thu'] = 'Пүрэв';
+$language['share']['Tue'] = 'Мягмар';
+$language['share']['Upload'] = 'Шидэх';
+$language['share']['W'] = 'W';
+$language['share']['Wed'] = 'Лхагва';
+?>

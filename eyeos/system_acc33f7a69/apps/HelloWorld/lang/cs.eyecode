@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Change Label Text'] = 'Změnit text popisku';
+$language['Example eyeApp'] = 'Ukázková aplikace';
+$language['Hello World!'] = 'Hello World!';
+?>

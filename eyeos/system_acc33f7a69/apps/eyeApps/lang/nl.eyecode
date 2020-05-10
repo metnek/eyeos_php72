@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Applications'] = 'Applicaties';
+$language['Full Screen'] = 'Volledig scherm';
+$language['Install Apps'] = 'Installeer Apps';
+$language['Manage Dock'] = 'Beheer Koppelingen';
+?>

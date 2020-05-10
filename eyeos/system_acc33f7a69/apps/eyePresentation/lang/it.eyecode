@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Back'] = 'Indietro';
+$language['Next'] = 'Avanti';
+$language['Presentations'] = 'Presentazioni';
+$language['Sorry, you do not have sufficient permissions.'] = 'Spiacente, non hai abbastanza permessi.';
+$language['You are already on the first slide, you cannot go back anymore!'] = 'Sei già alla prima slide, non puoi andare più indietro!';
+$language['You need to select a file to open!'] = 'E\' necessario selezionare un file da aprire!';
+?>

@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Create account'] = '创建用户账号';
+$language['Enter'] = '输入';
+$language['Language'] = '语言';
+$language['New User'] = '新建用户';
+$language['Password'] = '口令';
+$language['Username'] = '用户名';
+?>

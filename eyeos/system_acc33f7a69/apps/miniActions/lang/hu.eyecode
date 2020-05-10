@@ -1,0 +1,10 @@
+<?php
+global $language;
+$language['Create a new document'] = 'Új dokumentum';
+$language['Create a new spreadsheet'] = 'Új munkafüzet';
+$language['Do you want this widget to open automatically on the next session?'] = 'Szeretné, ha elindulna ez a widget a következő indításkor is?';
+$language['No'] = 'Nem';
+$language['Send an internal message'] = 'Üzenet küldése';
+$language['Upload your files'] = 'Állományok feltöltése';
+$language['Yes'] = 'Igen';
+?>

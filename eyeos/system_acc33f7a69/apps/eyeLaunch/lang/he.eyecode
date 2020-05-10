@@ -1,0 +1,13 @@
+<?php
+global $language;
+$language['%s not found'] = '%s לא נמצא';
+$language['Error, empty username or password'] = 'תקלה,לא הוזן שם משתמש או סיסמא';
+$language['Error, invalid username or password'] = 'תקלה,שם משתמש או סיסמא לא תקינים';
+$language['Invalid username'] = 'שם משתמש לא תקין';
+$language['Password'] = 'סיסמא';
+$language['Run as different user'] = 'הפעל כמשתמש אחר';
+$language['Run...'] = 'הפעל...';
+$language['Run'] = 'הפעל';
+$language['Type the name of the app or command to run'] = 'הזן את שם היישום או פקודה כדי להפעיל';
+$language['User'] = 'משתמש';
+?>

@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Document saved successfully.'] = 'Dokument zapisany pomyślnie.';
+$language['Sorry, you do not have sufficient permissions!'] = 'Sorry, you do not have sufficient permissions!';
+?>

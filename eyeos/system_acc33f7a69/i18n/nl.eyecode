@@ -1,0 +1,33 @@
+<?php
+global $language;
+$language['share']['Another file'] = 'Ander bestand';
+$language['share']['April'] = 'April';
+$language['share']['August'] = 'Augustus';
+$language['share']['December'] = 'December';
+$language['share']['Error %s'] = 'Fout %s';
+$language['share']['extracted'] = 'uitgepakt';
+$language['share']['F'] = 'F';
+$language['share']['February'] = 'Februari';
+$language['share']['Fri'] = 'Vrij';
+$language['share']['January'] = 'Januari';
+$language['share']['July'] = 'Juli';
+$language['share']['June'] = 'Juni';
+$language['share']['M'] = 'M';
+$language['share']['March'] = 'Maart';
+$language['share']['May'] = 'Mei';
+$language['share']['Mon'] = 'Ma';
+$language['share']['November'] = 'November';
+$language['share']['October'] = 'Oktober';
+$language['share']['S'] = 'Z';
+$language['share']['SA'] = 'ZA';
+$language['share']['Sat'] = 'Zat';
+$language['share']['September'] = 'September';
+$language['share']['Sun'] = 'Zon';
+$language['share']['T'] = 'D';
+$language['share']['TH'] = 'DO';
+$language['share']['Thu'] = 'Don';
+$language['share']['Tue'] = 'Din';
+$language['share']['Upload'] = 'Upload';
+$language['share']['W'] = 'W';
+$language['share']['Wed'] = 'Woe';
+?>

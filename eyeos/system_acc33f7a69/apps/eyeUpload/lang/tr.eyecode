@@ -1,0 +1,14 @@
+<?php
+global $language;
+$language['"%s" has been uploaded successfully.'] = '"%s" başarıyla karşıya yüklendi.';
+$language['Add files to transfer, then press Upload now!'] = 'Dosya ekleyin ve Şimdi Yükle tuşuna basın!';
+$language['Add files'] = 'Dosya ekle';
+$language['Advanced'] = 'Gelişmiş';
+$language['Error uploading file!'] = 'Yüklemede hata oluştu!';
+$language['File uploaded successfully.'] = 'Dosya başarıyla gönderildi.';
+$language['Remove'] = 'Kaldır';
+$language['Simple'] = 'Basit';
+$language['Transfering: '] = 'Tranfer ediliyor:';
+$language['Upload files'] = 'Dosya Yükle';
+$language['Upload now!'] = 'Şimdi Yükle!';
+?>

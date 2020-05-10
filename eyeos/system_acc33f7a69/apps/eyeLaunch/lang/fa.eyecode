@@ -1,0 +1,13 @@
+<?php
+global $language;
+$language['%s not found'] = '%s موجود نیست';
+$language['Error, empty username or password'] = 'خطا نام کاربری و کلمه عبور خالی است';
+$language['Error, invalid username or password'] = 'خطا نام کاربری و کلمه عبور فاقد اعتبار است';
+$language['Invalid username'] = 'نام کاربری فاقد اعتبار است';
+$language['Password'] = 'کلمه عبور';
+$language['Run as different user'] = 'اجرا برای کاربر متفاوت';
+$language['Run...'] = 'اجرا...';
+$language['Run'] = 'اجرا';
+$language['Type the name of the app or command to run'] = 'نامی را برای اجرای برنامه یا فرمان تایپ کنید ';
+$language['User'] = 'کاربر';
+?>

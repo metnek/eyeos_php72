@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['Are you sure you want to replace this file?'] = 'Ste prepričani da želite zamenjati datoteko?';
+$language['Author'] = 'Avtor';
+$language['Cancel'] = 'Prekliči';
+$language['Confirm file replacement'] = 'Potrdi zamenjavo';
+$language['Date'] = 'Datum';
+$language['Error while trying to browse folder'] = 'Napaka pri branju mape';
+$language['Folders'] = 'Mape';
+$language['Home'] = 'Doma';
+$language['Name'] = 'Ime';
+$language['No'] = 'Ne';
+$language['Open'] = 'Odpri';
+$language['Save as...'] = 'Shrani kot...';
+$language['Save'] = 'Shrani';
+$language['Select a file to open'] = 'Izberi datoteko za odpiranje';
+$language['Select a folder'] = 'Izberi mapo';
+$language['Select'] = 'Izberi';
+$language['Size'] = 'Velikost';
+$language['Yes'] = 'Da';
+$language['You must enter a name'] = 'Potrebno je vpisati ime';
+$language['You must select a file'] = 'Potrebno je izbrati datoteko';
+?>

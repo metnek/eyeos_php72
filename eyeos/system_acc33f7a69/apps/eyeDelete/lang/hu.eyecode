@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['"%s" has been removed successfully.'] = 'A(z) "%s" állomány el lett távolítva.';
+$language['"%s" moved to trash successfully.'] = 'A(z) "%s" állomány a szemetesbe került.';
+$language['Error deleting file!'] = 'Az állományt nem lehet törölni.';
+?>

@@ -1,0 +1,33 @@
+<?php
+global $language;
+$language['Account Name:'] = 'Compta:';
+$language['Account Type:'] = 'Tipus:';
+$language['Accounts'] = 'Comptes';
+$language['Activity Monitor'] = 'Activitat';
+$language['Advanced'] = 'Avançat';
+$language['All files'] = 'Tots els arxius';
+$language['Are you sure you want to remove the account "%s"?'] = 'Estàs segur que vols eliminar la compta "%s"?';
+$language['Are you sure?'] = 'N\'estàs segur?';
+$language['Attach'] = 'Adjunt';
+$language['Back'] = 'Endarrera';
+$language['Cancel'] = 'Cancel·la';
+$language['CC:'] = 'CC:';
+$language['CCO:'] = 'CCO:';
+$language['Check for new mail:'] = 'Comprova nou correu:';
+$language['Check mail at startup'] = 'Comprova el correu en iniciar';
+$language['Contacts'] = 'Contactes';
+$language['Create a new account'] = 'Crea un nou compte';
+$language['Date'] = 'Data';
+$language['Date: %s'] = 'Data: %s';
+$language['Date:'] = 'Data:';
+$language['Delete'] = 'Elimina';
+$language['Do you really want to delete this mail?'] = 'Segur que vols eliminar aquest correu?';
+$language['Downloading all mails...'] = 'Descarregant tots els correus';
+$language['Email account has been created.'] = 'Compta de correu creada';
+$language['Email account has been updated.'] = 'Compte de correu actualitzada.';
+$language['Email Address:'] = 'Correu electrònic';
+$language['Email:'] = 'Correu:';
+$language['Enter an account name to be identified later.'] = 'Entra un nom d\'usuari per a identificar-te.';
+$language['Enter the name you would like to appear in the "From" field of your outgoing messages (for example, "John Doe").'] = 'Entre el nom que vulguis que aparegui al camp "De" dels missatges sortints.';
+$language['Enter your email address and password. This is the address others will use to send email to you (for example, "user@server.net").'] = 'Entra el teu correu electrònic i contrasenya. Serà el correu on els altres escriuen.';
+?>

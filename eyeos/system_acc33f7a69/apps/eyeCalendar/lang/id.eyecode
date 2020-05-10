@@ -1,0 +1,28 @@
+<?php
+global $language;
+$language['A calendar with the same name already exists!'] = 'Kalender Dengan Nama Yang Sama Sudah Ada!';
+$language['Add Calendar'] = 'Tambah Kalender';
+$language['At least, one calendar is required!'] = 'Dibutuhkan Minimum Satu Kalender!';
+$language['Calendar added succesfully'] = 'Kalender Berhasil ditambahkan';
+$language['Calendar is already running!'] = 'Kalender Sudah Berjalan!';
+$language['Calendar'] = 'Kalender';
+$language['Calendars management'] = 'Manajemen Kalender';
+$language['Calendars'] = 'Kalender';
+$language['Configuration saved correctly'] = 'Konfigurasi Berhasil disimpan';
+$language['Configure calendar'] = 'Konfigurasi Kalender';
+$language['Day'] = 'Hari';
+$language['Invalid checkbox value'] = 'Isi CheckBox Salah';
+$language['Invalid Num %s'] = 'Nomor %s Salah';
+$language['Next'] = 'Lanjut';
+$language['Please specify the calendar name:'] = 'Masukkan Spesifikasi Nama Kalender:';
+$language['Please type a name for the calendar'] = 'Masukkan Nama Kalender';
+$language['Previous'] = 'Sebelumnya';
+$language['Show'] = 'Tampilkan';
+$language['Text for this event:'] = 'Teks Untuk Kegiatan Ini:';
+$language['Today'] = 'Hari Ini';
+$language['Two calendars cannot share the same ID!'] = 'Dua Kalender Tidak Dapat Berbagi Dengan ID yang sama!';
+$language['Two calendars cannot share the same name!'] = 'Dua Kalender Tidak Dapat Berbagi Dengan Nama Sama!';
+$language['Week'] = 'Mingguan';
+$language['Window mode'] = 'Mode Window';
+$language['Work'] = 'Pekerjaan';
+?>

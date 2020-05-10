@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Name'] = 'Nimi';
+$language['Select a folder'] = 'Valitse kansio';
+$language['Select'] = 'Valitse';
+$language['Size'] = 'Koko';
+?>

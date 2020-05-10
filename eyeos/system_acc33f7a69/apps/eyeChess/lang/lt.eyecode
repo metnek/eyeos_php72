@@ -1,0 +1,13 @@
+<?php
+global $language;
+$language['Bishop'] = 'Rikis';
+$language['Chess Game'] = 'Šachmatai';
+$language['Computer level:'] = 'Kompiuterio lygis:';
+$language['Knight'] = 'Žirgas';
+$language['Middling'] = 'Keisti dydį';
+$language['Next pawn becomes:'] = 'Kitas ėjimas bus:';
+$language['Queen'] = 'Karalienė';
+$language['Rook'] = 'Bokštas';
+$language['Slow'] = 'Lėtas';
+$language['Undo'] = 'Atgal';
+?>

@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Install Apps'] = 'アプリをインストール';
+$language['Manage Dock'] = 'Dockを管理';
+?>

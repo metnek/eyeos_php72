@@ -1,0 +1,12 @@
+<?php
+global $language;
+$language['About'] = 'Über...';
+$language['Community Supporters'] = 'Gemeinschaft';
+$language['Development'] = 'Entwicklung';
+$language['eyeos Team (randomly displayed)'] = 'eyeos-Team (zufällige Reihenfolge)';
+$language['eyeos Team'] = 'eyeos-Team';
+$language['oneye Team'] = 'oneye-Team';
+$language['Projects'] = 'Projekte';
+$language['Supporters'] = 'Unterstützer';
+$language['Thanks to...'] = 'Wir danken...';
+?>

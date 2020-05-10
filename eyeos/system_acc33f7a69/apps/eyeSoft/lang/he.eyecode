@@ -1,0 +1,35 @@
+<?php
+global $language;
+$language['%s download is corrupted! unable to install'] = '%s הורדה לא תקינה,לא יכול להתקין';
+$language['%s installed succesfully!'] = '%s הותקן בהצלחה!';
+$language['Accept'] = 'קבל';
+$language['Administration'] = 'ניהול';
+$language['All'] = 'הכל';
+$language['App Name'] = 'שם היישום';
+$language['Categories'] = 'קטגוריות';
+$language['Desktop'] = 'שולחן עבודה';
+$language['Do you really want to uninstall this application?'] = 'האם אתה בטוח שאתה רוצה להסיר את היישום?';
+$language['Education'] = 'חינוך';
+$language['Games'] = 'משחקים';
+$language['Install'] = 'התקן';
+$language['Installed'] = 'מותקן';
+$language['Installing'] = 'מתקין';
+$language['Internet'] = 'אינטרנט';
+$language['Multimedia'] = 'מולטימדיה';
+$language['none'] = 'כלום';
+$language['Office'] = 'אופיס';
+$language['Only root can install eyeApps'] = 'רק מנהל יכול להתקין יישומים';
+$language['Other Apps'] = 'יישומים אחרים';
+$language['Packages Manager'] = 'מנהל החבילות';
+$language['Please choose an applictaion to be installed.'] = 'אנא בחר יישום להתקנה';
+$language['Please choose an applictaion to be uninstalled.'] = 'אנא בחר יישום להסרה';
+$language['Search'] = 'חפש';
+$language['The application cannot be uninstalled.'] = 'לא ניתן להסיר את היישום';
+$language['The application was successfully uninstalled.'] = 'היישום הוסר בהצלחה';
+$language['Themes'] = 'ערכות נושא';
+$language['Translations'] = 'תרגומים';
+$language['Uninstall application'] = 'הסר יישום';
+$language['Uninstall'] = 'הסר';
+$language['Update'] = 'עדכון';
+$language['Version'] = 'גרסה';
+?>

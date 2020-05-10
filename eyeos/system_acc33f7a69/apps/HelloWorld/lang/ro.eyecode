@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Change Label Text'] = 'Schimbă textul etichetei';
+$language['Example eyeApp'] = 'Exemplu eyeApp';
+$language['Hello World!'] = 'Hello Lume!';
+?>

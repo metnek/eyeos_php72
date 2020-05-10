@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Choose the groups to share with'] = 'Triar els grups amb qui vols compartir';
+$language['Share "%s" with...'] = 'Comparteix "%s" amb...';
+$language['Share'] = 'Comparteix';
+?>

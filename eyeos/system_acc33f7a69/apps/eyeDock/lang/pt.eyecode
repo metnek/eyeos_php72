@@ -1,0 +1,29 @@
+<?php
+global $language;
+$language['About eyeOS'] = 'Sobre oneye';
+$language['Accessories'] = 'Acessórios';
+$language['Applications'] = 'Aplicações';
+$language['Calculator'] = 'Calculadora';
+$language['Calendar'] = 'Calendário';
+$language['Chess Game'] = 'Jogo de xadrez';
+$language['Close Session'] = 'Sair de oneye';
+$language['Contact Manager'] = 'Gestor de Contactos';
+$language['File Manager'] = 'Explorador de ficheiros';
+$language['FTP Client'] = 'Cliente de FTP';
+$language['Games'] = 'Jogos';
+$language['Internal Messaging'] = 'Mensageiro interno';
+$language['Launch App'] = 'Executar...';
+$language['Mail Client'] = 'Cliente de e-mail';
+$language['Navigator'] = 'Navegador';
+$language['Network'] = 'Rede';
+$language['Office'] = 'Escritório';
+$language['Process Manager'] = 'Gestor de processos';
+$language['Public Board'] = 'Espaço público';
+$language['RSS Feed Reader'] = 'Leitor de Feeds RSS';
+$language['Spreadsheet'] = 'Folha de cálculo';
+$language['System Preferences'] = 'Preferências';
+$language['System'] = 'Sistema';
+$language['Tetravex Game'] = 'Jogo Tetravex';
+$language['Text Editor'] = 'Editor de Texto';
+$language['Word Processor'] = 'Processador de texto';
+?>

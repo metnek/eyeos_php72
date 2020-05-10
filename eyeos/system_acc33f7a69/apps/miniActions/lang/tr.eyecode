@@ -1,0 +1,8 @@
+<?php
+global $language;
+$language['Create a new document'] = 'Yeni döküman oluştur';
+$language['Create a new spreadsheet'] = 'Yeni hesap tablosu oluştur';
+$language['Do you want this widget to open automatically on the next session?'] = 'Bu aracın açılışta otomatik açılmasını ister misiniz?';
+$language['Send an internal message'] = 'Sistem içi mesaj gönder';
+$language['Upload your files'] = 'Dosyalarınızı yükleyin';
+?>

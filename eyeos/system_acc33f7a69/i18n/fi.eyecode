@@ -1,0 +1,29 @@
+<?php
+global $language;
+$language['share']['April'] = 'Huhtikuu';
+$language['share']['August'] = 'Elokuu';
+$language['share']['December'] = 'Joulukuu';
+$language['share']['F'] = 'Pe';
+$language['share']['February'] = 'Helmikuu';
+$language['share']['Fri'] = 'Per';
+$language['share']['January'] = 'Tammikuu';
+$language['share']['July'] = 'Heinäkuu';
+$language['share']['June'] = 'Kesäkuu';
+$language['share']['M'] = 'Ma';
+$language['share']['March'] = 'Maaliskuu';
+$language['share']['May'] = 'Toukokuu';
+$language['share']['Mon'] = 'Maa';
+$language['share']['November'] = 'Marraskuu';
+$language['share']['October'] = 'Lokakuu';
+$language['share']['S'] = 'Su';
+$language['share']['SA'] = 'La';
+$language['share']['Sat'] = 'Lau';
+$language['share']['September'] = 'Syyskuu';
+$language['share']['Sun'] = 'Sun';
+$language['share']['T'] = 'Ti';
+$language['share']['TH'] = 'To';
+$language['share']['Thu'] = 'Tor';
+$language['share']['Tue'] = 'Tii';
+$language['share']['W'] = 'Ke';
+$language['share']['Wed'] = 'Kes';
+?>

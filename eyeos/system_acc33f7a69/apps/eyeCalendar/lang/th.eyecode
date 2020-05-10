@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['Add Calendar'] = 'เพิ่มนัดหมาย';
+$language['At least, one calendar is required!'] = 'ต้องการอย่างน้อย 1 นัดหมาย !';
+$language['Calendars'] = 'นัดหมาย';
+$language['Day'] = 'วัน';
+$language['Invalid checkbox value'] = 'ค่าในเช็กบอกซ์ไม่ถูกต้อง';
+$language['Next'] = 'ต่อไป';
+$language['Previous'] = 'ถอยกลับ';
+$language['Show'] = 'แสดง';
+$language['Today'] = 'วันนี้';
+$language['Week'] = 'สัปดาห์';
+$language['Window mode'] = 'โหมดหน้าต่าง';
+$language['Work'] = 'งาน';
+?>

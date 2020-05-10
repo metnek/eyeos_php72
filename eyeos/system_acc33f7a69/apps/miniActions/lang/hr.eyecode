@@ -1,0 +1,8 @@
+<?php
+global $language;
+$language['Create a new document'] = 'Kreiraj novi dokument';
+$language['Create a new spreadsheet'] = 'Kreiraj novu proračunsku tablicu';
+$language['Do you want this widget to open automatically on the next session?'] = 'Želite li da se ovaj widget automatski otvori u sljedećoj sesiji?';
+$language['Send an internal message'] = 'Pošalji internu poruku';
+$language['Upload your files'] = 'Postavi svoje datoteke';
+?>

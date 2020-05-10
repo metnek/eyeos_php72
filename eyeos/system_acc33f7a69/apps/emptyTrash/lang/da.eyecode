@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Delete %s'] = 'Slet %s';
+$language['Do you really want to empty the trash?'] = 'Er du sikker på at du vil tømme papirkurven?';
+$language['Do you really want to remove "%s"?'] = 'Er du sikker på du vil fjerne "%s"?';
+$language['Empty trash'] = 'Tøm papirkurven';
+?>

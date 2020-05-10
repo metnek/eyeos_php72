@@ -1,0 +1,12 @@
+<?php
+global $language;
+$language['Add file'] = 'Dosya ekle';
+$language['Attach'] = 'Dosya Ekle';
+$language['Close'] = 'Kapat';
+$language['Error sending message'] = 'Mesaj göndermede hata';
+$language['Message sent'] = 'Mesaj gönderildi';
+$language['New Message'] = 'Yeni Mesaj';
+$language['Send'] = 'Gönder';
+$language['Subject'] = 'Başlık';
+$language['To'] = 'Kime';
+?>

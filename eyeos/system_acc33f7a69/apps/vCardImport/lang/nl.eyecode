@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['Cancel'] = 'Annuleren';
+$language['Directory not found'] = 'Map niet gevonden';
+$language['Do you really want to import this vCard?'] = 'Weet je zeker dat je deze vCard wilt importeren?';
+$language['Error exporting file!'] = 'Fout bij exporteren van bestand!';
+$language['File Imported!'] = 'Bestand geimporteerd!';
+$language['Format unsupported!'] = 'Formaat niet ondersteund!';
+$language['Import %s'] = 'Importeer %s';
+$language['Import'] = 'Importeren';
+$language['No contacts were found in the file!'] = 'Geen relaties gevonden in dit bestand';
+$language['The contact already exists!'] = 'Deze relatie bestaat reeds';
+$language['The file was not found!'] = 'Kan bestand niet vinden';
+$language['vCardImport cannot initialize, contact with your administrator'] = 'Import van vCard lukt niet, meld aan je administrateur';
+?>

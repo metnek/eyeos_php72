@@ -1,0 +1,14 @@
+<?php
+global $language;
+$language['Compress to...'] = '... فشرده کردن در';
+$language['Compress'] = 'فشرده کردن';
+$language['Compressed successfully'] = 'با موفقیت فشرده شد';
+$language['Compression failed'] = 'فشرده سازی شکست خورد';
+$language['Extract to...'] = '... استخراج کردن در';
+$language['Extract'] = 'استخراج کردن';
+$language['File extracted successfully.'] = '. فایل با موفقیت استخراج شد';
+$language['File extraction failed'] = 'استخراج فایل شکست خورد';
+$language['Filename'] = 'نام فایل';
+$language['No file open'] = 'فایل باز نیست';
+$language['The compress type is not supported'] = 'فشرده سازی این نوع فایل پشتیبانی نمی شود';
+?>

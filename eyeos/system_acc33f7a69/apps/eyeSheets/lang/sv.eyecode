@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Sorry, you do not have sufficient permissions.'] = 'Tyvärr har du inte tillräckliga rättigheter.';
+$language['Spreadsheet saved successfully.'] = 'Kalkylbladet sparades.';
+?>

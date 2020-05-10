@@ -1,0 +1,28 @@
+<?php
+global $language;
+$language['A calendar with the same name already exists!'] = '이미 같은 이름의 일정이 존재합니다.';
+$language['Add Calendar'] = '새 일정표';
+$language['At least, one calendar is required!'] = '적어도 하나의 일정표는 존재해야합니다.';
+$language['Calendar added succesfully'] = '새 일정표가 등록되었습니다.';
+$language['Calendar is already running!'] = '일정표가 이미 실행되어있습니다.';
+$language['Calendar'] = '일정표';
+$language['Calendars management'] = '일정표 관리';
+$language['Calendars'] = '일정표';
+$language['Configuration saved correctly'] = '환경설정을 저장했습니다.';
+$language['Configure calendar'] = '일정표 환경설정';
+$language['Day'] = '일';
+$language['Invalid checkbox value'] = '잘못된 체크박스 값입니다.';
+$language['Invalid Num %s'] = '%s는 잘못된 숫자입니다.';
+$language['Next'] = '다음';
+$language['Please specify the calendar name:'] = '일정표의 이름을 지정해야합니다.';
+$language['Please type a name for the calendar'] = '일정표의 이름을 입력해야합니다.';
+$language['Previous'] = '이전';
+$language['Show'] = '보기';
+$language['Text for this event:'] = '이 일정의 설명';
+$language['Today'] = '오늘';
+$language['Two calendars cannot share the same ID!'] = '일정표는 같은 ID를 가질 수 없습니다.';
+$language['Two calendars cannot share the same name!'] = '일정표는 같은 이름을 가질 수 없습니다.';
+$language['Week'] = '주';
+$language['Window mode'] = '창모드';
+$language['Work'] = '작업';
+?>

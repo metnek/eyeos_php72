@@ -1,0 +1,30 @@
+<?php
+global $language;
+$language['share']['April'] = 'Duben';
+$language['share']['August'] = 'Srpen';
+$language['share']['December'] = 'Prosinec';
+$language['share']['extracted'] = 'rozbalen';
+$language['share']['F'] = 'Pá';
+$language['share']['February'] = 'Únor';
+$language['share']['Fri'] = 'Pá';
+$language['share']['January'] = 'Leden';
+$language['share']['July'] = 'Červenec';
+$language['share']['June'] = 'Červen';
+$language['share']['M'] = 'Po';
+$language['share']['March'] = 'Březen';
+$language['share']['May'] = 'Květen';
+$language['share']['Mon'] = 'Po';
+$language['share']['November'] = 'Listopad';
+$language['share']['October'] = 'Říjen';
+$language['share']['S'] = 'Ne';
+$language['share']['SA'] = 'So';
+$language['share']['Sat'] = 'So';
+$language['share']['September'] = 'Září';
+$language['share']['Sun'] = 'Ne';
+$language['share']['T'] = 'Út';
+$language['share']['TH'] = 'Čt';
+$language['share']['Thu'] = 'Čt';
+$language['share']['Tue'] = 'Út';
+$language['share']['W'] = 'St';
+$language['share']['Wed'] = 'St';
+?>

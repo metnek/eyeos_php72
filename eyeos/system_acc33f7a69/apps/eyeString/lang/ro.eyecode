@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['Add input to output'] = 'Adaugă intrare la ieşire';
+$language['Add new line to end'] = 'Adaugă o nouă linie la sfârşit';
+$language['Ascii to Hexa'] = 'Din ASCII în Hexa';
+$language['Auto clear input'] = 'Intrare cu autoştergere';
+$language['Base64 Decode'] = 'Base64 Decode';
+$language['Base64 Encode'] = 'Base64 Encode';
+$language['Clear'] = 'Şterge';
+$language['Concatenate Output'] = 'Ieşire comunicată';
+$language['Decimal to Roman'] = 'Din Decimal în Roman';
+$language['eyeOS hash'] = 'eyeOS este deteriorat';
+$language['Hexa to Ascii'] = 'Din Hexa în ASCII';
+$language['Html Entities'] = 'Entităţi HTML';
+$language['Input Text'] = 'Text de intrare';
+$language['Last execution time: %s'] = 'Timpul ultimei executii: %s';
+$language['md5 Hash'] = 'md5 este deteriorat';
+$language['Output Text'] = 'Text de iesire';
+$language['Remove Html Entities'] = 'Şterge entităţile HTML';
+$language['Roman to Decimal'] = 'Din Roman în Decimal';
+$language['URL Decode'] = 'Decodifică URL';
+$language['URL Encode'] = 'Codifică URL';
+?>

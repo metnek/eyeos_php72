@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['All files'] = 'Alle Dateien';
+$language['Archive files'] = 'Archive';
+$language['Archive Manager'] = 'Packen und Entpacken';
+$language['BZip files'] = 'BZip-Dateien';
+$language['Compress to...'] = 'Packen nach...';
+$language['Compress'] = 'Packen';
+$language['Compressed successfully'] = 'Packen erfolgreich.';
+$language['Compression failed'] = 'Packen fehlgeschlagen.';
+$language['Extract to...'] = 'Entpacken nach...';
+$language['Extract'] = 'Entpacken';
+$language['File extracted successfully.'] = 'Entpacken erfolgreich.';
+$language['File extraction failed'] = 'Entpacken fehlgeschlagen.';
+$language['Filename'] = 'Dateiname';
+$language['GZip files'] = 'GZip-Dateien';
+$language['No file open'] = 'Keine Datei geöffnet.';
+$language['Open a folder or file'] = 'Datei oder Ordner öffnen';
+$language['Open'] = 'Öffnen';
+$language['Tar files'] = 'Tar-Dateien';
+$language['The compress type is not supported'] = 'Das Format wird nicht unterstützt.';
+$language['Zip files'] = 'Zip-Dateien';
+?>

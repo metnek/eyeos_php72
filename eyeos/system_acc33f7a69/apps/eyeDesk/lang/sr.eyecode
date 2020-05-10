@@ -1,0 +1,13 @@
+<?php
+global $language;
+$language['Applications'] = 'Апликације';
+$language['Calendar'] = 'Календар';
+$language['Copy'] = 'Копирај';
+$language['Delete'] = 'Обриши';
+$language['Home'] = 'Кућа';
+$language['New file'] = 'Нови фајл';
+$language['New folder'] = 'Нови фолдер';
+$language['Open trash'] = 'Отвори корпу';
+$language['Open with'] = 'Отвори са';
+$language['Trash'] = 'Корпа';
+?>

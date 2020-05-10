@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Clean'] = 'Počisti';
+$language['System console log'] = 'Log sistemske konzole';
+?>

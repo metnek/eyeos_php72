@@ -1,0 +1,25 @@
+<?php
+global $language;
+$language['Add input to output'] = 'Voeg invoer toe aan uitvoer';
+$language['Add new line to end'] = 'Nieuwe regel aan het einde toevoegen';
+$language['Ascii to Hexa'] = 'Ascii naar Hexa';
+$language['Auto clear input'] = 'Auto wis invoer';
+$language['Base64 Decode'] = 'Base64 decodeer';
+$language['Base64 Encode'] = 'Base64 codeer';
+$language['Clear'] = 'Legen';
+$language['Concatenate Output'] = 'Voeg uitvoer samen';
+$language['Decimal to Roman'] = 'Decimaal naar Romeins';
+$language['eyeOS hash'] = 'eyeOS sleutel';
+$language['Hexa to Ascii'] = 'Hexa naar Ascii';
+$language['Html Entities'] = 'Html opmaak';
+$language['Input Text'] = 'Invoer tekst';
+$language['Last execution time: %s'] = 'Laatst uitgevoerd op: %s';
+$language['md5 Hash'] = 'md5 sleutel';
+$language['Options'] = 'Opties';
+$language['Output Text'] = 'Uitvoer tekst';
+$language['Remove Html Entities'] = 'Wis Html opmaak';
+$language['Roman to Decimal'] = 'Romeins naar Decimaal';
+$language['Start'] = 'Begin';
+$language['URL Decode'] = 'URL decodeer';
+$language['URL Encode'] = 'URL codeer';
+?>

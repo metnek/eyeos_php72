@@ -1,0 +1,27 @@
+<?php
+global $language;
+$language['A calendar with the same name already exists!'] = 'Kalendorius tokiu pavadinimu jau yra!';
+$language['Add Calendar'] = 'Pridėti Kalendorių';
+$language['At least, one calendar is required!'] = 'Bent vienas kalendorius yra privalomas!';
+$language['Calendar added succesfully'] = 'Kalendorius pridėtas sėkmingai ';
+$language['Calendar is already running!'] = 'Kalendorius jau paleistas!';
+$language['Calendar'] = 'Kalendorius';
+$language['Calendars management'] = 'Kalendorių valdymas';
+$language['Calendars'] = 'Kalendoriai';
+$language['Configuration saved correctly'] = 'Nustatymai išsaugoti sėkmingai';
+$language['Configure calendar'] = 'Nustatyti kalendorių';
+$language['Day'] = 'Diena';
+$language['Invalid checkbox value'] = 'Netinkama žymimojo langelio reikšmė';
+$language['Invalid Num %s'] = 'Neteisingas Numeris %s';
+$language['Next'] = 'Toliau';
+$language['Please type a name for the calendar'] = 'Prašom įvesti kalendoriaus pavadinimą';
+$language['Previous'] = 'Ankstesnis';
+$language['Show'] = 'Parodyti';
+$language['Text for this event:'] = 'Šio įvykio tekstas:';
+$language['Today'] = 'Šiandien';
+$language['Two calendars cannot share the same ID!'] = 'Du kalendoriai negali dalintis tokiais pačiais identifikatoriais!';
+$language['Two calendars cannot share the same name!'] = 'Du kalendoriai negali dalintis tokiais pačiais pavadinimais!';
+$language['Week'] = 'Savaitė';
+$language['Window mode'] = 'Lango būsena';
+$language['Work'] = 'Darbas';
+?>

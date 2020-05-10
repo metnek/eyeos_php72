@@ -1,0 +1,28 @@
+<?php
+global $language;
+$language['Are you sure you want to empty all messages of this folder?'] = 'Er du sikker på du vil fjerne alle beskeder i denne mappe?';
+$language['Attach'] = 'Vedhæft';
+$language['Confirm empty'] = 'Bekræft tøm';
+$language['Date'] = 'Dato';
+$language['Download'] = 'Download';
+$language['Emptied'] = 'Tømt';
+$language['Empty'] = 'Tom';
+$language['Error opening message'] = 'Fejl ved åbning af besked';
+$language['File saved successfully.'] = 'Filen blev gemt korrekt.';
+$language['From'] = 'Fra';
+$language['Inbox'] = 'Indbakke';
+$language['Internal Messaging'] = 'Interne Beskeder';
+$language['Message restored in its original folder'] = 'Besked gendannet i sin oprindelige mappe';
+$language['Read Message'] = 'Læs Besked';
+$language['Read'] = 'Læs';
+$language['Refresh'] = 'Opdatér';
+$language['Reply'] = 'Svar';
+$language['Restore'] = 'Gendan';
+$language['Sent'] = 'Sendt';
+$language['Subject'] = 'Emne';
+$language['To'] = 'Til';
+$language['Trash'] = 'Papirkurv';
+$language['Unread'] = 'Ulæste';
+$language['You must choose a message to delete'] = 'Du skal vælge en besked der skal slettes';
+$language['You must choose a message to open'] = 'Du skal vælge en besked der skal åbnes';
+?>

@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Cancel'] = 'Annuler';
+$language['Open'] = 'Ouvrir';
+$language['What URL do you want to open in an Iframe?'] = 'Quelle URL voulez-vous ouvrir dans une iframe?';
+?>

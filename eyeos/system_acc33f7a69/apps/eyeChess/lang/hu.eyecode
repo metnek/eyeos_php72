@@ -1,0 +1,14 @@
+<?php
+global $language;
+$language['Bishop'] = 'Futó';
+$language['Chess Game'] = 'Sakkjátszma';
+$language['Computer level:'] = 'Nehézségi szint:';
+$language['Knight'] = 'Király';
+$language['Middling'] = 'Közepes';
+$language['Movements'] = 'Lépések';
+$language['Next pawn becomes:'] = 'A következő gyalog ezzé változik át:';
+$language['Queen'] = 'Királynő';
+$language['Rook'] = 'Bástya';
+$language['Slow'] = 'Könnyebb';
+$language['Undo'] = 'Visszalépés';
+?>

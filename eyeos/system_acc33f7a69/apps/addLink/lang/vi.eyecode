@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Create a link'] = 'Tạo liên kết';
+$language['Please type the title of the link here:'] = 'Nhập tên liên kết tại đây:';
+?>

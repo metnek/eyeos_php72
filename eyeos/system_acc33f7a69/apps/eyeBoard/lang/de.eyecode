@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Clear'] = 'Leeren';
+$language['Public Board'] = 'Schwarzes Brett';
+$language['Send'] = 'Senden';
+?>

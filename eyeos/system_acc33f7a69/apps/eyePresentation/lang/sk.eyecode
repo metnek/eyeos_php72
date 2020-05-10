@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Back'] = 'Späť';
+$language['Next'] = 'Ďalej';
+$language['Sorry, you do not have sufficient permissions.'] = 'Prepáčte, ale na túto operáciu nemáte dostatočné práva.';
+?>

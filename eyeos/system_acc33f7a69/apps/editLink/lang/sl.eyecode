@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Command to be executed:'] = 'Ukaz, ki se naj izvede:';
+$language['Edit %s'] = 'Uredi %s';
+$language['Update'] = 'Posodobi';
+?>

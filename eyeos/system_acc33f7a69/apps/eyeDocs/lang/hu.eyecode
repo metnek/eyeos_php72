@@ -1,0 +1,21 @@
+<?php
+global $language;
+$language['All files'] = 'Minden állomány';
+$language['Cancel'] = 'Mégsem';
+$language['Delete warning'] = 'Figyelmeztetés!';
+$language['Do you want to save changes?'] = 'Menti a változásokat?';
+$language['Document saved successfully.'] = 'Dokumentum mentve.';
+$language['Don\'t save'] = 'Ne mentse';
+$language['Error - Document not saved. Please try again.'] = 'Hiba! A dokumentum nem lett elmentve. Próbálja meg újból menteni.';
+$language['Error creating file.'] = 'Nem lehetett létrehozni az állományt.';
+$language['Error saving file.'] = 'Nem lehetett menteni az állományt.';
+$language['eyeOS document file'] = 'eyeOS dokumentumfájl';
+$language['File not found.'] = 'Az állomány nem található.';
+$language['MS Word document file'] = 'MS Word dokumentum';
+$language['Open Document Text file'] = 'Open Document szövegfájl';
+$language['Save'] = 'Mentés';
+$language['Sorry, you do not have sufficient permissions!'] = 'Nincs engedélye a művelethez.';
+$language['Sorry, you need to enable OpenOffice Support to view this document.'] = 'Engedélyeznie kell az OpenOffice-támogatást a dokumentum megjelenítéséhez.';
+$language['The file does not exist.'] = 'Az állomány nem található.';
+$language['Word Processor'] = 'Szövegszerkesztő';
+?>

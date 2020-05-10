@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Applications'] = 'Aplikacije';
+$language['Full Screen'] = 'Celi zaslon';
+$language['Install Apps'] = 'Namesti aplikacije';
+$language['Manage Dock'] = 'Upravljaj opravilno vrstico';
+?>

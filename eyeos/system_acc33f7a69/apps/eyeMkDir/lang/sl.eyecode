@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Accept'] = 'Potrdi';
+$language['Cancel'] = 'Prekliči';
+$language['Create folder'] = 'Ustvari mapo';
+$language['Error creating directory!'] = 'Napaka pri ustvarjanju mape!';
+$language['Some special chars have been removed.'] = 'Določeni znaki so bili odstranjeni.';
+$language['Type the name of the new folder'] = 'Vnesite ime nove mape';
+?>

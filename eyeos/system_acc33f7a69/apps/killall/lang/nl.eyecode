@@ -1,0 +1,4 @@
+<?php
+global $language;
+$language['No process has been killed!'] = 'Er werd geen proces gestopt!';
+?>

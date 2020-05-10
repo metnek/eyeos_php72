@@ -1,0 +1,12 @@
+<?php
+global $language;
+$language['Add files to transfer, then press Upload now!'] = 'Dodaj datoteke za transfer i pritisnite Pošalji sada!';
+$language['Add files'] = 'Dodaj datoteke';
+$language['Advanced'] = 'Napredno';
+$language['Error uploading file!'] = 'Greška pri slanju datoteke!';
+$language['File uploaded successfully.'] = 'Datoteka je uspješno poslana';
+$language['Remove'] = 'Ukloni';
+$language['Simple'] = 'Jednostavno';
+$language['Transfering: '] = 'Šaljem:';
+$language['Upload files'] = 'Pošalji datoteke';
+?>

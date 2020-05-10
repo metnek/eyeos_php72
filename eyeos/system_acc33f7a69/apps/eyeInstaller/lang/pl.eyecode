@@ -1,0 +1,8 @@
+<?php
+global $language;
+$language['Accept'] = 'Akceptuj';
+$language['Do you really want to install this package into the system?'] = 'Czy aby na pewno chcesz zainstalować tę paczkę w systemie?';
+$language['Installing'] = 'Instalowanie';
+$language['Nothing to install!'] = 'Nie ma nic do instalacji!';
+$language['Package installed successfully!'] = 'Paczka zainstalowana pomyślnie!';
+?>

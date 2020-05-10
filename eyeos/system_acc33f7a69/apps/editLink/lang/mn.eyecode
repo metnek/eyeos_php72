@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Command to be executed:'] = 'Ажиллуулах комманд:';
+$language['Edit %s'] = 'Засварлах %s';
+$language['Update'] = 'Шинэчлэх';
+?>

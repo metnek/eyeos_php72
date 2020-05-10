@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Applications'] = 'Приложения';
+$language['Full Screen'] = 'Во весь экран';
+$language['Install Apps'] = 'Установка приложений';
+$language['Manage Dock'] = 'Настройка верхней панели';
+?>

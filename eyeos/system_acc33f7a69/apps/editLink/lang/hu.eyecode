@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Command to be executed:'] = 'Az Indítandó parancs:';
+$language['Edit %s'] = '%s szerkesztése';
+$language['Update'] = 'Mehet';
+?>

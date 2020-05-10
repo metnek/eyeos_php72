@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['Accessories'] = 'Priedai';
+$language['Calculator'] = 'Skaičiuoklis';
+$language['Calendar'] = 'Kalendorius';
+$language['Chess Game'] = 'Šachmatų Žaidimas';
+$language['Contact Manager'] = 'Adresatų Tvarkytuvė';
+$language['File Manager'] = 'Rinkmenų Tvarkytuvė';
+$language['FTP Client'] = 'FTP Klientas';
+$language['Games'] = 'Žaidimai';
+$language['Internal Messaging'] = 'Vidinis Žinučių Siuntimas';
+$language['Navigator'] = 'Vediklis';
+$language['Network'] = 'Tinklas';
+$language['Office'] = 'Raštinė';
+$language['Process Manager'] = 'Procesų Tvarkytuvė';
+$language['Public Board'] = 'Viešoji Prieiga';
+$language['RSS Feed Reader'] = 'RSS Srauto Skaitytuvas';
+$language['Spreadsheet'] = 'Skaičiuoklė';
+$language['System'] = 'Sistema';
+$language['Tetravex Game'] = 'Žaidimas Tetravex';
+$language['Text Editor'] = 'Tekstų Rengyklė';
+$language['Word Processor'] = 'Rašyklė';
+?>

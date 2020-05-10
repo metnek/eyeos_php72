@@ -1,0 +1,37 @@
+<?php
+global $language;
+$language['%s download is corrupted! unable to install'] = '%s download is corrupted! unable to install';
+$language['%s installed succesfully!'] = '%s با موفقیت نصب شد!';
+$language['Accept'] = 'قبول';
+$language['All'] = 'همه';
+$language['App Name'] = 'نام برنامه';
+$language['Author: %s'] = 'نویسنده: %s';
+$language['Categories'] = 'طبقه ها';
+$language['Category: %s'] = 'طبقه: %s';
+$language['Dependencies: %s'] = 'Dependencies: %s';
+$language['Description: %s'] = 'توضیحات: %s';
+$language['Desktop'] = 'میز کار';
+$language['Do you really want to uninstall this application?'] = 'آیا شما می خواهید این برنامه پاک شود؟';
+$language['Downloading and Installing %s ... please wait'] = 'در حال دانلود و نصب %s ... لطفا صبر کنید';
+$language['eyeSoft: Package list updated'] = 'eyeSoft: لیست بسته به روز رسانی شد';
+$language['Games'] = 'بازی ها';
+$language['Install'] = 'نصب';
+$language['Installed'] = 'نصب شد';
+$language['Installing'] = 'در حال نصب';
+$language['License: %s'] = 'لایسنس: %s';
+$language['Multimedia'] = 'چند رسانه ای';
+$language['Name: %s'] = 'نام: %s';
+$language['none'] = 'خالی';
+$language['Office'] = 'آفیس';
+$language['Only root can install eyeApps'] = 'فقط روت می تواند eyeApps را نصب کند';
+$language['Please choose an applictaion to be installed.'] = 'لطفا نرم افزاری را برای نصب انتخاب کنید.';
+$language['Please choose an applictaion to be uninstalled.'] = 'لطفا نرم افزاری را برای حذف انتخاب کنید.';
+$language['Search'] = 'جستجو';
+$language['Suggestions: %s'] = 'پیشنهاد: %s';
+$language['The application was successfully uninstalled.'] = 'برنامه با موفقیت حذف شده بود.';
+$language['Uninstall application'] = 'حذف کردن برنامه';
+$language['Uninstall'] = 'حذف کردن';
+$language['Update'] = 'به روز رسانی';
+$language['Version'] = 'نسخه';
+$language['Version: %s'] = 'نسخه: %s';
+?>

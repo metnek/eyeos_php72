@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Some special chars have been removed.'] = 'Unele caractere speciale vor fi şterse';
+$language['Type the name of the new folder'] = 'Scrie numele noului director';
+?>

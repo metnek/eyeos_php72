@@ -1,0 +1,30 @@
+<?php
+global $language;
+$language['Address Book'] = 'Címjegyzék';
+$language['Applications'] = 'Programok';
+$language['Calendar'] = 'Naptár';
+$language['Copy'] = 'Másolás';
+$language['Delete'] = 'Törlés';
+$language['Download as zip'] = 'ZIP-ként letöltés';
+$language['Download'] = 'Letöltés';
+$language['Edit'] = 'Szerkesztés';
+$language['Empty trash'] = 'Szemetes ürítése';
+$language['Explore'] = 'Böngészés';
+$language['Home'] = 'Saját';
+$language['Launch'] = 'Indítás';
+$language['New file'] = 'Új állomány';
+$language['New folder'] = 'Új könyvtár';
+$language['New launcher'] = 'Új indító';
+$language['Open trash'] = 'Szemetes megnyitása';
+$language['Open with'] = 'Megnyitás ezzel:';
+$language['Paste'] = 'Beillesztés';
+$language['Preferences'] = 'Beállítások';
+$language['Properties'] = 'Tulajdonságok';
+$language['Refresh'] = 'Frissítés';
+$language['Rename'] = 'Átnevezés';
+$language['RSS Feed Reader'] = 'RSS-olvasó';
+$language['Share with'] = 'Megosztás...';
+$language['Trash'] = 'Szemetes';
+$language['Upload files'] = 'Feltöltés';
+$language['Welcome to %s, %s.'] = 'Üdvözöl a %s, %s!';
+?>

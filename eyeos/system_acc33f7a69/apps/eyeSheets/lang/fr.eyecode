@@ -1,0 +1,8 @@
+<?php
+global $language;
+$language['File not found!'] = 'Fichier introuvable !';
+$language['Sorry, eyeSheets does not support Webkit browsers.'] = 'Désolé, eyeSheets ne supporte pas les navigateurs Webkit.';
+$language['Sorry, you do not have sufficient permissions.'] = 'Désolé, vous n\'avez pas les permissions suffisantes.';
+$language['Spreadsheet saved successfully.'] = 'Feuille de calcul sauvegardée avec succès.';
+$language['Spreadsheet'] = 'Feuille de calcul';
+?>

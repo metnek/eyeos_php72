@@ -1,0 +1,13 @@
+<?php
+global $language;
+$language['Application killed successfully.'] = 'Applikasjon ble drept. ';
+$language['Application'] = 'Applikasjon';
+$language['Close Application'] = 'Lukk applikasjon';
+$language['Kill process'] = 'Drep prosess';
+$language['New process'] = 'Ny prosess';
+$language['Pid'] = 'Pid';
+$language['Process killed successfully.'] = 'Prosessen er drept';
+$language['Process Manager'] = 'Prosessbehandling';
+$language['Process Name'] = 'Prosessnavn';
+$language['Username'] = 'Brukernavn';
+?>

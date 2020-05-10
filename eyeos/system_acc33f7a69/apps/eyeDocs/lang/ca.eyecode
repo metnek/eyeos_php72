@@ -1,0 +1,21 @@
+<?php
+global $language;
+$language['All files'] = 'Tots els arxius';
+$language['Cancel'] = 'Cancel·la';
+$language['Delete warning'] = 'Eliminar advertència';
+$language['Do you want to save changes?'] = 'Vols guardar els canvis?';
+$language['Document saved successfully.'] = 'Document guardat satisfactòriament';
+$language['Don\'t save'] = 'No guardis';
+$language['Error - Document not saved. Please try again.'] = 'Error - Document no guardat. Torneu-ho a provar.';
+$language['Error creating file.'] = 'Error en crear l\'arxiu.';
+$language['Error saving file.'] = 'Error en guardar l\'arxiu.';
+$language['eyeOS document file'] = 'Document d\'eyeOS';
+$language['File not found.'] = 'Arxiu no trobat.';
+$language['MS Word document file'] = 'Document de MS Word';
+$language['Open Document Text file'] = 'Document de text d\'Open Document';
+$language['Save'] = 'Guardar';
+$language['Sorry, you do not have sufficient permissions!'] = 'Perdona, no tens prou permisos!';
+$language['Sorry, you need to enable OpenOffice Support to view this document.'] = 'Perdona, has d\'habilitar el suport d\'OpenOffice.';
+$language['The file does not exist.'] = 'L\'arxiu no existeix.';
+$language['Word Processor'] = 'Processador de textos';
+?>

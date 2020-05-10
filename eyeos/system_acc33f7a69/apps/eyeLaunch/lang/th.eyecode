@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['%s not found'] = 'ไม่พบ %s';
+$language['Run...'] = 'เรียก...';
+$language['Type the name of the app or command to run'] = 'พิมพ์ชื่อของแอปลิเคชันหรือคำสั่งที่จะเรียก';
+?>

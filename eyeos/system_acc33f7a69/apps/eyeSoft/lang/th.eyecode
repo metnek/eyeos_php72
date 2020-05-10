@@ -1,0 +1,31 @@
+<?php
+global $language;
+$language['%s download is corrupted! unable to install'] = 'การดาวน์โหลด %s ขัดข้องไม่สามารถติดตั้งได้';
+$language['%s installed succesfully!'] = 'ติดตั้งสำเร็จ !';
+$language['Accept'] = 'ยอมรับ';
+$language['App Name'] = 'ชื่อแอป ฯ';
+$language['Author: %s'] = 'ผู้สร้าง : %s';
+$language['Categories'] = 'ประเภท';
+$language['Category: %s'] = 'ประเภท : %s';
+$language['Dependencies: %s'] = 'ความสัมพันธ์ : %s';
+$language['Description: %s'] = 'รายละเอียด : %s';
+$language['Do you really want to uninstall this application?'] = 'ต้องการถอนการติดตั้งแอปลิเคชั่นนี้';
+$language['Downloading and Installing %s ... please wait'] = 'ดาวน์โหลด และติดตั้ง %s ...กรุณารอ';
+$language['eyeSoft: Package list updated'] = 'eyeSoft : อัพเดทรายชื่อแพ็กเกจเรียบร้อย';
+$language['Install'] = 'ติดตั้ง';
+$language['Installed'] = 'ติดตั้ง';
+$language['Installing'] = 'กำลังติดตั้ง';
+$language['License: %s'] = 'ใบอนุณาติ : %s';
+$language['Name: %s'] = 'ชื่อ : %s';
+$language['Only root can install eyeApps'] = 'เฉพาะผู้ใช้ root เท่านั้นที่สามารถติดตั้ง eyeApps';
+$language['Please choose an applictaion to be installed.'] = 'กรุณาเลือกแอปลิเคชั่นที่จะติดตั้ง';
+$language['Please choose an applictaion to be uninstalled.'] = 'กรุณาเลือกแอปลิเคชั่นที่จะถอนออก';
+$language['Search'] = 'ค้นหา';
+$language['Suggestions: %s'] = 'ข้อเสนอแนะ : %s';
+$language['The application was successfully uninstalled.'] = 'ถอนการติดตั้งแอปลิเคชั่นสำเร็จ';
+$language['Uninstall application'] = 'ถอนการติดตั้งแอปลิเคชั่น';
+$language['Uninstall'] = 'ถอนการติดตั้ง';
+$language['Update'] = 'อัพเดท';
+$language['Version'] = 'รุ่น';
+$language['Version: %s'] = 'รุ่น : %s';
+?>

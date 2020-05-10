@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Back'] = 'عقب';
+$language['Next'] = 'بعد';
+$language['Sorry, you do not have sufficient permissions.'] = 'متاسفانه شما مجوز قانونی ندارید.';
+?>

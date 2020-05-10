@@ -1,0 +1,19 @@
+<?php
+global $language;
+$language['Add Calendar'] = 'اضافه کردن تقویم';
+$language['At least, one calendar is required!'] = '! حداقل یک تقویم نیاز است';
+$language['Calendar added succesfully'] = 'تقویم با موفقیت اضافه شد';
+$language['Calendars management'] = 'مدیریت تقویم ها';
+$language['Calendars'] = 'تقویم ها';
+$language['Day'] = 'روز';
+$language['Invalid checkbox value'] = 'مقدار چک باکس بی اعتبار است';
+$language['Invalid Num %s'] = 'Invalid Num %s';
+$language['Next'] = 'بعد';
+$language['Please type a name for the calendar'] = 'لطفا نامی برای تقویم تایپ کنید';
+$language['Previous'] = 'قبل';
+$language['Show'] = 'نمایش';
+$language['Today'] = 'امروز';
+$language['Week'] = 'هفته';
+$language['Window mode'] = 'پنجره ای';
+$language['Work'] = 'وظیفه';
+?>

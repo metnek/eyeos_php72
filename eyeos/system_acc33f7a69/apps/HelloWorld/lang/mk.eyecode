@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Change Label Text'] = 'Смени го текстот';
+$language['Example eyeApp'] = 'Пример за eye апликација';
+$language['Hello World!'] = 'Здраво на светот!';
+?>

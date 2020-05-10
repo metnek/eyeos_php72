@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Next'] = '前进';
+$language['No image could be found.'] = '没有找到图片';
+$language['Previous'] = '后退';
+$language['View Images'] = '查看图片';
+?>

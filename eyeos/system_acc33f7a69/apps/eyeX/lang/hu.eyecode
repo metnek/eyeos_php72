@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Please wait...'] = 'Kérem várjon...';
+$language['Unable to save position!'] = 'Nem lehetett menteni a helyzetet!';
+$language['Welcome to %s'] = 'Üdvözli a(z) %s kiszolgáló!';
+?>

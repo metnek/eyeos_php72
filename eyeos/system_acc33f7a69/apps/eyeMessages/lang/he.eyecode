@@ -1,0 +1,24 @@
+<?php
+global $language;
+$language['Attach'] = 'צרף קובץ';
+$language['Date'] = 'תאריך ';
+$language['Download'] = 'הורדה';
+$language['Empty'] = 'ריק';
+$language['File saved successfully.'] = 'הקובץ נשמר בהצלחה';
+$language['From'] = 'מאת';
+$language['Inbox'] = 'דואר נכנס';
+$language['Internal Messaging'] = 'מסרים פנימיים';
+$language['Message restored in its original folder'] = 'ההודעה שוחזרה למיקום המקורי';
+$language['Read Message'] = 'קרא דואר';
+$language['Read'] = 'קרא';
+$language['Refresh'] = 'רענן';
+$language['Reply'] = 'השב';
+$language['Restore'] = 'שחזר';
+$language['Sent'] = 'נשלח';
+$language['Subject'] = 'נושא';
+$language['To'] = 'אל';
+$language['Trash'] = 'סל אשפה';
+$language['Unread'] = 'לא נקרא';
+$language['You must choose a message to delete'] = 'עליך לבחור הודעה כדי למחוק';
+$language['You must choose a message to open'] = 'עליך לבחור הודעה כדי לפתוח';
+?>

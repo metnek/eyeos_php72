@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Create a file'] = 'Dosya oluştur';
+$language['Error creating file!'] = 'Dosya Oluşturmada Hata!';
+$language['Please type the name of the new file here:'] = 'Lütfen yeni dosyanın adını buraya yazınız:';
+$language['Some special chars have been removed.'] = 'Bazı özel karakterler kaldırıldı.';
+?>

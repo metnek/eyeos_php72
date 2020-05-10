@@ -1,0 +1,22 @@
+<?php
+global $language;
+$language['( Default )'] = '( Varsayılan )';
+$language['Create account'] = 'Hesap Aç';
+$language['Enter'] = 'Giriş';
+$language['Error creating new user!'] = 'Yeni kullanıcı oluşturmada hata!';
+$language['Language (this session)'] = 'Dil (Bu oturum)';
+$language['Language'] = 'Dil';
+$language['New User'] = 'Yeni Kullanıcı';
+$language['Password fields do not match!'] = 'Şifreler birbirini tutmuyor!';
+$language['Password is too short!'] = 'Şifre çok kısa!';
+$language['Password'] = 'Şifre';
+$language['Please fill out all fields!'] = 'Lütfen tüm boşlukları doldurunuz!';
+$language['Retype password'] = 'Şifre tekrar';
+$language['That user already exists!'] = 'Bu kullanıcı zaten mevcut!';
+$language['The language does not exist!'] = 'Bu dil bulunmuyor!';
+$language['This system does not allow user registrations!'] = 'Sistem üye olmaya izin vermiyor!';
+$language['Username is too short!'] = 'Kullanıcı adı çok kısa!';
+$language['Username should be alpha-numeric!'] = 'Kullanıcı adı alfa-numerik olmalıdır!';
+$language['Username'] = 'Kullanıcı adı';
+$language['Your account has been disabled!'] = 'Hesabınız deaktif edilmiştir.';
+?>

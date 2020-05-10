@@ -1,0 +1,11 @@
+<?php
+global $language;
+$language['Add files to transfer, then press Upload now!'] = '添加要传输的文件，然后按上传按钮！';
+$language['Add files'] = '添加文件';
+$language['Advanced'] = '高级';
+$language['Remove'] = '删除';
+$language['Simple'] = '简洁';
+$language['Transfering: '] = '传输中:';
+$language['Upload files'] = '上传文件';
+$language['Upload now!'] = '上传';
+?>

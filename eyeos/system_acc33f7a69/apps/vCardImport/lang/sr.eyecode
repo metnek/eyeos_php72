@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Format unsupported!'] = 'Формат није подржан!';
+$language['No contacts were found in the file!'] = 'Ниједан контакт није пронађен у фајлу!';
+$language['The contact already exists!'] = 'Контакт особа већ постоји!';
+$language['The file was not found!'] = 'Фајл није пронађен!';
+?>

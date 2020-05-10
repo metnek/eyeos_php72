@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Accept'] = 'Ok';
+$language['Cancel'] = 'Annuleren';
+$language['Create folder'] = 'Map aanmaken';
+$language['Error creating directory!'] = 'Fout bij aanmaken van map!';
+$language['Some special chars have been removed.'] = 'Enkele speciale karakters zijn gewist.';
+$language['Type the name of the new folder'] = 'Geef de naam voor de nieuwe map';
+?>

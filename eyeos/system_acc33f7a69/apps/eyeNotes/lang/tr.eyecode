@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['File saved successfully.'] = 'Dosya başarıyla kaydedildi.';
+$language['Sorry, you do not have sufficient permissions.'] = 'Üzgünüm, yeterli yetkiniz bulunmuyor.';
+$language['Text Editor'] = 'Metin Editörü';
+$language['Unable to create file'] = 'Dosya oluşturulamadı';
+?>

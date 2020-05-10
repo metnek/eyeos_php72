@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['Archive Manager'] = 'Upravljanje arhivom';
+$language['Compress to...'] = 'Kompresiraj na...';
+$language['Compress'] = 'Kompresiraj';
+$language['Compressed successfully'] = 'Uspješno kompresirano';
+$language['Compression failed'] = 'Kompresija neuspjela';
+$language['Extract to...'] = 'Ekstraktiraj na...';
+$language['Extract'] = 'Ekstraktiraj';
+$language['File extracted successfully.'] = 'Datoteka uspješno ekstraktirana.';
+$language['File extraction failed'] = 'Ekstrakcija datoteke neuspješna.';
+$language['Filename'] = 'Ime datoteke';
+$language['No file open'] = 'Nema otvorene datoteke';
+$language['The compress type is not supported'] = 'Ovaj tip kompresije nije podržan';
+?>

@@ -1,0 +1,8 @@
+<?php
+global $language;
+$language['Create a new document'] = 'Nuovo documento';
+$language['Create a new spreadsheet'] = 'Nuovo foglio di lavoro';
+$language['Do you want this widget to open automatically on the next session?'] = 'Vuoi che questa interfaccia si apra automaticamente alla prossima sessione ?';
+$language['Send an internal message'] = 'Invia messaggio interno';
+$language['Upload your files'] = 'Carica i tuoi file';
+?>

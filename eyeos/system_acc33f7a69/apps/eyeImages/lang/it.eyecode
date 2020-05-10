@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Next'] = 'Prossima';
+$language['No image could be found.'] = 'Non riesco a trovare immagini';
+$language['Previous'] = 'Precedente';
+$language['View Images'] = 'Visualizza Immagini';
+?>

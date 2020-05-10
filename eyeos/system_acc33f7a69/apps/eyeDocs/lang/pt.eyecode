@@ -1,0 +1,21 @@
+<?php
+global $language;
+$language['All files'] = 'Todos os ficheiros';
+$language['Cancel'] = 'Cancelar';
+$language['Delete warning'] = 'Aviso';
+$language['Do you want to save changes?'] = 'Quer gravar as alterações?';
+$language['Document saved successfully.'] = 'Documento gravado com sucesso';
+$language['Don\'t save'] = 'Não gravar';
+$language['Error - Document not saved. Please try again.'] = 'Erro - documento não gravado. Por favor volte a tentar.';
+$language['Error creating file.'] = 'Erro ao criar ficheiro.';
+$language['Error saving file.'] = 'Erro ao gravar ficheiro';
+$language['eyeOS document file'] = 'Ficheiro de documento do eyeOS';
+$language['File not found.'] = 'Ficheiro não encontrado';
+$language['MS Word document file'] = 'Ficheiro de documento do MS Word';
+$language['Open Document Text file'] = 'Ficheiro de documento "Open Document"';
+$language['Save'] = 'Gravar';
+$language['Sorry, you do not have sufficient permissions!'] = 'Não tem permissões suficientes!';
+$language['Sorry, you need to enable OpenOffice Support to view this document.'] = 'Para ver este documento é necessário activar o suporte ao OpenOffice';
+$language['The file does not exist.'] = 'O ficheiro não existe.';
+$language['Word Processor'] = 'Processador de Texto';
+?>

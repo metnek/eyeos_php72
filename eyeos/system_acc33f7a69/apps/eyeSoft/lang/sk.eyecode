@@ -1,0 +1,37 @@
+<?php
+global $language;
+$language['%s download is corrupted! unable to install'] = '%s súbor poškodený! Nie je možná inštalácia';
+$language['%s installed succesfully!'] = '%s nainštalovaný!';
+$language['Accept'] = 'Akceptovať';
+$language['All'] = 'Všetko';
+$language['App Name'] = 'Názov prog.';
+$language['Author: %s'] = 'Autor: %s';
+$language['Categories'] = 'Kategórie';
+$language['Category: %s'] = 'Kategória: %s';
+$language['Dependencies: %s'] = 'Závislé na: %s';
+$language['Description: %s'] = 'Popis: %s';
+$language['Desktop'] = 'Pracovná plocha';
+$language['Do you really want to uninstall this application?'] = 'Naozaj odinštalovať program?';
+$language['Downloading and Installing %s ... please wait'] = 'Sťahovanie a inštalácia %s ... prosím, čakajte';
+$language['eyeSoft: Package list updated'] = 'eyeSoft: Zoznam balíkov upravený';
+$language['Games'] = 'Hry';
+$language['Install'] = 'Inštalovať';
+$language['Installed'] = 'Nainštalované';
+$language['Installing'] = 'Inštalujem';
+$language['License: %s'] = 'Licencia: %s';
+$language['Multimedia'] = 'Multimédia';
+$language['Name: %s'] = 'Názov: %s';
+$language['none'] = 'nič';
+$language['Office'] = 'Kancelária';
+$language['Only root can install eyeApps'] = 'Iba správca (root) môže inštalovať nové programy';
+$language['Please choose an applictaion to be installed.'] = 'Prosím, vyberte program, ktorý má byť nainštalovaný.';
+$language['Please choose an applictaion to be uninstalled.'] = 'Prosím, vyberte program, ktorý má byť odinštalovaný.';
+$language['Search'] = 'Vyhľadať';
+$language['Suggestions: %s'] = 'Návrhy: %s';
+$language['The application was successfully uninstalled.'] = 'Program bol odinštalovaný.';
+$language['Uninstall application'] = 'Odinštalovať program';
+$language['Uninstall'] = 'Odinštalovať';
+$language['Update'] = 'Aktualizovať';
+$language['Version'] = 'Verzia';
+$language['Version: %s'] = 'Verzia: %s';
+?>

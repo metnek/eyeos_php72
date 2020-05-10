@@ -1,0 +1,11 @@
+<?php
+global $language;
+$language['Back'] = 'Para trás';
+$language['Full Screen'] = 'Ecrã inteiro';
+$language['Next'] = 'Próximo';
+$language['Open'] = 'Abrir';
+$language['Presentations'] = 'Apresentações';
+$language['Sorry, you do not have sufficient permissions.'] = 'Não tem permissões suficientes';
+$language['You are already on the first slide, you cannot go back anymore!'] = 'Já se encontra no primeiro slide. Não pode ir mais para trás!';
+$language['You need to select a file to open!'] = 'É necessário seleccionar um ficheiro para abrir!';
+?>

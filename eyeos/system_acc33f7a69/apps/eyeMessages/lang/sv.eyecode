@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['Attach'] = 'Bifoga';
+$language['Date'] = 'Datum';
+$language['Download'] = 'Ladda ner';
+$language['Empty'] = 'Tom';
+$language['File saved successfully.'] = 'Fil sparades.';
+$language['From'] = 'Från';
+$language['Inbox'] = 'Inkorg';
+$language['Message restored in its original folder'] = 'Meddelande återställdes till sin ursprungliga mapp';
+$language['Read Message'] = 'Läs meddelande';
+$language['Read'] = 'Läs';
+$language['Refresh'] = 'Ladda om';
+$language['Reply'] = 'Svara';
+$language['Restore'] = 'Återställ';
+$language['Sent'] = 'Skickat';
+$language['Subject'] = 'Ämne';
+$language['To'] = 'Till';
+$language['Trash'] = 'Papperskorgen';
+$language['Unread'] = 'Oläst';
+$language['You must choose a message to delete'] = 'Du måste välja ett meddelande att radera';
+$language['You must choose a message to open'] = 'Du måste välja ett meddelande att öppna';
+?>

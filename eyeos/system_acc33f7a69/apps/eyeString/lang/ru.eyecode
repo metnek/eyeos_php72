@@ -1,0 +1,25 @@
+<?php
+global $language;
+$language['Add input to output'] = 'Скопировать исходный текст';
+$language['Add new line to end'] = 'Добавить пустую строку';
+$language['Ascii to Hexa'] = 'Ascii в Hex';
+$language['Auto clear input'] = 'Удалить исходный текст';
+$language['Base64 Decode'] = 'Декодирование Base64';
+$language['Base64 Encode'] = 'Кодирование Base64';
+$language['Clear'] = 'Очистить';
+$language['Concatenate Output'] = 'Добавить к выводу';
+$language['Decimal to Roman'] = 'Decimal в Roman';
+$language['eyeOS hash'] = 'eyeOS-хэш';
+$language['Hexa to Ascii'] = 'Hex в Ascii';
+$language['Html Entities'] = 'HTML-элементы';
+$language['Input Text'] = 'Исходный текст';
+$language['Last execution time: %s'] = 'Время расчёта: %s';
+$language['md5 Hash'] = 'md5-хэш';
+$language['Options'] = 'Параметры';
+$language['Output Text'] = 'Выходной текст';
+$language['Remove Html Entities'] = 'Удалить HTML-элементы';
+$language['Roman to Decimal'] = 'Roman в Decimal';
+$language['Start'] = 'Пуск';
+$language['URL Decode'] = 'Декодирование URL';
+$language['URL Encode'] = 'Кодирование URL';
+?>

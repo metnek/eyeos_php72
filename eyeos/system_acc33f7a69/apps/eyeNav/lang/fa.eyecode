@@ -1,0 +1,28 @@
+<?php
+global $language;
+$language['Add bookmark'] = 'افزودن کتاب علائم';
+$language['Back'] = 'عقب';
+$language['Bookmark does not exist!'] = 'Bookmark does not exist!';
+$language['Bookmark title'] = 'عنوان کتاب علائم';
+$language['Bookmarks'] = 'کتاب علائم';
+$language['Delete bookmark'] = 'حذف کتاب علائم';
+$language['Do you really want to delete this bookmark?'] = 'آیا شما واقعا می خواهید این کتاب علائم حذف شود؟';
+$language['Forums'] = 'انجمن ها';
+$language['Forward'] = 'جلو';
+$language['Images'] = 'عکس ها';
+$language['Internet'] = 'اینترنت';
+$language['Knowledge'] = 'دانش';
+$language['Link successfully deleted.'] = 'لینک با موفقیت حذف شد.';
+$language['Link successfully saved.'] = 'لینک با موفقیت ذخیره شد.';
+$language['Open bookmarks'] = 'باز کردن کتاب علائم';
+$language['Open searches'] = 'باز کردن جستجو';
+$language['Search'] = 'جستجو';
+$language['Settings'] = 'تنظیمات';
+$language['Startpage'] = 'صفحه آغازین';
+$language['The selected file is not a valid eyeNav bookmarks file!'] = 'The selected file is not a valid eyeNav bookmarks file!';
+$language['The selected file is not a valid eyeNav search file!'] = 'The selected file is not a valid eyeNav search file!';
+$language['There is already another bookmark with this title!'] = 'کتاب علائم دیگری با این عنوان قبلا وجود داشته است!';
+$language['Uncategorized'] = 'بدون طبقه بندی';
+$language['Website'] = 'وب سایت';
+$language['Wiki'] = 'ویکی';
+?>

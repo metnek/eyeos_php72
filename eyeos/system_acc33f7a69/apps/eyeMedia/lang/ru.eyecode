@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['Add File'] = 'Добавить файл';
+$language['Add Folder'] = 'Добавить папку';
+$language['Clear List'] = 'Очистить лист';
+$language['Error opening: %s'] = 'Ошибка при открытии: %s';
+$language['Filename'] = 'Название файла';
+$language['Full Screen'] = 'Во весь экран';
+$language['Media Player'] = 'Медиаплеер';
+$language['Next'] = 'Вперед';
+$language['No file selected.'] = 'Не выбран файл.';
+$language['No folder selected.'] = 'Не выбрана папка.';
+$language['Nothing Playing.'] = 'Ничего не играет.';
+$language['Paused.'] = 'Остановлено.';
+$language['Play'] = 'Играть';
+$language['Playing: %s'] = 'Играет: %s';
+$language['Previous'] = 'Назад';
+$language['Remove File'] = 'Удалить файл';
+$language['Repeat'] = 'Повторить';
+$language['Shuffle'] = 'Перемешать';
+$language['Stop'] = 'Стоп';
+$language['Successfully opened: %s'] = 'Успешно открыто: %s';
+?>

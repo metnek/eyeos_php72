@@ -1,0 +1,29 @@
+<?php
+global $language;
+$language['share']['April'] = 'Balandis';
+$language['share']['August'] = 'Rugpjūtis';
+$language['share']['December'] = 'Gruodis';
+$language['share']['F'] = 'Pn';
+$language['share']['February'] = 'Vasaris';
+$language['share']['Fri'] = 'Pen';
+$language['share']['January'] = 'Sausis';
+$language['share']['July'] = 'Liepa';
+$language['share']['June'] = 'Birželis';
+$language['share']['M'] = 'Pr';
+$language['share']['March'] = 'Kovas';
+$language['share']['May'] = 'Gegužė';
+$language['share']['Mon'] = 'Pirm';
+$language['share']['November'] = 'Lapkritis';
+$language['share']['October'] = 'Spalis';
+$language['share']['S'] = 'S';
+$language['share']['SA'] = 'Š';
+$language['share']['Sat'] = 'Šešt';
+$language['share']['September'] = 'Rugsėjis';
+$language['share']['Sun'] = 'Sekm';
+$language['share']['T'] = 'A';
+$language['share']['TH'] = 'K';
+$language['share']['Thu'] = 'Ketv';
+$language['share']['Tue'] = 'Antr';
+$language['share']['W'] = 'T';
+$language['share']['Wed'] = 'Treč';
+?>

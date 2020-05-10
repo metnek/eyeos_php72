@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Clear'] = 'Temizle';
+$language['Public Board'] = 'Açık Pano';
+$language['Send'] = 'Yolla';
+?>

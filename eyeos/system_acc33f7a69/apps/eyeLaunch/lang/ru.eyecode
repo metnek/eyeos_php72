@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['%s has had a problem and could not be executed'] = 'В %s имеются проблемы и она не может быть запущена';
+$language['%s has had an unknow problem and could not be executed'] = 'В %s имеются неизвестные проблемы и она не может быть запущена';
+$language['%s not found'] = 'Приложение %s не найдено';
+$language['Error, empty username or password'] = 'Не указано имя пользователя или пароль';
+$language['Error, invalid username or password'] = 'Недопустимое имя пользователя или пароль';
+$language['Invalid username'] = 'Недопустимое имя пользователя';
+$language['Password'] = 'Пароль';
+$language['Run as different user'] = 'Выполнить от имени другого пользователя';
+$language['Run...'] = 'Выполнить...';
+$language['Run'] = 'Выполнить';
+$language['Type the name of the app or command to run'] = 'Введите название приложения или команду';
+$language['User'] = 'Пользователь';
+?>

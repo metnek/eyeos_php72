@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['Add File'] = 'Afegeix arxiu';
+$language['Add Folder'] = 'Afegeix carpeta';
+$language['Clear List'] = 'Nateja la llista';
+$language['Error opening: %s'] = 'Error en obrir: %s';
+$language['Filename'] = 'Nom d\'arxiu';
+$language['Full Screen'] = 'Pantalla completa';
+$language['Media Player'] = 'Reproductor';
+$language['Next'] = 'Següent';
+$language['No file selected.'] = 'No s\'ha seleccionat cap fitxer.';
+$language['No folder selected.'] = 'No s\'ha seleccionat cap carpeta.';
+$language['Nothing Playing.'] = 'No s\'està reproduint res.';
+$language['Paused.'] = 'Pausat.';
+$language['Play'] = 'Reprodueix';
+$language['Playing: %s'] = 'Reproduint: %s';
+$language['Previous'] = 'Anterior';
+$language['Remove File'] = 'Elimina arxius';
+$language['Repeat'] = 'Repeteix';
+$language['Shuffle'] = 'Aleatori';
+$language['Stop'] = 'Atura';
+$language['Successfully opened: %s'] = 'Obert satisfactòriament: %s';
+?>

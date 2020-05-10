@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Delete %s'] = '%s 삭제';
+$language['Do you really want to empty the trash?'] = '정말로 휴지통을 비우시겠습니까?';
+$language['Do you really want to remove "%s"?'] = '정말로 "%s"를 삭제하시겠습니까?';
+$language['Empty trash'] = '휴지통 비우기';
+?>

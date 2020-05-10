@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Download!'] = 'Prenesi!';
+$language['Links cannot be downloaded!'] = 'Povezav ni mogoče prenesti!';
+$language['You can close this window now.'] = 'To okno lahko zdaj zaprete.';
+?>

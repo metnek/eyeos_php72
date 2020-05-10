@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Links cannot be copied!'] = 'Bağlantılar kopyalanamadı.';
+$language['You can paste "%s" into another folder now.'] = '"%s"i şimdi başka bir klasöre yapıştırabilirsiniz.';
+?>

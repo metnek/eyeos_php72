@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['All files'] = 'Alle bestanden';
+$language['Archive files'] = 'Archiveer bestanden';
+$language['Archive Manager'] = 'Archief Manager';
+$language['BZip files'] = 'Bzip bestanden';
+$language['Compress to...'] = 'Inpakken naar...';
+$language['Compress'] = 'Inpakken';
+$language['Compressed successfully'] = 'Inpakken voltooid';
+$language['Compression failed'] = 'Fout bij inpakken';
+$language['Extract to...'] = 'Uitpakken naar...';
+$language['Extract'] = 'Uitpakken';
+$language['File extracted successfully.'] = 'Bestand succesvol uitgepakt.';
+$language['File extraction failed'] = 'Fout bij uitpakken van bestand';
+$language['Filename'] = 'Bestandsnaam';
+$language['GZip files'] = 'GZip bestnaden';
+$language['No file open'] = 'Geen bestand geopend';
+$language['Open a folder or file'] = 'Open een map of bestand';
+$language['Open'] = 'Open';
+$language['Tar files'] = 'Tar bestanden';
+$language['The compress type is not supported'] = 'Het ingepakte bestandstype wordt niet ondersteund.';
+$language['Zip files'] = 'Zip bestanden';
+?>

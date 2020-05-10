@@ -1,0 +1,10 @@
+<?php
+global $language;
+$language['Kill process'] = 'Deter procesos';
+$language['New process'] = 'Novos procesos';
+$language['Pid'] = 'Pid';
+$language['Process killed successfully.'] = 'Proceso detido correctamente.';
+$language['Process Manager'] = 'Xestor de procesos';
+$language['Process Name'] = 'Nome do proceso';
+$language['Username'] = 'Nome de usuario';
+?>

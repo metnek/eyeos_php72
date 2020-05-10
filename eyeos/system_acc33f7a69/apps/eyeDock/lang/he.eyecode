@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['Accessories'] = 'עזרים';
+$language['Calculator'] = 'מחשבון';
+$language['Calendar'] = 'לוח שנה';
+$language['Chess Game'] = 'משחק שח';
+$language['Contact Manager'] = 'ניהול אנשי קשר';
+$language['File Manager'] = 'מנהל הקבצים';
+$language['FTP Client'] = 'לקוח FTP';
+$language['Games'] = 'משחקים';
+$language['Internal Messaging'] = 'מסרים פנימיים';
+$language['Navigator'] = 'דפדפן נוויגיטור';
+$language['Network'] = 'רשת';
+$language['Office'] = 'אופיס';
+$language['Process Manager'] = 'מנהל תהליכים';
+$language['Public Board'] = 'לוח ציבורי';
+$language['RSS Feed Reader'] = 'קורא RSS';
+$language['Spreadsheet'] = 'גליון נתונים';
+$language['System'] = 'מערכת';
+$language['Tetravex Game'] = 'משחק טטראוקס';
+$language['Text Editor'] = 'עורך טקסט';
+$language['Word Processor'] = 'מעבד תמלילים';
+?>

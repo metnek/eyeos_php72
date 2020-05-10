@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['All files'] = 'Tots els arxius';
+$language['Archive files'] = 'Arxiva fitxers';
+$language['Archive Manager'] = 'Gestor de l\'Arxiu';
+$language['BZip files'] = 'Arxius BZip';
+$language['Compress to...'] = 'Comprimeix a...';
+$language['Compress'] = 'Comprimeix';
+$language['Compressed successfully'] = 'Comprimit satisfactòriament';
+$language['Compression failed'] = 'La compressió ha fallat';
+$language['Extract to...'] = 'Extreu a...';
+$language['Extract'] = 'Extreu';
+$language['File extracted successfully.'] = 'Arxiu extret satisfactòriament.';
+$language['File extraction failed'] = 'L\'extracció de l\'arxiu ha fallat';
+$language['Filename'] = 'Nom de l\'arxiu';
+$language['GZip files'] = 'Arxius GZip';
+$language['No file open'] = 'Cap arxiu obert';
+$language['Open a folder or file'] = 'Obrir una carpeta o un fitxer';
+$language['Open'] = 'Obrir';
+$language['Tar files'] = 'Arxius Tar';
+$language['The compress type is not supported'] = 'No suportem el tipus de compressió';
+$language['Zip files'] = 'Arxius Zip';
+?>

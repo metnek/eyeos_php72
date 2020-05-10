@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Back'] = 'กลับ';
+$language['Next'] = 'ต่อไป';
+$language['Sorry, you do not have sufficient permissions.'] = 'เสียใจด้วยคุณได้รับสิทธิ์ไม่เพียงพอในการเข้าถึงนี้';
+?>

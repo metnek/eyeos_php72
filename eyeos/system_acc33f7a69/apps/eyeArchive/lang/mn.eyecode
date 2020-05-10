@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['Archive Manager'] = 'Архивлагч';
+$language['Compress to...'] = 'Замчилсан шахалт...';
+$language['Compress'] = 'Шахалт хийх';
+$language['Compressed successfully'] = 'Амжилттай шахагдлаа';
+$language['Compression failed'] = 'Шахалт амжилтгүй боллоо';
+$language['Extract to...'] = 'Замчилсан задлалт...';
+$language['Extract'] = 'Задлах';
+$language['File extracted successfully.'] = 'Файл амжилттай задарлаа.';
+$language['File extraction failed'] = 'Файл амжилтгүй задарлаа';
+$language['Filename'] = 'Файлын нэр';
+$language['No file open'] = 'Нээлттэй файл байхгүй';
+$language['The compress type is not supported'] = 'Шахалтын арагчлал дэмжигдэхгүй';
+?>

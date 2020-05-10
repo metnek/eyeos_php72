@@ -1,0 +1,17 @@
+<?php
+global $language;
+$language['Applications'] = 'יישומים';
+$language['Calendar'] = 'לוח שנה';
+$language['Copy'] = 'העתק';
+$language['Download'] = 'הורד';
+$language['Home'] = 'ראשי';
+$language['Paste'] = 'הדבק';
+$language['Preferences'] = 'העדפות';
+$language['Properties'] = 'מאפיינים';
+$language['Refresh'] = 'רענן';
+$language['Rename'] = 'שנה שם';
+$language['RSS Feed Reader'] = 'קורא RSS';
+$language['Trash'] = 'פח אשפה';
+$language['Upload files'] = 'העלה קבצים';
+$language['Welcome to %s, %s.'] = 'ברוך הבא אל % , %';
+?>

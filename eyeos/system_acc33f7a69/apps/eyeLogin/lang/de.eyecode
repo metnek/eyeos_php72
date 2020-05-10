@@ -1,0 +1,27 @@
+<?php
+global $language;
+$language['( Default )'] = '( Standard )';
+$language['Change password'] = 'Passwort ändern';
+$language['Create account'] = 'Erstellen';
+$language['Enter'] = 'Anmelden';
+$language['Error creating new user!'] = 'Fehler beim Erstellen des Benutzers.';
+$language['Language (this session)'] = 'Sprache (diese Sitzung)';
+$language['Language'] = 'Sprache';
+$language['New Password:'] = 'Neues Passwort:';
+$language['New User'] = 'Neu';
+$language['Password fields do not match!'] = 'Die Passwörter sind nicht gleich.';
+$language['Password is too short!'] = 'Das Passwort ist zu kurz.';
+$language['Password'] = 'Passwort';
+$language['Please fill out all fields!'] = 'Bitte füllen Sie alle Felder aus.';
+$language['Retype password'] = 'Passwort (erneut)';
+$language['Retype password:'] = 'Neues Passwort (erneut):';
+$language['Set new password'] = 'Passwort speichern';
+$language['That user already exists!'] = 'Der Benutzer existiert bereits.';
+$language['The language does not exist!'] = 'Die Sprache existiert nicht.';
+$language['This system does not allow user registrations!'] = 'Dieses System erlaubt keine Registrierungen.';
+$language['Username is too short!'] = 'Der Benutzername ist zu kurz.';
+$language['Username should be alpha-numeric!'] = 'Der Benutzername darf nur aus Buchstaben und Zahlen bestehen.';
+$language['Username'] = 'Benutzer';
+$language['You need to specify a new password for this account now...'] = 'Sie müssen ein neues Passwort für diesen Benutzer vergeben.';
+$language['Your account has been disabled!'] = 'Ihr Benutzer wurde gesperrt.';
+?>

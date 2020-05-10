@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Delete %s'] = 'Обриши %s';
+$language['Do you really want to empty the trash?'] = 'Да ли сте сигурни да желите да испразните корпу?';
+$language['Do you really want to remove "%s"?'] = 'Да ли сте сигурни да желите да уклоните "%s"?';
+$language['Empty trash'] = 'Испразни корпу';
+?>

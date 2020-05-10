@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Clear'] = 'Vider';
+$language['Public Board'] = 'Tableau public';
+$language['Send'] = 'Envoyer';
+?>

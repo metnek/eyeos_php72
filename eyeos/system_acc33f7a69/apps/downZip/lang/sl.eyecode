@@ -1,0 +1,8 @@
+<?php
+global $language;
+$language['Download "%s" as zip'] = 'Prenesi "%s" kot zip';
+$language['Download!'] = 'Prenesi!';
+$language['Links cannot be downloaded!'] = 'Povezave ni mogoče prenesti!';
+$language['The server does not support zip files.'] = 'Strežnik ne podpira zip datotek.';
+$language['You can close this window now.'] = 'Zdaj lahko zaprete to okno.';
+?>

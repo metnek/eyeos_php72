@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Some special chars have been removed.'] = 'Algúns caracteres especiais foron eliminados.';
+$language['Type the name of the new folder'] = 'Teclea o nome da nova carpeta';
+?>

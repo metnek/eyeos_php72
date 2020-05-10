@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Command to be executed:'] = '이 바로가기가 실행할 명령어:';
+$language['Edit %s'] = '%s 수정';
+$language['Update'] = '수정';
+?>

@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['%s files imported!'] = '%s datotek uvoženih!';
+$language['Browse'] = 'Brskaj';
+$language['Import'] = 'Uvozi';
+$language['You have to select a directory to import files'] = 'Izbrati morate mapo za uvoz datotek';
+?>

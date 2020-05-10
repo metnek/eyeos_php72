@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Change Label Text'] = 'Изменить текст сообщения';
+$language['Example eyeApp'] = 'Приложение eyeApp';
+$language['Hello World!'] = 'Здравствуй, мир!';
+?>

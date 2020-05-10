@@ -1,0 +1,21 @@
+<?php
+global $language;
+$language['All files'] = 'Tous les fichiers';
+$language['Cancel'] = 'Annuler';
+$language['Delete warning'] = 'Supprimer les avertissements';
+$language['Do you want to save changes?'] = 'Voulez-vous enregistrer les modifications?';
+$language['Document saved successfully.'] = 'Document enregistré avec succès';
+$language['Don\'t save'] = 'Ne pas enregistrer';
+$language['Error - Document not saved. Please try again.'] = 'Erreur: document non enregistré. Veuillez recommencer.';
+$language['Error creating file.'] = 'Erreur lors de la création du fichier.';
+$language['Error saving file.'] = 'Erreur lors de l\'enregistrement du fichier.';
+$language['eyeOS document file'] = 'Format eyeDocs';
+$language['File not found.'] = 'Fichier non trouvé.';
+$language['MS Word document file'] = 'Format Microsoft Word';
+$language['Open Document Text file'] = 'Format OpenOffice Writer';
+$language['Save'] = 'Enregistrer';
+$language['Sorry, you do not have sufficient permissions!'] = 'Désolé mais vous ne disposez pas des permissions suffisantes.';
+$language['Sorry, you need to enable OpenOffice Support to view this document.'] = 'Désolé, vous devez activer le composant OpenOffice pour visualiser ce document.';
+$language['The file does not exist.'] = 'Le fichier n\'existe pas.';
+$language['Word Processor'] = 'Traitement de texte';
+?>

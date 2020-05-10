@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Accept'] = 'Elfogad';
+$language['Cancel'] = 'Mégsem';
+$language['Delete %s'] = '%s törlése';
+$language['Do you really want to empty the trash?'] = 'Biztosan kiüríti a szemetest?';
+$language['Do you really want to remove "%s"?'] = 'Biztosan törli a(z) "%s" állományt?';
+$language['Empty trash'] = 'Szemetes ürítése';
+?>

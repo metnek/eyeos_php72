@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['All files'] = 'Vse datoteke';
+$language['Cancel'] = 'Prekliči';
+$language['Delete warning'] = 'Izbriši opozorilo';
+$language['Do you want to save changes?'] = 'Želite shraniti spremembe?';
+$language['Document saved successfully.'] = 'Dokument uspešno shranjen.';
+$language['Don\'t save'] = 'Ne shrani';
+$language['eyeOS document file'] = 'eyeOS dokument';
+$language['MS Word document file'] = 'MS Word dokument';
+$language['Open Document Text file'] = 'Odpri dokument';
+$language['Save'] = 'Shrani';
+$language['Sorry, you do not have sufficient permissions!'] = 'Oprostite, nimate ustreznih pravic!';
+$language['Word Processor'] = 'Urejevalnik besedil';
+?>

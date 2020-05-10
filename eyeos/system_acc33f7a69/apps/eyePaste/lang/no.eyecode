@@ -1,0 +1,10 @@
+<?php
+global $language;
+$language['"%s" already exists. Please enter a new name or replace the existing one.'] = '"%s" finnes fra før. Angi et nytt navn eller erstatt den eksisterende.';
+$language['"%s" cannot be copied from trash.'] = '"%s" kan ikke åpnes fra papirkurven.';
+$language['"%s" cannot be copied to trash.'] = '"%s" kan ikke kopieres til papirkurven.';
+$language['Cancel'] = 'Avbryt';
+$language['Links cannot be pasted!'] = 'Lenker kan ikke limes inn!';
+$language['Rename'] = 'Gi nytt navn';
+$language['Replace'] = 'Erstatt';
+?>

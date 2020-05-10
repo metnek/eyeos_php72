@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Accept'] = 'Sutikti';
+$language['Do you really want to install this package into the system?'] = 'Ar tikrai norite įdiegti šį paketą į sistemą?';
+$language['Installing'] = 'Įdiegimas';
+$language['Nothing to install!'] = 'Nėra ką įdiegti!';
+$language['Only root can install packages'] = 'Tik andministratorius gali įdiegti paketus';
+$language['Package installed successfully!'] = 'Paketas įdiegtas sėkmingai!';
+?>

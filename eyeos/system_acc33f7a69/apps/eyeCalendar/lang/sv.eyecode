@@ -1,0 +1,19 @@
+<?php
+global $language;
+$language['Add Calendar'] = 'Lägg till kalender';
+$language['At least, one calendar is required!'] = 'Åtminstone en kalender krävs!';
+$language['Calendar added succesfully'] = 'Kalendern lades till';
+$language['Calendars management'] = 'Kalenderhantering';
+$language['Calendars'] = 'Kalendrar';
+$language['Day'] = 'Dag';
+$language['Invalid checkbox value'] = 'Ogiltigt värde i bockrutan';
+$language['Invalid Num %s'] = 'Ogiltigt nummer %s';
+$language['Next'] = 'Nästa';
+$language['Please type a name for the calendar'] = 'Vänligen skriv in ett namn för kalendern';
+$language['Previous'] = 'Föregående';
+$language['Show'] = 'Visa';
+$language['Today'] = 'Idag';
+$language['Week'] = 'Vecka';
+$language['Window mode'] = 'Fönsterläge';
+$language['Work'] = 'Arbete';
+?>

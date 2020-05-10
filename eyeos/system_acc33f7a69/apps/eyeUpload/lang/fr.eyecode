@@ -1,0 +1,28 @@
+<?php
+global $language;
+$language['"%s" has been uploaded successfully.'] = '"%s" a été déposé avec succès.';
+$language['%s MB'] = '%s Mo';
+$language['<b>Some files are too big!</b><br>Some of the selected files are too big and may be rejected by the server at the end of the transfer.<br>Do you want to remove them now?'] = '<b>Certains fichiers sont trop gros!<b><br> Ils seront refusés par le serveur.<br>Voulez-vous les supprimer maintenant?';
+$language['Add files to transfer, then press Upload now!'] = 'Ajoutez les fichiers à déposer et cliquez sur "Envoyer" !';
+$language['Add files'] = 'Ajouter des fichiers';
+$language['Advanced'] = 'Avancé';
+$language['Error occured during upload process!'] = 'Erreur durant le transfert!';
+$language['Error uploading file!'] = 'Erreur lors de l\'envoi du fichier!';
+$language['File uploaded successfully.'] = 'Fichier déposé avec succès.';
+$language['Filename'] = 'Nom du fichier';
+$language['Max filesize allowed'] = 'Taille de fichier maximum autorisée';
+$language['No'] = 'Non';
+$language['Ok'] = 'Ok';
+$language['Please enter the HTTP address to a file:'] = 'Veuillez saisir l\'adresse HTTP du fichier:';
+$language['Remove'] = 'Supprimer';
+$language['Simple'] = 'Simple';
+$language['Size (KB)'] = 'Taille (Ko)';
+$language['The file has been uploaded successfully.'] = 'Le fichier a été déposé avec succès.';
+$language['Transfering: '] = 'En cours de transfert :';
+$language['Upload files'] = 'Déposer des fichiers';
+$language['Upload now!'] = 'Déposer maintenant!';
+$language['Web'] = 'Internet';
+$language['Yes'] = 'Oui';
+$language['You do not have enough free space!'] = 'Vous n\'avez pas suffisamment d\'espace disponible!';
+$language['You do not have sufficient permissions!'] = 'Vous ne disposez pas des permissions nécessaires!';
+?>

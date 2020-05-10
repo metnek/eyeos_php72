@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['Attach'] = 'แนบ';
+$language['Date'] = 'วันที่';
+$language['Download'] = 'ดาวน์โหลด';
+$language['Empty'] = 'ว่าง';
+$language['File saved successfully.'] = 'บันทึกไฟล์สำเร็จ';
+$language['From'] = 'จาก';
+$language['Inbox'] = 'กล่องจดหมาย';
+$language['Message restored in its original folder'] = 'ข้อความถูกกู้คืนไปยังโฟลเดอร์ดั้งเดิมของมัน';
+$language['Read Message'] = 'อ่านข้อความ';
+$language['Read'] = 'อ่าน';
+$language['Refresh'] = 'คืนค่า';
+$language['Reply'] = 'ตอบ';
+$language['Restore'] = 'กู้คืน';
+$language['Sent'] = 'ส่งเรียบร้อย';
+$language['Subject'] = 'ชื่อ';
+$language['To'] = 'ถึง';
+$language['Trash'] = 'ถังขยะ';
+$language['Unread'] = 'ยังไม่ได้อ่าน';
+$language['You must choose a message to delete'] = 'คุณต้องเลือกข้อความที่จะลบ';
+$language['You must choose a message to open'] = 'คุณต้องเลือกข้อความที่จะเปิด';
+?>

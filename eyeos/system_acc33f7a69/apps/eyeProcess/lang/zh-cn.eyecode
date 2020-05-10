@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Kill process'] = '终止进程';
+$language['New process'] = '新建进程';
+$language['Pid'] = '进程ID';
+$language['Process killed successfully.'] = '杀死进程成功';
+$language['Process Name'] = '进程名';
+$language['Username'] = '用户名';
+?>

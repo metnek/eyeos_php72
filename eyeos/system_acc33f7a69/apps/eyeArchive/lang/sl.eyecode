@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['All files'] = 'Vse datoteke';
+$language['Archive files'] = 'Arhiviraj datoteke';
+$language['Archive Manager'] = 'Upravljalec arhivov';
+$language['BZip files'] = 'BZip datoteke';
+$language['Compress to...'] = 'Stisni v...';
+$language['Compress'] = 'Stisni';
+$language['Compressed successfully'] = 'Uspešno stisnjeno';
+$language['Compression failed'] = 'Stiskanje spodletelo';
+$language['Extract to...'] = 'Razširi v...';
+$language['Extract'] = 'Razširi';
+$language['File extracted successfully.'] = 'Datoteke uspešno razširjene.';
+$language['File extraction failed'] = 'Razširjanje datotek spodletelo';
+$language['Filename'] = 'Ime datoteke';
+$language['GZip files'] = 'GZip datoteke';
+$language['No file open'] = 'Ni odprtih datotek';
+$language['Open a folder or file'] = 'Odpri mapo ali datoteko';
+$language['Open'] = 'Odpri';
+$language['Tar files'] = 'Tar datoteke';
+$language['The compress type is not supported'] = 'Vrsta arhiva ni podprta';
+$language['Zip files'] = 'Zip datoteke';
+?>

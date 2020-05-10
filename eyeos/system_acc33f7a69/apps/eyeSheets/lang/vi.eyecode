@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['File not found!'] = 'Không tìm thấy tập tin!';
+$language['Sorry, you do not have sufficient permissions.'] = 'Xin lỗi, bạn không có đủ quyền hạn.';
+$language['Spreadsheet saved successfully.'] = 'Đã lưu bảng tính thành công.';
+$language['Spreadsheet'] = 'Bảng tính';
+?>

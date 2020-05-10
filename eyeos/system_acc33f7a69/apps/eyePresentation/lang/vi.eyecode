@@ -1,0 +1,8 @@
+<?php
+global $language;
+$language['Back'] = 'Quay lại';
+$language['Next'] = 'Tiến tới';
+$language['Presentations'] = 'Trình chiếu';
+$language['Sorry, you do not have sufficient permissions.'] = 'Xin lỗi, bạn không có đủ quyền hạn.';
+$language['You need to select a file to open!'] = 'Bạn cần chọn một tập tin để mở!';
+?>

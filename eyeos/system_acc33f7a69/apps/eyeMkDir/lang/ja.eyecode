@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Some special chars have been removed.'] = '特殊文字を削除しました。';
+$language['Type the name of the new folder'] = '新しいフォルダ名を入力して下さい';
+?>

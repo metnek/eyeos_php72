@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['Attach'] = 'Ataşează';
+$language['Date'] = 'Data';
+$language['Download'] = 'Descarcă';
+$language['Empty'] = 'Gol';
+$language['File saved successfully.'] = 'Fişierul salvat cu succes';
+$language['From'] = 'De la';
+$language['Inbox'] = 'Inbox';
+$language['Message restored in its original folder'] = 'Mesaj readus în directorul iniţial';
+$language['Read Message'] = 'Mesaj citit';
+$language['Read'] = 'Citeşte';
+$language['Refresh'] = 'Reîmprospătare';
+$language['Reply'] = 'Retrimite';
+$language['Restore'] = 'Readuce';
+$language['Sent'] = 'Trimite';
+$language['Subject'] = 'Subiect';
+$language['To'] = 'Către';
+$language['Trash'] = 'Coş';
+$language['Unread'] = 'Necitit';
+$language['You must choose a message to delete'] = 'Trebuie să alegi un mesaj pentru a şterge';
+$language['You must choose a message to open'] = 'Trebuie să alegi un mesaj ca deschizi';
+?>

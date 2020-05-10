@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['Add input to output'] = 'הכנס קלט לפלט';
+$language['Add new line to end'] = 'הוסף שורה חדשה לסוף';
+$language['Ascii to Hexa'] = 'ascii ל Hexa';
+$language['Auto clear input'] = 'נקה קלט בצורה אוטומטית';
+$language['Base64 Decode'] = 'מפענח base e64';
+$language['Base64 Encode'] = 'מקודד base e64';
+$language['Clear'] = 'נקה';
+$language['Concatenate Output'] = 'פלט Concatenate';
+$language['Last execution time: %s'] = 'זמן ביצוע אחרון %s';
+$language['Options'] = 'אפשרויות';
+$language['Output Text'] = 'טקסט פלט';
+$language['Start'] = 'הפעל';
+?>

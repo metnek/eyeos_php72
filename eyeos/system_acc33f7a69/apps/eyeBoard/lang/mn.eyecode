@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Clear'] = 'Цэвэрлэх';
+$language['Public Board'] = 'Нийтийн самбар';
+$language['Send'] = 'Илгээх';
+?>

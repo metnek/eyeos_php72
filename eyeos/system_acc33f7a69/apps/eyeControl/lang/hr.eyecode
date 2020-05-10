@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['%s command(s)'] = '%s komandi';
+$language['%s mirror(s)'] = '%s obrazaca';
+$language['%s user(s) registered.'] = '%s korisnika registrirano.';
+$language['About me'] = 'O meni';
+$language['Add a new user to your eyeOS system'] = 'Dodaj novog korisnika u svoj eyeOS sistem';
+$language['Add'] = 'Dodaj';
+?>

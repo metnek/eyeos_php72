@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Change Label Text'] = 'Промени текст картице';
+$language['Example eyeApp'] = 'Пример eyeApp';
+$language['Hello World!'] = 'Здраво свете!';
+?>

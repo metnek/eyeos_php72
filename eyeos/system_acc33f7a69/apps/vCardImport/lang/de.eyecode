@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['Cancel'] = 'Abbrechen';
+$language['Directory not found'] = 'Der Ordner konnte nicht gefunden werden.';
+$language['Do you really want to import this vCard?'] = 'Möchten Sie diese vCard importieren?';
+$language['Error exporting file!'] = 'Fehler beim Exportieren der Datei.';
+$language['File Imported!'] = 'Datei erfolgreich importiert.';
+$language['Format unsupported!'] = 'Das Format wird nicht unterstützt.';
+$language['Import %s'] = '%s importieren';
+$language['Import'] = 'Importieren';
+$language['No contacts were found in the file!'] = 'Keine Kontakte in der vCard gefunden.';
+$language['The contact already exists!'] = 'Der Kontakt existiert bereits.';
+$language['The file was not found!'] = 'Die Datei konnte nicht gefunden werden.';
+$language['vCardImport cannot initialize, contact with your administrator'] = 'vCardImport kann nicht starten. Kontaktieren Sie Ihren Administrator.';
+?>

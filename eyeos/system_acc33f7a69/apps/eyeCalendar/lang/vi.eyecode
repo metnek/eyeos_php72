@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['Add Calendar'] = 'Tạo lịch';
+$language['Calendar added succesfully'] = 'Đã tạo lịch thành công.';
+$language['Calendar'] = 'Lịch';
+$language['Calendars management'] = 'Quản lí lịch';
+$language['Configure calendar'] = 'Cấu hình lịch';
+$language['Next'] = 'Kế';
+$language['Previous'] = 'Trước';
+$language['Show'] = 'Hiện';
+$language['Today'] = 'Hôm nay';
+$language['Week'] = 'Tuần';
+$language['Window mode'] = 'Chế độ cửa sổ';
+$language['Work'] = 'Công việc';
+?>

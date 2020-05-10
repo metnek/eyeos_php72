@@ -1,0 +1,22 @@
+<?php
+global $language;
+$language['( Default )'] = '(البدئي)';
+$language['Create account'] = 'أنشئ حسابا';
+$language['Enter'] = 'لِج';
+$language['Error creating new user!'] = 'عُطل أثناء إنشاء حساب جديد!';
+$language['Language (this session)'] = 'اللغة (لهذه الجلسة)';
+$language['Language'] = 'اللغة';
+$language['New User'] = 'مستخدم جديد';
+$language['Password fields do not match!'] = 'كلمة السر لا تطابق توكيدها!';
+$language['Password is too short!'] = 'كلمة السر أقصر مما ينبغي!';
+$language['Password'] = 'كلمة السِّر';
+$language['Please fill out all fields!'] = 'رجاء املأ كل الحقول';
+$language['Retype password'] = 'أعد إدخال كلمة السر';
+$language['That user already exists!'] = 'اسم المستخدم هذا مسجل بالفعل';
+$language['The language does not exist!'] = 'هذه اللغة غير موجودة!';
+$language['This system does not allow user registrations!'] = 'لا يسمح هذا النظام بفتح حسابات جديدة!';
+$language['Username is too short!'] = 'اسم المستخدم أقصر مما ينبغي!';
+$language['Username should be alpha-numeric!'] = 'ينبغي أن يتألف اسم المستخدم حصرا من أحرف و أرقام';
+$language['Username'] = 'اسم المستخدِم';
+$language['Your account has been disabled!'] = 'حسابك موقوف!';
+?>

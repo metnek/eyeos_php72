@@ -1,0 +1,13 @@
+<?php
+global $language;
+$language['Add file'] = 'Adicionar ficheiro';
+$language['Attach'] = 'Anexar';
+$language['Close'] = 'Fechar';
+$language['Error sending message'] = 'Erro ao enviar mensagem';
+$language['Message sent'] = 'em enviada';
+$language['New Message'] = 'Nova mensagem';
+$language['Send'] = 'Enviar';
+$language['Subject'] = 'Assunto';
+$language['To groups'] = 'Para grupos';
+$language['To'] = 'Para';
+?>

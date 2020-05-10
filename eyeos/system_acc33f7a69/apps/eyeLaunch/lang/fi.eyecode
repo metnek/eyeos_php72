@@ -1,0 +1,13 @@
+<?php
+global $language;
+$language['%s not found'] = '%s ei löytynyt';
+$language['Error, empty username or password'] = 'Virhe, tyhjä käyttäjänimi tai salasana';
+$language['Error, invalid username or password'] = 'Virhe, väärä käyttäjänimi tai salasana';
+$language['Invalid username'] = 'Väärä käyttäjänimi';
+$language['Password'] = 'Salasana';
+$language['Run as different user'] = 'Suorita toisena käyttäjänä';
+$language['Run...'] = 'Suorita...';
+$language['Run'] = 'Suorita';
+$language['Type the name of the app or command to run'] = 'Kirjoita suoritettavan ohjelman tai komennon nimi';
+$language['User'] = 'Käyttäjä';
+?>

@@ -1,0 +1,22 @@
+<?php
+global $language;
+$language['Add Calendar'] = '添加日历';
+$language['At least, one calendar is required!'] = '至少需要一个日历!';
+$language['Calendar added succesfully'] = '添加日历成功';
+$language['Calendars management'] = '日历管理';
+$language['Calendars'] = '日历';
+$language['Configure calendar'] = '日历配置';
+$language['Day'] = '日';
+$language['Invalid checkbox value'] = '校验栏值无效';
+$language['Invalid Num %s'] = '无效数字%s';
+$language['Next'] = '前进';
+$language['Please specify the calendar name:'] = '请输入日程名称';
+$language['Please type a name for the calendar'] = '请输入该日历名称';
+$language['Previous'] = '后退';
+$language['Show'] = '显示';
+$language['Text for this event:'] = '该事件描述信息';
+$language['Today'] = '今天';
+$language['Week'] = '周';
+$language['Window mode'] = '窗口模式';
+$language['Work'] = '工作';
+?>

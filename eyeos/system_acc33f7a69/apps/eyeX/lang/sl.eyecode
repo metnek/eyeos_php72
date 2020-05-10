@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Please wait...'] = 'Prosim počakajte...';
+$language['Unable to save position!'] = 'Pozicije ni možno shraniti!';
+$language['Welcome to %s'] = 'Dobrodošli v %s';
+?>

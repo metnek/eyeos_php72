@@ -1,0 +1,24 @@
+<?php
+global $language;
+$language['Accessories'] = 'Toevoegingen';
+$language['Calculator'] = 'Rekenmachine';
+$language['Calendar'] = 'Kalender';
+$language['Chess Game'] = 'Schaakspel';
+$language['Contact Manager'] = 'Relatiebeheer';
+$language['File Manager'] = 'Bestandsbeheer';
+$language['FTP Client'] = 'FTP Client';
+$language['Games'] = 'Spelletjes';
+$language['Internal Messaging'] = 'Interne Boodschapper';
+$language['Mail Client'] = 'Mail Account';
+$language['Navigator'] = 'Navigator';
+$language['Network'] = 'Netwerk';
+$language['Office'] = 'Kantoor';
+$language['Process Manager'] = 'Proces beheer';
+$language['Public Board'] = 'Algemeen bericht';
+$language['RSS Feed Reader'] = 'RSS Feed lezer';
+$language['Spreadsheet'] = 'Rekenblad';
+$language['System'] = 'Systeem';
+$language['Tetravex Game'] = 'Tetravex spel';
+$language['Text Editor'] = 'Tekstbewerker';
+$language['Word Processor'] = 'Tekstverwerker';
+?>

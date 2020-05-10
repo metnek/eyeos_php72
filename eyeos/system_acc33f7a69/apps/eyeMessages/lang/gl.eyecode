@@ -1,0 +1,24 @@
+<?php
+global $language;
+$language['Attach'] = 'Agregar';
+$language['Date'] = 'Data';
+$language['Download'] = 'Descargar';
+$language['Empty'] = 'Baleiro';
+$language['File saved successfully.'] = 'Arquivo gardado correctamente.';
+$language['From'] = 'Dende';
+$language['Inbox'] = 'Bandexa de entrada';
+$language['Internal Messaging'] = 'Mensaxe interno';
+$language['Message restored in its original folder'] = 'Mensaxe reataurada á súa carpeta orixinal';
+$language['Read Message'] = 'Mensaxe lida';
+$language['Read'] = 'Ler';
+$language['Refresh'] = 'Actualizar';
+$language['Reply'] = 'Réplica';
+$language['Restore'] = 'Restaurar';
+$language['Sent'] = 'Enviada';
+$language['Subject'] = 'Asunto';
+$language['To'] = 'Para';
+$language['Trash'] = 'Papeleira';
+$language['Unread'] = 'Non lidas';
+$language['You must choose a message to delete'] = 'Debes escoller unha mensaxe a eliminar';
+$language['You must choose a message to open'] = 'Debes escoller unha mensaxe para abrir';
+?>

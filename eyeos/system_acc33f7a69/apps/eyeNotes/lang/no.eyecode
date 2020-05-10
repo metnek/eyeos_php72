@@ -1,0 +1,18 @@
+<?php
+global $language;
+$language['All files'] = 'Alle filer';
+$language['Cancel'] = 'Avbryt';
+$language['Delete warning'] = 'Slettevarsel';
+$language['Do you want to save changes?'] = 'Ønsker du å lagre endringene?';
+$language['Don\'t save'] = 'Ikke lagre';
+$language['File saved successfully.'] = 'Filen er lagret';
+$language['Full Screen'] = 'Fullskjerm';
+$language['New'] = 'Ny';
+$language['Open'] = 'Åpne';
+$language['Save As'] = 'Lagre som';
+$language['Save'] = 'Lagre';
+$language['Sorry, you do not have sufficient permissions.'] = 'Du har ikke rettigheter til å gjøre dette';
+$language['Text Editor'] = 'Tekstredigering';
+$language['Text files'] = 'Tekstfiler';
+$language['Unable to create file'] = 'Kunne ikke opprette filen';
+?>

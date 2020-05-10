@@ -1,0 +1,34 @@
+<?php
+global $language;
+$language['(do) Read'] = 'Olvas';
+$language['Accept'] = 'Igen';
+$language['Are you sure you want to empty all messages of this folder?'] = 'Biztosan törli e könyvtár összes üzenetét?';
+$language['Attach'] = 'Csatol';
+$language['Cancel'] = 'Mégsem';
+$language['Confirm empty'] = 'Törlés jóváhagyása';
+$language['Date'] = 'Dátum';
+$language['Delete'] = 'Töröl';
+$language['Download'] = 'Letöltés';
+$language['Emptied'] = 'Kiürült';
+$language['Empty'] = 'Kiürít';
+$language['Error opening message'] = 'Nem sikerült megnyitni az üzenetet.';
+$language['File saved successfully.'] = 'Állomány elmentve.';
+$language['From'] = 'Feladó';
+$language['Full Screen'] = 'Teljes képernyő';
+$language['Inbox'] = 'Postafiók';
+$language['Internal Messaging'] = 'Belső levelezés';
+$language['Message restored in its original folder'] = 'Az üzenet visszakeült a helyére.';
+$language['New'] = 'Új';
+$language['Read Message'] = 'Üzenet';
+$language['Read'] = 'Bejövő';
+$language['Refresh'] = 'Frissít';
+$language['Reply'] = 'Válasz';
+$language['Restore'] = 'Visszaállít';
+$language['Sent'] = 'Elküldött';
+$language['Subject'] = 'Tárgy';
+$language['To'] = 'Címzett';
+$language['Trash'] = 'Törölt';
+$language['Unread'] = 'Olvasatlan';
+$language['You must choose a message to delete'] = 'Válasszon egy üzenetet!';
+$language['You must choose a message to open'] = 'Válasszon egy üzenetet!';
+?>

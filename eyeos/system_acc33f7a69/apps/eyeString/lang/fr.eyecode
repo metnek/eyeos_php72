@@ -1,0 +1,25 @@
+<?php
+global $language;
+$language['Add input to output'] = 'Ajouter l\'entrée au résultat';
+$language['Add new line to end'] = 'Ajouter une nouvelle ligne à la fin';
+$language['Ascii to Hexa'] = 'ASCII vers HEXA';
+$language['Auto clear input'] = 'Nettoyer automatiquement l\'entrée';
+$language['Base64 Decode'] = 'Décoder en Base64';
+$language['Base64 Encode'] = 'Encoder en Base64';
+$language['Clear'] = 'Vider';
+$language['Concatenate Output'] = 'Concaténer le résultat';
+$language['Decimal to Roman'] = 'Décimal vers Roman';
+$language['eyeOS hash'] = 'Hash eyeOS';
+$language['Hexa to Ascii'] = 'Hexa vers Ascii';
+$language['Html Entities'] = 'Entités HTML';
+$language['Input Text'] = 'Texte d\'Entrée';
+$language['Last execution time: %s'] = 'Dernière exécution:';
+$language['md5 Hash'] = 'Hash md5';
+$language['Options'] = 'Options';
+$language['Output Text'] = 'Texte Résultat';
+$language['Remove Html Entities'] = 'Retirer les entités HTML';
+$language['Roman to Decimal'] = 'Roman vers Décimal';
+$language['Start'] = 'Démarrer';
+$language['URL Decode'] = 'Décoder l\'URL';
+$language['URL Encode'] = 'Encoder l\'URL';
+?>

@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['Accessories'] = 'Araçlar';
+$language['Calculator'] = 'Hesap Makinesi';
+$language['Calendar'] = 'Takvim';
+$language['Chess Game'] = 'Satranç';
+$language['Contact Manager'] = 'Adres Defteri';
+$language['File Manager'] = 'Dosya Tarayıcısı';
+$language['FTP Client'] = 'Ftp Programı';
+$language['Games'] = 'Oyunlar';
+$language['Internal Messaging'] = 'Sistem İçi Mesajlaşma';
+$language['Navigator'] = 'Tarayıcı';
+$language['Network'] = 'Ağ';
+$language['Office'] = 'Ofis';
+$language['Process Manager'] = 'Görev Yöneticisi';
+$language['Public Board'] = 'Herkese Açık Pano';
+$language['RSS Feed Reader'] = 'RSS Okuyucu';
+$language['Spreadsheet'] = 'Hesap Tablosu ';
+$language['System'] = 'Sistem';
+$language['Tetravex Game'] = 'Tetravex Oyunu';
+$language['Text Editor'] = 'Metin Editörü';
+$language['Word Processor'] = 'Word Editörü';
+?>

@@ -1,0 +1,10 @@
+<?php
+global $language;
+$language['Kill process'] = 'Nutraukti procesą';
+$language['New process'] = 'Naujas procesas';
+$language['Pid'] = 'Proceso identifikatorius';
+$language['Process killed successfully.'] = 'Procesas nutrauktas sėkmingai.';
+$language['Process Manager'] = 'Procesų Tvarkytuvė';
+$language['Process Name'] = 'Proceso Pavadinimas';
+$language['Username'] = 'Vartotojo vardas';
+?>

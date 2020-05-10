@@ -1,0 +1,25 @@
+<?php
+global $language;
+$language['Add input to output'] = 'Dodaj vnos izhodu';
+$language['Add new line to end'] = 'Dodaj novo linijo na konec';
+$language['Ascii to Hexa'] = 'ASCII v šestnajstiško';
+$language['Auto clear input'] = 'Samodejno počisti vnos';
+$language['Base64 Decode'] = 'Base64 dekodiranje';
+$language['Base64 Encode'] = 'Base64 kodiranje';
+$language['Clear'] = 'Počisti';
+$language['Concatenate Output'] = 'Združi izhodno besedilo';
+$language['Decimal to Roman'] = 'Decimalno v latinsko';
+$language['eyeOS hash'] = 'eyeOS hash';
+$language['Hexa to Ascii'] = 'Šestnajstiško v ASCII';
+$language['Html Entities'] = 'HTML ';
+$language['Input Text'] = 'Vnesi besedilo';
+$language['Last execution time: %s'] = 'Zadnji čas izvajanja: %s';
+$language['md5 Hash'] = 'md5 hash';
+$language['Options'] = 'Možnosti';
+$language['Output Text'] = 'Izhodno besedilo';
+$language['Remove Html Entities'] = 'Odstrani HTML';
+$language['Roman to Decimal'] = 'Latinsko v decimalno';
+$language['Start'] = 'Začni';
+$language['URL Decode'] = 'URL dekodiranje';
+$language['URL Encode'] = 'URL kodiranje';
+?>

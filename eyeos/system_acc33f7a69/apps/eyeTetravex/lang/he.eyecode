@@ -1,0 +1,4 @@
+<?php
+global $language;
+$language['Tetravex Game'] = 'משחק טטראווקס';
+?>

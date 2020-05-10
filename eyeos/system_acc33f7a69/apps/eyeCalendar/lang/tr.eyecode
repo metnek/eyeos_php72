@@ -1,0 +1,28 @@
+<?php
+global $language;
+$language['A calendar with the same name already exists!'] = 'Aynı isimde bir takvim zaten mevcut!';
+$language['Add Calendar'] = 'Takvim Ekle';
+$language['At least, one calendar is required!'] = 'En az bir takvim gerekli!';
+$language['Calendar added succesfully'] = 'Takvim başarıyla eklendi';
+$language['Calendar is already running!'] = 'Takvim zaten çalışıyor!';
+$language['Calendar'] = 'Takvim';
+$language['Calendars management'] = 'Takvim Yöneticisi';
+$language['Calendars'] = 'Takvimler';
+$language['Configuration saved correctly'] = 'Ayarlar başarıyla kaydedildi.';
+$language['Configure calendar'] = 'Takvimi ayarla';
+$language['Day'] = 'Gün';
+$language['Invalid checkbox value'] = 'Yanlış seçme kutusu değeri';
+$language['Invalid Num %s'] = 'Yanlış Sayı %s';
+$language['Next'] = 'Sonraki';
+$language['Please specify the calendar name:'] = 'Lütfen takvim adını belirtiniz:';
+$language['Please type a name for the calendar'] = 'Lütfen takvim için bir isim girin';
+$language['Previous'] = 'Önceki';
+$language['Show'] = 'Göster';
+$language['Text for this event:'] = 'Bu olay için metin:';
+$language['Today'] = 'Bugün';
+$language['Two calendars cannot share the same ID!'] = 'İki takvim aynı ID\'ye sahip olamaz.';
+$language['Two calendars cannot share the same name!'] = 'İki takvim aynı ada sahip olamaz!';
+$language['Week'] = 'Hafta';
+$language['Window mode'] = 'Pencere modu';
+$language['Work'] = 'İş';
+?>

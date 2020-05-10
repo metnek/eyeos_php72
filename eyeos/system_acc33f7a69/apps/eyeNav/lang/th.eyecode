@@ -1,0 +1,24 @@
+<?php
+global $language;
+$language['Add bookmark'] = 'เพิ่มบุคมาร์ค';
+$language['Back'] = 'ถอยกลับ';
+$language['Bookmark title'] = 'บุคมาร์คไตเติล';
+$language['Bookmarks'] = 'บุคมาร์ค';
+$language['Delete bookmark'] = 'ลบบุคมาร์ค';
+$language['Do you really want to delete this bookmark?'] = 'ต้องการลบบุคมาร์คนี้ ?';
+$language['Forums'] = 'กระดานสนทนา';
+$language['Forward'] = 'ไปข้างหน้า';
+$language['Images'] = 'รูป';
+$language['Internet'] = 'อินเทอร์เน็ต';
+$language['Knowledge'] = 'ควา่มรู้';
+$language['Link successfully deleted.'] = 'ลบลิงค์สำเร็จ';
+$language['Link successfully saved.'] = 'บันทึกลิงค์สำเร็จ';
+$language['Open bookmarks'] = 'เปิดบุคมาร์ค';
+$language['Open searches'] = 'เปิดที่ค้นหา';
+$language['Search'] = 'ค้นหา';
+$language['Settings'] = 'ตั้งค่า';
+$language['Startpage'] = 'เพจเริ่มต้น';
+$language['There is already another bookmark with this title!'] = 'มีบุคมาร์คอื่นที่ใช้ชื่อนี้อยู่แล้ว';
+$language['Website'] = 'เว็บไซต์';
+$language['Wiki'] = 'วิกิ';
+?>

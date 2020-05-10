@@ -1,0 +1,10 @@
+<?php
+global $language;
+$language['Accept'] = 'أقبل';
+$language['Cancel'] = 'تراجع';
+$language['Do you really want to install this package into the system?'] = 'أتريد فعلا تنصيب هذه الحزمة في النظام؟';
+$language['Installing'] = 'يجري التنصيب';
+$language['Nothing to install!'] = 'لا شيء لتنصيبه';
+$language['Only root can install packages'] = 'وحده مدير النظام (root) يمكنه تنصيب الحزم';
+$language['Package installed successfully!'] = 'تم تنصيب الحزمة بنجاح';
+?>

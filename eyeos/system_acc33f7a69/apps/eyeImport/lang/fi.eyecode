@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['%s files imported!'] = '%s tiedosto(a) tuotu!';
+$language['Browse'] = 'Selaa';
+$language['Import'] = 'Tuo';
+$language['You have to select a directory to import files'] = 'Sinun täytyy valita kansio mihin tiedostot tuodaan';
+?>

@@ -1,0 +1,10 @@
+<?php
+global $language;
+$language['Compress to...'] = 'Компресуј у';
+$language['Compress'] = 'Компресуј';
+$language['Compressed successfully'] = 'Успешно компресовано';
+$language['Compression failed'] = 'Неуспешно компресовано';
+$language['Filename'] = 'Назив фајла';
+$language['No file open'] = 'Ниједан фајл није отворен';
+$language['The compress type is not supported'] = 'Тип компресије није подржан';
+?>

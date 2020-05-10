@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Create folder'] = 'Crear carpeta';
+$language['Error creating directory!'] = 'Error creando el directorio';
+$language['Some special chars have been removed.'] = 'Algunos caracteres especiales han sido eliminados.';
+$language['Type the name of the new folder'] = 'Introduce el nombre de la nueva carpeta:';
+?>

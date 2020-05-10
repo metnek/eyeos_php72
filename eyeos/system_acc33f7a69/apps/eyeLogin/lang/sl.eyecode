@@ -1,0 +1,22 @@
+<?php
+global $language;
+$language['( Default )'] = '(Privzeto)';
+$language['Create account'] = 'Ustvari račun';
+$language['Enter'] = 'Vstopi';
+$language['Error creating new user!'] = 'Napaka pri ustvarjanju novega uporabnika!';
+$language['Language (this session)'] = 'Jezik (za to sejo)';
+$language['Language'] = 'Jezik';
+$language['New User'] = 'Nov uporabnik';
+$language['Password fields do not match!'] = 'Gesli se ne ujemata!';
+$language['Password is too short!'] = 'Geslo je prekratko!';
+$language['Password'] = 'Geslo';
+$language['Please fill out all fields!'] = 'Prosim izpolnite vsa polja!';
+$language['Retype password'] = 'Ponovno vnesite geslo';
+$language['That user already exists!'] = 'Ta uporabnik že obstaja!';
+$language['The language does not exist!'] = 'Jezik ne obstaja!';
+$language['This system does not allow user registrations!'] = 'Registracija uporabnikov ni dovoljena!';
+$language['Username is too short!'] = 'Uporabniško ime je prekratko!';
+$language['Username should be alpha-numeric!'] = 'Uporabniško ime mora biti alfanumerično!';
+$language['Username'] = 'Uporabnik';
+$language['Your account has been disabled!'] = 'Vaš račun je onemogočen!';
+?>

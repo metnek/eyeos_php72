@@ -1,0 +1,12 @@
+<?php
+global $language;
+$language['Add file'] = 'Tilføj fil';
+$language['Attach'] = 'Vedhæft';
+$language['Close'] = 'Luk';
+$language['Error sending message'] = 'Fejl ved afsendelse af besked';
+$language['Message sent'] = 'Besked sendt';
+$language['New Message'] = 'Ny Besked';
+$language['Send'] = 'Send';
+$language['Subject'] = 'Emne';
+$language['To'] = 'Til';
+?>

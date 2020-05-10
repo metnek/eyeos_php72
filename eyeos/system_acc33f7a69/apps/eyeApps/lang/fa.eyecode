@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Install Apps'] = 'نصب برنامه ها';
+$language['Manage Dock'] = 'مدیریت سکو';
+?>

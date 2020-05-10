@@ -1,0 +1,23 @@
+<?php
+global $language;
+$language['Attach'] = '添付';
+$language['Date'] = '日付';
+$language['Download'] = 'ダウンロード';
+$language['Empty'] = '空';
+$language['File saved successfully.'] = 'ファイルを保存しました。';
+$language['From'] = '差出人';
+$language['Inbox'] = '受信箱';
+$language['Message restored in its original folder'] = 'メッセージを元のフォルダに戻しました';
+$language['Read Message'] = 'メッセージを読む';
+$language['Read'] = '読む';
+$language['Refresh'] = '更新';
+$language['Reply'] = '返信';
+$language['Restore'] = '戻す';
+$language['Sent'] = '送信済み';
+$language['Subject'] = '件名';
+$language['To'] = '宛先';
+$language['Trash'] = 'ごみ箱';
+$language['Unread'] = '未読';
+$language['You must choose a message to delete'] = '削除するメッセージを選択する必要があります';
+$language['You must choose a message to open'] = '開くメッセージを選択する必要があります';
+?>

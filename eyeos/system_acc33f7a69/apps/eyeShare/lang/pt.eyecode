@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['"%s" already exists in group "%s".'] = '%s já existe no grupo %s';
+$language['Choose the groups to share with'] = 'Escolha os grupos com os quais partilhar';
+$language['File "%s" shared with group "%s".'] = 'O ficheiro está a ser partilhado no grupo %s';
+$language['Folder "%s" shared with group "%s".'] = 'A pasta %s está a ser partilhada no grupo %s';
+$language['Share "%s" with...'] = 'Partilhar %s com...';
+$language['Share'] = 'Partilhar';
+?>

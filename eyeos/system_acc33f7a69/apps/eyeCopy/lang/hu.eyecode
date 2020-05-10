@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Links cannot be copied!'] = 'A linkeket nem lehet másolni!';
+$language['You can paste "%s" into another folder now.'] = 'A(z) "%s" állomány beillesztésre kész.';
+?>

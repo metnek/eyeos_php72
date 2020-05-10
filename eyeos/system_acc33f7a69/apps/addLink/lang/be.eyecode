@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Cancel'] = 'Адмена';
+$language['Create a link'] = 'Стварыць спасылку';
+$language['Create'] = 'Стварыць';
+$language['Please type the title of the link here:'] = 'Калі ласка, увядзіце назоў гэтай спасылкі тут:';
+?>

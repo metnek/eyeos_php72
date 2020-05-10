@@ -1,0 +1,4 @@
+<?php
+global $language;
+$language['Create a link'] = '创建一个链接';
+?>

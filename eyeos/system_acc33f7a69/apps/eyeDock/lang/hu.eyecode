@@ -1,0 +1,24 @@
+<?php
+global $language;
+$language['Accessories'] = 'Kellékek';
+$language['Calculator'] = 'Számológép';
+$language['Calendar'] = 'Naptár';
+$language['Chess Game'] = 'Sakkjátszma';
+$language['Contact Manager'] = 'Címjegyzék';
+$language['File Manager'] = 'Állománykezelő';
+$language['FTP Client'] = 'FTP-kliens';
+$language['Games'] = 'Játékok';
+$language['Internal Messaging'] = 'Belső levelezés';
+$language['Mail Client'] = 'Levelezőkliens';
+$language['Navigator'] = 'Internetböngésző';
+$language['Network'] = 'Hálózat';
+$language['Office'] = 'Iroda';
+$language['Process Manager'] = 'Folyamatkezelő';
+$language['Public Board'] = 'Nyilvános üzenőfal';
+$language['RSS Feed Reader'] = 'RSS-olvasó';
+$language['Spreadsheet'] = 'Munkafüzet';
+$language['System'] = 'Rendszer';
+$language['Tetravex Game'] = 'Tetravex';
+$language['Text Editor'] = 'Jegyzetfüzet';
+$language['Word Processor'] = 'Szövegszerkesztő';
+?>

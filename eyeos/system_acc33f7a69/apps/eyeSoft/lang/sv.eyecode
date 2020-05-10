@@ -1,0 +1,37 @@
+<?php
+global $language;
+$language['%s download is corrupted! unable to install'] = '%s nedladdningen är korrupt! Kan inte installeras';
+$language['%s installed succesfully!'] = '%s installerades!';
+$language['Accept'] = 'Acceptera';
+$language['All'] = 'Alla';
+$language['App Name'] = 'Programnamn';
+$language['Author: %s'] = 'Författare: %s';
+$language['Categories'] = 'Kategorier';
+$language['Category: %s'] = 'Kategori: %s';
+$language['Dependencies: %s'] = 'Beroenden: %s';
+$language['Description: %s'] = 'Beskrivning: %s';
+$language['Desktop'] = 'Skrivbord';
+$language['Do you really want to uninstall this application?'] = 'Vill du verkligen avinstallera det här programmet?';
+$language['Downloading and Installing %s ... please wait'] = 'Laddar ner och installerar %s... ';
+$language['eyeSoft: Package list updated'] = 'eyeSoft: paket-listan uppdaterad';
+$language['Games'] = 'Spel';
+$language['Install'] = 'Installera';
+$language['Installed'] = 'Installerad';
+$language['Installing'] = 'Installerar';
+$language['License: %s'] = 'Liscens: %s';
+$language['Multimedia'] = 'Multimedia';
+$language['Name: %s'] = 'Namn: %s';
+$language['none'] = 'ingen';
+$language['Office'] = 'Kontor';
+$language['Only root can install eyeApps'] = 'Bara root kan installera eyeApps';
+$language['Please choose an applictaion to be installed.'] = 'Vänligen välj ett program att installera.';
+$language['Please choose an applictaion to be uninstalled.'] = 'Vänligen välj ett program att avinstallera.';
+$language['Search'] = 'Sök';
+$language['Suggestions: %s'] = 'Förslag: %s';
+$language['The application was successfully uninstalled.'] = 'Programmet avinstallerades';
+$language['Uninstall application'] = 'Avinstallera program';
+$language['Uninstall'] = 'Avinstallera';
+$language['Update'] = 'Uppdatera';
+$language['Version'] = 'Version';
+$language['Version: %s'] = 'Version: %s';
+?>

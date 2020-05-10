@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['Adv.'] = 'Erw.';
+$language['C'] = 'C';
+$language['Calculator'] = 'Rechner';
+$language['CE'] = 'CE';
+$language['Del'] = 'Entf';
+$language['Delete'] = 'Löschen';
+$language['Division by zero is invalid!'] = 'Division durch null ist nicht definiert!';
+$language['Exponentiation of zero by a negative number or zero is invalid!'] = 'Null hoch einer negativen Zahl oder null ist nicht definiert!';
+$language['Factorial of a negative number is invalid!'] = 'Fakultät einer negativen Zahl ist nicht definiert!';
+$language['Logarithm of a negative number or zero is invalid!'] = 'Logarithmus einer negativen Zahl oder null ist nicht definiert!';
+$language['Simple'] = 'Standard';
+$language['Square root of a negative number is invalid!'] = 'Die Quadratwurzel einer negativen Zahl ist nicht definiert!';
+?>

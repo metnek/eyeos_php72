@@ -1,0 +1,30 @@
+<?php
+global $language;
+$language['Address Book'] = 'دفتر العناوين';
+$language['Applications'] = 'تطبيقات';
+$language['Calendar'] = 'الرُّزنامة';
+$language['Copy'] = 'انسخ';
+$language['Delete'] = 'احذف';
+$language['Download as zip'] = 'نزِّل في ملف مضغوط';
+$language['Download'] = 'نزِّل';
+$language['Edit'] = 'حرِّر';
+$language['Empty trash'] = 'أفرغ النفاية';
+$language['Explore'] = 'استكشف';
+$language['Home'] = 'الرئيسي';
+$language['Launch'] = 'شَغِّل';
+$language['New file'] = 'ملف جديد';
+$language['New folder'] = 'دليل جديد';
+$language['New launcher'] = 'مُشغِّل جديد';
+$language['Open trash'] = 'افتح النفاية';
+$language['Open with'] = 'افتح باستخدام';
+$language['Paste'] = 'ألصق';
+$language['Preferences'] = 'تفضيلات';
+$language['Properties'] = 'خصائص';
+$language['Refresh'] = 'أنعش';
+$language['Rename'] = 'غيِّر الاسم';
+$language['RSS Feed Reader'] = 'قارئ التلقيمات';
+$language['Share with'] = 'شارك مع';
+$language['Trash'] = 'النفاية';
+$language['Upload files'] = 'ارفع ملفات';
+$language['Welcome to %s, %s.'] = 'مرحبا بك في %s يا %s';
+?>

@@ -1,0 +1,37 @@
+<?php
+global $language;
+$language['%s download is corrupted! unable to install'] = '%s lataus on vioittunut! asennus ei onnistu';
+$language['%s installed succesfully!'] = '%s asennettu onnistuneesti!';
+$language['Accept'] = 'Hyväksy';
+$language['All'] = 'Kaikki';
+$language['App Name'] = 'Sovelluksen nimi';
+$language['Author: %s'] = 'Tekijä: %s';
+$language['Categories'] = 'Kategoriat';
+$language['Category: %s'] = 'Kategoria: %s';
+$language['Dependencies: %s'] = 'Riippuvuudet: %s';
+$language['Description: %s'] = 'Kuvaus: %s';
+$language['Desktop'] = 'Työpöytä';
+$language['Do you really want to uninstall this application?'] = 'Haluatko varmasti poistaa tämän sovelluksen asennuksen?';
+$language['Downloading and Installing %s ... please wait'] = 'Ladataan ja Asennetaan %s ... odota hetki';
+$language['eyeSoft: Package list updated'] = 'eyeSoft: Paketti lista päivitetty';
+$language['Games'] = 'Pelit';
+$language['Install'] = 'Asenna';
+$language['Installed'] = 'Asennettu';
+$language['Installing'] = 'Asennetaan';
+$language['License: %s'] = 'Lisenssi: %s';
+$language['Multimedia'] = 'Multimedia';
+$language['Name: %s'] = 'Nimi: %s';
+$language['none'] = 'ei mitään';
+$language['Office'] = 'Toimisto';
+$language['Only root can install eyeApps'] = 'Vain root voi asentaa sovelluksia';
+$language['Please choose an applictaion to be installed.'] = 'Valitse asennettava sovellus.';
+$language['Please choose an applictaion to be uninstalled.'] = 'Valitse sovellus jonka asennus poistetaan.';
+$language['Search'] = 'Etsi';
+$language['Suggestions: %s'] = 'Suositukset: %s';
+$language['The application was successfully uninstalled.'] = 'Sovelluksen asennus poistettiin onnistuneesti.';
+$language['Uninstall application'] = 'Poista sovelluksen asennus';
+$language['Uninstall'] = 'Poista asennus';
+$language['Update'] = 'Päivitä';
+$language['Version'] = 'Versio';
+$language['Version: %s'] = 'Versio: %s';
+?>

@@ -1,0 +1,11 @@
+<?php
+global $language;
+$language['Directory not found'] = 'Katalogas nerastas';
+$language['Error exporting file!'] = 'Klaida eksportuojant rinkmeną!';
+$language['File Imported!'] = 'Rinkmena Importuota!';
+$language['Format unsupported!'] = 'Formatas nepalaikomas!';
+$language['No contacts were found in the file!'] = 'Rinkmenoje adresatų nerasta!';
+$language['The contact already exists!'] = 'Toks adresatas jau yra!';
+$language['The file was not found!'] = 'Tokia rinkmena nerasta!';
+$language['vCardImport cannot initialize, contact with your administrator'] = 'Neįmanoma paleisti vCardImport, kreipkitės į savo administratorių!';
+?>

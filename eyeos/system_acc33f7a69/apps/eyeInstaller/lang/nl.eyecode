@@ -1,0 +1,10 @@
+<?php
+global $language;
+$language['Accept'] = 'Ok';
+$language['Cancel'] = 'Annuleren';
+$language['Do you really want to install this package into the system?'] = 'Wil je dit pakket installeren ?';
+$language['Installing'] = 'Installeren';
+$language['Nothing to install!'] = 'Niets te installeren !';
+$language['Only root can install packages'] = 'Alleen de admin kan installeren';
+$language['Package installed successfully!'] = 'Pakket geinstalleerd !';
+?>

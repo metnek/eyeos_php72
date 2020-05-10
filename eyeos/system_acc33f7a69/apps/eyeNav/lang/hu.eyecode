@@ -1,0 +1,35 @@
+<?php
+global $language;
+$language['Accept'] = 'Elfogad';
+$language['Add bookmark'] = 'Könyvjelző hozzáadása';
+$language['Back'] = 'Vissza';
+$language['Bookmark does not exist!'] = 'Nincs ilyen könyvjelző!';
+$language['Bookmark title'] = 'Könyvjelző neve';
+$language['Bookmarks'] = 'Könyvjelzők';
+$language['Cancel'] = 'Mégsem';
+$language['Delete bookmark'] = 'Könyvjelző törlése';
+$language['Do you really want to delete this bookmark?'] = 'Tényleg törölni akarja ezt a könyvjelzőt?';
+$language['Forums'] = 'Fórum';
+$language['Forward'] = 'Előre';
+$language['Full Screen'] = 'Teljes képernyő';
+$language['Images'] = 'Képek';
+$language['Internet'] = 'Internet';
+$language['Knowledge'] = 'Tudás';
+$language['Link successfully deleted.'] = 'Link törölve.';
+$language['Link successfully saved.'] = 'Link mentve.';
+$language['Navigator'] = 'Internetböngésző';
+$language['No'] = 'Nem';
+$language['Open bookmarks'] = 'Könyvjelzők megnyitása';
+$language['Open searches'] = 'Keresések';
+$language['Refresh'] = 'Frissítés';
+$language['Search'] = 'Keresés';
+$language['Settings'] = 'Beállítások';
+$language['Startpage'] = 'Kezdőoldal';
+$language['The selected file is not a valid eyeNav bookmarks file!'] = 'A kiválasztott állomány nem az eyeNav egyik könyjelzője.';
+$language['The selected file is not a valid eyeNav search file!'] = 'A kiválasztott állomány nem az eyeNav egyik keresője.';
+$language['There is already another bookmark with this title!'] = 'Már van egy ilyen nevű könyvjelző!';
+$language['Uncategorized'] = 'Vegyes';
+$language['Website'] = 'Weboldalak';
+$language['Wiki'] = 'Wiki';
+$language['Yes'] = 'Igen';
+?>

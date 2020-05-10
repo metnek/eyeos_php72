@@ -1,0 +1,36 @@
+<?php
+global $language;
+$language['[Unknown string]'] = '[Cadena desconeguda]';
+$language['Always remember my last configuration'] = 'Recorda sempre la meva darrera configuració';
+$language['Board size :'] = 'Tamany tauler:';
+$language['Cancel'] = 'Cancel·la';
+$language['Close'] = 'Tanca';
+$language['Configuration'] = 'Configuració';
+$language['Date'] = 'Data';
+$language['Do you want to start a new game?'] = 'Vols començar un nou joc?';
+$language['Finished!'] = 'Acabat!';
+$language['Fullscreen'] = 'Pant. Completa';
+$language['Highscores'] = 'Millors puntuacions';
+$language['Level / board size (%s-%s):'] = 'Nivell/tamany tauler (%s-%s):';
+$language['Maximum value on edges:'] = 'Valor màxim:';
+$language['Maximum'] = 'Màxim';
+$language['Maybe you should try a higher level...'] = 'Potser hauries de triar un nivell superior...';
+$language['Moves'] = 'Moviments';
+$language['Network problem'] = 'Problema de xarxa';
+$language['New game'] = 'Nou joc';
+$language['No'] = 'No';
+$language['Number of moves:'] = 'Moviments:';
+$language['Rank'] = 'Rànquing';
+$language['Save'] = 'Guarda';
+$language['Tetravex Game'] = 'Joc Tetravex';
+$language['These options won\'t be applied until you start a new game.'] = 'Aquestes opcions no s\'aplicaràn fins que no comencis un joc nou.';
+$language['Time'] = 'Temps';
+$language['Tip used! Ranking disabled...'] = 'Ajuda usada. Rànquing deshabilitat';
+$language['Unable to connect to the host server.'] = 'No s\'ha pogut connectar al servidor host.';
+$language['Use colored numbers on tiles'] = 'Mostrar els números en color';
+$language['Use shared highscores on server (all users)'] = 'Compartir puntuacions al servidor (tots els usuaris)';
+$language['User'] = 'Usuari';
+$language['Yes'] = 'Sí';
+$language['Your rank:'] = 'El teu rànquing:';
+$language['Your time:'] = 'El teu temps:';
+?>

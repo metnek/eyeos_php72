@@ -1,0 +1,29 @@
+<?php
+global $language;
+$language['Add bookmark'] = 'הוסף מועדפים';
+$language['Back'] = 'הקודם';
+$language['Bookmark does not exist!'] = 'מועדף אינו קיים';
+$language['Bookmark title'] = 'כותרת דף מועדף';
+$language['Bookmarks'] = 'מועדפים';
+$language['Delete bookmark'] = 'מחק דף מועדף';
+$language['Do you really want to delete this bookmark?'] = 'האם אתה בטוח שברצונך למחוק את הדף המועדף הזה?';
+$language['Forums'] = 'פורומים';
+$language['Forward'] = 'הבא';
+$language['Images'] = 'תמונות';
+$language['Internet'] = 'אינטרנט';
+$language['Knowledge'] = 'ידע';
+$language['Link successfully deleted.'] = 'הקישור נמחק בהצלחה';
+$language['Link successfully saved.'] = 'הקישור נשמר בהצלחה';
+$language['Navigator'] = 'דפדפן';
+$language['Open bookmarks'] = 'פתח מועדפים';
+$language['Open searches'] = 'פתח מנועי חיפוש';
+$language['Search'] = 'חפש';
+$language['Settings'] = 'הגדרות';
+$language['Startpage'] = 'עמוד בית';
+$language['The selected file is not a valid eyeNav bookmarks file!'] = 'הקובץ שנבחר אינו קובץ מועדפים תקין';
+$language['The selected file is not a valid eyeNav search file!'] = 'הקובץ שנבחר אינו קובץ מנועי חיפוש תקין';
+$language['There is already another bookmark with this title!'] = 'קיים כבר דף מועדף בעל כותרת זהה';
+$language['Uncategorized'] = 'ללא קטגוריה';
+$language['Website'] = 'דף אינטרנט';
+$language['Wiki'] = 'wiki';
+?>

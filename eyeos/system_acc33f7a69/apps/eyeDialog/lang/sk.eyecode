@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Name'] = 'Názov';
+$language['Select a folder'] = 'Vybrať priečinok';
+$language['Select'] = 'Vybrať';
+$language['Size'] = 'Veľkosť';
+?>

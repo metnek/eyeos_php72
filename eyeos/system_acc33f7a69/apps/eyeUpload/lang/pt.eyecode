@@ -1,0 +1,28 @@
+<?php
+global $language;
+$language['"%s" has been uploaded successfully.'] = '"%s" foi enviado com sucesso.';
+$language['%s MB'] = '%s MB';
+$language['<b>Some files are too big!</b><br>Some of the selected files are too big and may be rejected by the server at the end of the transfer.<br>Do you want to remove them now?'] = '<b>Alguns ficheiros são demasiado grandes</b><br>Alguns dos ficheiros selecionados são demasiado grandes e podem ser rejeitados pelo servidor no fim da tranferência.<br>Que removê-los agora?';
+$language['Add files to transfer, then press Upload now!'] = 'Adicione ficheiros a enviar e depois carregue em Enviar Ficheiro!';
+$language['Add files'] = 'Adicionar ficheiros';
+$language['Advanced'] = 'Avançado';
+$language['Error occured during upload process!'] = 'Erro ao enviar ficheiro!';
+$language['Error uploading file!'] = 'Erro ao enviar ficheiro!';
+$language['File uploaded successfully.'] = 'Ficheiro enviado com sucesso.';
+$language['Filename'] = 'Nome do ficheiro';
+$language['Max filesize allowed'] = 'Tamanho máximo permitido';
+$language['No'] = 'Não';
+$language['Ok'] = 'OK';
+$language['Please enter the HTTP address to a file:'] = 'Indique endereço HTTP do ficheiro:';
+$language['Remove'] = 'Remover';
+$language['Simple'] = 'Simples';
+$language['Size (KB)'] = 'Tamanho (KB)';
+$language['The file has been uploaded successfully.'] = 'O ficheiro foi enviado com sucesso.';
+$language['Transfering: '] = 'A transferir:';
+$language['Upload files'] = 'Enviar ficheiros';
+$language['Upload now!'] = 'Enviar agora!';
+$language['Web'] = 'Web';
+$language['Yes'] = 'Sim';
+$language['You do not have enough free space!'] = 'Não há espaço suficiente!';
+$language['You do not have sufficient permissions!'] = 'Não tem permissões suficientes!';
+?>

@@ -1,0 +1,11 @@
+<?php
+global $language;
+$language['Directory not found'] = 'התיקייה לא נמצאה';
+$language['Error exporting file!'] = 'תקלה בייצוא הקובץ!';
+$language['File Imported!'] = 'הקובץ יובא בהצלחה!';
+$language['Format unsupported!'] = 'מבנה הקובץ לא נתמך!';
+$language['No contacts were found in the file!'] = 'לא נמצאו אנשי קשר בקובץ!';
+$language['The contact already exists!'] = 'איש הקשר כבר קיים!';
+$language['The file was not found!'] = 'הקובץ לא נמצא!';
+$language['vCardImport cannot initialize, contact with your administrator'] = 'תהליך הייבוא אינו מאתחל,פנה למנהל !';
+?>

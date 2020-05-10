@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Change Label Text'] = 'Змяніць тэкст надпісу';
+$language['Example eyeApp'] = 'Прыклад eyeApp';
+$language['Hello World!'] = 'Прывітанне мір!';
+?>

@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Command to be executed:'] = 'Kommando:';
+$language['Edit %s'] = 'Rediger %s';
+$language['Update'] = 'Oppdater';
+?>

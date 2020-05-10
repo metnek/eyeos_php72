@@ -1,0 +1,35 @@
+<?php
+global $language;
+$language['Accept'] = 'Godkjenn';
+$language['Add bookmark'] = 'Legg til bokmerke';
+$language['Back'] = 'Tilbake';
+$language['Bookmark does not exist!'] = 'Bokmerket finnes ikke!';
+$language['Bookmark title'] = 'Bokmerenavn';
+$language['Bookmarks'] = 'Bokmerker';
+$language['Cancel'] = 'Avbryt';
+$language['Delete bookmark'] = 'Slett bokmerke';
+$language['Do you really want to delete this bookmark?'] = 'Ønsker du virkelig å slette dette bokmerket?';
+$language['Forums'] = 'Forum';
+$language['Forward'] = 'Forover';
+$language['Full Screen'] = 'Fullskjerm';
+$language['Images'] = 'Bilder';
+$language['Internet'] = 'Internett';
+$language['Knowledge'] = 'Kunnskap';
+$language['Link successfully deleted.'] = 'Lenken er slettet.';
+$language['Link successfully saved.'] = 'Lenken er lagret.';
+$language['Navigator'] = 'Nettleser';
+$language['No'] = 'Nei';
+$language['Open bookmarks'] = 'Åpne bokmerker';
+$language['Open searches'] = 'Åpne søk';
+$language['Refresh'] = 'Oppdater';
+$language['Search'] = 'Søk';
+$language['Settings'] = 'Innstillinger';
+$language['Startpage'] = 'Startside';
+$language['The selected file is not a valid eyeNav bookmarks file!'] = 'Filen er ikke en gyldig eyeNAV bokmerkefil!';
+$language['The selected file is not a valid eyeNav search file!'] = 'Filen er ikke en gyldig eyeNav søkefil!';
+$language['There is already another bookmark with this title!'] = 'Det finnes allerede et bokmerke med dette navnet!';
+$language['Uncategorized'] = 'Ukatergorisert';
+$language['Website'] = 'Nettsted';
+$language['Wiki'] = 'Wiki';
+$language['Yes'] = 'Ja';
+?>

@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['File saved successfully.'] = 'Đã lưu tập tin thành công.';
+$language['Sorry, you do not have sufficient permissions.'] = 'Xin lỗi, bạn không có đủ quyền hạn.';
+$language['Text Editor'] = 'Soạn thảo nội dung';
+$language['Unable to create file'] = 'Không thể tạo tập tin';
+?>

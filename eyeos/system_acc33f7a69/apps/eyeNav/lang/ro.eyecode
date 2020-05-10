@@ -1,0 +1,24 @@
+<?php
+global $language;
+$language['Add bookmark'] = 'Adaugă semne de carte';
+$language['Back'] = 'Înapoi';
+$language['Bookmark title'] = 'Denumirea semnului de carte';
+$language['Bookmarks'] = 'Semne de carte';
+$language['Delete bookmark'] = 'Şterge semn de carte';
+$language['Do you really want to delete this bookmark?'] = 'Vrei să ştergi aceast semn de carte?';
+$language['Forums'] = 'Forum';
+$language['Forward'] = 'Înainte';
+$language['Images'] = 'Imagini';
+$language['Internet'] = 'Internet';
+$language['Knowledge'] = 'Ştire';
+$language['Link successfully deleted.'] = 'Legătură au fost şterse cu succes.';
+$language['Link successfully saved.'] = 'Legăturile au fost salvate cu succes.';
+$language['Open bookmarks'] = 'Deschide semnele de carte';
+$language['Open searches'] = 'Deschide pentru a căuta';
+$language['Search'] = 'Caută';
+$language['Settings'] = 'Setări';
+$language['Startpage'] = 'Pagina de start';
+$language['There is already another bookmark with this title!'] = 'Mai exista un semn de carte cu aceaşi denumire!';
+$language['Website'] = 'Pagină web';
+$language['Wiki'] = 'Wiki';
+?>

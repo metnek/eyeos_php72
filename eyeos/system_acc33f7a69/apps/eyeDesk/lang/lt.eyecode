@@ -1,0 +1,17 @@
+<?php
+global $language;
+$language['Applications'] = 'Programos';
+$language['Calendar'] = 'Kalendorius';
+$language['Copy'] = 'Kopijuoti';
+$language['Download'] = 'Atsiųsti';
+$language['Home'] = 'Pradinis';
+$language['Paste'] = 'Įdėti';
+$language['Preferences'] = 'Nuostatos';
+$language['Properties'] = 'Savybės';
+$language['Refresh'] = 'Naujinti';
+$language['Rename'] = 'Pervardyti';
+$language['RSS Feed Reader'] = 'RSS Srauto Skaitytuvas';
+$language['Trash'] = 'Šiukšlinė';
+$language['Upload files'] = 'Išsiųsti rinkmenas';
+$language['Welcome to %s, %s.'] = 'Sveiki atvykę į %s, %s.';
+?>

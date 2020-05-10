@@ -1,0 +1,11 @@
+<?php
+global $language;
+$language['Add files to transfer, then press Upload now!'] = 'Lisää siirrettäviä tiedostoja, paina sitten Lisää nyt!';
+$language['Add files'] = 'Lisää tiedostoja';
+$language['Advanced'] = 'Kehittynyt';
+$language['Remove'] = 'Poista';
+$language['Simple'] = 'Yksinkertainen';
+$language['Transfering: '] = 'Siirretään:';
+$language['Upload files'] = 'Lisää tiedostoja';
+$language['Upload now!'] = 'Lisää nyt!';
+?>

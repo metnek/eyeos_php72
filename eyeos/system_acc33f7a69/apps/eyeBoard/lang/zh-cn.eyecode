@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Clear'] = '清空';
+$language['Public Board'] = '公告板';
+$language['Send'] = '发送';
+?>

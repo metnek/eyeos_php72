@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Accept'] = 'Sprejmi';
+$language['Cancel'] = 'Prekliči';
+$language['Delete %s'] = 'Izbriši %s';
+$language['Do you really want to empty the trash?'] = 'Resnično želite izprazniti koš?';
+$language['Do you really want to remove "%s"?'] = 'Resnično želite odstraniti %s?';
+$language['Empty trash'] = 'Izprazni koš';
+?>

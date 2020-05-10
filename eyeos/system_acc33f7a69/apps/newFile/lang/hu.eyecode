@@ -1,0 +1,9 @@
+<?php
+global $language;
+$language['Accept'] = 'Elfogad';
+$language['Cancel'] = 'Mégsem';
+$language['Create a file'] = 'Állomány létrehozása';
+$language['Error creating file!'] = 'Nem lehetett létrehozni az állományt.';
+$language['Please type the name of the new file here:'] = 'Kérem, adja meg az új állomány nevét!';
+$language['Some special chars have been removed.'] = 'A különleges karakterek el lettek távolítva.';
+?>

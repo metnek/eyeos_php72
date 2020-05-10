@@ -1,0 +1,34 @@
+<?php
+global $language;
+$language['(do) Read'] = 'Прочитать';
+$language['Accept'] = 'Принять';
+$language['Are you sure you want to empty all messages of this folder?'] = 'Вы уверены, что хотите удалить все сообщения из этой папки?';
+$language['Attach'] = 'Вложить';
+$language['Cancel'] = 'Отменить';
+$language['Confirm empty'] = 'Подтвердить очистку';
+$language['Date'] = 'Дата';
+$language['Delete'] = 'Удалить';
+$language['Download'] = 'Загрузить';
+$language['Emptied'] = 'Опустевший';
+$language['Empty'] = 'Очистить';
+$language['Error opening message'] = 'Ошибка при открытии сообщения';
+$language['File saved successfully.'] = 'Файл успешно сохранён';
+$language['From'] = 'От кого';
+$language['Full Screen'] = 'Во весь экран';
+$language['Inbox'] = 'Входящие';
+$language['Internal Messaging'] = 'Внутренняя почта';
+$language['Message restored in its original folder'] = 'Сообщение восстановлено';
+$language['New'] = 'Новое';
+$language['Read Message'] = 'Текст сообщения';
+$language['Read'] = 'Прочитанные';
+$language['Refresh'] = 'Обновить';
+$language['Reply'] = 'Ответ';
+$language['Restore'] = 'Восстановить';
+$language['Sent'] = 'Отправленные';
+$language['Subject'] = 'Тема';
+$language['To'] = 'Кому';
+$language['Trash'] = 'Корзина';
+$language['Unread'] = 'Непрочитанные';
+$language['You must choose a message to delete'] = 'Выберите сообщение для удаления';
+$language['You must choose a message to open'] = 'Выберите сообщение для открытия';
+?>

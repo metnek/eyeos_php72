@@ -1,0 +1,14 @@
+<?php
+global $language;
+$language['Compress to...'] = 'Komprimovať do...';
+$language['Compress'] = 'Komprimovať';
+$language['Compressed successfully'] = 'Komprimovanie ukončené';
+$language['Compression failed'] = 'Komprimovanie neúspešné';
+$language['Extract to...'] = 'Rozbaliť do...';
+$language['Extract'] = 'Rozbaliť';
+$language['File extracted successfully.'] = 'Súbor úspešne rozbalený...';
+$language['File extraction failed'] = 'Chyba pri rozbalovaní';
+$language['Filename'] = 'Názov súboru';
+$language['No file open'] = 'Nie je otvorený žiadny súbor';
+$language['The compress type is not supported'] = 'Typ komprimovania nie je podporovaný';
+?>

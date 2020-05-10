@@ -1,0 +1,30 @@
+<?php
+global $language;
+$language['Address Book'] = 'Adresar';
+$language['Applications'] = 'Aplikacije';
+$language['Calendar'] = 'Koledar';
+$language['Copy'] = 'Kopiraj';
+$language['Delete'] = 'Izbriši';
+$language['Download as zip'] = 'Prenesi kot zip';
+$language['Download'] = 'Prenesi';
+$language['Edit'] = 'Uredi';
+$language['Empty trash'] = 'Izprazni koš';
+$language['Explore'] = 'Razišči';
+$language['Home'] = 'Domača mapa';
+$language['Launch'] = 'Zaženi';
+$language['New file'] = 'Nova datoteka';
+$language['New folder'] = 'Nova mapa';
+$language['New launcher'] = 'Nov zaganjalec';
+$language['Open trash'] = 'Odpri koš';
+$language['Open with'] = 'Za odpiranje uporabi';
+$language['Paste'] = 'Prilepi';
+$language['Preferences'] = 'Nastavitve';
+$language['Properties'] = 'Lastnosti';
+$language['Refresh'] = 'Osveži';
+$language['Rename'] = 'Preimenuj';
+$language['RSS Feed Reader'] = 'RSS klient';
+$language['Share with'] = 'Daj v skupno rabo';
+$language['Trash'] = 'Koš';
+$language['Upload files'] = 'Naloži datoteke';
+$language['Welcome to %s, %s.'] = 'Dobrodošel v %s, %s.';
+?>

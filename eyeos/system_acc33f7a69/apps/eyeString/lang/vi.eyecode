@@ -1,0 +1,20 @@
+<?php
+global $language;
+$language['Base64 Decode'] = 'Giải mã Base64';
+$language['Base64 Encode'] = 'Mã hóa Base64';
+$language['Clear'] = 'Xóa';
+$language['Concatenate Output'] = 'Ràng buộc xuất';
+$language['Decimal to Roman'] = 'Thập phân sang La Mã';
+$language['eyeOS hash'] = 'Mã hóa eyeOS';
+$language['Html Entities'] = 'Thực thể HTML';
+$language['Input Text'] = 'Chuỗi nhập';
+$language['Last execution time: %s'] = 'Thời gian thực thi sau cùng: %s';
+$language['md5 Hash'] = 'Mã hóa MD5';
+$language['Options'] = 'Tùy chọn';
+$language['Output Text'] = 'Chuỗi xuất';
+$language['Remove Html Entities'] = 'Gỡ bỏ thực thể HTML';
+$language['Roman to Decimal'] = 'La Mã sang Thập phân';
+$language['Start'] = 'Bắt đầu';
+$language['URL Decode'] = 'Giải mã URL';
+$language['URL Encode'] = 'Mã hóa URL';
+?>

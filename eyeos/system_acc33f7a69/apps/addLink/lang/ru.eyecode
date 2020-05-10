@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Cancel'] = 'Отмена';
+$language['Create a link'] = 'Создание ярлыка';
+$language['Create'] = 'Создать';
+$language['Please type the title of the link here:'] = 'Введите название ярлыка:';
+?>

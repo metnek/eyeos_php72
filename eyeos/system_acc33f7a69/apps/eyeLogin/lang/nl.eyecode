@@ -1,0 +1,22 @@
+<?php
+global $language;
+$language['( Default )'] = '(Standaard)';
+$language['Create account'] = 'Account aanmaken';
+$language['Enter'] = 'Enter';
+$language['Error creating new user!'] = 'Fout bij aanmaken van nieuwe gebruiker!';
+$language['Language (this session)'] = 'Taal (deze sessie)';
+$language['Language'] = 'Taal';
+$language['New User'] = 'Nieuwe Gebruiker';
+$language['Password fields do not match!'] = 'Wachtwoorden komen niet overeen!';
+$language['Password is too short!'] = 'Wachtwoord is te kort!';
+$language['Password'] = 'Wachtwoord';
+$language['Please fill out all fields!'] = 'Vul aub alle velden in!';
+$language['Retype password'] = 'Vul wachtwoord opnieuw in';
+$language['That user already exists!'] = 'Deze gebruiker bestaat reeds!';
+$language['The language does not exist!'] = 'Deze taal bestaat niet!';
+$language['This system does not allow user registrations!'] = 'Gebruikersregistratie is geblokkeerd!';
+$language['Username is too short!'] = 'Gebruikersnaam is te kort!';
+$language['Username should be alpha-numeric!'] = 'Gebruikersnaam mag alleen alfanummerieke tekens bevatten!';
+$language['Username'] = 'Gebruikersnaam';
+$language['Your account has been disabled!'] = 'Jouw account is uitgeschakeld!';
+?>

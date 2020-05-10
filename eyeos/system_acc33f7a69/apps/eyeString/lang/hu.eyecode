@@ -1,0 +1,25 @@
+<?php
+global $language;
+$language['Add input to output'] = 'Inputot az outputba';
+$language['Add new line to end'] = 'Új sor a végéhez';
+$language['Ascii to Hexa'] = 'ASCII-ból hexába';
+$language['Auto clear input'] = 'Input autotörlése';
+$language['Base64 Decode'] = 'Base64 dekódolás';
+$language['Base64 Encode'] = 'Base64 kódolás';
+$language['Clear'] = 'Töröl';
+$language['Concatenate Output'] = 'Output összefűzése';
+$language['Decimal to Roman'] = 'Decimálisból rómaiba';
+$language['eyeOS hash'] = 'eyeOS hash';
+$language['Hexa to Ascii'] = 'Hexából ASCII-be';
+$language['Html Entities'] = 'HTML-entitások';
+$language['Input Text'] = 'Input Text';
+$language['Last execution time: %s'] = 'Utoljára lefutott: %s';
+$language['md5 Hash'] = 'MD5 hash';
+$language['Options'] = 'Opciók';
+$language['Output Text'] = 'Output Text';
+$language['Remove Html Entities'] = 'HTML-entitások törlése';
+$language['Roman to Decimal'] = 'Rómaiból decimálisba';
+$language['Start'] = 'Start';
+$language['URL Decode'] = 'URL dekódolás';
+$language['URL Encode'] = 'URL kódolás';
+?>

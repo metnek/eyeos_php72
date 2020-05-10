@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Pid'] = 'Pid';
+$language['Process killed successfully.'] = 'Proces ukončený';
+$language['Process Name'] = 'Názov procesu';
+$language['Username'] = 'Užívateľ';
+?>

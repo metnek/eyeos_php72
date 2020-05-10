@@ -1,0 +1,33 @@
+<?php
+global $language;
+$language['share']['Another file'] = 'Autre fichier';
+$language['share']['April'] = 'Avril';
+$language['share']['August'] = 'Août';
+$language['share']['December'] = 'Décembre';
+$language['share']['Error %s'] = 'Erreur %s';
+$language['share']['extracted'] = 'Extrait';
+$language['share']['F'] = 'V';
+$language['share']['February'] = 'Février';
+$language['share']['Fri'] = 'Ven';
+$language['share']['January'] = 'Janvier';
+$language['share']['July'] = 'Juillet';
+$language['share']['June'] = 'Juin';
+$language['share']['M'] = 'L';
+$language['share']['March'] = 'Mars';
+$language['share']['May'] = 'Mai';
+$language['share']['Mon'] = 'Lun';
+$language['share']['November'] = 'Novembre';
+$language['share']['October'] = 'Octobre';
+$language['share']['S'] = 'D';
+$language['share']['SA'] = 'S';
+$language['share']['Sat'] = 'Sam';
+$language['share']['September'] = 'Septembre';
+$language['share']['Sun'] = 'Dim';
+$language['share']['T'] = 'Ma';
+$language['share']['TH'] = 'J';
+$language['share']['Thu'] = 'Jeu';
+$language['share']['Tue'] = 'Mar';
+$language['share']['Upload'] = 'Télécharger';
+$language['share']['W'] = 'Me';
+$language['share']['Wed'] = 'Mer';
+?>

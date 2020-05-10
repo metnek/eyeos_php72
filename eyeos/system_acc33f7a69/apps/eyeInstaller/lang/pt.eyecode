@@ -1,0 +1,11 @@
+<?php
+global $language;
+$language['Accept'] = 'Aceitar';
+$language['Cancel'] = 'Cancelar';
+$language['Do you really want to install this package into the system?'] = 'Tem a certeza que quer instalar este pacote no sistema?';
+$language['Installing'] = 'A instalar';
+$language['Nothing to install!'] = 'Nada a instalar';
+$language['OK'] = 'OK';
+$language['Only root can install packages'] = 'Apenas super administradores podem instalar pacotes';
+$language['Package installed successfully!'] = 'Pacote instalado com sucesso';
+?>

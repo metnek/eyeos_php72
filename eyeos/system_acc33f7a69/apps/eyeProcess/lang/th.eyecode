@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['Pid'] = 'Pid';
+$language['Process killed successfully.'] = 'ปิดตัวดำเนินการสำเร็จ';
+$language['Process Name'] = 'ชื่อตัวดำเนินการ';
+$language['Username'] = 'ชื่อผู้ใช้';
+?>

@@ -1,0 +1,8 @@
+<?php
+global $language;
+$language['Accept'] = 'Hyväksy';
+$language['Do you really want to install this package into the system?'] = 'Haluatko todella asentaa tämän paketin järjestelmään?';
+$language['Installing'] = 'Asennetaan';
+$language['Nothing to install!'] = 'Ei mitään asennettavaa!';
+$language['Package installed successfully!'] = 'Paketti asennettu onnistuneesti!';
+?>

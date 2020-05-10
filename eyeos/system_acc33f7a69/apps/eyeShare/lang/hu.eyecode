@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Choose the groups to share with'] = 'Válassza ki a csoportot, amivel meg szeretné osztani az állományt!';
+$language['Share "%s" with...'] = '%s megosztása...';
+$language['Share'] = 'Megosztás';
+?>

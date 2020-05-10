@@ -1,0 +1,29 @@
+<?php
+global $language;
+$language['Add bookmark'] = 'Pridėti žymą';
+$language['Back'] = 'Atgal';
+$language['Bookmark does not exist!'] = 'Žyma neegzistuoja!';
+$language['Bookmark title'] = 'Žymos pavadinimas';
+$language['Bookmarks'] = 'Adresynas';
+$language['Delete bookmark'] = 'Šalinti žymą';
+$language['Do you really want to delete this bookmark?'] = 'Ar tikrai norite pašalinti šią žymą?';
+$language['Forums'] = 'Forumai';
+$language['Forward'] = 'Pirmyn';
+$language['Images'] = 'Paveikslai';
+$language['Internet'] = 'Internetas';
+$language['Knowledge'] = 'Žinios';
+$language['Link successfully deleted.'] = 'Nuoroda pašalinta sėkmingai.';
+$language['Link successfully saved.'] = 'Nuroda įrašyta sėkmingai.';
+$language['Navigator'] = 'Vediklis';
+$language['Open bookmarks'] = 'Atverti adresyną';
+$language['Open searches'] = 'Atverti paieškas';
+$language['Search'] = 'Paieška';
+$language['Settings'] = 'Nustatymai';
+$language['Startpage'] = 'Pradinis puslapis';
+$language['The selected file is not a valid eyeNav bookmarks file!'] = 'Pasirinkta rinkmena nėra tinkama eyeNav žymos rinkmena!';
+$language['The selected file is not a valid eyeNav search file!'] = 'Pasirinkta rinkmena nėra tinkama eyeNav paieškos rinkmena!';
+$language['There is already another bookmark with this title!'] = 'Žyma tokiu pavadinimu jau yra!';
+$language['Uncategorized'] = 'Be kategorijos';
+$language['Website'] = 'Svetainė';
+$language['Wiki'] = 'Wiki';
+?>

@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Projects'] = 'Egyéb';
+$language['Supporters'] = 'Támogatók';
+$language['Thanks to...'] = 'Köszönet a következőknek:';
+?>

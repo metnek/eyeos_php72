@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['%s files imported!'] = '%s dosya içe aktarıldı!';
+$language['Browse'] = 'Aç';
+$language['Import'] = 'İçe aktar';
+$language['You have to select a directory to import files'] = 'Dosyaları aktarmak için dizin seçmelisiniz';
+?>

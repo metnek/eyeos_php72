@@ -1,0 +1,10 @@
+<?php
+global $language;
+$language['Add Element'] = 'Hinzufügen';
+$language['Bottom'] = 'Unten';
+$language['Manage Dock'] = 'Taskleisten verwalten';
+$language['Refresh'] = 'Neu Laden';
+$language['Show / Hide'] = 'Ein- / Ausblenden';
+$language['This panel is made to control the Dock system. It provides some maintenance features. Please see the context menus of the dock for further options.'] = 'Hier können Sie die Taskleisten verwalten. Elemente können Sie über Rechtsklick-Menüs einstellen.';
+$language['Top'] = 'Oben';
+?>

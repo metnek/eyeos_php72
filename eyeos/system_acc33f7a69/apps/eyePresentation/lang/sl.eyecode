@@ -1,0 +1,11 @@
+<?php
+global $language;
+$language['Back'] = 'Nazaj';
+$language['Full Screen'] = 'Celi zaslon';
+$language['Next'] = 'Naprej';
+$language['Open'] = 'Odpri';
+$language['Presentations'] = 'Predstavitve';
+$language['Sorry, you do not have sufficient permissions.'] = 'Oprostite, nimate ustreznih pravic.';
+$language['You are already on the first slide, you cannot go back anymore!'] = 'Nahajate se na prvem listu.';
+$language['You need to select a file to open!'] = 'Izberite datoteko za odpiranje!';
+?>

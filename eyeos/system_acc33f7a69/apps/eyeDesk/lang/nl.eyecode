@@ -1,0 +1,30 @@
+<?php
+global $language;
+$language['Address Book'] = 'Adresboek';
+$language['Applications'] = 'Applicaties';
+$language['Calendar'] = 'Kalender';
+$language['Copy'] = 'Kopieer';
+$language['Delete'] = 'Verwijderen';
+$language['Download as zip'] = 'Download als zip-bestand';
+$language['Download'] = 'Download';
+$language['Edit'] = 'Bewerken';
+$language['Empty trash'] = 'Prullenbak leegmaken';
+$language['Explore'] = 'Verkennen';
+$language['Home'] = 'Home';
+$language['Launch'] = 'Start';
+$language['New file'] = 'Nieuw bestand';
+$language['New folder'] = 'Nieuwe map';
+$language['New launcher'] = 'Nieuwe starter';
+$language['Open trash'] = 'Open prullenbak';
+$language['Open with'] = 'Openen met';
+$language['Paste'] = 'Plak';
+$language['Preferences'] = 'Voorkeuren';
+$language['Properties'] = 'Eigenschappen';
+$language['Refresh'] = 'Ververs';
+$language['Rename'] = 'Hernoem';
+$language['RSS Feed Reader'] = 'RSS Feed lezer';
+$language['Share with'] = 'Delen met';
+$language['Trash'] = 'Prullenbak';
+$language['Upload files'] = 'Upload bestanden';
+$language['Welcome to %s, %s.'] = 'Welkom %s, %s.';
+?>

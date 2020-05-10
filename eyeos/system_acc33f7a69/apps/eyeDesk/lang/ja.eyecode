@@ -1,0 +1,11 @@
+<?php
+global $language;
+$language['Copy'] = 'コピー';
+$language['Download'] = 'ダウンロード';
+$language['Paste'] = '貼り付け';
+$language['Preferences'] = '設定';
+$language['Properties'] = 'プロパティ';
+$language['Refresh'] = '更新';
+$language['Upload files'] = 'ファイルアップロード';
+$language['Welcome to %s, %s.'] = 'ようこそ %s へ、%s さん。';
+?>

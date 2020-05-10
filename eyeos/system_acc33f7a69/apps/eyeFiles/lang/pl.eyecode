@@ -1,0 +1,14 @@
+<?php
+global $language;
+$language['Actions'] = 'Akcje';
+$language['Copy'] = 'Kopiuj';
+$language['Delete'] = 'Usuń';
+$language['Download as zip'] = 'Pobierz jako ZIP';
+$language['Download'] = 'Pobierz';
+$language['New file'] = 'Nowy plik';
+$language['New folder'] = 'Nowy folder';
+$language['Paste'] = 'Wklej';
+$language['Properties'] = 'Właściwości';
+$language['Rename'] = 'Zmień nazwę';
+$language['Upload files'] = 'Załaduj pliki';
+?>

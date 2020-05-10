@@ -1,0 +1,18 @@
+<?php
+global $language;
+$language['All files'] = 'Alle Dateien';
+$language['Document Outline'] = 'Gliederung';
+$language['Full Screen'] = 'Vollbild';
+$language['Next'] = 'Vor';
+$language['Open'] = 'Öffnen';
+$language['Page Fit'] = 'Seitengröße';
+$language['Page Width'] = 'Fensterbreite';
+$language['PDF files'] = 'PDF-Dateien';
+$language['Previous'] = 'Zurück';
+$language['Print'] = 'Drucken';
+$language['Show Document Outline'] = 'Gliederung anzeigen';
+$language['Show Thumbnails'] = 'Vorschau anzeigen';
+$language['Thumbs'] = 'Vorschau';
+$language['Zoom In'] = 'Vergrößern';
+$language['Zoom Out'] = 'Verkleinern';
+?>

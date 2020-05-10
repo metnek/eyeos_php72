@@ -1,0 +1,12 @@
+<?php
+global $language;
+$language['Ask for help'] = 'Vraag om hulp';
+$language['Changes successfully applied.'] = 'Veranderingen succesvol toegepast.';
+$language['eyeHelp preferences'] = 'eyeHelp voorkeuren';
+$language['Preferences'] = 'Voorkeuren';
+$language['Submit'] = 'Inzenden';
+$language['The field must not be left empty.'] = 'Dit veld mag niet leeg blijven.';
+$language['Topics'] = 'Onderwerpen';
+$language['User to contact to ask for help:'] = 'Gebruiker die je kunt raadplegen voor hulp:';
+$language['You are not allowed to do this.'] = 'Je mag deze handeling niet uitvoeren.';
+?>

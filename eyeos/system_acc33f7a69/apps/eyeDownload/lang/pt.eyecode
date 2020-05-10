@@ -1,0 +1,6 @@
+<?php
+global $language;
+$language['Download!'] = 'Download!';
+$language['Links cannot be downloaded!'] = 'As ligações não podem ser descarregadas';
+$language['You can close this window now.'] = 'Já pode fechar esta janela';
+?>

@@ -1,0 +1,8 @@
+<?php
+global $language;
+$language['Accept'] = 'Prijať';
+$language['Do you really want to install this package into the system?'] = 'Chcete inštalovať tento balík (program) do systému?';
+$language['Installing'] = 'Inštalujem';
+$language['Nothing to install!'] = 'Nič na inštalovanie';
+$language['Package installed successfully!'] = 'Inštalácia ukončená!    Toto okno môžete zavrieť kliknutím na krížik vpravo hore.';
+?>

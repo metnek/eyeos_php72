@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Edit'] = 'Edytuj';
+$language['You do not have sufficient permissions!'] = 'Nie masz wystarczających uprawnień!';
+?>

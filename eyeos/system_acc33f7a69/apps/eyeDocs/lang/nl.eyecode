@@ -1,0 +1,21 @@
+<?php
+global $language;
+$language['All files'] = 'Alle bestanden';
+$language['Cancel'] = 'Annuleren';
+$language['Delete warning'] = 'Verwijderings waarschuwing';
+$language['Do you want to save changes?'] = 'Wil je de wijzigingen opslaan?';
+$language['Document saved successfully.'] = 'Document opgeslagen.';
+$language['Don\'t save'] = 'Niet bewaren';
+$language['Error - Document not saved. Please try again.'] = 'Fout - Document is niet opgeslagen. Probeer het nog een keer.';
+$language['Error creating file.'] = 'Fout bij het maken van het bestand.';
+$language['Error saving file.'] = 'Fout bij het opslaan van het bestand.';
+$language['eyeOS document file'] = 'eyeOs document  bestand';
+$language['File not found.'] = 'Bestand niet gevonden.';
+$language['MS Word document file'] = 'MS Word document bestand';
+$language['Open Document Text file'] = 'Open Document Text bestand';
+$language['Save'] = 'Bewaren';
+$language['Sorry, you do not have sufficient permissions!'] = 'Sorry, je hebt niet de juiste rechten!';
+$language['Sorry, you need to enable OpenOffice Support to view this document.'] = 'Sorry, je moet  OpenOffice ondersteuning aanzetten om dit document te bekijken.';
+$language['The file does not exist.'] = 'Dit bestand bestaat niet.';
+$language['Word Processor'] = 'Tekst bewerking';
+?>

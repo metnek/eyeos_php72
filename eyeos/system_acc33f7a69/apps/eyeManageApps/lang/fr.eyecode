@@ -1,0 +1,10 @@
+<?php
+global $language;
+$language['Add Element'] = 'Ajouter un Élément';
+$language['Bottom'] = 'Bas';
+$language['Manage Dock'] = 'Gérer le Dock';
+$language['Refresh'] = 'Rafraîchir';
+$language['Show / Hide'] = 'Montrer / Cacher';
+$language['This panel is made to control the Dock system. It provides some maintenance features. Please see the context menus of the dock for further options.'] = 'Ce panneau sert à contrôler le système de Dock. Il fournit plusieurs fonctions de maintenance. Veuillez, SVP, voir les menus contextuels du dock pour plus d\'options.';
+$language['Top'] = 'Haut';
+?>

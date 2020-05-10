@@ -1,0 +1,17 @@
+<?php
+global $language;
+$language['Applications'] = 'Applications';
+$language['Calendar'] = 'تقويم';
+$language['Copy'] = 'کپی';
+$language['Download'] = 'دانلود';
+$language['Home'] = 'خانه';
+$language['Paste'] = 'چسباندن';
+$language['Preferences'] = 'تنظیمات';
+$language['Properties'] = 'مشخصات';
+$language['Refresh'] = 'تازه کردن';
+$language['Rename'] = 'تغییر نام';
+$language['RSS Feed Reader'] = 'RSS Feed Reader';
+$language['Trash'] = 'سطل زباله';
+$language['Upload files'] = 'آپلود فایل ها';
+$language['Welcome to %s, %s.'] = 'خوش آمدید به %s, %s';
+?>

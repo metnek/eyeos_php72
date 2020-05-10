@@ -1,0 +1,7 @@
+<?php
+global $language;
+$language['File not found!'] = 'Soubor nenalezen!';
+$language['Sorry, you do not have sufficient permissions.'] = 'Promiň, ale nemáš dostatečná oprávnění.';
+$language['Spreadsheet saved successfully.'] = 'Tabulka úspěšně uložena.';
+$language['Spreadsheet'] = 'Tabulkový Procesor';
+?>

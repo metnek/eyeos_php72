@@ -1,0 +1,16 @@
+<?php
+global $language;
+$language['All files'] = 'Alla filer';
+$language['Archive files'] = 'Arkiverade filer';
+$language['Compress to...'] = 'Komprimera till...';
+$language['Compress'] = 'Komprimera';
+$language['Compressed successfully'] = 'Komprimeringen utfördes';
+$language['Compression failed'] = 'Komprimeringen misslyckades';
+$language['Extract to...'] = 'Extrahera till...';
+$language['Extract'] = 'Extrahera';
+$language['File extracted successfully.'] = 'Filen extraherades';
+$language['File extraction failed'] = 'Filextraheringen misslyckades';
+$language['Filename'] = 'Filnamn';
+$language['No file open'] = 'Ingen fil öppen';
+$language['The compress type is not supported'] = 'Komprimeringstypen stöds inte';
+?>

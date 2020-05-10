@@ -1,0 +1,5 @@
+<?php
+global $language;
+$language['Create a link'] = '바로가기 생성';
+$language['Please type the title of the link here:'] = '바로가기의 이름을 입력하세요:';
+?>

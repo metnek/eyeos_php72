@@ -1,0 +1,15 @@
+<?php
+global $language;
+$language['%s has had a problem and could not be executed'] = '%s ha tingut un problema i no s\'ha pogut obrir.';
+$language['%s has had an unknow problem and could not be executed'] = '%s ha tingut un problema i no s\'ha pogut obrir.';
+$language['%s not found'] = '%s no s\'ha trobat!';
+$language['Error, empty username or password'] = 'Error! L\'usuari i la contrasenya estan buits.';
+$language['Error, invalid username or password'] = 'Error! L\'usuari i la contrasenya són invàlids.';
+$language['Invalid username'] = 'Usuari invàlid';
+$language['Password'] = 'Contrasenya';
+$language['Run as different user'] = 'Usuari diferent?';
+$language['Run...'] = 'Executa...';
+$language['Run'] = 'Executa';
+$language['Type the name of the app or command to run'] = 'Escriu el nom de l\'aplicació de l\'ordre que vulguis executar';
+$language['User'] = 'Usuari';
+?>

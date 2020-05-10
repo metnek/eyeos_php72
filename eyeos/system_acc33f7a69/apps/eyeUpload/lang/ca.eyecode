@@ -1,0 +1,20 @@
+<?php
+global $language;
+$language['"%s" has been uploaded successfully.'] = '"%s" ha estat carregat amb èxit.';
+$language['Add files to transfer, then press Upload now!'] = 'Afegeix arxius per transferir, després clica el botó Carrega-ho ara!';
+$language['Add files'] = 'Afegeix arxius';
+$language['Advanced'] = 'Avançat';
+$language['Error occured during upload process!'] = 'Hi ha hagut un error durant el procés de càrrega!';
+$language['Error uploading file!'] = 'Error en carregar l\'arxiu!';
+$language['File uploaded successfully.'] = 'Arxiu penjat satisfactòriament';
+$language['Please enter the HTTP address to a file:'] = 'Si us plau, escriu l\'adreça HTTP de l\'arxiu:';
+$language['Remove'] = 'Elimina';
+$language['Simple'] = 'Senzill';
+$language['The file has been uploaded successfully.'] = 'L\'arxiu ha estat carregat amb èxit.';
+$language['Transfering: '] = 'Transferint:';
+$language['Upload files'] = 'Carrega arxius';
+$language['Upload now!'] = 'Carrega-ho ara!';
+$language['Web'] = 'Web';
+$language['You do not have enough free space!'] = 'No tens prou espai lliure!';
+$language['You do not have sufficient permissions!'] = 'No tens prou permisos!';
+?>

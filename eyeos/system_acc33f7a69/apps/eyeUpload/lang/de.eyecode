@@ -1,0 +1,28 @@
+<?php
+global $language;
+$language['"%s" has been uploaded successfully.'] = '"%s" wurde erfolgreich hochgeladen.';
+$language['%s MB'] = '%s MB';
+$language['<b>Some files are too big!</b><br>Some of the selected files are too big and may be rejected by the server at the end of the transfer.<br>Do you want to remove them now?'] = '<b>Einige Dateien sind zu groß!</b><br>Einige der ausgewählten Dateien sind zu groß und können nicht hochgeladen werden.<br>Möchten Sie diese Dateien entfernen?';
+$language['Add files to transfer, then press Upload now!'] = 'Wählen Sie Dateien und klicken Sie "Hochladen".';
+$language['Add files'] = 'Auswählen';
+$language['Advanced'] = 'Erweitert';
+$language['Error occured during upload process!'] = 'Fehler beim Hochladen.';
+$language['Error uploading file!'] = 'Fehler beim Hochladen der Datei.';
+$language['File uploaded successfully.'] = 'Datei erfolgreich hochgeladen.';
+$language['Filename'] = 'Dateiname';
+$language['Max filesize allowed'] = 'Maximale Dateigröße';
+$language['No'] = 'Nein';
+$language['Ok'] = 'Ok';
+$language['Please enter the HTTP address to a file:'] = 'Geben Sie die HTTP-Adresse zu einer Datei an:';
+$language['Remove'] = 'Entfernen';
+$language['Simple'] = 'Einfach';
+$language['Size (KB)'] = 'Grösse (KB)';
+$language['The file has been uploaded successfully.'] = 'Die Datei wurde erfolgreich hochgeladen.';
+$language['Transfering: '] = 'Übertragen: ';
+$language['Upload files'] = 'Dateien hochladen';
+$language['Upload now!'] = 'Hochladen';
+$language['Web'] = 'Web';
+$language['Yes'] = 'Ja';
+$language['You do not have enough free space!'] = 'Sie haben nicht genügend freien Speicher.';
+$language['You do not have sufficient permissions!'] = 'Sie haben nicht ausreichend Berechtigungen.';
+?>
